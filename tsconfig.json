@@ -9,6 +9,9 @@
     }
   ],
   "compilerOptions": {
+     "target": "es2017",        // or "es2015" or higher
+    "lib": ["dom", "es2017"],  // ensure ES2015+ collections are included
+    "downlevelIteration": true, // optional, helps with spreading iterables like Set/Map
     "baseUrl": ".",
     "paths": {
       "@/*": [

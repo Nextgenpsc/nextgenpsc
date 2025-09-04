@@ -1,4 +1,5 @@
 // NO "use client"
+import { Suspense } from "react";
 import PolityApp from "../../../components/study-material/polity/PolityApp";
 
 export const metadata = {
@@ -10,5 +11,9 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <PolityApp />;
+  return (
+  <Suspense fallback={<div />}>
+     <PolityApp />
+    </Suspense>
+  );
 }

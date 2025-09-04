@@ -12,7 +12,6 @@ export const SEOHead = ({
   title,
   description,
   keywords,
-  url = window.location.href,
   image = "/placeholder.svg",
   type = "website",
   structuredData
