@@ -1,14 +1,8 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
 User-agent: *
-Allow: /
+Disallow:
+
+# Link to sitemap
+Sitemap: https://www.nextgenpsc.com/sitemap.xml
+
+# Optional: Crawl-delay for heavy sites (value in seconds)
+# Crawl-delay: 10
