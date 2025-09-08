@@ -601,9 +601,9 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
         <div className="max-w-4xl">
           <div className="mb-6">
             <div className={`flex ${isMobile ? 'flex-col gap-3' : 'items-center justify-between'} mb-2`}>
-              <h1 className={`${isMobile ? 'text-2xl' : 'text-3xl'} font-bold text-foreground leading-tight`}>
+              <h2 className={`${isMobile ? 'text-2xl' : 'text-3xl'} font-bold text-foreground leading-tight`}>
                 {isHindi ? getChapterTitleHindi(selectedChapter) : selectedChapter}
-              </h1>
+              </h2>
               <Button asChild size={isMobile ? "default" : "sm"} className={`flex items-center gap-2 ${isMobile ? 'w-full justify-center' : ''}`}>
                 <Link href={`/polity-test?chapter=${encodeURIComponent(selectedChapter)}`}>
                     <TestTube className="h-4 w-4" />
@@ -620,12 +620,12 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
           {chapters[selectedChapter].map((topic, idx) => (
             <Card key={idx} className={`mb-6 shadow-sm border-border hover:shadow-lg transition-all duration-200 group ${isMobile ? 'rounded-xl' : ''}`}>
               <CardContent className={isMobile ? "p-4" : "p-6"}>
-                <h1 className={`${isMobile ? 'text-lg' : 'text-xl'} font-bold flex items-center gap-3 text-foreground mb-4 group-hover:text-primary transition-colors leading-tight`}>
+                <h2 className={`${isMobile ? 'text-lg' : 'text-xl'} font-bold flex items-center gap-3 text-foreground mb-4 group-hover:text-primary transition-colors leading-tight`}>
                   <div className={`flex-shrink-0 ${isMobile ? 'w-6 h-6' : 'w-8 h-8'} bg-primary/10 rounded-lg flex items-center justify-center`}>
                     <BookOpen className={`${isMobile ? 'w-3 h-3' : 'w-4 h-4'} text-primary`} />
                   </div>
                   <span className="flex-1">{isHindi ? (topic.headingHindi || topic.heading) : topic.heading}</span>
-                </h1>
+                </h2>
 
                 {topic?.highlight && (
                   <div className="bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-950/20 dark:to-orange-950/20 p-4 rounded-xl border border-amber-200 dark:border-amber-800 mb-6">
@@ -705,7 +705,7 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
                       {(isHindi ? (topic.funFactsHindi || topic.funFacts) : topic.funFacts).map((fact, i) => (
                         <div key={i} onClick={() => addNote(fact)} className="flex items-start gap-2 p-2 rounded hover:bg-green-100 dark:hover:bg-green-900/20 cursor-pointer transition-colors">
                           <div className="w-1.5 h-1.5 bg-green-500 rounded-full flex-shrink-0 mt-2"></div>
-                          <span className="text-sm text-green-700 dark:text-green-300 leading-relaxed">{fact}</span>
+                          <p className="text-sm text-green-700 dark:text-green-300 leading-relaxed">{fact}</p>
                         </div>
                       ))}
                     </div>

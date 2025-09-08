@@ -28,7 +28,7 @@ export const metadata = {
   creator: "NextGenPSC",
   publisher: "NextGenPSC",
   alternates: {
-    canonical: "https://www.nextgenpsc.com/study-material/modern-history",
+    canonical: "https://www.nextgenpsc.com/study-material/modern-history?chapter=Chapter+1%3A+Advent+of+Europeans+in+India",
     languages: {
       "en-US": "https://www.nextgenpsc.com/en-us/study-material/modern-history",
     },
@@ -37,7 +37,7 @@ export const metadata = {
     title: "Modern Indian History — UPSC Notes & Practice",
     description:
       "Revision-ready Modern Indian History notes covering colonialism, reform movements, the freedom struggle, and Partition — tailored for UPSC aspirants.",
-    url: "https://www.nextgenpsc.com/study-material/history/modern",
+    url: "https://www.nextgenpsc.com/study-material/modern-history?chapter=Chapter+1%3A+Advent+of+Europeans+in+India",
     siteName: "NextGenPSC",
     images: [
       {
@@ -83,8 +83,10 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <Suspense fallback={<div />}>
-      <ModernHistoryApp />
-    </Suspense>
+    <>
+      <Suspense fallback={<div />}>
+        <ModernHistoryApp />
+      </Suspense>
+    </>
   );
 }
