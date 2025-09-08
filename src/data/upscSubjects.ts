@@ -19,9 +19,18 @@ export const upscSubjects: Subject[] = [
     difficulty: 'Intermediate'
   },
   {
-    id: 'history',
-    name: 'History',
-    description: 'Ancient, medieval, and modern Indian history',
+    id: 'ancient-history',
+    name: 'Ancient History',
+    description: 'Ancient Indian history',
+    icon: '🏛️',
+    color: 'text-amber-600',
+    totalTopics: 52,
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 'modern-history',
+    name: 'Modern History',
+    description: 'Modern Indian history',
     icon: '🏛️',
     color: 'text-amber-600',
     totalTopics: 52,

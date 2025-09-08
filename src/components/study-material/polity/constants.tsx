@@ -484,9 +484,20 @@ export const chapters = {
           ["Secular", "State has no official religion; equal respect for all religions (added by 42nd Amendment)."],
           ["Democratic", "Government based on people’s will through universal adult franchise."],
           ["Republic", "Head of the State is elected, not hereditary."],
-          ["Justice", "Social, economic and political justice ensured."],
-          ["Liberty", "Freedom of thought, expression, belief, faith and worship."],
-          ["Equality", "Equality of status and opportunity for all citizens."],
+          ["Justice", `Citizens should not be discriminated against on the grounds of caste, religion and gender. Social inequalities should be
+              reduced.
+              \nSocial justice: Equal treatment of all citizens without regard to their social distinction based on caste, colour, religion etc.
+              \n• Economic justice: Absence of discrimination based on economic status. Removal of inequality in wealth, income and
+              property.
+              – Distributive justice: Social + Economic Justice
+              • Political justice: All citizens have equal political rights, equal access to all political offices, and equal voice in government`],
+          ["Liberty", `Liberty of thought, expression, belief, faith, and worship is mentioned in the Preamble. Liberty refers to providing
+              opportunities for the development of individual personalities. It is not an absolute right.`],
+          ["Equality", `• All are equal before the law with the absence of special privileges.
+                • Aspects of equality -
+                – Civic equality: All individuals have equal rights and freedoms.
+                – Economic equality: Providing fair and equal opportunity to all for work
+                – Political equality: Guarantees to all persons an equal opportunity for participation in the political process.`],
           ["Fraternity", "Promoting brotherhood, unity and integrity of the nation."]
         ]
       }

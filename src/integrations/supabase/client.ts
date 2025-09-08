@@ -1,24 +1,20 @@
-// integrations/supabase/client.ts (or .js)
-"use client"; // only if you plan to import into client components
-
+// integrations/supabase/client.js (or .ts)
 import { createClient } from "@supabase/supabase-js";
-import type { Database } from "./types";
+// import type { Database } from './types'; // if using TS
 
-const SUPABASE_URL = "https://pxilycwmsbejejzbeedd.supabase.co";
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://pxilycwmsbejejzbeedd.supabase.co";
 const SUPABASE_PUBLISHABLE_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4aWx5Y3dtc2JlamVqemJlZWRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY1NDAzNjgsImV4cCI6MjA3MjExNjM2OH0.peUbF6gszfjraPsepLUlHARrld9F8PP63HUsarjGpvg";
+  process.env.NEXT_PUBLIC_SUPABASE_KEY ||
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ..."; // move to env in prod!
 
-// Check if running in the browser
-const isBrowser = typeof window !== "undefined";
+// only grab localStorage when window exists
+const browserStorage = typeof window !== "undefined" ? window.localStorage : undefined;
 
-export const supabase = createClient<Database>(
-  SUPABASE_URL,
-  SUPABASE_PUBLISHABLE_KEY,
-  {
-    auth: {
-      storage: isBrowser ? window.localStorage : undefined,
-      persistSession: isBrowser,
-      autoRefreshToken: isBrowser,
-    },
-  }
-);
+export const supabase = createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
+  auth: {
+    // include storage only on client
+    ...(browserStorage ? { storage: browserStorage } : {}),
+    persistSession: true,
+    autoRefreshToken: true,
+  },
+});

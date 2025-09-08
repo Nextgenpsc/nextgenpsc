@@ -1,17 +1,31 @@
 "use client";
 
-import { useState } from "react";
+import Head from "next/head";
+import { useEffect, useState } from "react";
+import ChatPanel from "@/components/chat-panel/ChatPanel";
+// import ChatPanel from "../components/chat-panel/ChatPanel";
+import PolityBook from "../../study-material/polity/PolityBook";
+import { MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { ArrowLeft, MessageCircle } from "lucide-react";
-
-// keep your existing components/hooks
-import ChatPanel from "../../chat-panel/ChatPanel";
-import PolityBook from "./PolityBook";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { chapters } from "../ModernHistoryConst";
 
-export default function PolityAppClient() {
+const ModernHistoryStudy = () => {
   const isMobile = useIsMobile();
   const [showChat, setShowChat] = useState(false);
+
+  useEffect(() => {
+    // Scroll lock when chat open (mobile-friendly UX)
+    if (showChat) {
+      document.documentElement.style.overflow = "hidden";
+    } else {
+      document.documentElement.style.overflow = "";
+    }
+
+    return () => {
+      document.documentElement.style.overflow = "";
+    };
+  }, [showChat]);
 
   return (
     <>
@@ -19,14 +33,14 @@ export default function PolityAppClient() {
         <header className="border-b border-border bg-card/50 backdrop-blur supports-[backdrop-filter]:bg-card/60">
           <div className="container mx-auto px-4 py-4">
             <div>
-              <h1 className="text-2xl font-bold text-foreground">Indian Polity & Governance</h1>
+              <h1 className="text-2xl font-bold text-foreground">Modern Indian History</h1>
               <p className="text-muted-foreground">Interactive study materials with AI assistance</p>
             </div>
           </div>
         </header>
 
-        <div className="relative h-[calc(100vh-120px)]">
-          <PolityBook subjectTitle="Indian polity" />
+        <main className="relative h-[calc(100vh-120px)]" aria-labelledby="page-heading">
+          <PolityBook chapters={chapters} subjectId="modern-history" subjectTitle="Modern History" />
 
           {/* Floating Chat Toggle Button */}
           <Button
@@ -36,14 +50,18 @@ export default function PolityAppClient() {
             }`}
             size="icon"
             variant={showChat ? "default" : "secondary"}
-            aria-label="Toggle Chat"
+            aria-pressed={showChat}
+            aria-label={showChat ? "Close chat" : "Open chat"}
           >
-            <MessageCircle className={isMobile ? "h-5 w-5" : "h-6 w-6"} />
+            <MessageCircle className={`${isMobile ? "h-5 w-5" : "h-6 w-6"}`} />
           </Button>
 
           {/* Floating Chat Panel */}
           {showChat && (
             <div
+              role="dialog"
+              aria-modal="true"
+              aria-label="AI study assistant chat"
               className={`fixed z-40 bg-card border border-border rounded-lg shadow-2xl ${
                 isMobile ? "inset-x-4 bottom-56 top-32" : "bottom-24 right-6 w-96 h-[500px]"
               }`}
@@ -51,8 +69,10 @@ export default function PolityAppClient() {
               <ChatPanel onClose={() => setShowChat(false)} />
             </div>
           )}
-        </div>
+        </main>
       </div>
     </>
   );
-}
+};
+
+export default ModernHistoryStudy;

@@ -42,7 +42,7 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
-      <div className="min-h-screen bg-background pt-16">
+      <div className="min-h-screen bg-background">
         {/* Hero Section */}
         <section className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-secondary/5">
           <div className="container mx-auto px-4 py-16 md:py-24">

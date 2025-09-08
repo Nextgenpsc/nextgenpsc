@@ -24,6 +24,10 @@ export default function StudyMaterialsClient() {
   const handleViewNotes = (subjectId) => {
     if (subjectId === "polity") {
       router.push("/study-materials/polity");
+    }else if (subjectId === 'ancient-history') {
+      router.push('/study-materials/ancient-history');
+    }else if (subjectId === 'modern-history') {
+      router.push('/study-materials/modern-history');
     } else {
       alert(`${subjectId} notes coming soon!`);
     }

@@ -56,7 +56,7 @@ export function Header() {
       setUser(u);
       if (u) fetchUserProfile(u.id);
     });
-
+    console.log('here')
     return () => subscription.unsubscribe();
   }, []);
 
