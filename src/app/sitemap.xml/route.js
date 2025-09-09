@@ -9,9 +9,9 @@ const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL || "https://www.nextgenpsc.
  */
 const staticUrls = [
   { loc: `${SITE_ORIGIN}/`, priority: 1.0 },
-  { loc: `${SITE_ORIGIN}/study-material/modern-history`, priority: 0.8 },
-  { loc: `${SITE_ORIGIN}/study-material/ancient-history`, priority: 0.8 },
-  { loc: `${SITE_ORIGIN}/study-material/polity`, priority: 0.8 },
+  { loc: `${SITE_ORIGIN}/study-materials/modern-history`, priority: 0.8 },
+  { loc: `${SITE_ORIGIN}/study-materials/ancient-history`, priority: 0.8 },
+  { loc: `${SITE_ORIGIN}/study-materials/polity`, priority: 0.8 },
   { loc: `${SITE_ORIGIN}/dashboard`, priority: 0.8 },
   { loc: `${SITE_ORIGIN}/test-series`, priority: 0.8 }
   // add more pages or dynamically generate entries
