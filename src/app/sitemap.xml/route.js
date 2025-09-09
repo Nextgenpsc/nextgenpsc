@@ -1,7 +1,7 @@
 // app/sitemap.xml/route.js
 import { NextResponse } from "next/server";
 
-const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL || "https://www.nextgenpsc.com";
+const SITE_ORIGIN = "https://www.nextgenpsc.com";
 
 /**
  * List your public site URLs here.
