@@ -50,7 +50,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/components/study-material/polity/PolityApp.js"  ],
   "exclude": [
     "node_modules"
   ]

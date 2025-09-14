@@ -1,16 +1,4 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/auth/page": "app/auth/page.js",
-  "/polity-test/page": "app/polity-test/page.js",
-  "/test-series/[subjectId]/page": "app/test-series/[subjectId]/page.js",
-  "/test/[testId]/page": "app/test/[testId]/page.js",
-  "/study-materials/ancient-history/page": "app/study-materials/ancient-history/page.js",
-  "/study-materials/page": "app/study-materials/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/test-series/page": "app/test-series/page.js",
-  "/page": "app/page.js",
-  "/study-materials/modern-history/page": "app/study-materials/modern-history/page.js",
-  "/study-materials/polity/page": "app/study-materials/polity/page.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+  "/test-series/[subjectId]/page": "app/test-series/[subjectId]/page.js"
 }

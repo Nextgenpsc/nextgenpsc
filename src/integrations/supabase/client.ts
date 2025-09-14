@@ -4,8 +4,8 @@ import { createClient } from "@supabase/supabase-js";
 
 const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://pxilycwmsbejejzbeedd.supabase.co";
 const SUPABASE_PUBLISHABLE_KEY =
-  process.env.NEXT_PUBLIC_SUPABASE_KEY ||
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ..."; // move to env in prod!
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4aWx5Y3dtc2JlamVqemJlZWRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY1NDAzNjgsImV4cCI6MjA3MjExNjM2OH0.peUbF6gszfjraPsepLUlHARrld9F8PP63HUsarjGpvg"; // move to env in prod!
 
 // only grab localStorage when window exists
 const browserStorage = typeof window !== "undefined" ? window.localStorage : undefined;
