@@ -676,13 +676,13 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
                           <table className="w-full text-sm">
                             <thead>
                               <tr className="border-b border-purple-300 dark:border-purple-700">
-                                {table?.columns?.map((column, colIdx) => (
+                                {(isHindi ? (table?.columnsHindi || table?.columns) : table?.columns)?.map((column, colIdx) => (
                                   <th key={colIdx} className="text-left p-2 font-semibold text-purple-800 dark:text-purple-200">{column}</th>
                                 ))}
                               </tr>
                             </thead>
                             <tbody>
-                              {table?.rows?.map((row, rowIdx) => (
+                              {(isHindi ? (table?.rowsHindi || table?.rows) : table?.rows)?.map((row, rowIdx) => (
                                 <tr key={rowIdx} onClick={() => addNote(`${table.title}: ${row.join(" - ")}`)} className="border-b border-purple-200 dark:border-purple-800 hover:bg-purple-100 dark:hover:bg-purple-900/20 cursor-pointer transition-colors">
                                   {row.map((cell, cellIdx) => (
                                     <td key={cellIdx} className="p-2 text-purple-700 dark:text-purple-300">{cell}</td>

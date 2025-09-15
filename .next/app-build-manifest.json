@@ -1,9 +1,9 @@
 {
   "pages": {
-    "/test-series/[subjectId]/page": [
+    "/study-materials/modern-history/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/test-series/[subjectId]/page.js"
+      "static/chunks/app/study-materials/modern-history/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
