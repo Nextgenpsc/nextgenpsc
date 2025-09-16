@@ -656,8 +656,16 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
                         {(isHindi ? (topic.detailsHindi || topic.details) : topic.details).map((point, i) => (
                           <div key={i} onClick={() => addNote(point)} className="group cursor-pointer hover:bg-primary/5 p-3 rounded-lg border border-transparent hover:border-primary/20 transition-all">
                             <div className="flex items-start gap-3">
-                              <Bookmark className="w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors flex-shrink-0 mt-0.5" />
-                              <span className="text-foreground group-hover:text-primary transition-colors leading-relaxed">{point}</span>
+                              {point.startsWith("##") ? "" : <Bookmark className="w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors flex-shrink-0 mt-0.5" />}
+                              <span
+                                className={`leading-relaxed ${
+                                  point.startsWith("##") ? "font-bold text-lg block text-primary" :
+                                  point.startsWith("###") ? "font-semibold text-foreground" :
+                                  ""
+                                }`}
+                              >
+                                {point.replace(/^##\s?|^###\s?/, "")}
+                              </span>
                             </div>
                           </div>
                         ))}

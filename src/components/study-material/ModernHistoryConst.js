@@ -2683,7 +2683,6 @@ export const chapters =
       "संसद ने धीरे-धीरे कंपनी पर नियंत्रण बढ़ाया → व्यापारी से राजनीतिक शासन की ओर बदलाव।",
       "अधिनियमों ने केंद्रीकृत औपनिवेशिक शासन की नींव रखी।"
     ],
-    "image": "company_rule_structure.png"
   },
   {
     "heading": "Land Revenue Policies",
@@ -2758,7 +2757,7 @@ export const chapters =
       "प्रणालियों ने शोषक मध्यस्थ और ग्रामीण असंतोष पैदा किया।",
       "शोषण ने 1857 विद्रोह में योगदान दिया।"
     ],
-    "image": "land_revenue_systems.png"
+    "image": "land_revenue_policies.png"
   },
   {
     "heading": "Economic Policies",
@@ -2874,7 +2873,6 @@ export const chapters =
       "उपनिवेशी शोषण ने सामाजिक असंतोष पैदा किया और 1857 विद्रोह में योगदान दिया।",
       "इसी के साथ नए वर्ग (शिक्षित भारतीय, ज़मींदार) उभरे जिन्होंने आधुनिक राजनीति को आकार दिया।"
     ],
-    "image": "impact_on_society.png"
   }
     ],
     "Chapter 6: Social Reform Movements": [
@@ -2896,7 +2894,118 @@ export const chapters =
           "प्रबोधन और आधुनिक शिक्षा से प्रभावित भारतीय शिक्षित वर्ग सुधार नेता बना।",
           "मुद्रण यंत्र, स्थानीय भाषाओं के अख़बार और सामाजिक-धार्मिक संस्थाओं ने सुधार विचार फैलाए।",
           "दो प्रमुख प्रवृत्तियाँ: हिन्दू व इस्लाम में सुधार और पुनरुत्थानवादी आंदोलन।"
-        ]
+        ],
+        "prelimsTips": [
+          "Remember: 19th century = age of socio-religious reform in India (urban, educated leadership).",
+          "Reform movements often combined social change with educational initiatives."
+        ],
+        "prelimsTipsHindi": [
+          "ध्यान रखें: 19वीं सदी = भारत में सामाजिक-धार्मिक सुधार का युग (शहरी, शिक्षित नेतृत्व)।",
+          "सुधार आंदोलनों ने अक्सर सामाजिक परिवर्तन को शिक्षा से जोड़ा।"
+        ],
+        "funFacts": [
+          "Many reform leaders were multilingual and used vernacular presses to reach people.",
+          "Reform societies often doubled as debating clubs and modern schools."
+        ],
+        "funFactsHindi": [
+          "कई सुधार नेता बहु-भाषी थे और लोगों तक पहुँचने के लिए स्थानीय भाषाओं के प्रेस का उपयोग करते थे।",
+          "सुधार समितियाँ अक्सर विमर्श क्लब और आधुनिक विद्यालयों का काम भी करती थीं।"
+        ],
+        "mainsPoints": [
+          "Social reform movements provided socio-cultural foundations for later political nationalism.",
+          "They combined social activism with institution building (schools, journals, associations).",
+          "Limitations: largely urban, middle-class led; rural penetration and lower-caste uplift uneven."
+        ],
+        "mainsPointsHindi": [
+          "सामाजिक सुधार आंदोलनों ने बाद के राजनीतिक राष्ट्रवाद के लिए सामाजिक-सांस्कृतिक आधार दिया।",
+          "इनका संयोजन सामाजिक सक्रियता और संस्थागत निर्माण (विद्यालय, पत्र-पत्रिकाएँ, संस्थाएँ) से था।",
+          "सीमाएँ: मुख्यतः शहरी, मध्यवर्गीय नेतृत्व — ग्रामीण और निचली जातियों में प्रभाव असमान रहा।"
+        ],
+        "image": "social_reform_movements.png"
+      },
+      {
+        "heading": "Characteristics of Socio-Religious Movements in India",
+        "headingHindi": "भारत में सामाजिक-धार्मिक आंदोलनों के लक्षण",
+        "highlight": "Socio-religious movements in 19th-century India combined religious critique with social reform, education and institution-building, and were instrumental in shaping modern Indian public life.",
+        "highlightHindi": "19वीं सदी के सामाजिक-धार्मिक आंदोलन धार्मिक आलोचना को सामाजिक सुधार, शिक्षा और संस्थागत निर्माण के साथ जोड़ते थे और आधुनिक भारतीय सार्वजनिक जीवन के निर्माण में महत्वपूर्ण रहे।",
+        "details": [
+          "Religious reform + social reform: Movements critiqued prevailing religious practices (idol worship, ritualism) while campaigning against social evils (sati, child marriage, caste discrimination).",
+          "Leadership largely from educated urban middle class: Reformers were often Western-educated or exposed to modern ideas, enabling persuasive public arguments and organization.",
+          "Institution-building: Establishment of schools, colleges, journals, sabhas (societies) and charitable institutions to propagate ideas and train leadership.",
+          "Use of print culture and vernaculars: Newspapers, tracts and books in English and regional languages spread reformist ideas widely.",
+          "Emphasis on education: Modern (scientific, liberal) education — both for men and women — was central to most movements (e.g., MAO College, DAV, girls' schools).",
+          "Combination of revivalism and modernism: Some groups (Arya Samaj, Theosophical Society) combined return-to-scripture/revival with modern organisational methods and nationalism.",
+          "Community-specific and pan-communal responses: While many movements addressed particular communities (Aligarh for Muslims, Singh Sabha for Sikhs), ideas circulated across communities.",
+          "Moral persuasion over coercion: Majority used debates, petitions, legal appeals and social example rather than force; they sought legal reforms through colonial administration when needed.",
+          "Limited rural penetration: Most activity concentrated in urban centres and among elites; rural and subaltern reach was uneven.",
+          "Link to nascent nationalism: By creating public spheres, literate populations and leadership networks, these movements indirectly fostered political nationalism."
+        ],
+        "detailsHindi": [
+          "धार्मिक सुधार + सामाजिक सुधार: आंदोलनों ने मूर्ति पूजा, अनावश्यक आडंबर आदि धार्मिक प्रथाओं की आलोचना की और सती, बाल विवाह, जातिगत भेदभाव जैसी सामाजिक बुराइयों के खिलाफ अभियान चलाया।",
+          "नेतृत्व प्रायः शिक्षित शहरी मध्यम वर्ग से: सुधारक अक्सर पश्चिमी शिक्षा प्राप्त या आधुनिक विचारों से प्रभावित थे, जिससे वे प्रभावी सार्वजनिक तर्क और संगठन कर सके।",
+          "संस्थागत निर्माण: विचार फैलाने और नेतृत्व प्रशिक्षण के लिए विद्यालय, महाविद्यालय, पत्रिकाएँ, सभा और चैरिटेबल संस्थाएँ स्थापित की गयीं।",
+          "प्रिंट संस्कृति और क्षेत्रीय भाषाओं का उपयोग: अंग्रेज़ी और स्थानीय भाषाओं में समाचार-पत्र, पर्चे और पुस्तकें सुधारवादी विचारों को फैलाने में सहायक रहीं।",
+          "शिक्षा पर जोर: आधुनिक (वैज्ञानिक, उदार) शिक्षा — पुरुषों और महिलाओं दोनों के लिए — अधिकांश आंदोलनों का केंद्र बिंदु रहा (जैसे एमएओ कॉलेज, डीएवी, कन्या विद्यालय)।",
+          "पुनरुत्थानवाद और आधुनिकीकरण का समन्वय: कुछ समूह (आर्य समाज, थियोसोफिकल सोसाइटी) वेद/परंपरा की ओर लौटने की वकालत करते हुए आधुनिक संगठनात्मक तरीके और राष्ट्रवाद को अपनाते थे।",
+          "समुदाय-विशेष और सर्वसमुदाय प्रतिक्रियाएँ: कई आंदोलन विशिष्ट समुदायों (अलीगढ़ मुसलमानों के लिए, सिंह सभा सिखों के लिए) के लिए थे, पर विचार सभी समुदायों में फैलते रहे।",
+          "नैतिक प्रेरणा पर जोर: बहुतेरे आंदोलन बहस, याचिकाएँ, कानूनी रास्ते और सामाजिक उदाहरण के जरिए बदलाव लाने पर यकीन रखते थे; आवश्यकता पड़ने पर औपनिवेशिक प्रशासन से कानूनी सुधार करवाए।",
+          "ग्रामीण पहुँच सीमित: अधिकांश गतिविधियाँ शहरी केन्द्रों और अभिजात वर्ग में केन्द्रित रहीं; ग्रामीण और उपेक्षित तबकों तक पहुँच असमान रही।",
+          "उभरते राष्ट्रवाद से संबंध: सार्वजनिक क्षेत्र, साक्षरता और नेतृत्व नेटवर्क का निर्माण करके इन आंदोलनों ने अप्रत्यक्ष रूप से राजनीतिक राष्ट्रवाद को बढ़ावा दिया।"
+        ],
+        "table": {
+          "title": "Key Characteristics — Summary",
+          "titleHindi": "मुख्य लक्षण — सारांश",
+          "columns": ["Characteristic", "Explanation"],
+          "columnsHindi": ["लक्षण", "व्याख्या"],
+          "rows": [
+            ["Religious critique + Social reform", "Challenged rituals and social evils simultaneously."],
+            ["Educated urban leadership", "Leaders were mostly modern-educated urban middle class."],
+            ["Institution building", "Schools, colleges, sabhas, journals to sustain reform."],
+            ["Print & vernacular reach", "Use of newspapers, pamphlets in regional languages."],
+            ["Emphasis on education", "Focus on modern education for social uplift."],
+            ["Mix of revivalism and modernism", "Return-to-scripture movements alongside modern ideas."],
+            ["Community-specific initiatives", "Movements addressed both community needs and pan-Indian concerns."],
+            ["Legal & moral methods", "Petitions, legal appeals, social campaigns rather than violence."],
+            ["Urban bias & limited rural reach", "Greater impact in towns and among elites."],
+            ["Foundation for nationalism", "Created public sphere and leadership for future politics."]
+          ],
+          "rowsHindi": [
+            ["धार्मिक आलोचना + सामाजिक सुधार", "साथ में विधियों और सामाजिक बुराइयों में चुनौती।"],
+            ["शिक्षित शहरी नेतृत्व", "नेता प्रायः आधुनिक शिक्षा प्राप्त शहरी मध्यम वर्ग से थे।"],
+            ["संस्थागत निर्माण", "सुधार को बनाए रखने के लिए विद्यालय, सभा और पत्रिकाएँ।"],
+            ["प्रिंट और क्षेत्रीय भाषा पहुँच", "अखबारों और पर्चों का उपयोग।"],
+            ["शिक्षा पर जोर", "सामाजिक उन्नति के लिए आधुनिक शिक्षा।"],
+            ["पुनरुत्थानवाद और आधुनिकीकरण का मिश्रण", "परंपरा और आधुनिक विचारों का मेल।"],
+            ["समुदाय-विशेष पहल", "समुदायिक आवश्यकताओं और सर्व-भारतीय चिंताओं दोनों पर ध्यान।"],
+            ["कानूनी और नैतिक तरीके", "याचिका, कानूनी अपील, सामाजिक अभियान; हिंसा नहीं।"],
+            ["शहरी पक्षपात व सीमित ग्रामीण पहुँच", "शहरों और अभिजनों में अधिक प्रभाव।"],
+            ["राष्ट्रवाद के लिए आधार", "भविष्य के राजनीतिक आंदोलन के लिए सार्वजनिक क्षेत्र और नेतृत्व बनाया।"]
+          ]
+        },
+        "prelimsTips": [
+          "Remember the twin features: religious revival + social reform — many organisations combined both.",
+          "Associate key institutions: DAV (Arya Samaj), AMU (Aligarh), Ramakrishna Mission (Vivekananda), Deoband madrasas."
+        ],
+        "prelimsTipsHindi": [
+          "दो प्रमुख पहलू याद रखें: धार्मिक पुनरुत्थान + सामाजिक सुधार — कई संस्थाएँ दोनों को जोड़ती थीं।",
+          "प्रमुख संस्थाएँ जोड़ें: डीएवी (आर्य समाज), AMU (अलीगढ़), रामकृष्ण मिशन (विवेकानंद), देवबंद मदरसे।"
+        ],
+        "funFacts": [
+          "Several movement leaders like Raja Ram Mohan Roy and Vivekananda engaged extensively with global audiences and British officials.",
+          "Print culture created celebrity reformers — pamphlets and speeches spread reputations across regions."
+        ],
+        "funFactsHindi": [
+          "राजा राममोहन राय और विवेकानंद जैसे कई नेताओं ने वैश्विक मंच और ब्रिटिश अधिकारियों के साथ सक्रिय संवाद किया।",
+          "प्रिंट संस्कृति ने नेताओं को 'सेलिब्रिटी' बना दिया — पाम्फलेट और भाषणों ने उनकी प्रसिद्धि फैलाई।"
+        ],
+        "mainsPoints": [
+          "Socio-religious movements were central to India's social transformation — they attacked regressive practices, promoted education and created associational life that later underpinned political mobilisation.",
+          "Evaluate their legacy: important institutional and ideological gains but limited penetration into rural and subaltern strata — hence their reformist agenda had to be complemented by mass political movements later."
+        ],
+        "mainsPointsHindi": [
+          "सामाजिक-धार्मिक आंदोलन भारत के सामाजिक परिवर्तन के केन्द्र थे — इन्होंने प्रतिगामी प्रथाओं पर प्रहार किया, शिक्षा को बढ़ावा दिया और संगठित जीवन की नींव रखी जिसने बाद में राजनीतिक mobilisation को सम्भव बनाया।",
+          "उनकी विरासत का आकलन: महत्वपूर्ण संस्थागत और वैचारिक लाभ, पर ग्रामीण और उपेक्षित तबकों तक सीमित पहुँच — इसीलिए इन सुधारों को बाद में जनवादी राजनीतिक आंदोलनों से पूरक होना पड़ा।"
+        ],
       },
       {
         "heading": "Hindu Reform Movements",
@@ -2923,6 +3032,30 @@ export const chapters =
             ]
           }
         ],
+        "prelimsTips": [
+          "Brahmo Samaj → key date 1828; associated with banning of sati (1829).",
+          "Arya Samaj → 'Back to the Vedas' (Shuddhi, education through DAV schools)."
+        ],
+        "prelimsTipsHindi": [
+          "ब्राह्मो समाज → 1828; सती निषेध (1829) से जुड़ा।",
+          "आर्य समाज → 'वेदों की ओर लौटो' (शुद्धि और डीएवी स्कूल)।"
+        ],
+        "funFacts": [
+          "Raja Ram Mohan Roy corresponded with British officials to press for legal reforms.",
+          "Young Bengal debates at Hindu College often led to expulsions of radical students."
+        ],
+        "funFactsHindi": [
+          "राजा राममोहन राय ने कानूनी सुधारों के लिए ब्रिटिश अधिकारियों से पत्राचार किया।",
+          "हिंदू कॉलेज के यंग बंगाल के परिसरों में कट्टर विचारों के कारण छात्रों को निष्कासित भी किया गया।"
+        ],
+        "mainsPoints": [
+          "Hindu reform movements combined religious critique with social reform — aimed at modernising Hindu society.",
+          "They created institutions (schools, journals) that nurtured public debate and educated leadership."
+        ],
+        "mainsPointsHindi": [
+          "हिन्दू सुधार आंदोलनों ने धार्मिक आलोचना के साथ सामाजिक सुधार जोड़े — हिन्दू समाज के आधुनिकीकरण का लक्ष्य।",
+          "उन्होंने संस्थाएँ (विद्यालय, पत्र) स्थापित कीं जो सार्वजनिक विमर्श और नेतृत्व का पोषण बनीं।"
+        ],
         "image": "raja_ram_mohan_roy.jpg"
       },
       {
@@ -2948,6 +3081,30 @@ export const chapters =
             ]
           }
         ],
+        "prelimsTips": [
+          "Aligarh (Sir Syed) = modern education for Muslims; MAO → AMU (1920).",
+          "Deoband (1866) = orthodox theological revival with widespread madrasas."
+        ],
+        "prelimsTipsHindi": [
+          "अलीगढ़ (सर सैयद) = मुसलमानों के लिए आधुनिक शिक्षा; एमएओ → AMU (1920)।",
+          "देवबंद (1866) = रूढ़िवादी धार्मिक पुनरुद्धार और मदरसा नेटवर्क।"
+        ],
+        "funFacts": [
+          "Sir Syed argued for cooperation with British to modernise Muslim education — controversial at the time.",
+          "Deoband established a vast network of seminaries that influenced Islamic thought across South Asia."
+        ],
+        "funFactsHindi": [
+          "सर सैयद ने मुस्लिम शिक्षा के आधुनिकीकरण के लिए ब्रिटिशों से सहयोग का समर्थन किया — समय में विवादास्पद।",
+          "देवबंद ने मदरसा नेटवर्क बनाया जिसने पूरे दक्षिण एशिया के इस्लामी चिंतन को प्रभावित किया।"
+        ],
+        "mainsPoints": [
+          "Muslim reform movements were diverse: Aligarh sought modernity; Deoband sought religious consolidation — both responses to colonial modernity.",
+          "They shaped Muslim political and educational responses in late 19th and early 20th centuries."
+        ],
+        "mainsPointsHindi": [
+          "मुस्लिम सुधार विविध थे: अलीगढ़ ने आधुनिकीकरण चाहा; देवबंद ने धार्मिक समेकन — दोनों उपनिवेशीय आधुनिकता के जवाब थे।",
+          "इनसे 19वीं–20वीं सदी के मुस्लिम शैक्षिक व राजनीतिक रुझान बने।"
+        ],
         "image": "sir_syed_ahmad_khan.jpg"
       },
       {
@@ -2965,8 +3122,1327 @@ export const chapters =
           "ईसाई: सामाजिक सेवा संस्थान, स्कूल, अस्पताल स्थापित; भारतीय ईसाइयों ने जाति और लैंगिक समानता पर सुधार का समर्थन किया।",
           "सिख: सिंह सभा आंदोलन (1873) का उद्देश्य सिख धर्म का सुधार, ईसाई मिशनरियों और आर्य समाज के प्रभाव का मुकाबला करना।"
         ],
-        "image": "singh_sabha.jpg"
+        tables: [
+          {
+        "title": "Major Social Reform Movements in 19th Century India",
+        "titleHindi": "19वीं सदी के प्रमुख सामाजिक सुधार आंदोलन",
+        "columns": ["Movement", "Founder/Leader", "Year", "Key Features", "Impact", "Prelims Tips", "Fun Facts", "Mains Points"],
+        "columnsHindi": ["आंदोलन", "संस्थापक/नेता", "साल", "मुख्य विशेषताएँ", "प्रभाव", "प्रारंभिक परीक्षा टिप्स", "रोचक तथ्य", "मुख्य बिंदु"],
+        "rows": [
+          [
+            "Brahmo Samaj",
+            "Raja Ram Mohan Roy",
+            "1828",
+            "Opposed idolatry, caste rigidity, sati; promoted monotheism, widow remarriage, education.",
+            "Laid foundation of modern reform; contributed to abolition of sati (1829).",
+            "Founded in 1828; Sati banned in 1829 under Lord William Bentinck.",
+            "Raja Ram Mohan Roy is called the 'Father of Indian Renaissance'.",
+            "Provided intellectual foundation for modern Indian reform and nationalism."
+          ],
+          [
+            "Young Bengal Movement",
+            "Henry Louis Vivian Derozio",
+            "1820s–1830s",
+            "Promoted rationalism, free thought, equality, women’s education.",
+            "Inspired intellectual awakening among educated youth.",
+            "Linked with Hindu College, Calcutta.",
+            "Followers called 'Derozians'.",
+            "Created early radical socio-political thought in India."
+          ],
+          [
+            "Prarthana Samaj",
+            "Atmaram Pandurang (later supported by M.G. Ranade)",
+            "1867",
+            "Influenced by Brahmo Samaj; promoted monotheism, women’s uplift, social equality.",
+            "Led to reforms in Maharashtra; precursor to Indian Social Conference.",
+            "Founded in Bombay in 1867.",
+            "M.G. Ranade was known as the 'Socrates of Maharashtra'.",
+            "Encouraged socio-religious reforms in Western India."
+          ],
+          [
+            "Arya Samaj",
+            "Swami Dayanand Saraswati",
+            "1875",
+            "Return to Vedas; opposed caste discrimination, child marriage, idol worship; supported widow remarriage & education.",
+            "Spread nationalist spirit; DAV schools; Shuddhi movement.",
+            "Motto: 'Back to the Vedas'.",
+            "Swami Dayanand wrote Satyarth Prakash.",
+            "Provided cultural foundation to Hindu reform & revivalism."
+          ],
+          [
+            "Aligarh Movement",
+            "Sir Syed Ahmed Khan",
+            "1875 (MAO College at Aligarh)",
+            "Advocated modern scientific education for Muslims; opposed blind orthodoxy.",
+            "Foundation of Muslim modern education; evolved into Aligarh Muslim University.",
+            "MAO College became AMU in 1920.",
+            "Sir Syed promoted Urdu as identity.",
+            "Bridged gap between modern education and Muslim society."
+          ],
+          [
+            "Ramakrishna Mission",
+            "Swami Vivekananda (disciple of Ramakrishna Paramhansa)",
+            "1897",
+            "Emphasised practical Vedanta, service to humanity as service to God.",
+            "Created modern spiritual-nationalist spirit; globalised Vedanta.",
+            "Chicago Speech (1893) made Vivekananda world famous.",
+            "Motto: 'Atmano mokshartham jagat hitaya cha'.",
+            "Linked spirituality with nationalism; inspired freedom struggle."
+          ],
+          [
+            "Theosophical Society",
+            "Annie Besant (Indian chapter leader)",
+            "1879 (India branch)",
+            "Revival of Hinduism, Buddhism; universal brotherhood; women’s rights.",
+            "Spread interest in Indian philosophy; Besant joined INC.",
+            "HQ at Adyar, Madras (1882).",
+            "Annie Besant became first woman Congress President (1917).",
+            "Blended Indian spirituality with Western thought; supported Home Rule."
+          ],
+          [
+            "Satya Shodhak Samaj",
+            "Jyotiba Phule",
+            "1873",
+            "Worked for upliftment of lower castes, women’s education, social justice.",
+            "Inspired anti-caste and Dalit movements.",
+            "Founded in Pune in 1873.",
+            "Phule wrote Gulamgiri; Savitribai pioneered women’s education.",
+            "Laid foundation for later social justice & Dalit movements."
+          ],
+          [
+            "Singh Sabha Movement",
+            "Sikh Reformers (Amritsar & Lahore groups)",
+            "1873",
+            "Reformed Sikh practices; revived Khalsa ideals; promoted education through Khalsa schools.",
+            "Strengthened Sikh identity; resisted missionary influence.",
+            "Started in Amritsar in 1873, later Lahore Sabha became stronger.",
+            "Khalsa schools played major role in Sikh education.",
+            "Reasserted Sikh cultural identity; ensured survival against missionary influence."
+          ]
+        ],
+        "rowsHindi": [
+          [
+            "ब्रह्म समाज",
+            "राजा राम मोहन राय",
+            "1828",
+            "मूर्ति पूजा, जातिगत कठोरता और सती का विरोध; एकेश्वरवाद, विधवा पुनर्विवाह और शिक्षा का समर्थन।",
+            "आधुनिक सुधारों की नींव रखी; सती प्रथा (1829) के उन्मूलन में योगदान।",
+            "1828 में स्थापना; सती प्रथा 1829 में लॉर्ड विलियम बेंटिक द्वारा समाप्त।",
+            "राजा राममोहन राय को 'भारतीय पुनर्जागरण का जनक' कहा जाता है।",
+            "भारतीय सुधार और राष्ट्रवाद की बौद्धिक नींव रखी।"
+          ],
+          [
+            "यंग बंगाल आंदोलन",
+            "हेनरी विवियन डेरोज़ियो",
+            "1820s–1830s",
+            "तर्कवाद, स्वतंत्र विचार, समानता और महिला शिक्षा का प्रचार।",
+            "शिक्षित युवाओं में बौद्धिक जागृति लाई।",
+            "हिंदू कॉलेज, कलकत्ता से जुड़ा।",
+            "अनुयायी 'डेरोज़ियन्स' कहलाए।",
+            "भारत में प्रारंभिक क्रांतिकारी सामाजिक चिंतन को जन्म दिया।"
+          ],
+          [
+            "प्रार्थना समाज",
+            "आत्माराम पांडुरंग (बाद में एम.जी. रानाडे का समर्थन)",
+            "1867",
+            "ब्रह्म समाज से प्रभावित; एकेश्वरवाद, महिला उत्थान और सामाजिक समानता का प्रचार।",
+            "महाराष्ट्र में सुधारों को जन्म दिया; इंडियन सोशल कॉन्फ्रेंस की नींव।",
+            "1867 में बंबई में स्थापना।",
+            "एम.जी. रानाडे को 'महाराष्ट्र का सुकरात' कहा गया।",
+            "पश्चिम भारत में सुधारवादी मंच बना।"
+          ],
+          [
+            "आर्य समाज",
+            "स्वामी दयानंद सरस्वती",
+            "1875",
+            "वेदों की ओर लौटो; जातिवाद, बाल विवाह, मूर्ति पूजा का विरोध; विधवा पुनर्विवाह व शिक्षा का समर्थन।",
+            "राष्ट्रीयता की भावना फैलाई; डीएवी स्कूल खोले; शुद्धि आंदोलन चलाया।",
+            "सूत्र: 'वेदों की ओर लौटो'।",
+            "स्वामी दयानंद ने सत्यार्थ प्रकाश लिखा।",
+            "हिंदू सुधार और पुनरुत्थान को सांस्कृतिक आधार दिया।"
+          ],
+          [
+            "अलीगढ़ आंदोलन",
+            "सर सैयद अहमद खान",
+            "1875 (अलीगढ़ में एम.ए.ओ. कॉलेज)",
+            "मुसलमानों में आधुनिक शिक्षा का प्रचार; अंधविश्वास का विरोध।",
+            "मुस्लिम आधुनिक शिक्षा की नींव रखी; अलीगढ़ मुस्लिम यूनिवर्सिटी बनी।",
+            "एमएओ कॉलेज 1920 में अलीगढ़ मुस्लिम यूनिवर्सिटी बना।",
+            "सर सैयद ने उर्दू को सांस्कृतिक पहचान के रूप में बढ़ावा दिया।",
+            "आधुनिक शिक्षा और मुस्लिम समाज के बीच सेतु का काम किया।"
+          ],
+          [
+            "रामकृष्ण मिशन",
+            "स्वामी विवेकानंद (रामकृष्ण परमहंस के शिष्य)",
+            "1897",
+            "प्रायोगिक वेदांत; मानव सेवा ही ईश्वर सेवा।",
+            "आधुनिक आध्यात्मिक-राष्ट्रीय भावना को जन्म दिया; वेदांत को वैश्विक बनाया।",
+            "शिकागो भाषण (1893) ने विवेकानंद को प्रसिद्ध किया।",
+            "सूत्र: 'आत्मनो मोक्षार्थं जगत हिताय च'।",
+            "आध्यात्मिकता को राष्ट्रवाद से जोड़ा; स्वतंत्रता संग्राम को प्रेरित किया।"
+          ],
+          [
+            "थियोसोफिकल सोसाइटी",
+            "एनी बेसेंट (भारतीय शाखा की प्रमुख)",
+            "1879 (भारत में शाखा)",
+            "हिंदू-बौद्ध धर्म का पुनरुद्धार; सर्वभ्रातृत्व; महिला अधिकार।",
+            "भारतीय दर्शन में रुचि फैलाई; एनी बेसेंट कांग्रेस से जुड़ीं।",
+            "मुख्यालय अडियार, मद्रास (1882)।",
+            "एनी बेसेंट 1917 में कांग्रेस की पहली महिला अध्यक्ष बनीं।",
+            "भारतीय आध्यात्मिकता और पश्चिमी चिंतन को जोड़ा।"
+          ],
+          [
+            "सत्यशोधक समाज",
+            "ज्योतiba फुले",
+            "1873",
+            "निम्न जातियों का उत्थान; महिला शिक्षा; सामाजिक न्याय।",
+            "जातिविरोधी आंदोलनों को प्रेरित किया।",
+            "1873 में पुणे में स्थापना।",
+            "फुले ने गुलामगिरी लिखी; सावित्रीबाई ने महिला शिक्षा शुरू की।",
+            "सामाजिक न्याय और दलित आंदोलनों की नींव रखी।"
+          ],
+          [
+            "सिंह सभा आंदोलन",
+            "सिख सुधारक (अमृतसर और लाहौर समूह)",
+            "1873",
+            "सिख परंपराओं का सुधार; खालसा आदर्शों की ओर वापसी; खालसा स्कूलों के जरिए शिक्षा।",
+            "सिख पहचान को मजबूत किया; मिशनरी प्रभाव का विरोध किया।",
+            "1873 में अमृतसर से शुरुआत; बाद में लाहौर सभा अधिक सक्रिय।",
+            "सिख शिक्षा के लिए खालसा स्कूल खोले।",
+            "सिख सांस्कृतिक पहचान को पुनर्जीवित किया।"
+          ]
+        ]
+      }
+        ],
+        "prelimsTips": [
+          "Satya Shodhak (Phule) — anti-caste work in Maharashtra (1873).",
+          "Ramakrishna Mission and Theosophical Society combined spiritual revival with social work."
+        ],
+        "prelimsTipsHindi": [
+          "सत्यशोधक (फुले) — महाराष्ट्र में जातिविरोधी कार्य (1873)।",
+          "रामकृष्ण मिशन और थियोसोफिकल सोसाइटी ने आध्यात्मिक पुनरुद्धार के साथ सामाजिक कार्य जोड़ा।"
+        ],
+        "funFacts": [
+          "Annie Besant (Theosophical) later became active in political Home Rule movement.",
+          "Savitribai Phule was among the earliest women educators in India and set up girls' schools."
+        ],
+        "funFactsHindi": [
+          "एनी बेसेंट (थियोसोफिकल) बाद में होम रूल आंदोलन में सक्रिय रहीं।",
+          "सावित्रीबाई फुले भारत की प्रारम्भिक महिला शिक्षकों में से थीं और उन्होंने कन्या विद्यालय खोले।"
+        ],
+        "mainsPoints": [
+          "Minority reform movements (Parsi, Sikh, Christian) show that modernization impulses cut across communities.",
+          "Women’s education and caste reform were common themes with long-term political consequences."
+        ],
+        "mainsPointsHindi": [
+          "अल्पसंख्यक सुधार आंदोलन (पारसी, सिख, ईसाई) दिखाते हैं कि आधुनिकीकरण की लहर समुदायों से परे थी।",
+          "महिला शिक्षा और जाति सुधार सामान्य विषय रहे जिनके दीर्घकालिक राजनीतिक परिणाम हुए।"
+        ],
       },
+      {
+        "heading": "Raja Rammohan Roy and Brahmo Samaj",
+        "headingHindi": "राजा राममोहन राय और ब्रह्म समाज",
+        "highlight": "Raja Rammohan Roy, known as the 'Father of Indian Renaissance', founded the Brahmo Samaj in 1828 to reform Hindu society, oppose social evils, and promote monotheism and modern education.",
+        "highlightHindi": "राजा राममोहन राय, जिन्हें 'भारतीय पुनर्जागरण का जनक' कहा जाता है, ने 1828 में ब्रह्म समाज की स्थापना की ताकि हिंदू समाज में सुधार, सामाजिक बुराइयों का विरोध और एकेश्वरवाद व आधुनिक शिक्षा का प्रसार किया जा सके।",
+        "details": [
+          "Raja Rammohan Roy (1772–1833) opposed sati, child marriage, caste rigidity, and idol worship.",
+          "He advocated for widow remarriage, women’s education, and property inheritance rights for women.",
+          "He promoted monotheism and rationalism, drawing from Upanishads and Western liberal thought.",
+          "Founded Atmiya Sabha (1815) as a precursor to Brahmo Samaj.",
+          "Brahmo Samaj (1828) worked for the abolition of social evils, spread of education, and religious reforms.",
+          "Played a key role in the abolition of sati (1829) under Lord William Bentinck’s regulation.",
+          "Rammohan Roy also campaigned for press freedom and modern scientific education."
+        ],
+        "detailsHindi": [
+          "राजा राममोहन राय (1772–1833) ने सती प्रथा, बाल विवाह, जातिगत कठोरता और मूर्ति पूजा का विरोध किया।",
+          "उन्होंने विधवा पुनर्विवाह, महिला शिक्षा और महिलाओं के संपत्ति अधिकारों का समर्थन किया।",
+          "उन्होंने उपनिषदों और पश्चिमी उदार विचारों से प्रेरणा लेकर एकेश्वरवाद और तर्कवाद का प्रचार किया।",
+          "1815 में आत्मीय सभा की स्थापना की, जो बाद में ब्रह्म समाज का आधार बनी।",
+          "1828 में ब्रह्म समाज की स्थापना की, जिसने सामाजिक बुराइयों को समाप्त करने, शिक्षा फैलाने और धार्मिक सुधारों पर कार्य किया।",
+          "लॉर्ड विलियम बेंटिक के शासनकाल में सती प्रथा के उन्मूलन (1829) में महत्वपूर्ण भूमिका निभाई।",
+          "राममोहन राय ने प्रेस की स्वतंत्रता और आधुनिक वैज्ञानिक शिक्षा के लिए भी अभियान चलाया।"
+        ],
+        "table": {
+          "title": "Contributions of Raja Rammohan Roy & Brahmo Samaj",
+          "titleHindi": "राजा राममोहन राय और ब्रह्म समाज के योगदान",
+          "columns": ["Aspect", "Contribution"],
+          "columnsHindi": ["क्षेत्र", "योगदान"],
+          "rows": [
+            ["Social Reform", "Opposed sati, child marriage; promoted widow remarriage and women’s rights"],
+            ["Religious Reform", "Promoted monotheism, rationalism, opposed idol worship"],
+            ["Educational Reform", "Advocated English, science, modern education; set up Hindu College with David Hare"],
+            ["Political Reform", "Supported freedom of press, opposed arbitrary colonial policies"],
+            ["Institution Building", "Founded Atmiya Sabha (1815), Brahmo Samaj (1828)"]
+          ],
+          "rowsHindi": [
+            ["सामाजिक सुधार", "सती प्रथा, बाल विवाह का विरोध; विधवा पुनर्विवाह और महिला अधिकारों का समर्थन"],
+            ["धार्मिक सुधार", "एकेश्वरवाद और तर्कवाद का प्रचार; मूर्तिपूजा का विरोध"],
+            ["शैक्षिक सुधार", "अंग्रेज़ी, विज्ञान और आधुनिक शिक्षा का समर्थन; डेविड हेयर के साथ हिंदू कॉलेज की स्थापना"],
+            ["राजनीतिक सुधार", "प्रेस की स्वतंत्रता का समर्थन; औपनिवेशिक मनमानी नीतियों का विरोध"],
+            ["संस्थागत निर्माण", "आत्मीय सभा (1815) और ब्रह्म समाज (1828) की स्थापना"]
+          ]
+        },
+        "prelimsTips": [
+          "Raja Rammohan Roy founded Brahmo Samaj in 1828.",
+          "He is called the 'Father of Indian Renaissance'.",
+          "Key role in abolition of sati in 1829 under Lord William Bentinck."
+        ],
+        "prelimsTipsHindi": [
+          "राजा राममोहन राय ने 1828 में ब्रह्म समाज की स्थापना की।",
+          "उन्हें 'भारतीय पुनर्जागरण का जनक' कहा जाता है।",
+          "1829 में लॉर्ड विलियम बेंटिक के शासनकाल में सती प्रथा के उन्मूलन में महत्वपूर्ण भूमिका निभाई।"
+        ],
+        "funFacts": [
+          "Raja Rammohan Roy travelled to England in 1830 as an envoy of Mughal Emperor Akbar II.",
+          "He was given the title 'Raja' by the Mughal Emperor.",
+          "He died in Bristol, England, in 1833."
+        ],
+        "funFactsHindi": [
+          "राजा राममोहन राय 1830 में मुगल बादशाह अकबर द्वितीय के दूत के रूप में इंग्लैंड गए।",
+          "उन्हें 'राजा' की उपाधि मुगल बादशाह ने दी थी।",
+          "1833 में उनकी मृत्यु ब्रिस्टल (इंग्लैंड) में हुई।"
+        ],
+        "mainsPoints": [
+          "Discuss Raja Rammohan Roy’s role as the pioneer of socio-religious reforms in India.",
+          "Examine how Brahmo Samaj laid the foundation for modern Indian reform movements.",
+          "Assess the limitations of the movement, especially its restricted reach to urban elites."
+        ],
+        "mainsPointsHindi": [
+          "भारत में सामाजिक-धार्मिक सुधारों के प्रवर्तक के रूप में राजा राममोहन राय की भूमिका पर चर्चा करें।",
+          "ब्रह्म समाज ने आधुनिक भारतीय सुधार आंदोलनों की नींव कैसे रखी, इसका मूल्यांकन करें।",
+          "आंदोलन की सीमाओं का आकलन करें, विशेषकर शहरी अभिजात वर्ग तक इसकी सीमित पहुँच।"
+        ],
+        "image": "raja_ram_mohan_roy.jpg"
+      },
+      {
+        "heading": "Brahmo Samaj after Raja Rammohan Roy’s Demise",
+        "headingHindi": "राजा राममोहन राय के निधन के बाद ब्रह्म समाज",
+        "highlight": "After Rammohan Roy’s death in 1833, the Brahmo Samaj continued under leaders like Debendranath Tagore and Keshab Chandra Sen, evolving into a dynamic reformist force with multiple ideological splits.",
+        "highlightHindi": "1833 में राममोहन राय के निधन के बाद ब्रह्म समाज का नेतृत्व देबेंद्रनाथ ठाकुर और केशवचंद्र सेन जैसे नेताओं ने किया, जिसने इसे एक गतिशील सुधारवादी संगठन बनाया जिसमें समय के साथ कई वैचारिक विभाजन हुए।",
+        "details": [
+          "Debendranath Tagore (father of Rabindranath Tagore) revitalized Brahmo Samaj in 1840s; emphasized Upanishadic monotheism and opposed idolatry.",
+          "Tattwabodhini Sabha merged with Brahmo Samaj in 1843, expanding its intellectual influence.",
+          "Keshab Chandra Sen joined in 1858, introduced radical reforms such as women’s education, widow remarriage, and intercaste marriage.",
+          "Internal divisions: Split into Adi Brahmo Samaj (led by Debendranath) and Brahmo Samaj of India (led by Keshab Chandra Sen).",
+          "Brahmo Marriage Act (1872) legalized inter-caste marriage and raised marriageable age for girls, influenced by Brahmo reforms.",
+          "By the late 19th century, Brahmo Samaj became less radical but continued to inspire social and educational reforms."
+        ],
+        "detailsHindi": [
+          "देबेंद्रनाथ ठाकुर (रवींद्रनाथ ठाकुर के पिता) ने 1840 के दशक में ब्रह्म समाज को पुनर्जीवित किया; उपनिषदों के एकेश्वरवाद पर बल दिया और मूर्तिपूजा का विरोध किया।",
+          "तत्वबोधिनी सभा 1843 में ब्रह्म समाज में विलय हो गई, जिससे इसका बौद्धिक प्रभाव बढ़ा।",
+          "केशवचंद्र सेन 1858 में जुड़े और उन्होंने महिला शिक्षा, विधवा पुनर्विवाह और अंतर्जातीय विवाह जैसे क्रांतिकारी सुधारों को आगे बढ़ाया।",
+          "आंतरिक विभाजन: आदि ब्रह्म समाज (देबेंद्रनाथ के नेतृत्व में) और भारतवर्षीय ब्रह्म समाज (केशवचंद्र सेन के नेतृत्व में) में विभाजन।",
+          "ब्रह्म विवाह अधिनियम (1872) ने अंतर्जातीय विवाह को वैध किया और लड़कियों की विवाह योग्य आयु बढ़ाई, जो ब्रह्म सुधारों से प्रभावित था।",
+          "19वीं सदी के अंत तक ब्रह्म समाज की गति धीमी पड़ी, पर यह सामाजिक और शैक्षिक सुधारों के लिए प्रेरणास्रोत बना रहा।"
+        ],
+        "table": {
+          "title": "Phases of Brahmo Samaj after Rammohan Roy",
+          "titleHindi": "राममोहन राय के बाद ब्रह्म समाज के चरण",
+          "columns": ["Phase", "Leader", "Key Features"],
+          "columnsHindi": ["चरण", "नेता", "मुख्य विशेषताएँ"],
+          "rows": [
+            ["Revival (1830s–1840s)", "Debendranath Tagore", "Upanishadic monotheism, anti-idolatry focus"],
+            ["Expansion (1850s–1870s)", "Keshab Chandra Sen", "Radical reforms: women’s uplift, inter-caste marriage"],
+            ["Split", "Debendranath vs Keshab", "Adi Brahmo Samaj and Brahmo Samaj of India"],
+            ["Later Phase (1870s onwards)", "Younger reformers", "Brahmo Marriage Act 1872; educational reforms"]
+          ],
+          "rowsHindi": [
+            ["पुनर्जीवन (1830–1840 का दशक)", "देबेंद्रनाथ ठाकुर", "उपनिषदों का एकेश्वरवाद, मूर्तिपूजा का विरोध"],
+            ["विस्तार (1850–1870 का दशक)", "केशवचंद्र सेन", "क्रांतिकारी सुधार: महिला उत्थान, अंतर्जातीय विवाह"],
+            ["विभाजन", "देबेंद्रनाथ बनाम केशव", "आदि ब्रह्म समाज और भारतवर्षीय ब्रह्म समाज"],
+            ["बाद का चरण (1870 के बाद)", "युवा सुधारक", "ब्रह्म विवाह अधिनियम 1872; शैक्षिक सुधार"]
+          ]
+        },
+        "prelimsTips": [
+          "Brahmo Samaj founded in 1828 by Raja Rammohan Roy.",
+          "Debendranath Tagore revitalized it in 1840s.",
+          "Keshab Chandra Sen introduced radical reforms, leading to split.",
+          "Brahmo Marriage Act (1872) was influenced by Brahmo reforms."
+        ],
+        "prelimsTipsHindi": [
+          "ब्रह्म समाज की स्थापना 1828 में राजा राममोहन राय ने की।",
+          "1840 के दशक में देबेंद्रनाथ ठाकुर ने इसे पुनर्जीवित किया।",
+          "केशवचंद्र सेन ने क्रांतिकारी सुधार किए, जिससे विभाजन हुआ।",
+          "ब्रह्म विवाह अधिनियम (1872) ब्रह्म सुधारों से प्रेरित था।"
+        ],
+        "funFacts": [
+          "Debendranath Tagore was called 'Maharshi' (great sage).",
+          "Keshab Chandra Sen’s daughter married into the Tagore family, creating controversy due to age issues.",
+          "Rabindranath Tagore was influenced by Brahmo ideals in his early education."
+        ],
+        "funFactsHindi": [
+          "देबेंद्रनाथ ठाकुर को 'महर्षि' कहा जाता था।",
+          "केशवचंद्र सेन की बेटी की शादी टैगोर परिवार में हुई, जिस पर कम आयु के कारण विवाद हुआ।",
+          "रवींद्रनाथ ठाकुर अपने प्रारंभिक शिक्षा काल में ब्रह्म आदर्शों से प्रभावित थे।"
+        ],
+        "mainsPoints": [
+          "Discuss how Brahmo Samaj evolved under Debendranath Tagore and Keshab Chandra Sen.",
+          "Evaluate the impact of Brahmo reforms on legislation like the Brahmo Marriage Act (1872).",
+          "Examine the splits and limitations of the movement in reaching beyond educated urban elites."
+        ],
+        "mainsPointsHindi": [
+          "ब्रह्म समाज देबेंद्रनाथ ठाकुर और केशवचंद्र सेन के नेतृत्व में कैसे विकसित हुआ, इस पर चर्चा करें।",
+          "ब्रह्म सुधारों का ब्रह्म विवाह अधिनियम (1872) जैसे कानूनों पर प्रभाव का मूल्यांकन करें।",
+          "शिक्षित शहरी अभिजात वर्ग से बाहर न पहुँच पाने की सीमाओं और विभाजनों की समीक्षा करें।"
+        ],
+      },
+      {
+        "heading": "Prarthana Samaj",
+        "headingHindi": "प्रार्थना समाज",
+        "highlight": "Founded in 1867 in Bombay, the Prarthana Samaj was a reformist movement influenced by Brahmo Samaj. It emphasized monotheism, social equality, women’s uplift, and reforms in Hindu society.",
+        "highlightHindi": "1867 में बंबई में स्थापित प्रार्थना समाज, ब्रह्म समाज से प्रभावित एक सुधारवादी आंदोलन था। इसने एकेश्वरवाद, सामाजिक समानता, महिला उत्थान और हिंदू समाज में सुधार पर जोर दिया।",
+        "details": [
+          "Founded by Atmaram Pandurang in 1867; later supported by M.G. Ranade, R.G. Bhandarkar and Justice Mahadev Govind Ranade.",
+          "Strongly opposed caste discrimination and untouchability.",
+          "Promoted widow remarriage, inter-caste marriage, and women’s education.",
+          "Worked through social conferences, schools, orphanages, and welfare activities.",
+          "Influenced later social organizations like the Indian Social Conference."
+        ],
+        "detailsHindi": [
+          "1867 में आत्माराम पांडुरंग द्वारा स्थापित; बाद में एम.जी. रानाडे, आर.जी. भांडारकर और न्यायमूर्ति महादेव गोविंद रानाडे ने समर्थन किया।",
+          "जातिगत भेदभाव और अस्पृश्यता का कड़ा विरोध किया।",
+          "विधवा पुनर्विवाह, अंतर्जातीय विवाह और महिला शिक्षा को बढ़ावा दिया।",
+          "सामाजिक सम्मेलन, विद्यालय, अनाथालय और कल्याणकारी गतिविधियों के माध्यम से कार्य किया।",
+          "बाद में भारतीय सामाजिक सम्मेलन जैसी संस्थाओं को प्रभावित किया।"
+        ],
+        "table": {
+          "title": "Prarthana Samaj — Key Aspects",
+          "titleHindi": "प्रार्थना समाज — मुख्य पहलू",
+          "columns": ["Aspect", "Explanation"],
+          "columnsHindi": ["पहलू", "व्याख्या"],
+          "rows": [
+            ["Founder", "Atmaram Pandurang (1867, Bombay)"],
+            ["Supporters", "M.G. Ranade, R.G. Bhandarkar"],
+            ["Religious Ideas", "Monotheism; reformist approach within Hinduism"],
+            ["Social Reform", "Opposed casteism, supported widow remarriage and women’s education"],
+            ["Legacy", "Inspired Indian Social Conference and later reformist initiatives"]
+          ],
+          "rowsHindi": [
+            ["संस्थापक", "आत्माराम पांडुरंग (1867, बंबई)"],
+            ["समर्थक", "एम.जी. रानाडे, आर.जी. भांडारकर"],
+            ["धार्मिक विचार", "एकेश्वरवाद; हिंदू धर्म के भीतर सुधारवादी दृष्टिकोण"],
+            ["सामाजिक सुधार", "जातिवाद का विरोध, विधवा पुनर्विवाह और महिला शिक्षा का समर्थन"],
+            ["विरासत", "भारतीय सामाजिक सम्मेलन और बाद के सुधार आंदोलनों को प्रेरित किया"]
+          ]
+        },
+        "prelimsTips": [
+          "Prarthana Samaj founded in 1867 in Bombay by Atmaram Pandurang.",
+          "Supported by M.G. Ranade and R.G. Bhandarkar.",
+          "Focused on widow remarriage, women’s education, and caste equality."
+        ],
+        "prelimsTipsHindi": [
+          "प्रार्थना समाज की स्थापना 1867 में बंबई में आत्माराम पांडुरंग ने की।",
+          "एम.जी. रानाडे और आर.जी. भांडारकर ने समर्थन किया।",
+          "मुख्य ध्यान विधवा पुनर्विवाह, महिला शिक्षा और जातिगत समानता पर।"
+        ],
+        "funFacts": [
+          "M.G. Ranade, a key supporter, was also known as the 'Socrates of Maharashtra'.",
+          "Prarthana Samaj services included prayers, hymns, and readings from Hindu scriptures but without idol worship.",
+          "The society’s reform activities inspired other provincial organizations in India."
+        ],
+        "funFactsHindi": [
+          "एम.जी. रानाडे, प्रमुख समर्थक, को 'महाराष्ट्र का सुकरात' भी कहा जाता था।",
+          "प्रार्थना समाज की सभाओं में प्रार्थना, भजन और हिंदू शास्त्रों से पाठ होता था, पर मूर्तिपूजा नहीं।",
+          "समाज की सुधार गतिविधियों ने भारत में अन्य प्रांतीय संस्थाओं को भी प्रेरित किया।"
+        ],
+        "mainsPoints": [
+          "Examine how Prarthana Samaj built upon Brahmo Samaj’s ideas but localized reforms for Maharashtra.",
+          "Assess its role in promoting women’s education and widow remarriage.",
+          "Discuss its legacy in shaping Indian Social Conference and future social reform networks."
+        ],
+        "mainsPointsHindi": [
+          "प्रार्थना समाज ने कैसे ब्रह्म समाज के विचारों को आगे बढ़ाया और महाराष्ट्र में स्थानीय सुधार किए, इस पर चर्चा करें।",
+          "महिला शिक्षा और विधवा पुनर्विवाह को बढ़ावा देने में इसकी भूमिका का मूल्यांकन करें।",
+          "भारतीय सामाजिक सम्मेलन और भविष्य के सुधार नेटवर्क को आकार देने में इसकी विरासत पर चर्चा करें।"
+        ],
+      },
+      {
+  "heading": "Arya Samaj",
+  "headingHindi": "आर्य समाज",
+  "highlight": "Founded in 1875 by Swami Dayanand Saraswati, Arya Samaj was a reformist and revivalist movement that called for 'Back to the Vedas', rejected idol worship, caste by birth, and promoted education, women’s rights, and social reform.",
+  "highlightHindi": "1875 में स्वामी दयानंद सरस्वती द्वारा स्थापित आर्य समाज एक सुधारवादी और पुनरुत्थानवादी आंदोलन था जिसने 'वेदों की ओर लौटो' का आह्वान किया, मूर्तिपूजा, जन्म आधारित जाति का विरोध किया और शिक्षा, महिला अधिकारों व सामाजिक सुधारों को बढ़ावा दिया।",
+  "details": [
+    "Founded in Bombay in 1875 by Swami Dayanand Saraswati.",
+    "Promoted the slogan 'Back to the Vedas' emphasizing purity of Vedic religion.",
+    "Strongly opposed idol worship, caste system based on birth, child marriage, and untouchability.",
+    "Supported widow remarriage, women’s education, and upliftment of lower castes.",
+    "Started the Shuddhi Movement to reconvert Hindus who had converted to other religions.",
+    "Established the Dayanand Anglo-Vedic (DAV) schools and colleges to spread modern and Vedic education.",
+    "Laid cultural and ideological foundations for Hindu revivalism and nationalism."
+  ],
+  "detailsHindi": [
+    "1875 में बंबई में स्वामी दयानंद सरस्वती द्वारा स्थापित।",
+    "‘वेदों की ओर लौटो’ का नारा दिया और वैदिक धर्म की शुद्धता पर जोर दिया।",
+    "मूर्तिपूजा, जन्म आधारित जाति व्यवस्था, बाल विवाह और अस्पृश्यता का कड़ा विरोध किया।",
+    "विधवा पुनर्विवाह, महिला शिक्षा और निम्न जातियों के उत्थान का समर्थन किया।",
+    "शुद्धि आंदोलन की शुरुआत की ताकि अन्य धर्मों में गए हिंदुओं को पुनः वैदिक धर्म में लाया जा सके।",
+    "डेयानंद एंग्लो वैदिक (DAV) स्कूल और कॉलेज स्थापित किए ताकि आधुनिक और वैदिक शिक्षा फैलाई जा सके।",
+    "हिंदू पुनरुत्थान और राष्ट्रवाद के लिए सांस्कृतिक व वैचारिक आधार तैयार किया।"
+  ],
+  "table": {
+    "title": "Arya Samaj — Key Aspects",
+    "titleHindi": "आर्य समाज — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founder", "Swami Dayanand Saraswati (1875, Bombay)"],
+      ["Religious Ideas", "Return to Vedas, rejection of idol worship"],
+      ["Social Reform", "Opposed casteism, child marriage; supported widow remarriage, women’s education"],
+      ["Educational Work", "DAV schools and colleges blending modern and Vedic learning"],
+      ["Movement", "Shuddhi Movement for reconversion to Hinduism"],
+      ["Legacy", "Inspired nationalist spirit and Hindu social reforms"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "स्वामी दयानंद सरस्वती (1875, बंबई)"],
+      ["धार्मिक विचार", "वेदों की ओर लौटो; मूर्तिपूजा का विरोध"],
+      ["सामाजिक सुधार", "जातिवाद और बाल विवाह का विरोध; विधवा पुनर्विवाह और महिला शिक्षा का समर्थन"],
+      ["शैक्षणिक कार्य", "DAV स्कूल और कॉलेज जो आधुनिक व वैदिक शिक्षा का मेल थे"],
+      ["आंदोलन", "शुद्धि आंदोलन → हिंदुओं को पुनः वैदिक धर्म में लाना"],
+      ["विरासत", "राष्ट्रवादी भावना और हिंदू सुधार आंदोलनों को प्रेरणा दी"]
+    ]
+  },
+  "prelimsTips": [
+    "Arya Samaj founded in 1875 by Swami Dayanand Saraswati in Bombay.",
+    "Slogan: 'Back to the Vedas'.",
+    "Shuddhi Movement was an Arya Samaj initiative.",
+    "Established DAV institutions for education."
+  ],
+  "prelimsTipsHindi": [
+    "आर्य समाज की स्थापना 1875 में बंबई में स्वामी दयानंद सरस्वती ने की।",
+    "नारा: 'वेदों की ओर लौटो'।",
+    "शुद्धि आंदोलन आर्य समाज की पहल थी।",
+    "DAV संस्थान शिक्षा के लिए स्थापित किए।"
+  ],
+  "funFacts": [
+    "Swami Dayanand wrote the book *Satyarth Prakash* (The Light of Truth).",
+    "Arya Samaj rejected rituals and superstitions but used modern institutions like schools and print media.",
+    "Dayanand Saraswati died in 1883 after being poisoned in Jodhpur."
+  ],
+  "funFactsHindi": [
+    "स्वामी दयानंद ने *सत्यार्थ प्रकाश* (सत्य का प्रकाश) पुस्तक लिखी।",
+    "आर्य समाज ने अंधविश्वासों और आडंबरों का विरोध किया लेकिन आधुनिक संस्थाओं जैसे स्कूल और प्रिंट मीडिया का उपयोग किया।",
+    "स्वामी दयानंद सरस्वती की 1883 में जोधपुर में ज़हर दिए जाने से मृत्यु हो गई।"
+  ],
+  "mainsPoints": [
+    "Analyse Arya Samaj as both a reformist and revivalist movement in Hindu society.",
+    "Discuss how Arya Samaj contributed to women’s education, social equality, and nationalist thought.",
+    "Evaluate the role of DAV institutions in spreading both Vedic and modern education."
+  ],
+  "mainsPointsHindi": [
+    "आर्य समाज को हिंदू समाज में सुधारवादी और पुनरुत्थानवादी दोनों आंदोलन के रूप में विश्लेषित करें।",
+    "महिला शिक्षा, सामाजिक समानता और राष्ट्रवादी विचारों में आर्य समाज के योगदान पर चर्चा करें।",
+    "DAV संस्थानों की भूमिका का मूल्यांकन करें जिन्होंने वैदिक और आधुनिक शिक्षा दोनों को फैलाया।"
+  ],
+},
+{
+  "heading": "Ramakrishna Mission",
+  "headingHindi": "रामकृष्ण मिशन",
+  "highlight": "Founded in 1897 by Swami Vivekananda in honour of his guru Ramakrishna Paramhansa, the Mission emphasised practical Vedanta, service to humanity, education, and spiritual uplift. It became a major socio-religious reform and nationalist movement.",
+  "highlightHindi": "1897 में स्वामी विवेकानंद द्वारा अपने गुरु रामकृष्ण परमहंस के सम्मान में स्थापित, इस मिशन ने प्रायोगिक वेदांत, मानव सेवा, शिक्षा और आध्यात्मिक उत्थान पर जोर दिया। यह एक प्रमुख सामाजिक-धार्मिक सुधार और राष्ट्रवादी आंदोलन बना।",
+  "details": [
+    "Established by Swami Vivekananda in 1897 after his return from the World Parliament of Religions in Chicago (1893).",
+    "Inspired by the teachings of Ramakrishna Paramhansa who emphasised unity of all religions and spiritual realisation.",
+    "Motto: 'Atmano mokshartham jagat hitaya cha' (For one’s own salvation and for the welfare of the world).",
+    "Focused on practical Vedanta: service to humanity was seen as service to God.",
+    "Worked in the fields of education, health, relief work during famines, natural calamities, and social welfare.",
+    "Established schools, colleges, hospitals, rural development centres across India and abroad.",
+    "Promoted interfaith harmony, national awakening, and spiritual uplift of masses.",
+    "Created a global image of Hinduism as universal, rational, and humanistic."
+  ],
+  "detailsHindi": [
+    "1897 में स्वामी विवेकानंद ने शिकागो (1893) धर्म संसद से लौटने के बाद इसकी स्थापना की।",
+    "रामकृष्ण परमहंस की शिक्षाओं से प्रेरित, जिन्होंने सभी धर्मों की एकता और आत्मज्ञान पर जोर दिया।",
+    "सूत्र: 'आत्मनो मोक्षार्थं जगत हिताय च' (अपने मोक्ष और जगत के कल्याण के लिए)।",
+    "प्रायोगिक वेदांत पर बल: मानव सेवा को ईश्वर सेवा माना।",
+    "शिक्षा, स्वास्थ्य, अकाल और आपदा राहत, सामाजिक कल्याण के क्षेत्रों में कार्य।",
+    "भारत और विदेशों में विद्यालय, महाविद्यालय, अस्पताल और ग्रामीण विकास केंद्र स्थापित किए।",
+    "धर्मों में सामंजस्य, राष्ट्रीय जागरण और जन-आध्यात्मिक उत्थान को बढ़ावा दिया।",
+    "हिंदू धर्म की छवि को सार्वभौमिक, तर्कसंगत और मानवीय रूप में प्रस्तुत किया।"
+  ],
+  "table": {
+    "title": "Ramakrishna Mission — Key Aspects",
+    "titleHindi": "रामकृष्ण मिशन — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founder", "Swami Vivekananda (1897)"],
+      ["Guru Inspiration", "Teachings of Ramakrishna Paramhansa"],
+      ["Core Idea", "Practical Vedanta: Service to humanity = Service to God"],
+      ["Motto", "'Atmano mokshartham jagat hitaya cha'"],
+      ["Work", "Education, health, famine relief, rural uplift"],
+      ["Legacy", "Combined spirituality with nationalism; globalised Vedanta"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "स्वामी विवेकानंद (1897)"],
+      ["गुरु प्रेरणा", "रामकृष्ण परमहंस की शिक्षाएँ"],
+      ["मुख्य विचार", "प्रायोगिक वेदांत: मानव सेवा = ईश्वर सेवा"],
+      ["सूत्र", "'आत्मनो मोक्षार्थं जगत हिताय च'"],
+      ["कार्य", "शिक्षा, स्वास्थ्य, अकाल राहत, ग्रामीण उत्थान"],
+      ["विरासत", "आध्यात्मिकता और राष्ट्रवाद का संगम; वेदांत का वैश्वीकरण"]
+    ]
+  },
+  "prelimsTips": [
+    "Ramakrishna Mission founded in 1897 by Swami Vivekananda.",
+    "Motto: 'Atmano mokshartham jagat hitaya cha'.",
+    "Inspired by teachings of Ramakrishna Paramhansa.",
+    "Swami Vivekananda’s Chicago speech (1893) gave global recognition."
+  ],
+  "prelimsTipsHindi": [
+    "रामकृष्ण मिशन की स्थापना 1897 में स्वामी विवेकानंद ने की।",
+    "सूत्र: 'आत्मनो मोक्षार्थं जगत हिताय च'।",
+    "रामकृष्ण परमहंस की शिक्षाओं से प्रेरित।",
+    "स्वामी विवेकानंद का शिकागो भाषण (1893) विश्व स्तर पर प्रसिद्ध हुआ।"
+  ],
+  "funFacts": [
+    "Vivekananda wore saffron robes at the Chicago Parliament of Religions and began his speech with 'Sisters and Brothers of America', which received a standing ovation.",
+    "The Mission became one of the earliest modern NGOs, combining religion with social service.",
+    "It was among the first Indian movements to gain worldwide recognition."
+  ],
+  "funFactsHindi": [
+    "विवेकानंद ने शिकागो धर्म संसद में भगवा वस्त्र पहनकर 'अमेरिका की बहनों और भाइयों' से भाषण की शुरुआत की, जिस पर खड़े होकर तालियाँ बजाई गईं।",
+    "यह मिशन धर्म और सामाजिक सेवा को मिलाकर भारत के शुरुआती आधुनिक NGO जैसा बना।",
+    "यह भारत का पहला आंदोलन था जिसे वैश्विक मान्यता मिली।"
+  ],
+  "mainsPoints": [
+    "Discuss how the Ramakrishna Mission linked spirituality with practical service.",
+    "Analyse its contribution to education, health, and disaster relief in colonial India.",
+    "Evaluate its role in shaping modern Indian nationalism and India’s global image."
+  ],
+  "mainsPointsHindi": [
+    "रामकृष्ण मिशन ने आध्यात्मिकता और प्रायोगिक सेवा को कैसे जोड़ा, इस पर चर्चा करें।",
+    "औपनिवेशिक भारत में शिक्षा, स्वास्थ्य और आपदा राहत में इसके योगदान का विश्लेषण करें।",
+    "आधुनिक भारतीय राष्ट्रवाद और भारत की वैश्विक छवि के निर्माण में इसकी भूमिका का मूल्यांकन करें।"
+  ],
+},
+{
+  "heading": "Aligarh Movement",
+  "headingHindi": "अलीगढ़ आंदोलन",
+  "highlight": "Started by Sir Syed Ahmed Khan in 1875, the Aligarh Movement aimed at modernizing Muslim society through scientific education, rational thought, and social reform. It laid the foundation for Aligarh Muslim University.",
+  "highlightHindi": "1875 में सर सैयद अहमद खान द्वारा शुरू किया गया अलीगढ़ आंदोलन मुस्लिम समाज को वैज्ञानिक शिक्षा, तर्कपूर्ण विचार और सामाजिक सुधार के माध्यम से आधुनिक बनाने का प्रयास था। इसने अलीगढ़ मुस्लिम विश्वविद्यालय की नींव रखी।",
+  "details": [
+    "Sir Syed Ahmed Khan (1817–1898) founded the Muhammadan Anglo-Oriental (MAO) College at Aligarh in 1875, modeled on Oxford and Cambridge.",
+    "The college later became Aligarh Muslim University (AMU) in 1920.",
+    "Promoted modern scientific and English education among Muslims while retaining Islamic values.",
+    "Criticized blind orthodoxy and urged reinterpretation of Islam in the light of reason and science.",
+    "Advocated for social reforms like widow remarriage, female education, and discouragement of polygamy.",
+    "Established the Scientific Society (1864) for translation of modern works into Urdu.",
+    "Opposed participation in politics at that time; believed education should come first.",
+    "Created a modern educated Muslim middle class that played a role in India’s socio-political life."
+  ],
+  "detailsHindi": [
+    "सर सैयद अहमद खान (1817–1898) ने 1875 में अलीगढ़ में मोहम्मडन एंग्लो-ओरिएंटल (MAO) कॉलेज की स्थापना की, जो ऑक्सफोर्ड और कैम्ब्रिज के मॉडल पर आधारित था।",
+    "यह कॉलेज बाद में 1920 में अलीगढ़ मुस्लिम विश्वविद्यालय (AMU) बना।",
+    "मुसलमानों में आधुनिक वैज्ञानिक और अंग्रेज़ी शिक्षा का प्रचार किया, जबकि इस्लामी मूल्यों को भी बनाए रखा।",
+    "कट्टरपंथ का विरोध किया और इस्लाम को तर्क और विज्ञान की रोशनी में पुनः व्याख्यायित करने की वकालत की।",
+    "विधवा पुनर्विवाह, महिला शिक्षा और बहुविवाह को हतोत्साहित करने जैसे सामाजिक सुधारों का समर्थन किया।",
+    "1864 में वैज्ञानिक सोसायटी की स्थापना की ताकि आधुनिक ग्रंथों का उर्दू में अनुवाद हो सके।",
+    "उस समय राजनीति में भागीदारी का विरोध किया; उनका मानना था कि पहले शिक्षा आवश्यक है।",
+    "एक आधुनिक शिक्षित मुस्लिम मध्य वर्ग का निर्माण किया जिसने भारत के सामाजिक-राजनीतिक जीवन में भूमिका निभाई।"
+  ],
+  "table": {
+    "title": "Aligarh Movement — Key Aspects",
+    "titleHindi": "अलीगढ़ आंदोलन — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founder", "Sir Syed Ahmed Khan"],
+      ["Institution", "MAO College (1875), later AMU (1920)"],
+      ["Educational Aim", "Promote modern scientific and English education"],
+      ["Religious Approach", "Reinterpret Islam with reason and science"],
+      ["Social Reform", "Female education, widow remarriage, discourage polygamy"],
+      ["Legacy", "Created modern Muslim intelligentsia; foundation for AMU"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "सर सैयद अहमद खान"],
+      ["संस्थान", "एम.ए.ओ. कॉलेज (1875), बाद में ए.एम.यू. (1920)"],
+      ["शैक्षणिक उद्देश्य", "आधुनिक वैज्ञानिक और अंग्रेज़ी शिक्षा का प्रचार"],
+      ["धार्मिक दृष्टिकोण", "इस्लाम को तर्क और विज्ञान के साथ पुनः व्याख्यायित करना"],
+      ["सामाजिक सुधार", "महिला शिक्षा, विधवा पुनर्विवाह, बहुविवाह को हतोत्साहित करना"],
+      ["विरासत", "आधुनिक मुस्लिम शिक्षित वर्ग का निर्माण; ए.एम.यू. की नींव"]
+    ]
+  },
+  "prelimsTips": [
+    "Aligarh Movement started by Sir Syed Ahmed Khan in 1875.",
+    "MAO College → became AMU in 1920.",
+    "Scientific Society (1864) translated works into Urdu.",
+    "He opposed politics initially, focusing on education first."
+  ],
+  "prelimsTipsHindi": [
+    "अलीगढ़ आंदोलन की शुरुआत 1875 में सर सैयद अहमद खान ने की।",
+    "एम.ए.ओ. कॉलेज → 1920 में ए.एम.यू. बना।",
+    "वैज्ञानिक सोसायटी (1864) ने ग्रंथों का उर्दू में अनुवाद किया।",
+    "उन्होंने शुरू में राजनीति का विरोध किया और पहले शिक्षा पर बल दिया।"
+  ],
+  "funFacts": [
+    "Sir Syed is considered the 'Architect of Modern Muslim Education' in India.",
+    "He promoted Urdu as a unifying language for Indian Muslims.",
+    "He faced criticism from orthodox sections but persisted with reform."
+  ],
+  "funFactsHindi": [
+    "सर सैयद को भारत में 'आधुनिक मुस्लिम शिक्षा का शिल्पकार' कहा जाता है।",
+    "उन्होंने उर्दू को भारतीय मुसलमानों की एकता की भाषा के रूप में बढ़ावा दिया।",
+    "उन्हें कट्टरपंथियों की आलोचना झेलनी पड़ी लेकिन वे सुधार पर अड़े रहे।"
+  ],
+  "mainsPoints": [
+    "Discuss how the Aligarh Movement modernised Muslim society through education.",
+    "Analyse the long-term impact of MAO College/AMU on Indian politics and society.",
+    "Evaluate Sir Syed’s role as a reformer who balanced tradition with modernity."
+  ],
+  "mainsPointsHindi": [
+    "चर्चा करें कि अलीगढ़ आंदोलन ने शिक्षा के माध्यम से मुस्लिम समाज का आधुनिकीकरण कैसे किया।",
+    "एम.ए.ओ. कॉलेज/ए.एम.यू. के भारतीय राजनीति और समाज पर दीर्घकालिक प्रभाव का विश्लेषण करें।",
+    "सर सैयद की भूमिका का मूल्यांकन करें कि उन्होंने परंपरा और आधुनिकता में कैसे संतुलन बनाया।"
+  ],
+},
+{
+  "heading": "Satya Shodhak Samaj",
+  "headingHindi": "सत्यशोधक समाज",
+  "highlight": "Founded by Jyotiba Phule in 1873, the Satya Shodhak Samaj worked for the upliftment of lower castes, women’s education, and social justice, challenging the dominance of Brahmanical orthodoxy.",
+  "highlightHindi": "ज्योतिबा फुले ने 1873 में सत्यशोधक समाज की स्थापना की, जिसने निम्न जातियों के उत्थान, महिला शिक्षा और सामाजिक न्याय के लिए कार्य किया और ब्राह्मणवादी प्रभुत्व को चुनौती दी।",
+  "details": [
+    "Jyotiba Phule (1827–1890) was one of the earliest social reformers to openly challenge caste hierarchy.",
+    "In 1873, he founded Satya Shodhak Samaj (‘Truth Seekers’ Society’) in Pune.",
+    "Its aim was to secure social justice for backward castes, untouchables, and women.",
+    "Worked against untouchability, priestly dominance, and caste-based discrimination.",
+    "Phule strongly opposed child marriage and supported widow remarriage.",
+    "His wife, Savitribai Phule, was India’s first female teacher and pioneered girls’ education.",
+    "The Samaj conducted rituals without Brahmin priests to challenge caste monopoly.",
+    "Phule wrote the book *Gulamgiri* (Slavery), comparing caste oppression with slavery in America.",
+    "The movement later influenced anti-caste struggles and leaders like Dr. B.R. Ambedkar."
+  ],
+  "detailsHindi": [
+    "ज्योतिबा फुले (1827–1890) शुरुआती समाज सुधारकों में से थे जिन्होंने खुले रूप से जाति व्यवस्था को चुनौती दी।",
+    "1873 में उन्होंने पुणे में सत्यशोधक समाज (‘सत्य की खोज करने वालों का समाज’) की स्थापना की।",
+    "इसका उद्देश्य पिछड़ी जातियों, अछूतों और महिलाओं के लिए सामाजिक न्याय सुनिश्चित करना था।",
+    "संगठन ने अस्पृश्यता, पुरोहित वर्ग के वर्चस्व और जाति-आधारित भेदभाव के खिलाफ कार्य किया।",
+    "फुले ने बाल विवाह का विरोध किया और विधवा पुनर्विवाह का समर्थन किया।",
+    "उनकी पत्नी सावित्रीबाई फुले भारत की पहली महिला शिक्षिका थीं और लड़कियों की शिक्षा की अग्रणी बनीं।",
+    "समाज ने ब्राह्मण पुजारियों के बिना ही विवाह और अन्य अनुष्ठान कराए ताकि जाति वर्चस्व को चुनौती दी जा सके।",
+    "फुले ने *गुलामगिरी* नामक पुस्तक लिखी जिसमें उन्होंने जातिगत उत्पीड़न की तुलना अमेरिका की गुलामी से की।",
+    "यह आंदोलन आगे चलकर डॉ. भीमराव आंबेडकर जैसे नेताओं के जातिविरोधी संघर्षों को प्रभावित किया।"
+  ],
+  "table": {
+    "title": "Satya Shodhak Samaj — Key Aspects",
+    "titleHindi": "सत्यशोधक समाज — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founder", "Jyotiba Phule (1873)"],
+      ["Aim", "Social justice for lower castes, women, and oppressed groups"],
+      ["Social Reform", "Opposed child marriage, supported widow remarriage and women’s education"],
+      ["Challenge to Caste", "Performed rituals without Brahmin priests"],
+      ["Important Work", "Book *Gulamgiri* (1873) compared caste system to slavery"],
+      ["Legacy", "Inspired anti-caste and Dalit movements; influenced Dr. Ambedkar"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "ज्योतिबा फुले (1873)"],
+      ["उद्देश्य", "निम्न जातियों, महिलाओं और शोषित वर्गों के लिए सामाजिक न्याय"],
+      ["सामाजिक सुधार", "बाल विवाह का विरोध; विधवा पुनर्विवाह और महिला शिक्षा का समर्थन"],
+      ["जाति को चुनौती", "बिना ब्राह्मण पुजारियों के अनुष्ठान संपन्न कराए"],
+      ["महत्वपूर्ण कृति", "पुस्तक *गुलामगिरी* (1873) जिसमें जाति व्यवस्था की तुलना गुलामी से की गई"],
+      ["विरासत", "दलित और जातिविरोधी आंदोलनों को प्रेरित किया; डॉ. आंबेडकर को प्रभावित किया"]
+    ]
+  },
+  "prelimsTips": [
+    "Satya Shodhak Samaj founded in 1873 at Pune by Jyotiba Phule.",
+    "Savitribai Phule = first woman teacher of India.",
+    "*Gulamgiri* (1873) = compared caste system to slavery.",
+    "Samaj conducted rituals without Brahmins."
+  ],
+  "prelimsTipsHindi": [
+    "सत्यशोधक समाज की स्थापना 1873 में पुणे में ज्योतिबा फुले ने की।",
+    "सावित्रीबाई फुले = भारत की पहली महिला शिक्षिका।",
+    "*गुलामगिरी* (1873) = जाति व्यवस्था की तुलना गुलामी से।",
+    "समाज ने ब्राह्मणों के बिना अनुष्ठान कराए।"
+  ],
+  "funFacts": [
+    "Jyotiba Phule and Savitribai opened the first girls’ school in Pune (1848).",
+    "Phule dedicated his book *Gulamgiri* to the American abolitionists who fought against slavery.",
+    "Phule is often regarded as 'Mahatma' for his social justice work."
+  ],
+  "funFactsHindi": [
+    "ज्योतिबा और सावित्रीबाई ने 1848 में पुणे में पहला कन्या विद्यालय खोला।",
+    "फुले ने अपनी पुस्तक *गुलामगिरी* अमेरिकी दासप्रथा विरोधियों को समर्पित की।",
+    "फुले को उनके सामाजिक न्याय कार्यों के लिए 'महात्मा' कहा जाता है।"
+  ],
+  "mainsPoints": [
+    "Analyse how Satya Shodhak Samaj challenged Brahmanical dominance and promoted equality.",
+    "Evaluate the role of Jyotiba and Savitribai Phule in pioneering women’s education.",
+    "Discuss the long-term impact of this movement on Dalit and backward class politics."
+  ],
+  "mainsPointsHindi": [
+    "विश्लेषण करें कि सत्यशोधक समाज ने ब्राह्मणवादी प्रभुत्व को कैसे चुनौती दी और समानता को बढ़ावा दिया।",
+    "ज्योतिबा और सावित्रीबाई फुले की महिला शिक्षा में अग्रणी भूमिका का मूल्यांकन करें।",
+    "इस आंदोलन का दलित और पिछड़े वर्ग की राजनीति पर दीर्घकालिक प्रभाव पर चर्चा करें।"
+  ],
+  "image": "jyotiba_phule.jpg"
+},
+{
+  "heading": "Theosophical Society",
+  "headingHindi": "थियोसोफिकल सोसाइटी",
+  "highlight": "The Theosophical Society, revived in India by Annie Besant in 1879, promoted universal brotherhood, revival of Hindu and Buddhist philosophies, women’s education, and contributed to the nationalist movement.",
+  "highlightHindi": "थियोसोफिकल सोसाइटी, जिसका पुनरुद्धार 1879 में एनी बेसेंट द्वारा भारत में किया गया, ने सर्वभ्रातृत्व, हिंदू और बौद्ध दर्शन के पुनरुद्धार, महिला शिक्षा और राष्ट्रवादी आंदोलन में योगदान को बढ़ावा दिया।",
+  "details": [
+    "The Theosophical Society was originally founded in New York (1875) by Madame H.P. Blavatsky and Colonel Olcott.",
+    "In 1879, its headquarters shifted to Adyar, Madras (Chennai).",
+    "Annie Besant, an Irish social reformer, became its most famous leader in India.",
+    "It promoted revival of ancient religions — especially Hinduism and Buddhism — against colonial disdain.",
+    "Stressed universal brotherhood, comparative study of religions, and spiritual advancement.",
+    "Strongly supported women’s education and social reform.",
+    "Annie Besant became President of Indian National Congress in 1917 (first woman president).",
+    "She also launched the Home Rule Movement in 1916 along with B.G. Tilak.",
+    "Theosophy blended Indian spirituality with Western interest in mysticism and science."
+  ],
+  "detailsHindi": [
+    "थियोसोफिकल सोसाइटी की स्थापना मूल रूप से न्यूयॉर्क (1875) में मैडम एच.पी. ब्लावात्स्की और कर्नल ऑल्कॉट द्वारा की गई।",
+    "1879 में इसका मुख्यालय अडियार, मद्रास (चेन्नई) में स्थानांतरित हुआ।",
+    "आयरलैंड की सामाजिक सुधारक एनी बेसेंट भारत में इसकी सबसे प्रसिद्ध नेता बनीं।",
+    "इसने प्राचीन धर्मों — विशेषकर हिंदू धर्म और बौद्ध धर्म — के पुनरुद्धार को औपनिवेशिक उपेक्षा के खिलाफ बढ़ावा दिया।",
+    "सर्वभ्रातृत्व, धर्मों के तुलनात्मक अध्ययन और आध्यात्मिक प्रगति पर बल दिया।",
+    "महिला शिक्षा और सामाजिक सुधार का समर्थन किया।",
+    "एनी बेसेंट 1917 में भारतीय राष्ट्रीय कांग्रेस की अध्यक्ष बनीं (पहली महिला अध्यक्ष)।",
+    "उन्होंने 1916 में बाल गंगाधर तिलक के साथ होमरूल आंदोलन भी शुरू किया।",
+    "थियोसोफी ने भारतीय आध्यात्मिकता को पश्चिमी रहस्यवाद और विज्ञान में रुचि के साथ जोड़ा।"
+  ],
+  "table": {
+    "title": "Theosophical Society — Key Aspects",
+    "titleHindi": "थियोसोफिकल सोसाइटी — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Origin", "Founded in New York (1875) by Blavatsky & Olcott"],
+      ["Shift to India", "Headquarters at Adyar, Madras (1879)"],
+      ["Leader in India", "Annie Besant"],
+      ["Philosophy", "Universal brotherhood, revival of Hindu & Buddhist thought"],
+      ["Political role", "Besant → INC President (1917), Home Rule Movement"]
+    ],
+    "rowsHindi": [
+      ["उत्पत्ति", "1875 में न्यूयॉर्क में ब्लावात्स्की और ऑल्कॉट द्वारा स्थापित"],
+      ["भारत में स्थानांतरण", "1879 में अडियार, मद्रास में मुख्यालय"],
+      ["भारतीय नेता", "एनी बेसेंट"],
+      ["दर्शन", "सर्वभ्रातृत्व, हिंदू और बौद्ध चिंतन का पुनरुद्धार"],
+      ["राजनीतिक भूमिका", "बेसेंट → कांग्रेस अध्यक्ष (1917), होमरूल आंदोलन"]
+    ]
+  },
+  "prelimsTips": [
+    "HQ of Theosophical Society → Adyar, Madras (1879).",
+    "Founder → Madame Blavatsky & Colonel Olcott (NY, 1875).",
+    "Annie Besant → First woman President of INC (1917).",
+    "Besant also started the Home Rule Movement (1916)."
+  ],
+  "prelimsTipsHindi": [
+    "थियोसोफिकल सोसाइटी का मुख्यालय → अडियार, मद्रास (1879)।",
+    "संस्थापक → मैडम ब्लावात्स्की और कर्नल ऑल्कॉट (न्यूयॉर्क, 1875)।",
+    "एनी बेसेंट → कांग्रेस की पहली महिला अध्यक्ष (1917)।",
+    "बेसेंट ने 1916 में होमरूल आंदोलन शुरू किया।"
+  ],
+  "funFacts": [
+    "Annie Besant was once a socialist and atheist in Britain before turning to theosophy.",
+    "The Adyar Library and Research Centre, established by the Society, holds rare manuscripts in Sanskrit, Pali, and other languages.",
+    "Theosophical Society influenced Indian leaders like Gandhi, Nehru, and Rukmini Devi Arundale."
+  ],
+  "funFactsHindi": [
+    "एनी बेसेंट ब्रिटेन में कभी समाजवादी और नास्तिक थीं, बाद में थियोसोफी की ओर मुड़ीं।",
+    "सोसाइटी द्वारा स्थापित अडियार पुस्तकालय और अनुसंधान केंद्र में संस्कृत, पाली और अन्य भाषाओं की दुर्लभ पांडुलिपियाँ हैं।",
+    "थियोसोफिकल सोसाइटी ने गांधी, नेहरू और रुक्मिणी देवी अरुंडेल जैसे भारतीय नेताओं को प्रभावित किया।"
+  ],
+  "mainsPoints": [
+    "Analyse the role of the Theosophical Society in cultural revival and political awakening.",
+    "Discuss how Annie Besant linked spiritual revivalism with the nationalist cause.",
+    "Evaluate its impact on women’s education and Indian philosophy’s global reach."
+  ],
+  "mainsPointsHindi": [
+    "सांस्कृतिक पुनरुद्धार और राजनीतिक जागरण में थियोसोफिकल सोसाइटी की भूमिका का विश्लेषण करें।",
+    "चर्चा करें कि एनी बेसेंट ने आध्यात्मिक पुनरुद्धार को राष्ट्रवादी आंदोलन से कैसे जोड़ा।",
+    "महिला शिक्षा और भारतीय दर्शन के वैश्विक प्रसार पर इसके प्रभाव का मूल्यांकन करें।"
+  ],
+  "image": "annie_besant.jpg"
+},
+{
+  "heading": "Young Bengal Movement",
+  "headingHindi": "यंग बंगाल आंदोलन",
+  "highlight": "The Young Bengal Movement, led by Henry Louis Vivian Derozio in the 1820s–1830s, was a radical socio-intellectual reform initiative in Calcutta that promoted rationalism, liberty, women’s education, and criticism of orthodox traditions.",
+  "highlightHindi": "यंग बंगाल आंदोलन, जिसका नेतृत्व 1820–1830 के दशक में हेनरी विवियन डेरोज़ियो ने किया, कलकत्ता में एक क्रांतिकारी सामाजिक-बौद्धिक सुधार पहल थी, जिसने तर्कवाद, स्वतंत्रता, महिला शिक्षा और परंपरागत रूढ़ियों की आलोचना को बढ़ावा दिया।",
+  "details": [
+    "Founded by Henry Louis Vivian Derozio (1809–1831), a teacher at Hindu College, Calcutta.",
+    "His followers were known as 'Derozians'.",
+    "Inspired by European Enlightenment, French Revolution, and liberal philosophy.",
+    "Promoted freedom of thought, individual liberty, equality, and opposition to caste-based discrimination.",
+    "Supported women’s education and emancipation.",
+    "Introduced debates, associations, and journals for spreading reform ideas.",
+    "Movement remained largely confined to Calcutta’s educated youth and did not reach the masses.",
+    "Though short-lived due to Derozio’s early death, it sowed seeds of rationalism in Indian society."
+  ],
+  "detailsHindi": [
+    "इसकी स्थापना हेनरी विवियन डेरोज़ियो (1809–1831) ने की, जो कलकत्ता के हिंदू कॉलेज में शिक्षक थे।",
+    "उनके अनुयायी 'डेरोज़ियन्स' कहलाते थे।",
+    "यह आंदोलन यूरोपीय प्रबोधन, फ्रांसीसी क्रांति और उदारवादी दर्शन से प्रेरित था।",
+    "इसने स्वतंत्र विचार, व्यक्तिगत स्वतंत्रता, समानता और जातिगत भेदभाव के विरोध को बढ़ावा दिया।",
+    "महिला शिक्षा और मुक्ति का समर्थन किया।",
+    "सुधार विचार फैलाने के लिए वाद-विवाद, संघ और पत्रिकाएँ शुरू कीं।",
+    "आंदोलन मुख्यतः कलकत्ता के शिक्षित युवाओं तक ही सीमित रहा और जनता तक नहीं पहुंच पाया।",
+    "डेरोज़ियो की अल्पायु मृत्यु के कारण आंदोलन अल्पकालिक रहा, पर इसने भारतीय समाज में तर्कवाद के बीज बोए।"
+  ],
+  "table": {
+    "title": "Young Bengal Movement — Key Aspects",
+    "titleHindi": "यंग बंगाल आंदोलन — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founder", "Henry Louis Vivian Derozio"],
+      ["Time period", "1820s–1830s"],
+      ["Followers", "Known as Derozians"],
+      ["Philosophy", "Inspired by Enlightenment & French Revolution"],
+      ["Key Reforms", "Promoted rationalism, women’s education, liberty, equality"],
+      ["Limitation", "Confined to Calcutta’s urban elite youth"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "हेनरी विवियन डेरोज़ियो"],
+      ["समय अवधि", "1820–1830 के दशक"],
+      ["अनुयायी", "डेरोज़ियन्स कहलाए"],
+      ["दर्शन", "प्रबोधन और फ्रांसीसी क्रांति से प्रेरित"],
+      ["मुख्य सुधार", "तर्कवाद, महिला शिक्षा, स्वतंत्रता और समानता का प्रचार"],
+      ["सीमा", "कलकत्ता के शहरी शिक्षित युवाओं तक सीमित"]
+    ]
+  },
+  "prelimsTips": [
+    "Henry Derozio → leader of Young Bengal Movement.",
+    "Followers called Derozians.",
+    "Linked with Hindu College, Calcutta.",
+    "Inspired by French Revolution and Enlightenment ideals."
+  ],
+  "prelimsTipsHindi": [
+    "हेनरी डेरोज़ियो → यंग बंगाल आंदोलन के नेता।",
+    "अनुयायी डेरोज़ियन्स कहलाए।",
+    "हिंदू कॉलेज, कलकत्ता से जुड़ा।",
+    "फ्रांसीसी क्रांति और प्रबोधन से प्रेरित।"
+  ],
+  "funFacts": [
+    "Derozio was only 22 years old when he died of cholera, yet left a huge intellectual impact.",
+    "He introduced debates and free-thinking clubs in Calcutta for students.",
+    "The movement is sometimes called 'Young India Movement'."
+  ],
+  "funFactsHindi": [
+    "डेरोज़ियो मात्र 22 वर्ष की आयु में हैजा से मृत्यु को प्राप्त हुए, लेकिन उन्होंने गहरा बौद्धिक प्रभाव छोड़ा।",
+    "उन्होंने कलकत्ता में छात्रों के लिए वाद-विवाद और स्वतंत्र चिंतन क्लब शुरू किए।",
+    "इस आंदोलन को कभी-कभी 'यंग इंडिया आंदोलन' भी कहा जाता है।"
+  ],
+  "mainsPoints": [
+    "The movement reflected early radical socio-political thought in colonial India.",
+    "Though limited in reach, it challenged orthodoxy and promoted rationalism.",
+    "It created a base for later reform movements and nationalist thought."
+  ],
+  "mainsPointsHindi": [
+    "यह आंदोलन औपनिवेशिक भारत में प्रारंभिक क्रांतिकारी सामाजिक-राजनीतिक चिंतन को दर्शाता है।",
+    "हालांकि इसकी पहुँच सीमित रही, पर इसने रूढ़िवाद को चुनौती दी और तर्कवाद को बढ़ावा दिया।",
+    "इसने आगे के सुधार आंदोलनों और राष्ट्रवादी विचारों की नींव रखी।"
+  ],
+},
+{
+  "heading": "Paramahansa Mandali",
+  "headingHindi": "परमहंस मंडली",
+  "highlight": "The Paramahansa Mandali was one of the earliest secret socio-religious reform societies founded in 1849 in Maharashtra, aimed at promoting equality, rationalism, and opposition to caste-based discrimination.",
+  "highlightHindi": "परमहंस मंडली 1849 में महाराष्ट्र में स्थापित प्रारंभिक गुप्त सामाजिक-धार्मिक सुधार संस्थाओं में से एक थी, जिसका उद्देश्य समानता, तर्कवाद और जातिगत भेदभाव का विरोध था।",
+  "details": [
+    "Founded in 1849 at Bombay (Mumbai) by Dadoba Pandurang, Mehtaji Durgaram, and a group of reformist friends.",
+    "Aimed to promote equality among all religions and castes, rejecting caste hierarchies.",
+    "Strongly opposed untouchability, child marriage, and rigid caste restrictions.",
+    "Encouraged widow remarriage and women’s education.",
+    "Promoted eating together (inter-dining) as a symbol of equality — revolutionary at that time.",
+    "Met secretly due to social opposition; members took an oath to believe in one God and treat all humans equally.",
+    "Although short-lived, it inspired later reformist organizations like Prarthana Samaj."
+  ],
+  "detailsHindi": [
+    "1849 में बंबई (मुंबई) में दादोबा पांडुरंग, मेहताजी दुर्गाराम और सुधारवादी मित्रों द्वारा स्थापित।",
+    "सभी धर्मों और जातियों में समानता को बढ़ावा देना और जातिगत पदानुक्रम को अस्वीकार करना इसका उद्देश्य था।",
+    "अछूत प्रथा, बाल विवाह और कठोर जातिगत प्रतिबंधों का विरोध किया।",
+    "विधवा पुनर्विवाह और महिला शिक्षा का समर्थन किया।",
+    "समानता के प्रतीक के रूप में साथ भोजन (सहभोज) को बढ़ावा दिया — उस समय यह क्रांतिकारी कदम था।",
+    "सामाजिक विरोध के कारण बैठकें गुप्त रूप से होती थीं; सदस्य एक ईश्वर में विश्वास और सभी मनुष्यों को समान मानने की शपथ लेते थे।",
+    "हालांकि यह अल्पकालिक रहा, लेकिन इसने प्रार्थना समाज जैसी बाद की सुधार संस्थाओं को प्रेरित किया।"
+  ],
+  "table": {
+    "title": "Paramahansa Mandali — Key Aspects",
+    "titleHindi": "परमहंस मंडली — मुख्य पहलू",
+    "columns": ["Aspect", "Explanation"],
+    "columnsHindi": ["पहलू", "व्याख्या"],
+    "rows": [
+      ["Founded", "1849, Bombay (Mumbai)"],
+      ["Leaders", "Dadoba Pandurang, Mehtaji Durgaram"],
+      ["Beliefs", "One God, equality of all humans"],
+      ["Reforms", "Opposed caste, supported widow remarriage & women’s education"],
+      ["Practices", "Inter-dining to break caste barriers"],
+      ["Legacy", "Inspired later reformist movements like Prarthana Samaj"]
+    ],
+    "rowsHindi": [
+      ["स्थापना", "1849, बंबई (मुंबई)"],
+      ["नेता", "दादोबा पांडुरंग, मेहताजी दुर्गाराम"],
+      ["विश्वास", "एक ईश्वर, सभी मनुष्यों की समानता"],
+      ["सुधार", "जातिवाद का विरोध, विधवा पुनर्विवाह और महिला शिक्षा का समर्थन"],
+      ["प्रथाएँ", "जाति अवरोध तोड़ने के लिए सहभोज"],
+      ["विरासत", "प्रार्थना समाज जैसे आगे के सुधार आंदोलनों को प्रेरित किया"]
+    ]
+  },
+  "prelimsTips": [
+    "Paramahansa Mandali founded in 1849 in Bombay.",
+    "Leaders: Dadoba Pandurang and Mehtaji Durgaram.",
+    "Encouraged inter-dining → symbol of equality.",
+    "Precursor to Prarthana Samaj."
+  ],
+  "prelimsTipsHindi": [
+    "परमहंस मंडली 1849 में बंबई में स्थापित।",
+    "नेता: दादोबा पांडुरंग और मेहताजी दुर्गाराम।",
+    "समानता के प्रतीक के रूप में सहभोज को बढ़ावा दिया।",
+    "प्रार्थना समाज की पूर्ववर्ती संस्था।"
+  ],
+  "funFacts": [
+    "Members used to take a secret oath before joining.",
+    "Inter-dining practice shocked orthodox society in mid-19th century.",
+    "Though small in scale, it was one of the first attempts at organized social reform in India."
+  ],
+  "funFactsHindi": [
+    "सदस्य बनने से पहले गुप्त शपथ ली जाती थी।",
+    "सहभोज की प्रथा ने 19वीं सदी के मध्य में रूढ़िवादी समाज को चौंका दिया।",
+    "हालांकि पैमाना छोटा था, पर यह भारत में संगठित सामाजिक सुधार का पहला प्रयास था।"
+  ],
+  "mainsPoints": [
+    "Paramahansa Mandali was a pioneering attempt at organized reform before larger movements like Brahmo or Prarthana Samaj.",
+    "It attacked caste and promoted women’s uplift at a time when these issues were highly sensitive.",
+    "Though limited and short-lived, its radical practices paved the way for later socio-religious reform in Maharashtra and beyond."
+  ],
+  "mainsPointsHindi": [
+    "परमहंस मंडली, ब्रह्म समाज या प्रार्थना समाज जैसे बड़े आंदोलनों से पहले संगठित सुधार का अग्रणी प्रयास थी।",
+    "इसने उस समय जाति और महिला उत्थान जैसे संवेदनशील मुद्दों पर प्रहार किया।",
+    "हालांकि इसका दायरा सीमित और अल्पकालिक था, लेकिन इसकी क्रांतिकारी प्रथाओं ने महाराष्ट्र और आगे के सामाजिक-धार्मिक सुधार का मार्ग प्रशस्त किया।"
+  ],
+},
+{
+  "heading": "Ishwar Chandra Vidyasagar",
+  "headingHindi": "ईश्वरचंद्र विद्यासागर",
+  "highlight": "Ishwar Chandra Vidyasagar (1820–1891) was a leading Bengali reformer, educator, and social activist known for his role in promoting widow remarriage, women's education, and modernising Bengali prose.",
+  "highlightHindi": "ईश्वरचंद्र विद्यासागर (1820–1891) एक प्रमुख बंगाली सुधारक, शिक्षाविद और सामाजिक कार्यकर्ता थे, जो विधवा पुनर्विवाह, महिला शिक्षा और आधुनिक बंगाली गद्य के लिए जाने जाते हैं।",
+  "details": [
+    "Born in 1820 in a poor Brahmin family in Bengal; overcame hardships to excel in education at Sanskrit College, Calcutta.",
+    "Reformed Sanskrit education by introducing Western logic, philosophy, and science.",
+    "Pioneered Bengali prose writing → simplified and modernised language for education and communication.",
+    "Strong advocate of women’s education; helped establish schools for girls in Bengal.",
+    "Instrumental in passage of the Hindu Widows’ Remarriage Act (1856) despite opposition from orthodox sections.",
+    "Opposed child marriage and polygamy; campaigned for upliftment of women.",
+    "Served as principal of Sanskrit College; promoted curriculum reform and vernacular medium.",
+    "Remembered as ‘Dayar Sagar’ (Ocean of Compassion) for his kindness and philanthropy."
+  ],
+  "detailsHindi": [
+    "1820 में बंगाल के एक गरीब ब्राह्मण परिवार में जन्म; कठिनाइयों के बावजूद कलकत्ता संस्कृत कॉलेज में शिक्षा में उत्कृष्टता हासिल की।",
+    "संस्कृत शिक्षा में सुधार किया और पाश्चात्य तर्क, दर्शन और विज्ञान को शामिल किया।",
+    "बंगाली गद्य लेखन के अग्रणी → भाषा को सरल और आधुनिक बनाया।",
+    "महिला शिक्षा के प्रबल समर्थक; बंगाल में कन्या विद्यालयों की स्थापना में मदद की।",
+    "कठोर विरोध के बावजूद हिन्दू विधवा पुनर्विवाह अधिनियम (1856) पारित करवाने में महत्वपूर्ण भूमिका निभाई।",
+    "बाल विवाह और बहुपत्नी प्रथा का विरोध किया; महिला उत्थान के लिए कार्य किया।",
+    "संस्कृत कॉलेज के प्राचार्य रहे; पाठ्यक्रम सुधार और मातृभाषा माध्यम को बढ़ावा दिया।",
+    "दयालुता और परोपकार के कारण ‘दयार सागर’ (करुणा का सागर) कहे जाते हैं।"
+  ],
+  "table": {
+    "title": "Key Contributions of Ishwar Chandra Vidyasagar",
+    "titleHindi": "ईश्वरचंद्र विद्यासागर के प्रमुख योगदान",
+    "columns": ["Contribution", "Details"],
+    "columnsHindi": ["योगदान", "विवरण"],
+    "rows": [
+      ["Widow Remarriage", "Instrumental in Hindu Widows' Remarriage Act, 1856"],
+      ["Women’s Education", "Established many girls’ schools in Bengal"],
+      ["Educational Reform", "Principal of Sanskrit College; modernised curriculum"],
+      ["Bengali Prose", "Simplified and modernised Bengali prose writing"],
+      ["Social Reform", "Opposed child marriage and polygamy"]
+    ],
+    "rowsHindi": [
+      ["विधवा पुनर्विवाह", "हिन्दू विधवा पुनर्विवाह अधिनियम (1856) में महत्वपूर्ण भूमिका"],
+      ["महिला शिक्षा", "बंगाल में कई कन्या विद्यालयों की स्थापना"],
+      ["शैक्षिक सुधार", "संस्कृत कॉलेज के प्राचार्य; पाठ्यक्रम का आधुनिकीकरण"],
+      ["बंगाली गद्य", "बंगाली गद्य को सरल और आधुनिक बनाया"],
+      ["सामाजिक सुधार", "बाल विवाह और बहुपत्नी प्रथा का विरोध"]
+    ]
+  },
+  "prelimsTips": [
+    "Hindu Widows' Remarriage Act passed in 1856 due to Vidyasagar’s efforts.",
+    "Known as ‘Dayar Sagar’ (Ocean of Compassion).",
+    "Key figure in promoting modern Bengali prose.",
+    "Principal of Sanskrit College, Calcutta."
+  ],
+  "prelimsTipsHindi": [
+    "हिन्दू विधवा पुनर्विवाह अधिनियम 1856 विद्यासागर के प्रयासों से पारित हुआ।",
+    "‘दयार सागर’ (करुणा का सागर) के नाम से प्रसिद्ध।",
+    "आधुनिक बंगाली गद्य के प्रवर्तक।",
+    "कलकत्ता संस्कृत कॉलेज के प्राचार्य।"
+  ],
+  "funFacts": [
+    "Vidyasagar walked miles barefoot to study in Calcutta due to poverty.",
+    "He simplified the Bengali alphabet and typeface, making printing easier.",
+    "His compassion and philanthropy earned him legendary respect among common people."
+  ],
+  "funFactsHindi": [
+    "गरीबी के कारण विद्यासागर ने कलकत्ता में पढ़ाई करने के लिए नंगे पाँव मीलों चले।",
+    "उन्होंने बंगाली वर्णमाला और टाइपफेस को सरल बनाया, जिससे मुद्रण आसान हुआ।",
+    "दयालुता और परोपकार के कारण आम जनता में अत्यधिक सम्मान प्राप्त किया।"
+  ],
+  "mainsPoints": [
+    "Vidyasagar’s role was pivotal in combining education reform with social reform.",
+    "He represents the rational-humanist strand of the 19th-century reform movement.",
+    "His emphasis on women’s education and widow remarriage challenged deep-rooted traditions.",
+    "His reforms were part of the Bengal Renaissance that shaped modern India."
+  ],
+  "mainsPointsHindi": [
+    "शिक्षा सुधार और सामाजिक सुधार को मिलाने में विद्यासागर की भूमिका महत्वपूर्ण थी।",
+    "वे 19वीं सदी के सुधार आंदोलन के तर्कवादी-मानवतावादी प्रवाह का प्रतिनिधित्व करते हैं।",
+    "महिला शिक्षा और विधवा पुनर्विवाह पर उनका जोर गहरी परंपराओं को चुनौती देता था।",
+    "उनके सुधार बंगाल पुनर्जागरण का हिस्सा थे जिसने आधुनिक भारत को आकार दिया।"
+  ],
+  "image": "ishwar_chandra_vidyasagar.jpg"
+},
+{
+  "heading": "Sikh Reform Movements",
+  "headingHindi": "सिख सुधार आंदोलन",
+  "highlight": "In the late 19th century, Sikh reform movements such as the Singh Sabha and Akali Movement aimed to revive Sikh identity, purify religious practices, and resist missionary and colonial influence.",
+  "highlightHindi": "19वीं सदी के उत्तरार्ध में सिंह सभा और अकाली आंदोलन जैसे सिख सुधार आंदोलनों का उद्देश्य सिख पहचान का पुनरुद्धार, धार्मिक प्रथाओं की शुद्धि और मिशनरी तथा औपनिवेशिक प्रभाव का विरोध था।",
+  "details": [
+    "After the fall of the Sikh Empire (1849), Sikhs faced a crisis of identity under British rule.",
+    "Christian missionaries and Arya Samaj reformers tried to convert or influence Sikhs, leading to a sense of cultural threat.",
+    "Singh Sabha Movement (founded 1873 in Amritsar, later Lahore) sought to revive Sikh religion on basis of Guru Granth Sahib and Khalsa ideals.",
+    "Promoted Sikh education by establishing Khalsa schools and colleges (e.g., Khalsa College, Amritsar, 1892).",
+    "Encouraged publication of Sikh literature, newspapers, and use of Punjabi (in Gurmukhi script).",
+    "Reformed gurdwara management and practices, discouraging superstitions and idol worship.",
+    "Later evolved into the Akali Movement (early 20th century), which sought control of gurdwaras from corrupt mahants and British authorities."
+  ],
+  "detailsHindi": [
+    "सिख साम्राज्य (1849) के पतन के बाद ब्रिटिश शासन में सिखों की पहचान संकट में पड़ गई।",
+    "ईसाई मिशनरियों और आर्य समाज सुधारकों ने सिखों को प्रभावित या परिवर्तित करने का प्रयास किया, जिससे सांस्कृतिक खतरे की भावना उत्पन्न हुई।",
+    "सिंह सभा आंदोलन (1873, अमृतसर; बाद में लाहौर) ने गुरु ग्रंथ साहिब और खालसा आदर्शों के आधार पर सिख धर्म को पुनर्जीवित करने का प्रयास किया।",
+    "खालसा स्कूलों और कॉलेजों (जैसे खालसा कॉलेज, अमृतसर, 1892) की स्थापना कर सिख शिक्षा को बढ़ावा दिया।",
+    "सिख साहित्य, समाचार पत्रों और पंजाबी (गुरुमुखी लिपि) के प्रकाशन को प्रोत्साहित किया।",
+    "गुरुद्वारा प्रबंधन और धार्मिक प्रथाओं में सुधार किया, अंधविश्वास और मूर्ति पूजा को हतोत्साहित किया।",
+    "बाद में यह आंदोलन अकाली आंदोलन (20वीं सदी की शुरुआत) में बदल गया, जिसने महंतों और ब्रिटिशों से गुरुद्वारों पर नियंत्रण वापस लेने का प्रयास किया।"
+  ],
+  "table": {
+    "title": "Major Sikh Reform Movements",
+    "titleHindi": "प्रमुख सिख सुधार आंदोलन",
+    "columns": ["Movement", "Year", "Key Features", "Impact"],
+    "columnsHindi": ["आंदोलन", "साल", "मुख्य विशेषताएँ", "प्रभाव"],
+    "rows": [
+      ["Singh Sabha Movement", "1873", "Revival of Sikhism; stressed Khalsa identity; education & publications", "Strengthened Sikh religion and identity"],
+      ["Khalsa College (Amritsar)", "1892", "Modern education for Sikhs; blend of tradition and modernity", "Created Sikh educated elite"],
+      ["Akali Movement", "1920s", "Liberation of gurdwaras from corrupt mahants & British control", "Led to Gurdwara Reform Act, 1925; empowered Sikh community"]
+    ],
+    "rowsHindi": [
+      ["सिंह सभा आंदोलन", "1873", "सिख धर्म का पुनरुद्धार; खालसा पहचान पर जोर; शिक्षा और प्रकाशन", "सिख धर्म और पहचान को मजबूत किया"],
+      ["खालसा कॉलेज (अमृतसर)", "1892", "सिखों के लिए आधुनिक शिक्षा; परंपरा और आधुनिकता का मिश्रण", "सिख शिक्षित वर्ग का निर्माण किया"],
+      ["अकाली आंदोलन", "1920s", "महंतों और ब्रिटिशों से गुरुद्वारों की मुक्ति", "गुरुद्वारा सुधार अधिनियम (1925); सिख समुदाय को सशक्त किया"]
+    ]
+  },
+  "prelimsTips": [
+    "Singh Sabha Movement started in 1873 at Amritsar, later spread to Lahore.",
+    "Khalsa College, Amritsar, was established in 1892.",
+    "Akali Movement led to Gurdwara Reform Act, 1925."
+  ],
+  "prelimsTipsHindi": [
+    "सिंह सभा आंदोलन 1873 में अमृतसर में शुरू हुआ, बाद में लाहौर पहुँचा।",
+    "खालसा कॉलेज, अमृतसर की स्थापना 1892 में हुई।",
+    "अकाली आंदोलन ने 1925 के गुरुद्वारा सुधार अधिनियम का मार्ग प्रशस्त किया।"
+  ],
+  "funFacts": [
+    "The Singh Sabha leaders used modern print culture to counter Christian and Arya Samaj publications.",
+    "Akali volunteers were called 'Akali Jathas' and often faced police repression.",
+    "The Akali Movement is considered both a religious and political movement."
+  ],
+  "funFactsHindi": [
+    "सिंह सभा नेताओं ने ईसाई और आर्य समाज के प्रकाशनों का मुकाबला करने के लिए आधुनिक प्रिंट संस्कृति का उपयोग किया।",
+    "अकाली स्वयंसेवक 'अकाली जत्थे' कहलाते थे और उन्हें अक्सर पुलिस दमन का सामना करना पड़ा।",
+    "अकाली आंदोलन धार्मिक और राजनीतिक दोनों आंदोलन माना जाता है।"
+  ],
+  "mainsPoints": [
+    "Sikh reform movements revived Sikh identity and education under colonial rule.",
+    "They resisted religious conversion pressures and strengthened Khalsa ideals.",
+    "The Akali Movement connected religious reform with anti-colonial struggle.",
+    "These movements created institutions and leadership that shaped Sikh politics in the 20th century."
+  ],
+  "mainsPointsHindi": [
+    "सिख सुधार आंदोलनों ने औपनिवेशिक शासन में सिख पहचान और शिक्षा को पुनर्जीवित किया।",
+    "इन्होंने धार्मिक परिवर्तन के दबाव का विरोध किया और खालसा आदर्शों को मजबूत किया।",
+    "अकाली आंदोलन ने धार्मिक सुधार को औपनिवेशिक विरोधी संघर्ष से जोड़ा।",
+    "इन आंदोलनों ने संस्थाएँ और नेतृत्व तैयार किया जिसने 20वीं सदी की सिख राजनीति को आकार दिया।"
+  ],
+},
+{
+  "heading": "E.V. Ramaswamy Naicker (Periyar) and the Self-Respect Movement",
+  "headingHindi": "ई.वी. रामास्वामी नायकर (पेरियार) और आत्मसम्मान आंदोलन",
+  "highlight": "Periyar launched the Self-Respect Movement in Tamil Nadu to fight caste inequality, Brahmanical dominance, and gender discrimination, promoting rationalism, self-respect, and social justice.",
+  "highlightHindi": "पेरियार ने तमिलनाडु में आत्मसम्मान आंदोलन शुरू किया ताकि जातिगत असमानता, ब्राह्मणवादी प्रभुत्व और लैंगिक भेदभाव के खिलाफ संघर्ष किया जा सके, और तर्कवाद, आत्मसम्मान व सामाजिक न्याय को बढ़ावा दिया जा सके।",
+  "details": [
+    "E.V. Ramaswamy Naicker (1879–1973), popularly known as Periyar, was a rationalist and social reformer from Tamil Nadu.",
+    "He initially joined the Indian National Congress but left due to its indifference to caste inequalities.",
+    "In 1925, Periyar launched the Self-Respect Movement to promote dignity, equality, and rationalism among non-Brahmin castes.",
+    "He advocated for women’s rights, including widow remarriage and the right to education.",
+    "Promoted inter-caste marriages and campaigned against child marriage.",
+    "Openly criticized religion, superstition, and idol worship, promoting atheism.",
+    "Later established the Dravidar Kazhagam (DK), which became the ideological base for Dravidian political parties like DMK and AIADMK.",
+    "His movement emphasized social justice, equality, and linguistic pride in Tamil identity."
+  ],
+  "detailsHindi": [
+    "ई.वी. रामास्वामी नायकर (1879–1973), जिन्हें पेरियार के नाम से जाना जाता है, तमिलनाडु के तर्कवादी और सामाजिक सुधारक थे।",
+    "उन्होंने शुरुआत में भारतीय राष्ट्रीय कांग्रेस में प्रवेश किया लेकिन जातिगत असमानताओं की उपेक्षा के कारण इसे छोड़ दिया।",
+    "1925 में पेरियार ने आत्मसम्मान आंदोलन शुरू किया ताकि गैर-ब्राह्मण जातियों में गरिमा, समानता और तर्कवाद को बढ़ावा मिल सके।",
+    "उन्होंने महिलाओं के अधिकारों, जैसे विधवा पुनर्विवाह और शिक्षा का समर्थन किया।",
+    "अंतर्जातीय विवाह का समर्थन किया और बाल विवाह का विरोध किया।",
+    "उन्होंने धर्म, अंधविश्वास और मूर्तिपूजा की आलोचना की और नास्तिकता को बढ़ावा दिया।",
+    "बाद में उन्होंने द्रविड़र कड़गम (DK) की स्थापना की, जो DMK और AIADMK जैसी द्रविड़ पार्टियों का वैचारिक आधार बनी।",
+    "उनका आंदोलन सामाजिक न्याय, समानता और तमिल पहचान में भाषाई गर्व पर केंद्रित था।"
+  ],
+  "table": {
+    "title": "Periyar and Self-Respect Movement — Key Aspects",
+    "titleHindi": "पेरियार और आत्मसम्मान आंदोलन — प्रमुख पहलू",
+    "columns": ["Aspect", "Details"],
+    "columnsHindi": ["पहलू", "विवरण"],
+    "rows": [
+      ["Founder", "E.V. Ramaswamy Naicker (Periyar)"],
+      ["Year", "1925"],
+      ["Focus", "Caste equality, rationalism, women’s rights, social justice"],
+      ["Organisation", "Self-Respect Movement → Dravidar Kazhagam"],
+      ["Impact", "Inspired Dravidian parties, challenged caste system, promoted social reforms"]
+    ],
+    "rowsHindi": [
+      ["संस्थापक", "ई.वी. रामास्वामी नायकर (पेरियार)"],
+      ["साल", "1925"],
+      ["मुख्य फोकस", "जातीय समानता, तर्कवाद, महिला अधिकार, सामाजिक न्याय"],
+      ["संगठन", "आत्मसम्मान आंदोलन → द्रविड़र कड़गम"],
+      ["प्रभाव", "द्रविड़ पार्टियों को प्रेरित किया, जाति व्यवस्था को चुनौती दी, सामाजिक सुधारों को बढ़ावा दिया"]
+    ]
+  },
+  "prelimsTips": [
+    "Self-Respect Movement started in 1925 in Tamil Nadu.",
+    "Periyar is called the 'Father of the Dravidian Movement'.",
+    "Dravidar Kazhagam laid foundation for DMK and AIADMK."
+  ],
+  "prelimsTipsHindi": [
+    "आत्मसम्मान आंदोलन 1925 में तमिलनाडु में शुरू हुआ।",
+    "पेरियार को 'द्रविड़ आंदोलन का जनक' कहा जाता है।",
+    "द्रविड़र कड़गम ने DMK और AIADMK की नींव रखी।"
+  ],
+  "funFacts": [
+    "Periyar broke Ganesha idols in public to challenge superstition and orthodoxy.",
+    "The title 'Periyar' means 'Respected One', given by Tamil people.",
+    "He opposed Hindi imposition in Tamil Nadu, influencing Dravidian linguistic politics."
+  ],
+  "funFactsHindi": [
+    "पेरियार ने अंधविश्वास को चुनौती देने के लिए सार्वजनिक रूप से गणेश की मूर्तियाँ तोड़ीं।",
+    "‘पेरियार’ का अर्थ है 'सम्मानित व्यक्ति', यह उपाधि उन्हें तमिल जनता ने दी।",
+    "उन्होंने तमिलनाडु में हिंदी थोपने का विरोध किया, जिससे द्रविड़ भाषाई राजनीति को बल मिला।"
+  ],
+  "mainsPoints": [
+    "Periyar’s movement was a radical departure from earlier reform movements due to its open atheism and strong anti-caste stance.",
+    "It laid the foundation for Dravidian political culture based on social justice and equality.",
+    "Promoted rationalism and gender equality, influencing Tamil society deeply.",
+    "Periyar’s legacy continues in contemporary Tamil Nadu politics."
+  ],
+  "mainsPointsHindi": [
+    "पेरियार का आंदोलन पहले के सुधार आंदोलनों से अलग था क्योंकि इसमें खुलकर नास्तिकता और जातिवाद विरोध था।",
+    "इसने सामाजिक न्याय और समानता पर आधारित द्रविड़ राजनीतिक संस्कृति की नींव रखी।",
+    "तर्कवाद और लैंगिक समानता को बढ़ावा देकर तमिल समाज पर गहरा प्रभाव डाला।",
+    "पेरियार की विरासत आज भी तमिलनाडु की राजनीति में जीवित है।"
+  ],
+},
+{
+  "heading": "Revivalist Movements in India",
+  "headingHindi": "भारत में पुनरुत्थानवादी आंदोलन",
+  "highlight": "Revivalist movements in 19th-century India sought to revive traditional religions, defend cultural identity, and resist colonial and missionary influence. They shaped cultural nationalism and religious consciousness.",
+  "highlightHindi": "19वीं सदी के भारत में पुनरुत्थानवादी आंदोलनों का उद्देश्य पारंपरिक धर्मों का पुनरुद्धार करना, सांस्कृतिक पहचान की रक्षा करना और औपनिवेशिक व मिशनरी प्रभाव का विरोध करना था। इन आंदोलनों ने सांस्कृतिक राष्ट्रवाद और धार्मिक चेतना को आकार दिया।",
+  "details": [
+    "Dharma Sabha (1830, Radhakant Deb): Conservative Hindu group opposing reformist efforts like abolition of sati; defended orthodox Hinduism.",
+    "Wahabi / Waliullah Movement (18th–19th century): Inspired by Shah Waliullah of Delhi, it opposed Western influence, stressed pure Islam and political activism against British.",
+    "Faraizi Movement (1830s, Haji Shariatullah): Focused on purifying Islamic practices among peasants of Bengal; opposed landlord exploitation and British rule.",
+    "Arya Samaj (1875, Swami Dayanand Saraswati): Called for 'Back to the Vedas'; rejected idol worship, caste by birth; launched Shuddhi movement.",
+    "Aligarh Movement (Sir Syed Ahmed Khan): Sought revival of Muslims through modern scientific education; founded MAO College (1875), precursor to AMU.",
+    "Deoband Movement (1866): Orthodox Islamic seminary; stressed traditional Islamic learning, opposed Westernization, remained politically active.",
+    "Singh Sabha Movement (1873): Revived Sikh Khalsa identity, countered missionary and Arya Samaj influence, promoted Sikh education.",
+    "Bharat Dharma Mahamandala (late 19th century): Hindu orthodox organisation defending Sanatan Dharma against reformist and missionary challenges.",
+    "Theosophical Society (1879 in India, Annie Besant): Revived Hindu-Buddhist philosophy; blended Indian spirituality with Western occultism."
+  ],
+  "detailsHindi": [
+    "धर्म सभा (1830, राधाकांत देब): परंपरागत हिंदू समूह जिसने सती प्रथा जैसे सुधारवादी प्रयासों का विरोध किया और रूढ़िवादी हिंदू धर्म की रक्षा की।",
+    "वहाबी / वलियुल्लाह आंदोलन (18वीं–19वीं सदी): दिल्ली के शाह वलियुल्लाह से प्रेरित, इसने पश्चिमी प्रभाव का विरोध किया, शुद्ध इस्लाम पर जोर दिया और अंग्रेज़ों के खिलाफ राजनीतिक सक्रियता दिखाई।",
+    "फराइज़ी आंदोलन (1830 के दशक, हाजी शरीअतुल्लाह): बंगाल के किसानों में इस्लामी प्रथाओं की शुद्धि पर केंद्रित; ज़मींदारों के शोषण और ब्रिटिश शासन का विरोध किया।",
+    "आर्य समाज (1875, स्वामी दयानंद सरस्वती): 'वेदों की ओर लौटो' का आह्वान; मूर्तिपूजा, जन्म-आधारित जाति का विरोध; शुद्धि आंदोलन शुरू किया।",
+    "अलीगढ़ आंदोलन (सर सैयद अहमद खान): मुसलमानों के पुनरुत्थान के लिए आधुनिक वैज्ञानिक शिक्षा का समर्थन; 1875 में एमएओ कॉलेज की स्थापना की।",
+    "देवबंद आंदोलन (1866): पारंपरिक इस्लामी मदरसा; पारंपरिक शिक्षा पर बल, पाश्चात्यकरण का विरोध और राजनीतिक सक्रियता।",
+    "सिंह सभा आंदोलन (1873): सिख खालसा पहचान का पुनरुत्थान; मिशनरी और आर्य समाज प्रभाव का विरोध; सिख शिक्षा को बढ़ावा।",
+    "भारत धर्म महामंडल (19वीं सदी के अंत): हिंदू रूढ़िवादी संगठन जिसने सनातन धर्म की रक्षा सुधारवादी और मिशनरी चुनौतियों से की।",
+    "थियोसोफिकल सोसाइटी (1879, एनी बेसेंट): हिंदू-बौद्ध दर्शन का पुनरुद्धार; भारतीय आध्यात्मिकता और पश्चिमी रहस्यवाद का मेल।"
+  ],
+  "table": {
+    "title": "Major Revivalist Movements",
+    "titleHindi": "प्रमुख पुनरुत्थानवादी आंदोलन",
+    "columns": ["Movement", "Leader/Founder", "Year", "Key Features", "Impact"],
+    "columnsHindi": ["आंदोलन", "नेता/संस्थापक", "साल", "मुख्य विशेषताएँ", "प्रभाव"],
+    "rows": [
+      ["Dharma Sabha", "Radhakant Deb", "1830", "Orthodox Hindu body; opposed reforms like abolition of sati", "Protected conservative Hindu interests"],
+      ["Wahabi/Waliullah Movement", "Shah Waliullah, later Syed Ahmed Barelvi", "18th–19th c.", "Purification of Islam, anti-British activism", "Influenced Islamic revival, political resistance"],
+      ["Faraizi Movement", "Haji Shariatullah, Dudu Miyan", "1830s", "Purification of Islamic rituals; peasant mobilisation", "Strengthened peasant anti-landlord, anti-British struggle"],
+      ["Arya Samaj", "Swami Dayanand Saraswati", "1875", "Back to the Vedas; Shuddhi movement; anti-idolatry", "Spread Hindu revivalism and nationalism"],
+      ["Aligarh Movement", "Sir Syed Ahmed Khan", "1875", "Modern scientific education for Muslims", "Laid foundation for Muslim reform and AMU"],
+      ["Deoband Movement", "Darul Uloom Deoband", "1866", "Orthodox Islamic seminary", "Shaped Islamic orthodoxy, political activism"],
+      ["Singh Sabha Movement", "Sikh reformers", "1873", "Revival of Khalsa identity; Sikh education", "Reinforced Sikh cultural pride"],
+      ["Bharat Dharma Mahamandala", "Orthodox Hindu leaders", "Late 19th c.", "Defended Sanatan Dharma", "Unified orthodox Hindus against reformers and missionaries"],
+      ["Theosophical Society", "Annie Besant (India leader)", "1879", "Revival of Hindu-Buddhist traditions; universal brotherhood", "Popularised Indian spirituality globally"]
+    ],
+    "rowsHindi": [
+      ["धर्म सभा", "राधाकांत देब", "1830", "रूढ़िवादी हिंदू संगठन; सती उन्मूलन जैसे सुधारों का विरोध", "रूढ़िवादी हिंदू हितों की रक्षा की"],
+      ["वहाबी/वलियुल्लाह आंदोलन", "शाह वलियुल्लाह, बाद में सैयद अहमद बरेलवी", "18वीं–19वीं सदी", "इस्लाम की शुद्धि; अंग्रेज़ों के खिलाफ सक्रियता", "इस्लामी पुनरुत्थान और राजनीतिक प्रतिरोध को प्रभावित किया"],
+      ["फराइज़ी आंदोलन", "हाजी शरीअतुल्लाह, दुडु मियाँ", "1830 का दशक", "इस्लामी प्रथाओं की शुद्धि; किसानों का संगठन", "किसानों के जमींदार और ब्रिटिश विरोधी संघर्ष को मजबूत किया"],
+      ["आर्य समाज", "स्वामी दयानंद सरस्वती", "1875", "'वेदों की ओर लौटो'; शुद्धि आंदोलन; मूर्तिपूजा का विरोध", "हिंदू पुनरुत्थानवाद और राष्ट्रवाद को फैलाया"],
+      ["अलीगढ़ आंदोलन", "सर सैयद अहमद खान", "1875", "मुसलमानों के लिए आधुनिक वैज्ञानिक शिक्षा", "मुस्लिम सुधार और एएमयू की नींव रखी"],
+      ["देवबंद आंदोलन", "दारुल उलूम देवबंद", "1866", "पारंपरिक इस्लामी मदरसा", "इस्लामी रूढ़िवाद और राजनीतिक सक्रियता को आकार दिया"],
+      ["सिंह सभा आंदोलन", "सिख सुधारक", "1873", "खालसा पहचान का पुनरुत्थान; सिख शिक्षा", "सिख सांस्कृतिक गर्व को मजबूत किया"],
+      ["भारत धर्म महामंडल", "हिंदू रूढ़िवादी नेता", "19वीं सदी के अंत", "सनातन धर्म की रक्षा", "सुधारकों और मिशनरियों के खिलाफ हिंदुओं को एकजुट किया"],
+      ["थियोसोफिकल सोसाइटी", "एनी बेसेंट (भारत शाखा)", "1879", "हिंदू-बौद्ध परंपराओं का पुनरुद्धार; सार्वभौमिक भ्रातृत्व", "भारतीय आध्यात्मिकता को विश्व स्तर पर लोकप्रिय बनाया"]
+    ]
+  },
+  "prelimsTips": [
+    "Dharma Sabha (1830) → Radhakant Deb, orthodox Hindu response.",
+    "Wahabi Movement → Shah Waliullah & Syed Ahmed Barelvi, Islamic revival + anti-British.",
+    "Faraizi Movement → Haji Shariatullah, Bengal peasant mobilisation.",
+    "Arya Samaj → 'Back to Vedas', Shuddhi movement.",
+    "Aligarh Movement → Sir Syed Ahmed Khan, MAO College (1875).",
+    "Bharat Dharma Mahamandala defended Sanatan Dharma."
+  ],
+  "prelimsTipsHindi": [
+    "धर्म सभा (1830) → राधाकांत देब, रूढ़िवादी हिंदू प्रतिक्रिया।",
+    "वहाबी आंदोलन → शाह वलियुल्लाह व सैयद अहमद बरेलवी, इस्लामी पुनरुत्थान + अंग्रेज़ विरोध।",
+    "फराइज़ी आंदोलन → हाजी शरीअतुल्लाह, बंगाल किसानों का संगठन।",
+    "आर्य समाज → 'वेदों की ओर लौटो', शुद्धि आंदोलन।",
+    "अलीगढ़ आंदोलन → सर सैयद अहमद खान, एमएओ कॉलेज (1875)।",
+    "भारत धर्म महामंडल → सनातन धर्म की रक्षा।"
+  ],
+  "funFacts": [
+    "Dharma Sabha filed petitions to defend traditional practices like sati.",
+    "The Wahabis ran a network of madrassas and training camps in NW India.",
+    "Faraizi Movement banned un-Islamic customs like paying landlord taxes during religious ceremonies.",
+    "Sir Syed Ahmed Khan faced strong opposition from orthodox Muslims for supporting modern education."
+  ],
+  "funFactsHindi": [
+    "धर्म सभा ने सती जैसी परंपरागत प्रथाओं की रक्षा के लिए याचिकाएँ दायर कीं।",
+    "वहाबियों ने उत्तर-पश्चिम भारत में मदरसे और प्रशिक्षण केंद्र चलाए।",
+    "फराइज़ी आंदोलन ने धार्मिक अनुष्ठानों में जमींदार कर चुकाने जैसी गैर-इस्लामी प्रथाओं पर रोक लगाई।",
+    "सर सैयद अहमद खान को आधुनिक शिक्षा के समर्थन के लिए कट्टरपंथी मुसलमानों का कड़ा विरोध झेलना पड़ा।"
+  ],
+  "mainsPoints": [
+    "Revivalist movements preserved religious identities against colonial and missionary challenges.",
+    "They created ideological bases for Hindu, Muslim, and Sikh revivalist-nationalist politics.",
+    "While some were conservative, others like Aligarh blended modern education with revivalism.",
+    "They laid socio-religious ground for emerging political consciousness in India."
+  ],
+  "mainsPointsHindi": [
+    "पुनरुत्थानवादी आंदोलनों ने औपनिवेशिक और मिशनरी चुनौतियों के खिलाफ धार्मिक पहचानों को बचाया।",
+    "इन्होंने हिंदू, मुस्लिम और सिख पुनरुत्थानवादी-राष्ट्रवादी राजनीति की वैचारिक नींव रखी।",
+    "कुछ आंदोलन रूढ़िवादी रहे, जबकि अलीगढ़ जैसे आंदोलनों ने आधुनिक शिक्षा और पुनरुत्थान का मेल किया।",
+    "इन्होंने भारत में उभरती राजनीतिक चेतना के लिए सामाजिक-धार्मिक आधार तैयार किया।"
+  ],
+},
       {
         "heading": "Impact of Social Reform Movements",
         "headingHindi": "सामाजिक सुधार आंदोलनों का प्रभाव",
@@ -2989,247 +4465,10356 @@ export const chapters =
               ["आधुनिक राष्ट्रवादी विचारों की नींव", "रूढ़िवाद ने सुधार की गति धीमी की"]
             ]
           }
-        ]
-      },
-      {
-        "heading": "Prelims Tips",
-        "headingHindi": "प्रारंभिक परीक्षा सुझाव",
+        ],
         "prelimsTips": [
-          "Brahmo Samaj → Raja Ram Mohan Roy (1828).",
-          "Arya Samaj → Swami Dayanand Saraswati (1875).",
-          "Aligarh Movement → Sir Syed Ahmad Khan.",
-          "Singh Sabha Movement → 1873 (Punjab)."
+          "Link reforms → later political nationalism; ask how social change fed political mobilization.",
+          "Remember key institutional legacies: AMU, DAV, Ramakrishna Mission, Deoband madrasas."
         ],
         "prelimsTipsHindi": [
-          "ब्राह्मो समाज → राजा राममोहन राय (1828)।",
-          "आर्य समाज → स्वामी दयानंद सरस्वती (1875)।",
-          "अलीगढ़ आंदोलन → सर सैयद अहमद खान।",
-          "सिंह सभा आंदोलन → 1873 (पंजाब)।"
-        ]
-      },
-      {
-        "heading": "Fun Facts",
-        "headingHindi": "रोचक तथ्य",
+          "सुधार ↔ राजनीतिक राष्ट्रवाद का संबंध याद रखें; देखें कि सामाजिक परिवर्तन ने राजनीतिक सक्रियता कैसे दी।",
+          "संस्थागत विरासत: AMU, DAV, रामकृष्ण मिशन, देवबंद मदरसे।"
+        ],
         "funFacts": [
-          "Raja Ram Mohan Roy is called the 'Father of Indian Renaissance'.",
-          "Dayanand Saraswati’s slogan 'Back to the Vedas' became very popular.",
-          "Sir Syed faced opposition from orthodox Muslims but persisted with modern education.",
-          "Singh Sabha reforms later inspired Akali movements."
+          "Many reform organizations also published journals which became vehicles for public opinion.",
+          "Some reform leaders later became active in the Indian National Congress."
         ],
         "funFactsHindi": [
-          "राजा राममोहन राय को 'भारतीय पुनर्जागरण का जनक' कहा जाता है।",
-          "स्वामी दयानंद सरस्वती का नारा 'वेदों की ओर लौटो' अत्यंत लोकप्रिय हुआ।",
-          "सर सैयद को कट्टरपंथियों का विरोध झेलना पड़ा, लेकिन उन्होंने आधुनिक शिक्षा पर जोर दिया।",
-          "सिंह सभा सुधारों ने बाद में अकाली आंदोलनों को प्रेरित किया।"
-        ]
-      },
-      {
-        "heading": "Mains Points",
-        "headingHindi": "मुख्य बिंदु (मुख्य परीक्षा)",
+          "कई सुधार संगठनों ने पत्रिकाएँ प्रकाशित कीं जो जनमत का मंच बन गईं।",
+          "कुछ सुधार नेताओं ने बाद में भारतीय राष्ट्रीय कांग्रेस में सक्रिय भूमिका निभाई।"
+        ],
         "mainsPoints": [
-          "Social reform movements were essential precursors to political nationalism.",
-          "They attacked social evils and advocated modernization, rationalism, and equality.",
-          "However, their impact was limited in rural India, and orthodox opposition remained strong.",
-          "They laid the socio-cultural base for the Indian freedom struggle."
+          "Social reform movements helped create a public sphere and educated middle class that later led political movements.",
+          "Their mixed legacy: important institutional gains but limited rural and subaltern reach."
         ],
         "mainsPointsHindi": [
-          "सामाजिक सुधार आंदोलन राजनीतिक राष्ट्रवाद के पूर्वगामी थे।",
-          "इन आंदोलनों ने सामाजिक बुराइयों पर प्रहार किया और आधुनिकीकरण, तर्कवाद व समानता का समर्थन किया।",
-          "ग्रामीण भारत में इनका प्रभाव सीमित रहा और रूढ़िवादी विरोध जारी रहा।",
-          "इन आंदोलनों ने भारतीय स्वतंत्रता संग्राम के सामाजिक-सांस्कृतिक आधार को तैयार किया।"
+          "सामाजिक सुधार आंदोलनों ने सार्वजनिक क्षेत्र और शिक्षित मध्यवर्ग का निर्माण किया जो बाद में राजनीतिक आंदोलन बना।",
+          "मिश्रित विरासत: संस्थागत लाभ महत्वपूर्ण, पर ग्रामीण और उपेक्षित तबकों तक पहुँच सीमित रही।"
         ]
       },
+    ],
+    "Chapter 7: People’s Resistance before 1857": [
       {
-      "title": "Major Social Reform Movements in 19th Century India",
-      "titleHindi": "19वीं सदी के प्रमुख सामाजिक सुधार आंदोलन",
-      "columns": ["Movement", "Founder/Leader", "Year", "Key Features", "Impact", "Prelims Tips", "Fun Facts", "Mains Points"],
-      "columnsHindi": ["आंदोलन", "संस्थापक/नेता", "साल", "मुख्य विशेषताएँ", "प्रभाव", "प्रारंभिक परीक्षा टिप्स", "रोचक तथ्य", "मुख्य बिंदु"],
+  "heading": "Background",
+  "headingHindi": "1857 से पहले ब्रिटिशों के खिलाफ जनता का प्रतिरोध",
+  "highlight": "Before the Revolt of 1857, India saw numerous localized resistances by peasants, tribals, soldiers, and dispossessed rulers against British policies, revenue demands, and socio-cultural interference.",
+  "highlightHindi": "1857 के विद्रोह से पहले भारत में किसानों, जनजातियों, सैनिकों और बेदखल शासकों ने ब्रिटिश नीतियों, कर वसूली और सामाजिक-सांस्कृतिक हस्तक्षेप के खिलाफ कई स्थानीय प्रतिरोध किए।",
+  "details": [
+    "The period between 1757 (Battle of Plassey) and 1857 was marked by continuous localized revolts.",
+    "These included peasant uprisings, tribal rebellions, civil rebellions, and resistance by disbanded armies.",
+    "Causes: oppressive land revenue systems (Permanent Settlement, Ryotwari, Mahalwari), heavy taxation, corruption of Company officials, loss of traditional rights, decline of artisanal industries, and social-religious interference.",
+    "Rebellions were spontaneous, often leaderless or led by local chiefs, saints, or dispossessed zamindars.",
+    "Though crushed, they sowed seeds of anti-British sentiment and set the stage for the 1857 Revolt."
+  ],
+  "detailsHindi": [
+    "1757 (प्लासी की लड़ाई) से 1857 के बीच का काल लगातार स्थानीय विद्रोहों से भरा हुआ था।",
+    "इनमें किसान आंदोलन, जनजातीय विद्रोह, नागरिक विद्रोह और भंग किए गए सेनाओं का प्रतिरोध शामिल था।",
+    "कारण: दमनकारी भूमि कर प्रणाली (स्थायी बंदोबस्त, रैयतवारी, महालवारी), भारी कर वसूली, कंपनी अधिकारियों का भ्रष्टाचार, पारंपरिक अधिकारों का ह्रास, कारीगर उद्योगों का पतन और सामाजिक-धार्मिक हस्तक्षेप।",
+    "विद्रोह प्रायः स्वतःस्फूर्त थे, कभी-कभी स्थानीय प्रमुखों, संतों या बेदखल ज़मींदारों द्वारा नेतृत्व किया गया।",
+    "यद्यपि इन्हें दबा दिया गया, परन्तु इन्होंने ब्रिटिश विरोधी भावना के बीज बो दिए और 1857 के विद्रोह की पृष्ठभूमि बनाई।"
+  ],
+  "tables": [
+    {
+      "title": "Major People’s Resistance before 1857",
+      "titleHindi": "1857 से पहले प्रमुख जन-प्रतिरोध",
+      "columns": ["Rebellion/Uprising", "Leader", "Region/Year", "Cause/Impact"],
+      "columnsHindi": ["विद्रोह/आंदोलन", "नेता", "क्षेत्र/वर्ष", "कारण/प्रभाव"],
       "rows": [
-        [
-          "Brahmo Samaj",
-          "Raja Ram Mohan Roy",
-          "1828",
-          "Opposed idolatry, caste rigidity, sati; promoted monotheism, widow remarriage, education.",
-          "Laid foundation of modern reform; contributed to abolition of sati (1829).",
-          "Founded in 1828; Sati banned in 1829 under Lord William Bentinck.",
-          "Raja Ram Mohan Roy is called the 'Father of Indian Renaissance'.",
-          "Provided intellectual foundation for modern Indian reform and nationalism."
-        ],
-        [
-          "Young Bengal Movement",
-          "Henry Louis Vivian Derozio",
-          "1820s–1830s",
-          "Promoted rationalism, free thought, equality, women’s education.",
-          "Inspired intellectual awakening among educated youth.",
-          "Linked with Hindu College, Calcutta.",
-          "Followers called 'Derozians'.",
-          "Created early radical socio-political thought in India."
-        ],
-        [
-          "Prarthana Samaj",
-          "Atmaram Pandurang (later supported by M.G. Ranade)",
-          "1867",
-          "Influenced by Brahmo Samaj; promoted monotheism, women’s uplift, social equality.",
-          "Led to reforms in Maharashtra; precursor to Indian Social Conference.",
-          "Founded in Bombay in 1867.",
-          "M.G. Ranade was known as the 'Socrates of Maharashtra'.",
-          "Encouraged socio-religious reforms in Western India."
-        ],
-        [
-          "Arya Samaj",
-          "Swami Dayanand Saraswati",
-          "1875",
-          "Return to Vedas; opposed caste discrimination, child marriage, idol worship; supported widow remarriage & education.",
-          "Spread nationalist spirit; DAV schools; Shuddhi movement.",
-          "Motto: 'Back to the Vedas'.",
-          "Swami Dayanand wrote *Satyarth Prakash*.",
-          "Provided cultural foundation to Hindu reform & revivalism."
-        ],
-        [
-          "Aligarh Movement",
-          "Sir Syed Ahmed Khan",
-          "1875 (MAO College at Aligarh)",
-          "Advocated modern scientific education for Muslims; opposed blind orthodoxy.",
-          "Foundation of Muslim modern education; evolved into Aligarh Muslim University.",
-          "MAO College became AMU in 1920.",
-          "Sir Syed promoted Urdu as identity.",
-          "Bridged gap between modern education and Muslim society."
-        ],
-        [
-          "Ramakrishna Mission",
-          "Swami Vivekananda (disciple of Ramakrishna Paramhansa)",
-          "1897",
-          "Emphasised practical Vedanta, service to humanity as service to God.",
-          "Created modern spiritual-nationalist spirit; globalised Vedanta.",
-          "Chicago Speech (1893) made Vivekananda world famous.",
-          "Motto: 'Atmano mokshartham jagat hitaya cha' (For self-realisation & service of mankind).",
-          "Linked spirituality with nationalism; inspired freedom struggle."
-        ],
-        [
-          "Theosophical Society",
-          "Annie Besant (Indian chapter leader)",
-          "1879 (India branch)",
-          "Revival of Hinduism, Buddhism; universal brotherhood; women’s rights.",
-          "Spread interest in Indian philosophy; Besant joined INC.",
-          "HQ at Adyar, Madras (1882).",
-          "Annie Besant became first woman Congress President (1917).",
-          "Blended Indian spirituality with Western thought; supported Home Rule."
-        ],
-        [
-          "Satya Shodhak Samaj",
-          "Jyotiba Phule",
-          "1873",
-          "Worked for upliftment of lower castes, women’s education, social justice.",
-          "Inspired anti-caste and Dalit movements.",
-          "Founded in Pune in 1873.",
-          "Phule wrote *Gulamgiri*; Savitribai pioneered women’s education.",
-          "Laid foundation for later social justice & Dalit movements."
-        ],
-        [
-          "Singh Sabha Movement",
-          "Sikh Reformers (Amritsar & Lahore groups)",
-          "1873",
-          "Reformed Sikh practices; revived Khalsa ideals; promoted education through Khalsa schools.",
-          "Strengthened Sikh identity; resisted missionary influence.",
-          "Started in Amritsar in 1873, later Lahore Sabha became stronger.",
-          "Khalsa schools played major role in Sikh education.",
-          "Reasserted Sikh cultural identity; ensured survival against missionary influence."
-        ]
+        ["Sanyasi-Fakir Rebellion", "Majnu Shah, local monks", "Bengal (1763–1800)", "Caused by famine, revenue oppression, religious restrictions; combined Hindu-Muslim saints."],
+        ["Poligar Rebellion", "Kattabomman, Marudu Brothers", "Tamil Nadu (1799–1801)", "Rebellion against Company’s high revenue demand & loss of autonomy."],
+        ["Vellore Mutiny", "Indian sepoys", "Vellore (1806)", "Triggered by military dress code interference (religious symbols); foreshadowed 1857 revolt."],
+        ["Paika Rebellion", "Bakshi Jagabandhu", "Odisha (1817)", "Against land settlement system & dispossession of Paikas; considered precursor to 1857."],
+        ["Bhil Uprisings", "Bhil tribes", "Western India (1817–1846)", "Revolted against alienation from forest rights and exploitative policies."],
+        ["Kol Uprising", "Chotanagpur tribes", "1831–32", "Targeted moneylenders, zamindars, and British officials for exploitation."],
+        ["Khasis Revolt", "Tirot Singh", "Northeast (1829–32)", "Opposed British road construction and interference in hill politics."],
+        ["Santhal Revolt", "Sidhu & Kanhu", "Jharkhand (1855–56)", "Largest tribal uprising; aimed against zamindars, moneylenders, British revenue officials."],
+        ["Indigo Revolt", "Peasants of Bengal", "1859–60 (roots before 1857)", "Against forced cultivation of indigo under oppressive conditions."],
+        ["Ahom Revolt", "Gomdhar Konwar, Maniram Dewan", "Assam (1828, 1850s)", "Against annexation & suppression of Ahom nobility."],
+        ["Ramosi Rebellion", "Chittur Singh, Umaji Naik", "Western India (1822–29)", "Peasant-tribal discontent; opposed British revenue system."],
+        ["Kittur Uprising", "Rani Chennamma", "Karnataka (1824)", "Against Doctrine of Lapse-like annexation; early women-led revolt."]
       ],
       "rowsHindi": [
-        [
-          "ब्रह्म समाज",
-          "राजा राम मोहन राय",
-          "1828",
-          "मूर्ति पूजा, जातिगत कठोरता और सती का विरोध; एकेश्वरवाद, विधवा पुनर्विवाह और शिक्षा का समर्थन।",
-          "आधुनिक सुधारों की नींव रखी; सती प्रथा (1829) के उन्मूलन में योगदान।",
-          "1828 में स्थापना; सती प्रथा 1829 में लॉर्ड विलियम बेंटिक द्वारा समाप्त।",
-          "राजा राम मोहन राय को 'भारतीय पुनर्जागरण का जनक' कहा जाता है।",
-          "भारतीय सुधार और राष्ट्रवाद की बौद्धिक नींव रखी।"
-        ],
-        [
-          "यंग बंगाल आंदोलन",
-          "हेनरी विवियन डेरोज़ियो",
-          "1820s–1830s",
-          "तर्कवाद, स्वतंत्र विचार, समानता और महिला शिक्षा का प्रचार।",
-          "शिक्षित युवाओं में बौद्धिक जागृति लाई।",
-          "हिंदू कॉलेज, कलकत्ता से जुड़ा।",
-          "अनुयायी 'डेरोज़ियन्स' कहलाए।",
-          "भारत में प्रारंभिक क्रांतिकारी सामाजिक चिंतन को जन्म दिया।"
-        ],
-        [
-          "प्रार्थना समाज",
-          "आत्माराम पांडुरंग (बाद में एम.जी. रानाडे का समर्थन)",
-          "1867",
-          "ब्रह्म समाज से प्रभावित; एकेश्वरवाद, महिला उत्थान और सामाजिक समानता का प्रचार।",
-          "महाराष्ट्र में सुधारों को जन्म दिया; इंडियन सोशल कॉन्फ्रेंस की नींव।",
-          "1867 में बंबई में स्थापना।",
-          "एम.जी. रानाडे को 'महाराष्ट्र का सुकरात' कहा गया।",
-          "पश्चिम भारत में सुधारवादी मंच बना।"
-        ],
-        [
-          "आर्य समाज",
-          "स्वामी दयानंद सरस्वती",
-          "1875",
-          "वेदों की ओर लौटो; जातिवाद, बाल विवाह, मूर्ति पूजा का विरोध; विधवा पुनर्विवाह व शिक्षा का समर्थन।",
-          "राष्ट्रीयता की भावना फैलाई; डीएवी स्कूल खोले; शुद्धि आंदोलन चलाया।",
-          "सूत्र: 'वेदों की ओर लौटो'।",
-          "स्वामी दयानंद ने *सत्यार्थ प्रकाश* लिखा।",
-          "हिंदू सुधार और पुनरुत्थान को सांस्कृतिक आधार दिया।"
-        ],
-        [
-          "अलीगढ़ आंदोलन",
-          "सर सैयद अहमद खान",
-          "1875 (अलीगढ़ में एम.ए.ओ. कॉलेज)",
-          "मुसलमानों में आधुनिक शिक्षा का प्रचार; अंधविश्वास का विरोध।",
-          "मुस्लिम आधुनिक शिक्षा की नींव रखी; अलीगढ़ मुस्लिम यूनिवर्सिटी बनी।",
-          "एमएओ कॉलेज 1920 में अलीगढ़ मुस्लिम यूनिवर्सिटी बना।",
-          "सर सैयद ने उर्दू को सांस्कृतिक पहचान के रूप में बढ़ावा दिया।",
-          "आधुनिक शिक्षा और मुस्लिम समाज के बीच सेतु का काम किया।"
-        ],
-        [
-          "रामकृष्ण मिशन",
-          "स्वामी विवेकानंद (रामकृष्ण परमहंस के शिष्य)",
-          "1897",
-          "प्रायोगिक वेदांत; मानव सेवा ही ईश्वर सेवा।",
-          "आधुनिक आध्यात्मिक-राष्ट्रीय भावना को जन्म दिया; वेदांत को वैश्विक बनाया।",
-          "शिकागो भाषण (1893) ने विवेकानंद को प्रसिद्ध किया।",
-          "सूत्र: 'आत्मनो मोक्षार्थं जगत हिताय च'।",
-          "आध्यात्मिकता को राष्ट्रवाद से जोड़ा; स्वतंत्रता संग्राम को प्रेरित किया।"
-        ],
-        [
-          "थियोसोफिकल सोसाइटी",
-          "एनी बेसेंट (भारतीय शाखा की प्रमुख)",
-          "1879 (भारत में शाखा)",
-          "हिंदू-बौद्ध धर्म का पुनरुद्धार; सर्वभ्रातृत्व; महिला अधिकार।",
-          "भारतीय दर्शन में रुचि फैलाई; एनी बेसेंट कांग्रेस से जुड़ीं।",
-          "मुख्यालय अडियार, मद्रास (1882)।",
-          "एनी बेसेंट 1917 में कांग्रेस की पहली महिला अध्यक्ष बनीं।",
-          "भारतीय आध्यात्मिकता और पश्चिमी चिंतन को जोड़ा।"
-        ],
-        [
-          "सत्यशोधक समाज",
-          "ज्योतिबा फुले",
-          "1873",
-          "निम्न जातियों का उत्थान; महिला शिक्षा; सामाजिक न्याय।",
-          "जातिविरोधी आंदोलनों को प्रेरित किया।",
-          "1873 में पुणे में स्थापना।",
-          "फुले ने *गुलामगिरी* लिखी; सावित्रीबाई ने महिला शिक्षा शुरू की।",
-          "सामाजिक न्याय और दलित आंदोलनों की नींव रखी।"
-        ],
-        [
-          "सिंह सभा आंदोलन",
-          "सिख सुधारक (अमृतसर और लाहौर समूह)",
-          "1873",
-          "सिख परंपराओं का सुधार; खालसा आदर्शों की ओर वापसी; खालसा स्कूलों के जरिए शिक्षा।",
-          "सिख पहचान को मजबूत किया; मिशनरी प्रभाव का विरोध किया।",
-          "1873 में अमृतसर से शुरुआत; बाद में लाहौर सभा अधिक सक्रिय।",
-          "सिख शिक्षा के लिए खालसा स्कूल खोले।",
-          "सिख सांस्कृतिक पहचान को पुनर्जीवित किया।"
-        ]
+        ["सन्यासी-फकीर विद्रोह", "मजनू शाह, स्थानीय संत", "बंगाल (1763–1800)", "अकाल, कर शोषण और धार्मिक प्रतिबंधों से प्रेरित; हिंदू-मुस्लिम संतों का संयुक्त प्रतिरोध।"],
+        ["पोलिगर विद्रोह", "कट्टाबोम्मन, मरुदु बंधु", "तमिलनाडु (1799–1801)", "कंपनी के अत्यधिक कर और स्वतंत्रता छीनने के खिलाफ।"],
+        ["वेल्लोर विद्रोह", "भारतीय सिपाही", "वेल्लोर (1806)", "ड्रेस कोड में धार्मिक प्रतीकों पर रोक से प्रेरित; 1857 का पूर्वाभास।"],
+        ["पाइक विद्रोह", "बक्शी जगबन्धु", "ओडिशा (1817)", "भूमि निपटान प्रणाली और पाइक अधिकार छीनने के खिलाफ; 1857 का पूर्ववर्ती।"],
+        ["भील विद्रोह", "भील जनजाति", "पश्चिम भारत (1817–1846)", "जंगल अधिकार छिनने और शोषणकारी नीतियों के खिलाफ।"],
+        ["कोल विद्रोह", "छोटानागपुर जनजाति", "1831–32", "महाजनों, ज़मींदारों और अंग्रेज अधिकारियों के शोषण के खिलाफ।"],
+        ["खासी विद्रोह", "तिरोत सिंह", "उत्तर-पूर्व (1829–32)", "सड़क निर्माण और ब्रिटिश हस्तक्षेप का विरोध।"],
+        ["सांथाल विद्रोह", "सिधु और कान्हू", "झारखंड (1855–56)", "सबसे बड़ा जनजातीय विद्रोह; ज़मींदारों, महाजनों और ब्रिटिश कर अधिकारियों के खिलाफ।"],
+        ["नील विद्रोह", "बंगाल के किसान", "1859–60 (1857 से पहले की जड़ें)", "जबरन नील की खेती कराने के खिलाफ।"],
+        ["अहोम विद्रोह", "गोमधर कंवर, मनीराम दीवान", "असम (1828, 1850s)", "विलय और अहोम कुलीन वर्ग के दमन के खिलाफ।"],
+        ["रामोसी विद्रोह", "चित्तूर सिंह, उमाजी नाइक", "पश्चिम भारत (1822–29)", "किसान-जनजातीय असंतोष; ब्रिटिश कर प्रणाली का विरोध।"],
+        ["कित्तूर विद्रोह", "रानी चेनम्मा", "कर्नाटक (1824)", "लैप्स की नीति जैसी विलय नीति का विरोध; प्रारंभिक महिला नेतृत्व विद्रोह।"]
       ]
+    }
+  ],
+  "prelimsTips": [
+    "Paika Rebellion (1817) is considered by Odisha historians as the First War of Independence.",
+    "Vellore Mutiny (1806) was the first large-scale sepoy mutiny against the British.",
+    "Santhal Revolt (1855–56) led to creation of Santhal Parganas as separate district later.",
+    "Kol Uprising (1831–32) showed early tribal-peasant alliance against exploitative intermediaries."
+  ],
+  "prelimsTipsHindi": [
+    "पाइक विद्रोह (1817) को ओडिशा के इतिहासकार प्रथम स्वतंत्रता संग्राम मानते हैं।",
+    "वेल्लोर विद्रोह (1806) ब्रिटिशों के खिलाफ पहला बड़ा सिपाही विद्रोह था।",
+    "सांथाल विद्रोह (1855–56) के बाद 'सांथाल परगना' अलग ज़िला बना।",
+    "कोल विद्रोह (1831–32) ने शोषणकारी बिचौलियों के खिलाफ आदिवासी-किसान गठबंधन दिखाया।"
+  ],
+  "funFacts": [
+    "Vellore Mutiny (1806) saw sepoys hoist the flag of Tipu Sultan’s family inside the fort.",
+    "Santhals in 1855 created their own parallel government before suppression.",
+    "Rani Chennamma of Kittur is remembered as one of the earliest women freedom fighters against the British."
+  ],
+  "funFactsHindi": [
+    "वेल्लोर विद्रोह (1806) में सिपाहियों ने टीपू सुल्तान के परिवार का झंडा किला में फहराया।",
+    "सांथालों ने 1855 में दमन से पहले अपनी समानांतर सरकार बनाई।",
+    "कित्तूर की रानी चेनम्मा को ब्रिटिशों के खिलाफ शुरुआती महिला स्वतंत्रता सेनानी माना जाता है।"
+  ],
+  "mainsPoints": [
+    "Pre-1857 resistance reflected the deep socio-economic discontent caused by British colonial policies.",
+    "These revolts were diverse — tribal, peasant, civil, and military — showing the breadth of anti-colonial feeling.",
+    "Limitations included lack of coordination, modern weapons, and pan-Indian unity.",
+    "Nevertheless, these movements created a tradition of resistance that culminated in the Revolt of 1857."
+  ],
+  "mainsPointsHindi": [
+    "1857 से पहले के विद्रोह ब्रिटिश औपनिवेशिक नीतियों से उपजे गहरे सामाजिक-आर्थिक असंतोष को दर्शाते हैं।",
+    "ये विद्रोह विविध थे — जनजातीय, किसान, नागरिक और सैन्य — जो व्यापक औपनिवेशिक विरोध को दिखाते हैं।",
+    "सीमाएँ थीं — समन्वय का अभाव, आधुनिक हथियारों की कमी और अखिल भारतीय एकता की कमी।",
+    "फिर भी, इन आंदोलनों ने प्रतिरोध की वह परंपरा बनाई जो 1857 के विद्रोह में परिणत हुई।"
+  ],
+  "image": "civil_uprising.png"
       },
+      {
+  "heading": "Peasant Movements in India",
+  "headingHindi": "भारत में किसान आंदोलन",
+  "highlight": "Peasant movements in colonial India were protests against oppressive land revenue systems, moneylenders, and exploitative landlords. They gradually evolved from local agrarian revolts into organized struggles linked with nationalism.",
+  "highlightHindi": "औपनिवेशिक भारत में किसान आंदोलन शोषणकारी भूमि व्यवस्था, महाजनों और ज़मींदारों के खिलाफ हुए। ये स्थानीय विद्रोहों से विकसित होकर संगठित राष्ट्रीय संघर्षों से जुड़ गए।",
+  "details": [
+    "Peasants suffered under high revenue demands, illegal cesses, and forced cultivation (especially indigo, cotton, opium).",
+    "Indebtedness to moneylenders often led to loss of land and social oppression.",
+    "Movements were not isolated – they overlapped with tribal uprisings and even early nationalist activities.",
+    "Religious and cultural idioms (like invoking village deities) were often used to mobilize peasants.",
+    "By the 20th century, Kisan Sabhas and Congress incorporated agrarian demands into the freedom struggle."
+  ],
+  "detailsHindi": [
+    "किसान उच्च कर माँगों, अवैध लगानों और जबरन खेती (विशेषकर नील, कपास, अफीम) से पीड़ित थे।",
+    "महाजनों से कर्ज के कारण भूमि छिन जाती और सामाजिक शोषण होता।",
+    "आंदोलन अलग-थलग नहीं थे – ये जनजातीय विद्रोहों और प्रारंभिक राष्ट्रीय गतिविधियों से जुड़े रहे।",
+    "किसानों को संगठित करने के लिए धार्मिक और सांस्कृतिक प्रतीकों (जैसे ग्राम देवता) का उपयोग किया गया।",
+    "20वीं सदी तक किसान सभाओं और कांग्रेस ने स्वतंत्रता संग्राम में कृषक मुद्दों को शामिल कर लिया।"
+  ],
+  "tables": [
+    {
+      "title": "Major Peasant Movements in India",
+      "titleHindi": "भारत में प्रमुख किसान आंदोलन",
+      "columns": ["Movement", "Region/Year", "Leader(s)", "Key Features"],
+      "columnsHindi": ["आंदोलन", "क्षेत्र/वर्ष", "नेता", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["Santhal Hul (Santhal Rebellion)", "Jharkhand (1855–56)", "Sidhu & Kanhu Murmu", "Adivasi-peasant uprising against moneylenders, zamindars, and British oppression."],
+        ["Indigo Revolt", "Bengal (1859–60)", "Peasant leaders; Dinabandhu Mitra’s 'Nil Darpan'", "Against forced indigo cultivation by European planters."],
+        ["Pabna Agrarian Uprisings", "East Bengal (1873–76)", "Agrarian leagues", "Peasants resisted illegal rents and eviction by zamindars."],
+        ["Deccan Riots", "Maharashtra (1875)", "Village peasants", "Anti-moneylender revolt; peasants attacked sahukars and burnt debt records."],
+        ["Moplah Uprisings", "Malabar (1836–1921)", "Moplah peasants", "Against landlords and British authority; mixed agrarian + religious discontent."],
+        ["Eka Movement", "Avadh (1921–22)", "Madari Pasi, local leaders", "Against high rents, begar (forced labor), and excessive interest rates."],
+        ["Champaran Satyagraha", "Bihar (1917)", "Mahatma Gandhi", "First Gandhian satyagraha; against forced indigo cultivation."],
+        ["Bardoli Satyagraha", "Gujarat (1928)", "Sardar Vallabhbhai Patel", "Successful no-tax movement against revenue hike; Patel became 'Sardar'."],
+        ["Munda Ulgulan (Great Tumult)", "Chotanagpur (1899–1900)", "Birsa Munda", "Anti-zamindar and anti-British; demanded tribal-peasant rights on land (Khuntkatti system)."],
+        ["Tebhaga Movement", "Bengal (1946–47)", "Kisan Sabha, Communist leaders", "Sharecroppers demanded 2/3rd share of produce instead of half."],
+        ["Telangana Rebellion", "Hyderabad State (1946–51)", "Communist Party of India", "Armed peasant struggle against feudal lords (Reddys, Nizams)."]
+      ],
+      "rowsHindi": [
+        ["संताल हूल (संताल विद्रोह)", "झारखंड (1855–56)", "सिधु और कान्हू मुर्मू", "महाजनों, ज़मींदारों और ब्रिटिश शोषण के खिलाफ आदिवासी-किसान विद्रोह।"],
+        ["नील विद्रोह", "बंगाल (1859–60)", "किसान नेता; दीनबंधु मित्र का 'नीलदर्पण'", "यूरोपीय नीलहेसों द्वारा जबरन नील की खेती के खिलाफ।"],
+        ["पाबना कृषक विद्रोह", "पूर्वी बंगाल (1873–76)", "कृषक संघ", "ज़मींदारों के अवैध किराया और बेदखली का विरोध।"],
+        ["दक्कन दंगे", "महाराष्ट्र (1875)", "ग्राम्य किसान", "महाजनों के खिलाफ विद्रोह; बहीखातों को जलाया।"],
+        ["मोपला विद्रोह", "मालाबार (1836–1921)", "मोपला किसान", "जमींदारों और ब्रिटिश सत्ता के खिलाफ; धार्मिक जोश से जुड़ा हुआ।"],
+        ["एका आंदोलन", "अवध (1921–22)", "मदारी पासी व स्थानीय नेता", "उच्च किराया, बेगारी और सूदखोरी के खिलाफ।"],
+        ["चंपारण सत्याग्रह", "बिहार (1917)", "महात्मा गांधी", "भारत में गांधी का पहला सत्याग्रह; नील की जबरन खेती के खिलाफ।"],
+        ["बड़ौली सत्याग्रह", "गुजरात (1928)", "सरदार वल्लभभाई पटेल", "अन्यायपूर्ण कर वृद्धि के खिलाफ; किसानों ने पटेल को 'सरदार' की उपाधि दी।"],
+        ["मुंडा उलगुलान (महाविद्रोह)", "छोटानागपुर (1899–1900)", "बिरसा मुंडा", "ज़मींदार और ब्रिटिश विरोधी; भूमि पर खूँटकट्टी अधिकार की माँग।"],
+        ["तेभागा आंदोलन", "बंगाल (1946–47)", "किसान सभा, कम्युनिस्ट नेता", "बटाईदारों की 2/3 फसल हिस्सेदारी की माँग।"],
+        ["तेलंगाना विद्रोह", "हैदराबाद राज्य (1946–51)", "भारतीय कम्युनिस्ट पार्टी", "जमींदारों और निज़ाम के खिलाफ सशस्त्र संघर्ष।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Santhal Hul (1855–56) → led by Sidhu-Kanhu, major tribal-peasant uprising.",
+    "Deccan Riots (1875) → peasants attacked sahukars; Deccan Riots Commission formed.",
+    "Champaran (1917) → Gandhi’s first satyagraha in India.",
+    "Tebhaga (1946–47) → 2/3 share for sharecroppers.",
+    "Bardoli (1928) → Patel earned title 'Sardar'.",
+    "Munda Ulgulan (1899–1900) → Birsa Munda became a legendary tribal hero."
+  ],
+  "prelimsTipsHindi": [
+    "संताल हूल (1855–56) → सिधु-कान्हू के नेतृत्व में आदिवासी-किसान विद्रोह।",
+    "दक्कन दंगे (1875) → किसानों ने साहूकारों पर हमला किया; दक्कन दंगे आयोग बना।",
+    "चंपारण (1917) → गांधी का पहला सत्याग्रह।",
+    "तेभागा (1946–47) → बटाईदारों के लिए 2/3 हिस्सेदारी।",
+    "बड़ौली (1928) → पटेल को 'सरदार' की उपाधि मिली।",
+    "मुंडा उलगुलान (1899–1900) → बिरसा मुंडा आदिवासी नायक बने।"
+  ],
+  "funFacts": [
+    "Dinabandhu Mitra’s play 'Nil Darpan' on Indigo Revolt was translated by Rev. James Long, for which he was jailed.",
+    "During Deccan Riots, peasants destroyed account books instead of harming sahukars physically — symbolic resistance.",
+    "Birsa Munda’s followers believed he had divine powers and called him 'Dharti Abba' (Father of Earth).",
+    "Bardoli peasants sent their bullocks away so revenue officers couldn’t seize them."
+  ],
+  "funFactsHindi": [
+    "दीनबंधु मित्र का 'नीलदर्पण' नाटक नील विद्रोह पर आधारित था; इसका अनुवाद करने वाले रेव. जेम्स लॉन्ग को जेल हुई।",
+    "दक्कन दंगों में किसानों ने साहूकारों को चोट नहीं पहुँचाई बल्कि उनकी बहीखातों को नष्ट किया।",
+    "बिरसा मुंडा को उनके अनुयायी 'धरती अब्बा' (धरती पिता) मानते थे।",
+    "बड़ौली आंदोलन में किसानों ने अपने बैल दूर भेज दिए ताकि राजस्व अधिकारी उन्हें ज़ब्त न कर सकें।"
+  ],
+  "mainsPoints": [
+    "Peasant movements exposed the exploitative nature of colonial land revenue policies and intermediaries.",
+    "They reflected class, caste, and tribal grievances, often blending economic, social, and religious issues.",
+    "Over time, they transitioned from local uprisings to nationalist struggles, influencing the Congress and leftist politics.",
+    "They sowed seeds for later agrarian reforms and shaped India’s socio-political consciousness."
+  ],
+  "mainsPointsHindi": [
+    "किसान आंदोलनों ने औपनिवेशिक भूमि नीतियों और बिचौलियों के शोषणकारी चरित्र को उजागर किया।",
+    "इनमें वर्ग, जाति और आदिवासी असंतोष झलकता है, जो आर्थिक, सामाजिक और धार्मिक मुद्दों से जुड़ा था।",
+    "ये समय के साथ स्थानीय विद्रोहों से राष्ट्रीय संघर्षों में परिवर्तित हुए और कांग्रेस व वामपंथी राजनीति को प्रभावित किया।",
+    "इनसे कृषि सुधारों की नींव पड़ी और भारत की सामाजिक-राजनीतिक चेतना का विकास हुआ।"
+  ],
+},
+{
+  "heading": "Tribal Revolts in India",
+  "headingHindi": "भारत में जनजातीय विद्रोह",
+  "highlight": "Tribal revolts were among the earliest and most militant uprisings against British rule, landlords, moneylenders, and missionaries. They were rooted in defense of land, forests, culture, and autonomy.",
+  "highlightHindi": "जनजातीय विद्रोह ब्रिटिश शासन, ज़मींदारों, महाजनों और मिशनरियों के खिलाफ सबसे प्रारंभिक और उग्र विद्रोहों में से थे। ये भूमि, वनों, संस्कृति और स्वायत्तता की रक्षा में हुए।",
+  "details": [
+    "British forest policies restricted shifting cultivation (jhum), hunting and forest produce collection, alienating tribals from their livelihood.",
+    "Introduction of moneylenders, traders and revenue policies led to exploitation and indebtedness.",
+    "Missionaries attempted to change tribal customs, creating cultural insecurities.",
+    "Most revolts were violent and local, but they displayed extraordinary organisation and courage.",
+    "They predated 1857 and served as precursors to larger anti-colonial struggles."
+  ],
+  "detailsHindi": [
+    "ब्रिटिश वन नीतियों ने झूम खेती, शिकार और वन उपज एकत्र करने पर रोक लगाई, जिससे जनजातीय जीवन प्रभावित हुआ।",
+    "महाजनों, व्यापारियों और राजस्व नीतियों के प्रवेश से शोषण और कर्जदारी बढ़ी।",
+    "मिशनरियों ने जनजातीय परंपराओं को बदलने का प्रयास किया, जिससे सांस्कृतिक असुरक्षा पैदा हुई।",
+    "अधिकांश विद्रोह हिंसक और स्थानीय थे, पर संगठन और साहस असाधारण था।",
+    "ये 1857 से पहले हुए और व्यापक औपनिवेशिक विरोध के पूर्वगामी बने।"
+  ],
+  "tables": [
+    {
+      "title": "Major Tribal Revolts in India",
+      "titleHindi": "भारत में प्रमुख जनजातीय विद्रोह",
+      "columns": ["Revolt", "Region/Year", "Leader(s)", "Key Features"],
+      "columnsHindi": ["विद्रोह", "क्षेत्र/वर्ष", "नेता", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["Chuar Rebellion", "Bengal, 1766–72 & 1798–99", "Local zamindars (tribal chiefs)", "Against high revenue demands; guerrilla warfare in Jungle Mahal."],
+        ["Halba Rebellion", "Bastar (Chhattisgarh), 1774–79", "Halba tribes", "Conflict against Marathas and British intrusion."],
+        ["Tamar Revolt", "Chotanagpur, 1789–95", "Local tribal chiefs", "Revolted against British oppression and moneylenders."],
+        ["Bhil Revolts", "Western India (1817–48)", "Bhil leaders", "Targeted British officials, landlords and traders."],
+        ["Koli Rebellion", "Gujarat & Western India, 1829–31", "Koli chiefs", "Resisted British revenue policies and police oppression."],
+        ["Khasi Rebellion", "North-East (1830–33)", "Tirot Singh", "Opposed British road construction; guerrilla war."],
+        ["Kol Uprising", "Chotanagpur, 1831–32", "Kol tribes", "Against moneylenders, zamindars, and British agents."],
+        ["Khond Uprisings", "Orissa, 1846–62", "Chakradhar Singh, Dora Bisoi", "Opposed British interference in Meriah sacrifice and tribal customs."],
+        ["Santhal Hul", "Rajmahal Hills, 1855–56", "Sidhu & Kanhu Murmu", "50,000 tribals rose against British, moneylenders, zamindars; brutally suppressed."],
+        ["Koya Revolt", "Godavari (1840s–77)", "Tomma Sora, Raja Anantayya", "Against exploitative officials, police and revenue farmers."],
+        ["Bastar Rebellion", "Bastar, 1910", "Local tribal chiefs", "Opposed colonial forest policies curtailing traditional rights."],
+        ["Munda Ulgulan", "Chotanagpur, 1899–1900", "Birsa Munda", "Religious-political movement; demanded Khuntkatti system restoration; declared Munda Raj."],
+        ["Rampa Rebellion", "Andhra (1879–80, 1922–24)", "Alluri Sitarama Raju (later phase)", "Tribal resistance against oppressive forest regulations."]
+      ],
+      "rowsHindi": [
+        ["चुआर विद्रोह", "बंगाल, 1766–72 व 1798–99", "स्थानीय ज़मींदार (जनजातीय मुखिया)", "उच्च कर वसूली के खिलाफ; जंगलमहल में गुरिल्ला युद्ध।"],
+        ["हल्बा विद्रोह", "बस्तर (छत्तीसगढ़), 1774–79", "हल्बा जनजाति", "मराठों और ब्रिटिश दखल के खिलाफ संघर्ष।"],
+        ["तामार विद्रोह", "छोटानागपुर, 1789–95", "स्थानीय जनजातीय सरदार", "ब्रिटिश दमन और महाजनों के खिलाफ विद्रोह।"],
+        ["भील विद्रोह", "पश्चिम भारत (1817–48)", "भील नेता", "ब्रिटिश अधिकारियों, ज़मींदारों और व्यापारियों पर हमले।"],
+        ["कोली विद्रोह", "गुजरात व पश्चिम भारत, 1829–31", "कोली सरदार", "ब्रिटिश कर नीतियों और पुलिस दमन के खिलाफ।"],
+        ["खासी विद्रोह", "उत्तर-पूर्व (1830–33)", "तीरथ सिंह", "ब्रिटिश सड़क निर्माण का विरोध; गुरिल्ला युद्ध।"],
+        ["कोल विद्रोह", "छोटानागपुर, 1831–32", "कोल जनजाति", "महाजनों, ज़मींदारों और ब्रिटिश एजेंटों के खिलाफ।"],
+        ["खोंड विद्रोह", "ओडिशा, 1846–62", "चक्रधर सिंह, डोरा बिसोई", "मेरिया बलि पर रोक और परंपरागत प्रथाओं में हस्तक्षेप का विरोध।"],
+        ["संताल हूल", "राजमहल की पहाड़ियाँ, 1855–56", "सिधु व कान्हू मुर्मू", "50,000 आदिवासियों ने ब्रिटिश, महाजनों व ज़मींदारों के खिलाफ विद्रोह किया; क्रूरतापूर्वक दबाया गया।"],
+        ["कोया विद्रोह", "गोदावरी (1840s–77)", "टोम्मा सोरा, राजा अनंतैया", "शोषक अधिकारियों, पुलिस और राजस्व किसानों के खिलाफ।"],
+        ["बस्तर विद्रोह", "बस्तर, 1910", "स्थानीय जनजातीय सरदार", "पारंपरिक अधिकार छीनने वाली औपनिवेशिक वन नीतियों का विरोध।"],
+        ["मुंडा उलगुलान", "छोटानागपुर, 1899–1900", "बिरसा मुंडा", "धार्मिक-राजनीतिक आंदोलन; खूँटकट्टी भूमि प्रणाली की बहाली; मुंडा राज की घोषणा।"],
+        ["रम्पा विद्रोह", "आंध्र (1879–80, 1922–24)", "अल्लूरी सीताराम राजू (बाद का चरण)", "शोषक वन कानूनों के खिलाफ जनजातीय प्रतिरोध।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Santhal Hul (1855–56) → Sidhu-Kanhu Murmu; huge participation (~50,000 tribals).",
+    "Munda Ulgulan (1899–1900) → Birsa Munda; called 'Dharti Abba'.",
+    "Khasi Rebellion (1830–33) → led by Tirot Singh against road construction.",
+    "Khond Uprising (1846–62) → against Meriah sacrifice suppression.",
+    "Rampa Revolt → later led by Alluri Sitarama Raju (1922–24)."
+  ],
+  "prelimsTipsHindi": [
+    "संताल हूल (1855–56) → सिधु-कान्हू मुर्मू; लगभग 50,000 आदिवासी शामिल।",
+    "मुंडा उलगुलान (1899–1900) → बिरसा मुंडा; 'धरती अब्बा' कहे जाते हैं।",
+    "खासी विद्रोह (1830–33) → तीरथ सिंह के नेतृत्व में सड़क निर्माण का विरोध।",
+    "खोंड विद्रोह (1846–62) → मेरिया बलि प्रथा पर रोक के खिलाफ।",
+    "रम्पा विद्रोह → बाद में अल्लूरी सीताराम राजू (1922–24) के नेतृत्व में।"
+  ],
+  "funFacts": [
+    "Birsa Munda created his own faith 'Birsait' blending tribal tradition with reform.",
+    "Santhal Hul had its own parallel administration during the revolt.",
+    "Khasi leader Tirot Singh is still revered as a freedom fighter in Meghalaya.",
+    "Bhil guerrillas controlled forest areas for years, forcing British to negotiate."
+  ],
+  "funFactsHindi": [
+    "बिरसा मुंडा ने अपनी आस्था 'बिरसैत' स्थापित की, जिसमें आदिवासी परंपरा व सुधार दोनों शामिल थे।",
+    "संताल हूल के दौरान समानांतर प्रशासन भी बनाया गया।",
+    "खासी नेता तीरथ सिंह आज भी मेघालय में स्वतंत्रता सेनानी माने जाते हैं।",
+    "भील गुरिल्लों ने वर्षों तक जंगलों पर नियंत्रण रखा, जिससे ब्रिटिश को समझौता करना पड़ा।"
+  ],
+  "mainsPoints": [
+    "Tribal revolts were not just economic protests but also cultural assertions to protect identity and autonomy.",
+    "They exposed the exploitative nature of British forest, revenue and missionary policies.",
+    "Though mostly localised, they displayed mass mobilisation and political consciousness.",
+    "They influenced later nationalist leaders who saw them as the first battles of freedom."
+  ],
+  "mainsPointsHindi": [
+    "जनजातीय विद्रोह केवल आर्थिक नहीं बल्कि पहचान और स्वायत्तता की रक्षा हेतु सांस्कृतिक प्रतिरोध भी थे।",
+    "इनसे ब्रिटिश वन, राजस्व और मिशनरी नीतियों का शोषणकारी स्वरूप उजागर हुआ।",
+    "हालाँकि ये प्रायः स्थानीय रहे, लेकिन इन्होंने जनसंगठन और राजनीतिक चेतना दिखाई।",
+    "इनसे प्रेरित होकर बाद के राष्ट्रवादी नेताओं ने इन्हें स्वतंत्रता संग्राम की प्रारंभिक लड़ाइयाँ माना।"
+  ],
+  },
+    ],
+    "Chapter 8: The revolt of 1857": [
+      {
+    "heading": "Background of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह की पृष्ठभूमि",
+    "highlight": "The Revolt of 1857, called the First War of Independence, was the result of deep-seated discontent against British colonial policies across political, economic, social, religious, and military spheres.",
+    "highlightHindi": "1857 का विद्रोह, जिसे प्रथम स्वतंत्रता संग्राम कहा जाता है, ब्रिटिश औपनिवेशिक नीतियों के कारण राजनीतिक, आर्थिक, सामाजिक, धार्मिक और सैन्य क्षेत्रों में गहरे असंतोष का परिणाम था।",
+    "details": [
+      "Political Causes:",
+      "- Doctrine of Lapse by Lord Dalhousie annexed states like Satara, Jhansi, Nagpur, and Awadh (on grounds of misgovernance).",
+      "- Subsidiary Alliance forced rulers to disband armies and accept British protection, reducing sovereignty.",
+      "- Many Indian rulers and nobles were pensioned off or humiliated (e.g., Nana Saheb denied pension, Rani Lakshmibai denied adoption rights).",
+      "- The annexation of Awadh in 1856 created massive resentment among both nobility and common people.",
+      "Economic Causes:",
+      "- Exploitative land revenue systems (Permanent, Ryotwari, Mahalwari) created peasant misery.",
+      "- High revenue demands led to frequent famines and indebtedness of peasants.",
+      "- Indian handicrafts collapsed due to competition from cheap British machine-made goods.",
+      "- Drain of Wealth theory (Dadabhai Naoroji) explained systematic transfer of Indian resources to Britain.",
+      "- Displacement of artisans, zamindars, and peasants generated deep economic grievances.",
+      "Social and Religious Causes:",
+      "- Social reforms like abolition of sati (1829), widow remarriage (1856), were progressive but aroused suspicion among conservative groups.",
+      "- Spread of Western education and missionary activities created fear of conversion to Christianity.",
+      "- Religious sentiments were hurt by laws allowing Hindu widows to remarry and opening of public institutions to all castes.",
+      "- Brahmins and traditional elites feared loss of status in new socio-religious environment.",
+      "Military Causes:",
+      "- Indian sepoys formed the bulk of the army but faced racial discrimination in pay, promotion, and service conditions.",
+      "- Sepoys were required to serve overseas under the General Service Enlistment Act (1856), violating caste and religious taboos.",
+      "- They were often deployed in distant wars (Afghanistan, Burma, etc.) without recognition or adequate rewards.",
+      "- Resentment spread due to frequent use of Indian troops to annex princely states.",
+      "Immediate Cause:",
+      "- Introduction of the Enfield rifle cartridges rumored to be greased with cow and pig fat offended Hindu and Muslim soldiers alike.",
+      "- Court martial and harsh punishment of soldiers at Barrackpore and Meerut triggered open rebellion."
+    ],
+    "detailsHindi": [
+      "राजनीतिक कारण:",
+      "- लार्ड डलहौजी की लैप्स की नीति के तहत सतारा, झाँसी, नागपुर और अवध जैसे राज्यों का विलय किया गया।",
+      "- सहायक संधि के कारण भारतीय शासकों को अपनी सेनाएँ समाप्त करनी पड़ीं और ब्रिटिश संरक्षण स्वीकार करना पड़ा।",
+      "- कई भारतीय शासकों और रईसों को पेंशन पर भेज दिया गया या अपमानित किया गया (जैसे नाना साहब को पेंशन से वंचित किया गया, रानी लक्ष्मीबाई को दत्तक पुत्र का अधिकार नहीं मिला)।",
+      "- 1856 में अवध का विलय वहाँ के कुलीनों और आम जनता में भारी असंतोष का कारण बना।",
+      "आर्थिक कारण:",
+      "- शोषणकारी भू-राजस्व प्रणालियों (स्थायी बंदोबस्त, रैयतवारी, महालवारी) ने किसानों को दुखी किया।",
+      "- अत्यधिक लगान ने बार-बार अकाल और किसानों की कर्ज़दारी बढ़ाई।",
+      "- भारतीय हस्तशिल्प ब्रिटिश मशीन-निर्मित वस्तुओं से प्रतिस्पर्धा नहीं कर सके और नष्ट हो गए।",
+      "- दादाभाई नौरोजी का ‘धन का निकास’ सिद्धांत भारत से संसाधनों के व्यवस्थित शोषण को दर्शाता है।",
+      "- कारीगरों, जमींदारों और किसानों का विस्थापन गहरे आर्थिक असंतोष का कारण बना।",
+      "सामाजिक और धार्मिक कारण:",
+      "- सती प्रथा उन्मूलन (1829), विधवा पुनर्विवाह (1856) जैसे सामाजिक सुधार प्रगतिशील थे लेकिन कट्टरपंथियों ने इन्हें हस्तक्षेप माना।",
+      "- पश्चिमी शिक्षा और मिशनरी गतिविधियों से जबरन ईसाई धर्मांतरण का भय फैला।",
+      "- विधवाओं के पुनर्विवाह और सभी जातियों को सार्वजनिक संस्थाओं में प्रवेश की अनुमति ने परंपरावादियों को आहत किया।",
+      "- ब्राह्मणों और पारंपरिक अभिजात वर्ग को अपने विशेषाधिकारों के खत्म होने का डर था।",
+      "सैन्य कारण:",
+      "- भारतीय सिपाही सेना का बड़ा हिस्सा थे लेकिन उन्हें वेतन, पदोन्नति और सेवा में भेदभाव झेलना पड़ा।",
+      "- 1856 का जनरल सर्विस एन्लिस्टमेंट एक्ट सिपाहियों को विदेश सेवा के लिए बाध्य करता था, जो धार्मिक मान्यताओं के विरुद्ध था।",
+      "- उन्हें अफगानिस्तान, बर्मा आदि के युद्धों में भेजा गया लेकिन उचित पुरस्कार नहीं मिला।",
+      "- भारतीय सैनिकों को भारतीय राज्यों को जीतने में बार-बार प्रयोग किया गया, जिससे असंतोष फैला।",
+      "तात्कालिक कारण:",
+      "- एनफील्ड राइफल के कारतूसों में गाय और सूअर की चर्बी होने की अफवाह ने हिंदू और मुस्लिम दोनों सैनिकों को आहत किया।",
+      "- बैरकपुर और मेरठ में सैनिकों को कोर्ट मार्शल और कड़ी सज़ा दी गई, जिससे विद्रोह भड़क उठा।"
+    ],
+    "table": {
+      "title": "Causes of the Revolt of 1857",
+      "titleHindi": "1857 के विद्रोह के कारण",
+      "columns": ["Category", "Key Aspects", "Examples"],
+      "columnsHindi": ["श्रेणी", "मुख्य पहलू", "उदाहरण"],
+      "rows": [
+        ["Political", "Annexations, dethroning rulers, Doctrine of Lapse", "Jhansi, Satara, Nagpur, Awadh"],
+        ["Economic", "Exploitation through revenue, decline of crafts, drain of wealth", "Permanent Settlement, Indigo planters, Naoroji’s Drain Theory"],
+        ["Social/Religious", "Suspicion of reforms, missionary activities, caste fears", "Widow Remarriage Act (1856), fear of conversion"],
+        ["Military", "Discrimination in pay, service conditions, foreign posting", "General Service Enlistment Act (1856)"],
+        ["Immediate", "Cartridge controversy sparked revolt", "Meerut (10 May 1857) mutiny"]
+      ],
+      "rowsHindi": [
+        ["राजनीतिक", "राज्यों का विलय, शासकों को गद्दी से हटाना, लैप्स की नीति", "झाँसी, सतारा, नागपुर, अवध"],
+        ["आर्थिक", "राजस्व शोषण, कारीगरी का पतन, धन का निकास", "स्थायी बंदोबस्त, नीलहे, नौरोजी का सिद्धांत"],
+        ["सामाजिक/धार्मिक", "सुधारों का संदेह, मिशनरी गतिविधियाँ, जातिगत भय", "विधवा पुनर्विवाह अधिनियम (1856), धर्मांतरण का भय"],
+        ["सैन्य", "वेतन-भेदभाव, सेवा शर्तें, विदेश सेवा", "जनरल सर्विस एन्लिस्टमेंट एक्ट (1856)"],
+        ["तात्कालिक", "कारतूस विवाद से विद्रोह", "मेरठ (10 मई 1857) विद्रोह"]
+      ]
+    },
+    "prelimsTips": [
+      "Immediate cause → Enfield rifle cartridges.",
+      "General Service Enlistment Act → 1856.",
+      "Doctrine of Lapse → Lord Dalhousie.",
+      "Awadh annexed → 1856 under Dalhousie."
+    ],
+    "prelimsTipsHindi": [
+      "तात्कालिक कारण → एनफील्ड राइफल कारतूस।",
+      "जनरल सर्विस एन्लिस्टमेंट एक्ट → 1856।",
+      "लैप्स की नीति → लार्ड डलहौजी।",
+      "अवध का विलय → 1856 (डलहौजी)।"
+    ],
+    "funFacts": [
+      "Nana Saheb, denied his pension, became one of the main leaders of 1857 revolt.",
+      "The annexation of Awadh displaced over 75,000 soldiers and officials who joined the rebellion.",
+      "Bahadur Shah Zafar was reluctant initially but accepted leadership under pressure."
+    ],
+    "funFactsHindi": [
+      "नाना साहब, जिन्हें पेंशन से वंचित किया गया था, 1857 विद्रोह के प्रमुख नेताओं में से बने।",
+      "अवध के विलय से लगभग 75,000 सैनिक और कर्मचारी विस्थापित हुए, जिन्होंने विद्रोह में भाग लिया।",
+      "बहादुर शाह ज़फर शुरू में अनिच्छुक थे लेकिन दबाव में नेतृत्व स्वीकार किया।"
+    ],
+    "mainsPoints": [
+      "The Revolt of 1857 was the first major expression of collective Indian discontent against British rule.",
+      "It had multiple causes—political, economic, social, military—which created a broad coalition of rebels.",
+      "Though triggered by the cartridge controversy, its roots lay in decades of exploitation and resentment.",
+      "Its failure revealed lack of unity, but it laid the foundation for later nationalist struggles."
+    ],
+    "mainsPointsHindi": [
+      "1857 का विद्रोह ब्रिटिश शासन के विरुद्ध भारतीय असंतोष की पहली बड़ी अभिव्यक्ति था।",
+      "इसके अनेक कारण थे—राजनीतिक, आर्थिक, सामाजिक, सैन्य—जिन्होंने विद्रोहियों का व्यापक गठबंधन तैयार किया।",
+      "हालाँकि यह कारतूस विवाद से भड़का, इसकी जड़ें दशकों के शोषण और असंतोष में थीं।",
+      "इसकी असफलता ने एकता की कमी दर्शाई, लेकिन इसने बाद के राष्ट्रवादी संघर्षों की नींव रखी।"
+    ],
+    "image": "civil_uprising.png"
+  },
+  {
+    "heading": "Course of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह की घटनाक्रम",
+    "highlight": "The Revolt of 1857 began at Meerut and quickly spread to Delhi, Kanpur, Lucknow, Jhansi, Bareilly, Bihar, and Central India. It involved sepoys, peasants, zamindars, and rulers, but was eventually suppressed by the British with brutal force.",
+    "highlightHindi": "1857 का विद्रोह मेरठ से शुरू होकर दिल्ली, कानपुर, लखनऊ, झाँसी, बरेली, बिहार और मध्य भारत तक फैल गया। इसमें सिपाहियों, किसानों, ज़मींदारों और शासकों की भागीदारी रही, लेकिन ब्रिटिशों ने इसे कठोर बल से दबा दिया।",
+    "details": [
+      "Meerut (10 May 1857): 85 sepoys punished for refusing Enfield cartridges; comrades mutinied and freed them; marched to Delhi.",
+      "Delhi: Bahadur Shah Zafar proclaimed Emperor; Bakht Khan led rebels; British retook Delhi in September 1857 after heavy fighting; Zafar exiled to Rangoon.",
+      "Kanpur: Nana Saheb declared Peshwa; Tantia Tope and Azimullah Khan assisted; massacre at Bibighar intensified conflict; British recaptured Kanpur in July.",
+      "Lucknow: Begum Hazrat Mahal declared her son Birjis Qadr Nawab; Residency siege lasted 87 days; finally suppressed by Sir Colin Campbell.",
+      "Jhansi: Rani Lakshmibai resisted annexation; allied with Tantia Tope; fought British and Scindias; died in Gwalior (June 1858).",
+      "Bareilly (Rohilkhand): Khan Bahadur Khan proclaimed ruler; suppressed by April 1858.",
+      "Bihar (Jagdishpur): Kunwar Singh, aged 80, became rallying figure; fought till his death (April 1858).",
+      "Faizabad: Maulvi Ahmadullah Shah, fiery orator, mobilized both Hindus and Muslims; executed in 1858.",
+      "Central India: Tantia Tope carried guerrilla warfare across Malwa, Bundelkhand, Rajasthan; betrayed and executed in April 1859.",
+      "Arrah (Bihar): Small group of Europeans and loyal sepoys resisted siege by rebels; relief by William Taylor and Major Eyre boosted British morale.",
+      "Punjab: Disaffection limited due to loyalty of Sikh chiefs and princes; Punjab became base for British reinforcements.",
+      "Suppression: British employed brutal reprisals—executions, confiscations, villages burnt; by June 1858 organized resistance largely crushed, though skirmishes continued till 1859."
+    ],
+    "detailsHindi": [
+      "मेरठ (10 मई 1857): 85 सिपाहियों को एनफील्ड कारतूस न प्रयोग करने पर दंड दिया गया; साथियों ने विद्रोह किया और उन्हें मुक्त कराया; दिल्ली की ओर बढ़े।",
+      "दिल्ली: बहादुर शाह ज़फर को सम्राट घोषित किया गया; बख्त खान ने विद्रोहियों का नेतृत्व किया; ब्रिटिशों ने सितंबर 1857 में कड़े संघर्ष के बाद दिल्ली पर कब्ज़ा किया; ज़फर को रंगून निर्वासित किया।",
+      "कानपुर: नाना साहब ने पेशवा की उपाधि धारण की; तात्या टोपे और अजीमुल्लाह खान सहायक; बीबीघर नरसंहार ने संघर्ष को तीव्र किया; ब्रिटिशों ने जुलाई में कानपुर पर कब्जा किया।",
+      "लखनऊ: बेगम हज़रत महल ने अपने पुत्र बिरजिस कादर को नवाब घोषित किया; रेजिडेंसी की घेराबंदी 87 दिन चली; अंततः सर कॉलिन कैम्पबेल ने दबाया।",
+      "झाँसी: रानी लक्ष्मीबाई ने विलय नीति का विरोध किया; तात्या टोपे से गठबंधन किया; ब्रिटिश और सिंधियों से लड़ीं; जून 1858 में ग्वालियर में शहीद हुईं।",
+      "बरेली (रोहिलखंड): खान बहादुर खान ने शासन संभाला; अप्रैल 1858 में दबा दिया गया।",
+      "बिहार (जगदीशपुर): 80 वर्षीय कुंवर सिंह विद्रोह का प्रमुख चेहरा बने; अप्रैल 1858 में मृत्यु तक लड़े।",
+      "फ़ैज़ाबाद: मौलवी अहमदुल्लाह शाह, प्रखर वक्ता, ने हिंदू-मुसलमान दोनों को संगठित किया; 1858 में मारे गए।",
+      "मध्य भारत: तात्या टोपे ने मलवा, बुंदेलखंड, राजस्थान में गुरिल्ला युद्ध किया; धोखे से पकड़े गए और अप्रैल 1859 में फांसी दी गई।",
+      "आरा (बिहार): कुछ यूरोपीय और वफादार सिपाहियों ने विद्रोहियों की घेराबंदी का सामना किया; विलियम टेलर और मेजर आयर की राहत ने ब्रिटिश मनोबल बढ़ाया।",
+      "पंजाब: असंतोष सीमित रहा क्योंकि सिख सरदार और रजवाड़े वफादार रहे; पंजाब ब्रिटिश सैनिकों के लिए आधार बना।",
+      "दमन: ब्रिटिशों ने क्रूर दमन किया—फांसी, संपत्ति जब्ती, गाँव जलाए गए; जून 1858 तक संगठित प्रतिरोध समाप्त हुआ, यद्यपि 1859 तक छिटपुट लड़ाइयाँ चलीं।"
+    ],
+    "table": {
+      "title": "Major Centres and Leaders of 1857 Revolt",
+      "titleHindi": "1857 विद्रोह के प्रमुख केंद्र और नेता",
+      "columns": ["Centre", "Leader(s)", "Key Events/Outcome"],
+      "columnsHindi": ["केंद्र", "नेता", "मुख्य घटनाएँ/परिणाम"],
+      "rows": [
+        ["Delhi", "Bahadur Shah Zafar, Bakht Khan", "Symbolic centre; captured Sept 1857; emperor exiled"],
+        ["Kanpur", "Nana Saheb, Tantia Tope, Azimullah", "Fierce battles; Bibighar massacre; recaptured July 1857"],
+        ["Lucknow", "Begum Hazrat Mahal, Birjis Qadr", "87-day Residency siege; suppressed by Colin Campbell"],
+        ["Jhansi", "Rani Lakshmibai", "Fought bravely; died at Gwalior, June 1858"],
+        ["Bareilly", "Khan Bahadur Khan", "Proclaimed ruler; revolt suppressed April 1858"],
+        ["Bihar (Jagdishpur)", "Kunwar Singh", "Led revolt at 80; died in April 1858"],
+        ["Faizabad", "Maulvi Ahmadullah Shah", "Mobilised Hindus & Muslims; executed 1858"],
+        ["Central India", "Tantia Tope", "Guerrilla war till 1859; captured & executed"],
+        ["Arrah (Bihar)", "Local rebels vs. William Taylor & Major Eyre", "British relief boosted morale"],
+        ["Punjab", "—", "Provided loyal troops; base for suppression"]
+      ],
+      "rowsHindi": [
+        ["दिल्ली", "बहादुर शाह ज़फर, बख्त खान", "प्रतीकात्मक केंद्र; सितम्बर 1857 में कब्जा; सम्राट निर्वासित"],
+        ["कानपुर", "नाना साहब, तात्या टोपे, अजीमुल्लाह", "भीषण युद्ध; बीबीघर नरसंहार; जुलाई 1857 में कब्ज़ा"],
+        ["लखनऊ", "बेगम हज़रत महल, बिरजिस कादर", "87 दिन की रेजिडेंसी घेराबंदी; कॉलिन कैम्पबेल ने दबाया"],
+        ["झाँसी", "रानी लक्ष्मीबाई", "वीरता से लड़ीं; जून 1858 में ग्वालियर में शहीद"],
+        ["बरेली", "खान बहादुर खान", "शासन संभाला; अप्रैल 1858 में दबा दिया गया"],
+        ["बिहार (जगदीशपुर)", "कुंवर सिंह", "80 वर्ष की उम्र में विद्रोह का नेतृत्व; अप्रैल 1858 में मृत्यु"],
+        ["फ़ैज़ाबाद", "मौलवी अहमदुल्लाह शाह", "हिंदू-मुस्लिमों को संगठित किया; 1858 में मृत्यु"],
+        ["मध्य भारत", "तात्या टोपे", "1859 तक गुरिल्ला युद्ध; पकड़कर फांसी दी गई"],
+        ["आरा (बिहार)", "स्थानीय विद्रोही बनाम विलियम टेलर व मेजर आयर", "ब्रिटिश राहत से मनोबल बढ़ा"],
+        ["पंजाब", "—", "वफादार सैनिक उपलब्ध कराए; दमन का आधार"]
+      ]
+    },
+    "prelimsTips": [
+      "Meerut → starting point (10 May 1857).",
+      "Bahadur Shah Zafar → symbolic emperor, exiled to Rangoon.",
+      "Kunwar Singh → Jagdishpur, fought at 80 years of age.",
+      "Maulvi Ahmadullah Shah → called the 'Lighthouse of Rebellion'.",
+      "Tantia Tope → guerrilla warfare till 1859."
+    ],
+    "prelimsTipsHindi": [
+      "मेरठ → शुरुआत का स्थान (10 मई 1857)।",
+      "बहादुर शाह ज़फर → प्रतीकात्मक सम्राट, रंगून निर्वासित।",
+      "कुंवर सिंह → जगदीशपुर, 80 वर्ष की आयु में लड़े।",
+      "मौलवी अहमदुल्लाह शाह → 'विद्रोह का प्रकाशस्तंभ' कहलाए।",
+      "तात्या टोपे → 1859 तक गुरिल्ला युद्ध।"
+    ],
+    "funFacts": [
+      "Bahadur Shah Zafar’s poetry from Rangoon prison later became iconic in Urdu literature.",
+      "Rani Lakshmibai reportedly leapt from her fort on horseback with her adopted son tied to her back.",
+      "Kunwar Singh is said to have severed his wounded arm and offered it to the Ganga.",
+      "The siege of Lucknow Residency is one of the most documented episodes of colonial India."
+    ],
+    "funFactsHindi": [
+      "बहादुर शाह ज़फर की रंगून जेल से लिखी कविताएँ उर्दू साहित्य में प्रसिद्ध हुईं।",
+      "रानी लक्ष्मीबाई ने कहा जाता है कि अपने दत्तक पुत्र को पीठ पर बाँधकर घोड़े पर कूदकर दुर्ग से बाहर निकलीं।",
+      "कुंवर सिंह ने अपनी घायल बाँह काटकर गंगा को अर्पित कर दी थी।",
+      "लखनऊ रेजिडेंसी की घेराबंदी औपनिवेशिक भारत की सबसे अधिक दर्ज घटनाओं में से है।"
+    ],
+    "mainsPoints": [
+      "The revolt was not a single movement but a series of regional uprisings connected by common grievances.",
+      "Leadership was diverse — sepoys, princes, zamindars, peasants, religious leaders — but lacked coordination.",
+      "Despite failure, it represented the first broad attempt to overthrow British rule.",
+      "Its legacy inspired later nationalist movements with memories of sacrifice and unity."
+    ],
+    "mainsPointsHindi": [
+      "विद्रोह एक एकीकृत आंदोलन नहीं बल्कि सामान्य शिकायतों से जुड़े क्षेत्रीय विद्रोहों की श्रृंखला था।",
+      "नेतृत्व विविध था — सिपाही, राजकुमार, ज़मींदार, किसान, धार्मिक नेता — लेकिन समन्वय का अभाव रहा।",
+      "असफलता के बावजूद यह ब्रिटिश शासन को उखाड़ फेंकने का पहला व्यापक प्रयास था।",
+      "इसकी विरासत ने बाद के राष्ट्रवादी आंदोलनों को बलिदान और एकता की स्मृतियों से प्रेरित किया।"
+    ],
+  },
+  {
+    "heading": "Nature of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह का स्वरूप",
+    "highlight": "Historians differ on whether the revolt was a mere sepoy mutiny, a civil rebellion, or the first war of Indian independence. In reality, it combined military mutiny, civil uprising, and nationalist elements.",
+    "highlightHindi": "इतिहासकारों में मतभेद है कि 1857 का विद्रोह केवल सिपाही विद्रोह था, एक जनविद्रोह था, या भारत का पहला स्वतंत्रता संग्राम। वास्तव में इसमें सैनिक विद्रोह, जनआंदोलन और राष्ट्रवादी तत्वों का मिश्रण था।",
+    "details": [
+      "British View (official): Revolt described as a 'Sepoy Mutiny', limited to discontent among Indian soldiers.",
+      "Nationalist View: Indian historians (V.D. Savarkar, R.C. Majumdar, S.N. Sen) called it the 'First War of Independence'.",
+      "Marxist View: Saw revolt as a combination of feudal discontent and peasant uprisings against colonial exploitation.",
+      "Regional Variations: Strong in north & central India (UP, Bihar, MP, Delhi), weak in Punjab, south and coastal regions.",
+      "Leaders: Sepoys, princes (Nana Saheb, Rani Lakshmibai), zamindars, peasants, tribal groups, and religious leaders contributed.",
+      "Unity: Hindus and Muslims often fought together (e.g., Delhi, Lucknow, Bareilly) under common grievances.",
+      "Limitations: No central leadership, limited modern ideology, weak communication, confined largely to north India.",
+      "Legacy: Despite failure, it became the inspiration for later nationalists who saw it as a heroic anti-colonial struggle."
+    ],
+    "detailsHindi": [
+      "ब्रिटिश दृष्टिकोण (आधिकारिक): विद्रोह को 'सिपाही विद्रोह' कहा गया, जिसे भारतीय सैनिकों की असंतोष तक सीमित माना गया।",
+      "राष्ट्रवादी दृष्टिकोण: भारतीय इतिहासकारों (वी.डी. सावरकर, आर.सी. मजूमदार, एस.एन. सेन) ने इसे 'भारत का प्रथम स्वतंत्रता संग्राम' कहा।",
+      "मार्क्सवादी दृष्टिकोण: विद्रोह को सामंती असंतोष और किसानों के औपनिवेशिक शोषण के खिलाफ उठे आंदोलनों का मिश्रण माना।",
+      "क्षेत्रीय भिन्नताएँ: उत्तर और मध्य भारत (उत्तर प्रदेश, बिहार, मध्य प्रदेश, दिल्ली) में प्रबल, पंजाब, दक्षिण और तटीय क्षेत्रों में कमजोर।",
+      "नेता: सिपाही, शासक (नाना साहब, रानी लक्ष्मीबाई), ज़मींदार, किसान, जनजातीय समूह और धार्मिक नेताओं की भागीदारी।",
+      "एकता: कई स्थानों पर हिंदू और मुस्लिम एक साथ लड़े (जैसे दिल्ली, लखनऊ, बरेली) समान शिकायतों के आधार पर।",
+      "सीमाएँ: केंद्रीय नेतृत्व का अभाव, आधुनिक विचारधारा की कमी, कमजोर संचार, उत्तर भारत तक सीमित।",
+      "विरासत: असफलता के बावजूद यह बाद के राष्ट्रवादियों के लिए प्रेरणा बना जिन्होंने इसे औपनिवेशिक विरोधी संघर्ष की वीरगाथा माना।"
+    ],
+    "tables": [{
+      "title": "Interpretations of 1857 Revolt",
+      "titleHindi": "1857 विद्रोह की व्याख्याएँ",
+      "columns": ["Interpretation", "Supporters", "Explanation"],
+      "columnsHindi": ["दृष्टिकोण", "समर्थक", "व्याख्या"],
+      "rows": [
+        ["Sepoy Mutiny", "British historians (Kaye, Malleson)", "Purely a military revolt, no popular support"],
+        ["First War of Independence", "V.D. Savarkar, S.N. Sen", "A national uprising against foreign rule"],
+        ["Civil Rebellion", "R.C. Majumdar", "Mainly feudal and regional in nature"],
+        ["Peasant-Feudal Uprising", "Marxist historians", "Peasants, zamindars and sepoys united against colonial exploitation"],
+        ["Composite Struggle", "Modern view", "Blend of military mutiny, civil rebellion, proto-nationalist sentiment"]
+      ],
+      "rowsHindi": [
+        ["सिपाही विद्रोह", "ब्रिटिश इतिहासकार (के, मैल्सन)", "केवल सैन्य विद्रोह, जनसमर्थन नहीं"],
+        ["प्रथम स्वतंत्रता संग्राम", "वी.डी. सावरकर, एस.एन. सेन", "विदेशी शासन के खिलाफ राष्ट्रीय विद्रोह"],
+        ["जनविद्रोह", "आर.सी. मजूमदार", "मुख्यतः सामंती और क्षेत्रीय स्वरूप का"],
+        ["किसान-सामंती विद्रोह", "मार्क्सवादी इतिहासकार", "किसानों, ज़मींदारों और सिपाहियों का औपनिवेशिक शोषण के खिलाफ संघर्ष"],
+        ["समग्र संघर्ष", "आधुनिक दृष्टिकोण", "सैन्य विद्रोह, जनविद्रोह और राष्ट्रवादी भावनाओं का मिश्रण"]
+      ]
+    }],
+    "prelimsTips": [
+      "Term 'First War of Independence' popularized by V.D. Savarkar (1909).",
+      "R.C. Majumdar considered it mainly a sepoy-cum-feudal rebellion.",
+      "Marxist historians emphasized agrarian and class factors.",
+      "Modern consensus: a complex mixture of mutiny, rebellion, and proto-nationalism."
+    ],
+    "prelimsTipsHindi": [
+      "वी.डी. सावरकर (1909) ने 'प्रथम स्वतंत्रता संग्राम' शब्द लोकप्रिय बनाया।",
+      "आर.सी. मजूमदार ने इसे मुख्यतः सिपाही-सामंती विद्रोह माना।",
+      "मार्क्सवादी इतिहासकारों ने इसमें कृषि और वर्गीय तत्वों को महत्व दिया।",
+      "आधुनिक दृष्टिकोण: विद्रोह, जनआंदोलन और राष्ट्रवाद का मिश्रण।"
+    ],
+    "funFacts": [
+      "Karl Marx described the revolt as a 'national revolt' in his articles for the New York Tribune.",
+      "British Parliament debated whether to call it 'Sepoy Mutiny' or 'Indian Insurrection'.",
+      "In 1957, centenary celebrations in India officially termed it the 'First War of Independence'."
+    ],
+    "funFactsHindi": [
+      "कार्ल मार्क्स ने इसे 'राष्ट्रीय विद्रोह' कहा था अपने न्यूयॉर्क ट्रिब्यून लेखों में।",
+      "ब्रिटिश संसद में बहस हुई कि इसे 'सिपाही विद्रोह' कहा जाए या 'भारतीय विद्रोह'।",
+      "1957 में भारत में शताब्दी समारोहों में इसे आधिकारिक रूप से 'प्रथम स्वतंत्रता संग्राम' कहा गया।"
+    ],
+    "mainsPoints": [
+      "The revolt defies a single label — it was at once a sepoy mutiny, a civil rebellion, and an anti-colonial struggle.",
+      "Its nature varied across regions: nationalist symbolism in Delhi, peasant anger in Awadh, feudal loyalties in Central India.",
+      "Historiographical debates reflect evolving understandings of nationalism and colonialism.",
+      "In sum, 1857 was the first major expression of Indian resistance combining multiple strands of opposition to British rule."
+    ],
+    "mainsPointsHindi": [
+      "विद्रोह को किसी एक श्रेणी में बाँधना कठिन है — यह सिपाही विद्रोह, जनविद्रोह और औपनिवेशिक विरोधी संघर्ष सभी था।",
+      "इसका स्वरूप क्षेत्रों के अनुसार अलग-अलग था: दिल्ली में राष्ट्रवादी प्रतीकवाद, अवध में किसान असंतोष, मध्य भारत में सामंती निष्ठाएँ।",
+      "इतिहासलेखन की बहसें राष्ट्रवाद और औपनिवेशिकता की बदलती समझ को दर्शाती हैं।",
+      "संक्षेप में, 1857 ब्रिटिश शासन के खिलाफ भारतीय प्रतिरोध की पहली बड़ी अभिव्यक्ति थी जिसमें विरोध के अनेक रूप शामिल थे।"
+    ],
+  },
+  {
+    "heading": "Causes of Failure of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह की विफलता के कारण",
+    "highlight": "Despite its intensity and wide spread, the Revolt of 1857 ultimately failed due to lack of unity, leadership, resources, and modern organization, allowing the British to suppress it systematically.",
+    "highlightHindi": "अपनी तीव्रता और व्यापकता के बावजूद, 1857 का विद्रोह अंततः असफल रहा क्योंकि इसमें एकता, नेतृत्व, संसाधन और आधुनिक संगठन की कमी थी, जिससे ब्रिटिश इसे व्यवस्थित रूप से दबाने में सफल रहे।",
+    "details": [
+      "Lack of Unity: No common national identity; Hindu, Muslim, Sikh, and regional rulers often had divergent interests.",
+      "Absence of Central Leadership: Leaders like Nana Saheb, Rani Lakshmibai, Kunwar Singh were brave but regional, no pan-India coordination.",
+      "Limited Geography: Revolt strong in North and Central India, weak or absent in South, Punjab, Bengal, and coastal areas.",
+      "Poor Military Resources: Sepoys used outdated weapons compared to British modern rifles and artillery.",
+      "No Clear Ideology: Revolt was driven by grievances (land, religion, army policies) but lacked a coherent political vision for the future.",
+      "Support to British: Many Indian princes (Hyderabad, Kashmir, Patiala, Gwalior’s Scindia, Nepalese rulers) supported British.",
+      "Superior British Organization: Efficient communication (telegraph, railways) and reinforcements from Europe gave British advantage.",
+      "Lack of Mass Peasant Support in Some Areas: While peasants joined in Awadh and Bihar, in other regions masses remained passive.",
+      "Leadership Rivalries: Princes and zamindars often acted for self-interest rather than collective struggle."
+    ],
+    "detailsHindi": [
+      "एकता का अभाव: कोई साझा राष्ट्रीय पहचान नहीं थी; हिंदू, मुस्लिम, सिख और क्षेत्रीय शासकों के अलग-अलग हित थे।",
+      "केंद्रीय नेतृत्व का अभाव: नाना साहब, रानी लक्ष्मीबाई, कुंवर सिंह जैसे नेता साहसी थे, पर क्षेत्रीय थे, अखिल भारतीय समन्वय नहीं था।",
+      "भौगोलिक सीमा: विद्रोह उत्तर और मध्य भारत में प्रबल रहा, पर दक्षिण, पंजाब, बंगाल और तटीय क्षेत्रों में कमजोर या अनुपस्थित।",
+      "सैन्य संसाधनों की कमी: सिपाहियों के पास पुराने हथियार थे जबकि ब्रिटिश के पास आधुनिक राइफल और तोपखाने थे।",
+      "स्पष्ट विचारधारा का अभाव: विद्रोह शिकायतों (भूमि, धर्म, सेना नीतियाँ) पर आधारित था पर भविष्य के लिए कोई राजनीतिक दृष्टि नहीं थी।",
+      "ब्रिटिश को भारतीयों का समर्थन: कई भारतीय शासक (हैदराबाद, कश्मीर, पटियाला, ग्वालियर के सिंधिया, नेपाल के शासक) ब्रिटिश के साथ रहे।",
+      "ब्रिटिश संगठन की श्रेष्ठता: कुशल संचार (टेलीग्राफ, रेल) और यूरोप से आई सहायता ने ब्रिटिश को बढ़त दी।",
+      "किसानों का सीमित समर्थन: अवध और बिहार में किसान शामिल हुए, पर अन्य क्षेत्रों में जनता निष्क्रिय रही।",
+      "नेतृत्व की प्रतिद्वंद्विता: राजाओं और ज़मींदारों ने सामूहिक संघर्ष के बजाय अक्सर स्वार्थ में काम किया।"
+    ],
+    "tables": [{
+      "title": "Major Causes of Failure",
+      "titleHindi": "विफलता के प्रमुख कारण",
+      "columns": ["Cause", "Explanation"],
+      "columnsHindi": ["कारण", "व्याख्या"],
+      "rows": [
+        ["Lack of unity", "Different groups had conflicting interests, no national identity"],
+        ["Weak leadership", "No single central leader, only regional heroes"],
+        ["Geographical limits", "Confined to North and Central India"],
+        ["Inferior arms", "Sepoys lacked modern weapons, British had advanced artillery"],
+        ["No clear ideology", "No unified vision for post-British India"],
+        ["Indian allies to British", "Many princes, landlords supported British"],
+        ["British superiority", "Better organization, telegraph, railways, reinforcements"],
+        ["Limited mass base", "Peasants and tribes joined selectively, not uniformly"]
+      ],
+      "rowsHindi": [
+        ["एकता का अभाव", "विभिन्न समूहों के विरोधी हित, कोई राष्ट्रीय पहचान नहीं"],
+        ["कमजोर नेतृत्व", "कोई केंद्रीय नेता नहीं, केवल क्षेत्रीय नायक"],
+        ["भौगोलिक सीमा", "उत्तर और मध्य भारत तक सीमित"],
+        ["कमजोर हथियार", "सिपाहियों के पास पुराने हथियार, ब्रिटिश के पास आधुनिक तोपखाना"],
+        ["स्पष्ट विचारधारा का अभाव", "ब्रिटिश भारत के बाद का कोई साझा दृष्टिकोण नहीं"],
+        ["भारतीयों का ब्रिटिश समर्थन", "कई राजा, ज़मींदार ब्रिटिश के साथ थे"],
+        ["ब्रिटिश श्रेष्ठता", "बेहतर संगठन, टेलीग्राफ, रेल और सैनिक सहायता"],
+        ["सीमित जनाधार", "किसान और जनजातियाँ आंशिक रूप से जुड़े, व्यापक नहीं"]
+      ]
+    }],
+    "prelimsTips": [
+      "Revolt failed due to lack of unity, central leadership, and modern weapons.",
+      "Scindias of Gwalior, Nizam of Hyderabad, and rulers of Patiala supported British.",
+      "British advantage: telegraph & railways helped quick troop movements.",
+      "Rani Lakshmibai, Kunwar Singh, Nana Saheb fought bravely but regionally."
+    ],
+    "prelimsTipsHindi": [
+      "विद्रोह एकता, केंद्रीय नेतृत्व और आधुनिक हथियारों की कमी के कारण असफल हुआ।",
+      "ग्वालियर के सिंधिया, हैदराबाद के निज़ाम, पटियाला के शासक ब्रिटिश के साथ थे।",
+      "ब्रिटिश लाभ: टेलीग्राफ और रेल ने त्वरित सैनिक आंदोलन में मदद की।",
+      "रानी लक्ष्मीबाई, कुंवर सिंह, नाना साहब ने साहस से लड़ाई लड़ी पर क्षेत्रीय स्तर पर।"
+    ],
+    "funFacts": [
+      "British rewarded loyal princes with titles, lands, and privileges after 1857.",
+      "Telegraph wires were often cut by rebels but quickly repaired by the British.",
+      "Many British officers described Rani Lakshmibai as the 'best man among the rebels'."
+    ],
+    "funFactsHindi": [
+      "ब्रिटिश ने वफादार राजाओं को उपाधि, ज़मीन और विशेषाधिकार दिए।",
+      "विद्रोहियों ने टेलीग्राफ की तारें काटीं पर ब्रिटिश ने शीघ्र मरम्मत कर दी।",
+      "कई ब्रिटिश अधिकारियों ने रानी लक्ष्मीबाई को 'विद्रोहियों में सर्वश्रेष्ठ पुरुष' कहा।"
+    ],
+    "mainsPoints": [
+      "1857 failed mainly due to absence of unity, leadership, and vision — it was premature as a nationalist war.",
+      "Showed courage and resistance but remained fragmented across regions.",
+      "Its suppression strengthened British Raj but also sowed seeds of later organized nationalism.",
+      "Reveals how structural weaknesses (regionalism, feudal interests) delayed India’s collective struggle for independence."
+    ],
+    "mainsPointsHindi": [
+      "1857 मुख्यतः एकता, नेतृत्व और दृष्टिकोण की कमी के कारण विफल हुआ — यह एक राष्ट्रवादी युद्ध के रूप में समयपूर्व था।",
+      "इसमें साहस और प्रतिरोध दिखा पर यह क्षेत्रीय रूप से बंटा रहा।",
+      "इसकी दमन से ब्रिटिश राज मजबूत हुआ पर संगठित राष्ट्रवाद के बीज भी पड़े।",
+      "यह दर्शाता है कि क्षेत्रवाद और सामंती हितों जैसी संरचनात्मक कमजोरियों ने भारत की सामूहिक स्वतंत्रता संघर्ष को विलंबित किया।"
+    ],
+  },
+  {
+    "heading": "Consequences of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह के परिणाम",
+    "highlight": "Though the Revolt of 1857 failed militarily, it had far-reaching political, administrative, economic, and socio-cultural consequences, shaping the course of Indian history.",
+    "highlightHindi": "यद्यपि 1857 का विद्रोह सैन्य रूप से असफल रहा, इसके दूरगामी राजनीतिक, प्रशासनिक, आर्थिक और सामाजिक-सांस्कृतिक परिणाम हुए, जिन्होंने भारतीय इतिहास की दिशा तय की।",
+    "details": [
+      "End of Company Rule: East India Company was abolished by the Government of India Act, 1858.",
+      "Beginning of Crown’s Rule: Governance transferred directly to the British Crown; Secretary of State for India created in London.",
+      "Policy of Divide and Rule: Strengthened communal, caste, regional divisions to prevent united revolts.",
+      "Reorganisation of Army: Ratio of Europeans to Indians increased; Indians kept out of artillery and strategic posts.",
+      "Loyal Princes Strengthened: Princely states were guaranteed protection; Doctrine of Lapse was abandoned.",
+      "Land and Revenue Policy: Zamindars and landlords who supported British were rewarded; peasants continued exploitation.",
+      "Racial Divide Deepened: British became more aloof, distrustful, and racially discriminatory toward Indians.",
+      "Rise of National Consciousness: Despite failure, revolt became a symbol of resistance and inspired later nationalist movements.",
+      "Socio-Cultural Impact: Strengthened social reform and modernization movements; also reinforced conservative revival in some quarters."
+    ],
+    "detailsHindi": [
+      "कंपनी शासन का अंत: 1858 के भारत सरकार अधिनियम द्वारा ईस्ट इंडिया कंपनी समाप्त कर दी गई।",
+      "क्राउन शासन की शुरुआत: शासन सीधे ब्रिटिश क्राउन को स्थानांतरित; लंदन में भारत सचिव का पद बनाया गया।",
+      "फूट डालो और राज करो नीति: एकता रोकने के लिए सांप्रदायिक, जातीय और क्षेत्रीय विभाजनों को मजबूत किया गया।",
+      "सेना का पुनर्गठन: यूरोपीय और भारतीय सैनिकों का अनुपात बदला गया; भारतीयों को तोपखाने और रणनीतिक पदों से दूर रखा गया।",
+      "वफादार राजाओं को सशक्त किया गया: रियासतों को संरक्षण का आश्वासन; लैप्स का सिद्धांत समाप्त।",
+      "भूमि और राजस्व नीति: ब्रिटिश समर्थक जमींदारों को इनाम मिला; किसान शोषण झेलते रहे।",
+      "नस्ली विभाजन गहरा हुआ: ब्रिटिश अधिक अलग-थलग, अविश्वासी और नस्ली भेदभावपूर्ण हो गए।",
+      "राष्ट्रीय चेतना का उदय: विफलता के बावजूद विद्रोह प्रतिरोध का प्रतीक बना और आगे के राष्ट्रवादी आंदोलनों को प्रेरित किया।",
+      "सामाजिक-सांस्कृतिक प्रभाव: सामाजिक सुधार और आधुनिकीकरण को बल मिला; कुछ जगहों पर रूढ़िवाद भी मजबूत हुआ।"
+    ],
+    "tables": [{
+      "title": "Major Consequences of 1857 Revolt",
+      "titleHindi": "1857 के विद्रोह के प्रमुख परिणाम",
+      "columns": ["Aspect", "Impact"],
+      "columnsHindi": ["पहलू", "प्रभाव"],
+      "rows": [
+        ["Political", "End of Company rule; beginning of Crown rule"],
+        ["Administrative", "Secretary of State for India; Viceroy replaced Governor-General"],
+        ["Military", "Reorganisation of army; Europeans given dominance"],
+        ["Princely States", "Doctrine of Lapse withdrawn; loyal princes rewarded"],
+        ["Economic", "Peasants remained exploited; zamindars loyal to British gained"],
+        ["Social", "Racial discrimination increased; reform movements gained strength"],
+        ["Nationalist", "Symbol of resistance; inspired later freedom struggle"]
+      ],
+      "rowsHindi": [
+        ["राजनीतिक", "कंपनी शासन का अंत; क्राउन शासन की शुरुआत"],
+        ["प्रशासनिक", "भारत सचिव का पद; गवर्नर-जनरल के स्थान पर वायसराय"],
+        ["सैन्य", "सेना का पुनर्गठन; यूरोपियों का प्रभुत्व"],
+        ["रियासतें", "लैप्स सिद्धांत समाप्त; वफादार रियासतों को इनाम"],
+        ["आर्थिक", "किसान शोषणग्रस्त; वफादार जमींदार लाभान्वित"],
+        ["सामाजिक", "नस्ली भेदभाव बढ़ा; सुधार आंदोलनों को बल मिला"],
+        ["राष्ट्रवादी", "प्रतिरोध का प्रतीक; स्वतंत्रता संग्राम को प्रेरणा"]
+      ]
+    }],
+    "prelimsTips": [
+      "Government of India Act, 1858 → Ended Company rule, started Crown’s rule.",
+      "First Viceroy of India = Lord Canning.",
+      "Doctrine of Lapse was officially withdrawn after 1857.",
+      "Indian soldiers excluded from artillery and key strategic posts."
+    ],
+    "prelimsTipsHindi": [
+      "भारत सरकार अधिनियम, 1858 → कंपनी शासन का अंत, क्राउन शासन की शुरुआत।",
+      "भारत के पहले वायसराय = लॉर्ड कैनिंग।",
+      "लैप्स का सिद्धांत 1857 के बाद समाप्त हुआ।",
+      "भारतीय सैनिकों को तोपखाने और रणनीतिक पदों से दूर रखा गया।"
+    ],
+    "funFacts": [
+      "Queen Victoria’s Proclamation (1858) promised religious tolerance and equal treatment — but rarely practiced in reality.",
+      "British became more cautious about interfering in religious and social customs after 1857.",
+      "1857 Revolt is often called the 'First War of Indian Independence' by Indian historians, but 'Sepoy Mutiny' by many British accounts."
+    ],
+    "funFactsHindi": [
+      "रानी विक्टोरिया की घोषणा (1858) में धार्मिक सहिष्णुता और समान व्यवहार का वादा किया गया — पर वास्तव में शायद ही पालन हुआ।",
+      "1857 के बाद ब्रिटिश धार्मिक और सामाजिक प्रथाओं में हस्तक्षेप को लेकर अधिक सतर्क हो गए।",
+      "भारतीय इतिहासकार 1857 को 'भारत का प्रथम स्वतंत्रता संग्राम' कहते हैं, जबकि कई ब्रिटिश इसे 'सिपाही विद्रोह' मानते हैं।"
+    ],
+    "mainsPoints": [
+      "The Revolt marked a turning point — direct Crown rule replaced Company rule.",
+      "Reorganisation of army ensured British dominance but reduced Indian trust.",
+      "Though suppressed, it became a psychological blow to colonial arrogance.",
+      "Its legacy lived on as a symbol of resistance that later nationalists invoked."
+    ],
+    "mainsPointsHindi": [
+      "विद्रोह एक मोड़ साबित हुआ — कंपनी शासन की जगह क्राउन शासन आया।",
+      "सेना का पुनर्गठन हुआ, ब्रिटिश प्रभुत्व बढ़ा पर भारतीय विश्वास घटा।",
+      "यद्यपि दमन हुआ, इसने औपनिवेशिक अहंकार को मनोवैज्ञानिक झटका दिया।",
+      "इसकी विरासत प्रतिरोध का प्रतीक बनकर जीवित रही जिसे बाद के राष्ट्रवादियों ने अपनाया।"
+    ],
+  },
+  {
+    "heading": "Comparison & Timeline of the Revolt of 1857",
+    "headingHindi": "1857 के विद्रोह की तुलना और समयरेखा",
+    "highlight": "The Revolt of 1857 combined multiple causes, leaders, and regional uprisings, and though suppressed, its consequences shaped India’s future. A timeline helps to understand the sequence of key events.",
+    "highlightHindi": "1857 का विद्रोह अनेक कारणों, नेताओं और क्षेत्रीय विद्रोहों का मेल था और यद्यपि दबा दिया गया, इसके परिणामों ने भारत के भविष्य को आकार दिया। समयरेखा प्रमुख घटनाओं की क्रमबद्ध समझ प्रदान करती है।",
 
+    "tables": [{
+      "title": "Comparative Summary of the Revolt of 1857",
+      "titleHindi": "1857 के विद्रोह का तुलनात्मक सारांश",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Causes", "Political annexations (Doctrine of Lapse), economic exploitation, military grievances, social-religious fears (greased cartridges)."],
+        ["Leaders", "Bahadur Shah II (Delhi), Rani Lakshmibai (Jhansi), Nana Saheb (Kanpur), Begum Hazrat Mahal (Lucknow), Kunwar Singh (Bihar), Khan Bahadur (Bareilly), Tantia Tope (Kanpur)."],
+        ["Spread", "Delhi, Kanpur, Lucknow, Jhansi, Bihar, Bareilly, Central India, but limited in Punjab, Bombay, Madras, Bengal. Some princely states and groups (Sikhs, Gurkhas, Madras Army) remained loyal to the British."],
+        ["Consequences", "End of Company rule, beginning of Crown rule (1858), army reorganisation, Doctrine of Lapse abolished, communal & regional divisions exploited, rise of nationalist consciousness."]
+      ],
+      "rowsHindi": [
+        ["कारण", "राजनीतिक विलय (लैप्स सिद्धांत), आर्थिक शोषण, सैन्य असंतोष, सामाजिक-धार्मिक भय (चरबी वाले कारतूस)।"],
+        ["नेता", "बहादुर शाह द्वितीय (दिल्ली), रानी लक्ष्मीबाई (झांसी), नाना साहेब (कानपुर), बेगम हज़रत महल (लखनऊ), कुंवर सिंह (बिहार), खान बहादुर (बरेली), तात्या टोपे (कानपुर)।"],
+        ["फैलाव", "दिल्ली, कानपुर, लखनऊ, झांसी, बिहार, बरेली, मध्य भारत तक फैला; पंजाब, बॉम्बे, मद्रास, बंगाल में सीमित। कई रियासतें व समूह (सिख, गोरखा, मद्रास सेना) ब्रिटिश के वफादार रहे।"],
+        ["परिणाम", "कंपनी शासन समाप्त, क्राउन शासन प्रारंभ (1858), सेना का पुनर्गठन, लैप्स सिद्धांत समाप्त, साम्प्रदायिक व क्षेत्रीय विभाजन गहरे, राष्ट्रवादी चेतना का उदय।"]
+      ]
+    },
+
+    {
+      "title": "Timeline of the Revolt of 1857",
+      "titleHindi": "1857 के विद्रोह की समयरेखा",
+      "columns": ["Date/Year", "Event"],
+      "columnsHindi": ["तारीख/साल", "घटना"],
+      "rows": [
+        ["29 March 1857", "Mangal Pandey attacked British officers at Barrackpore, triggering unrest."],
+        ["10 May 1857", "Meerut: Sepoys revolted, killed British officers, marched to Delhi."],
+        ["11 May 1857", "Delhi captured; Bahadur Shah II declared symbolic emperor."],
+        ["June 1857", "Kanpur revolt under Nana Saheb; Satichaura Ghat massacre."],
+        ["June 1857", "Lucknow revolt under Begum Hazrat Mahal; Residency besieged."],
+        ["June 1857", "Jhansi uprising under Rani Lakshmibai; fierce battles against British."],
+        ["July 1857", "Kunwar Singh led revolt in Bihar."],
+        ["Nov 1857", "Tantia Tope joined revolt; guerrilla warfare in Central India."],
+        ["March 1858", "British recaptured Lucknow."],
+        ["June 1858", "Rani Lakshmibai killed in battle at Gwalior."],
+        ["July 1858", "Revolt officially suppressed; British regained full control."],
+        ["1 Nov 1858", "Queen Victoria’s Proclamation: End of Company rule, beginning of Crown rule."]
+      ],
+      "rowsHindi": [
+        ["29 मार्च 1857", "मंगल पांडे ने बैरकपुर में ब्रिटिश अधिकारियों पर हमला किया, असंतोष की शुरुआत।"],
+        ["10 मई 1857", "मेरठ: सिपाहियों ने विद्रोह किया, अंग्रेज अधिकारियों को मारा, दिल्ली की ओर बढ़े।"],
+        ["11 मई 1857", "दिल्ली पर कब्ज़ा; बहादुर शाह द्वितीय को सम्राट घोषित किया गया।"],
+        ["जून 1857", "कानपुर विद्रोह नाना साहेब के नेतृत्व में; सतीचौरा घाट कांड।"],
+        ["जून 1857", "लखनऊ विद्रोह बेगम हज़रत महल के नेतृत्व में; रेजीडेंसी की घेराबंदी।"],
+        ["जून 1857", "झांसी में रानी लक्ष्मीबाई का विद्रोह; अंग्रेजों से घमासान युद्ध।"],
+        ["जुलाई 1857", "बिहार में कुंवर सिंह ने विद्रोह का नेतृत्व किया।"],
+        ["नवंबर 1857", "तात्या टोपे ने विद्रोह में शामिल होकर मध्य भारत में गुरिल्ला युद्ध छेड़ा।"],
+        ["मार्च 1858", "ब्रिटिशों ने लखनऊ पुनः जीत लिया।"],
+        ["जून 1858", "ग्वालियर में युद्ध के दौरान रानी लक्ष्मीबाई वीरगति को प्राप्त हुईं।"],
+        ["जुलाई 1858", "विद्रोह पूरी तरह दबा दिया गया; अंग्रेजों का नियंत्रण बहाल।"],
+        ["1 नवम्बर 1858", "रानी विक्टोरिया की घोषणा: कंपनी शासन का अंत, क्राउन शासन की शुरुआत।"]
+      ]
+    },
     ],
 
+    "prelimsTips": [
+      "First spark → Mangal Pandey at Barrackpore (29 March 1857).",
+      "Immediate outbreak → Meerut (10 May 1857).",
+      "Bahadur Shah II proclaimed Emperor at Delhi (11 May 1857).",
+      "Queen Victoria’s Proclamation → 1 Nov 1858."
+    ],
+    "prelimsTipsHindi": [
+      "पहली चिंगारी → मंगल पांडे, बैरकपुर (29 मार्च 1857)।",
+      "प्रत्यक्ष विद्रोह → मेरठ (10 मई 1857)।",
+      "बहादुर शाह द्वितीय को दिल्ली में सम्राट घोषित किया गया (11 मई 1857)।",
+      "रानी विक्टोरिया की घोषणा → 1 नवम्बर 1858।"
+    ],
+
+    "funFacts": [
+      "The revolt began on a Sunday (10 May 1857), surprising British officers at church.",
+      "Bahadur Shah Zafar was 82 years old when declared emperor by rebels.",
+      "Queen Victoria’s Proclamation promised religious freedom — but British racial discrimination only increased."
+    ],
+    "funFactsHindi": [
+      "विद्रोह रविवार (10 मई 1857) को शुरू हुआ, जब ब्रिटिश अधिकारी चर्च में थे।",
+      "बहादुर शाह ज़फ़र 82 वर्ष के थे जब उन्हें विद्रोहियों ने सम्राट घोषित किया।",
+      "रानी विक्टोरिया की घोषणा में धार्मिक स्वतंत्रता का वादा किया गया — पर ब्रिटिश नस्ली भेदभाव और बढ़ गया।"
+    ],
+
+    "mainsPoints": [
+      "Revolt was a culmination of accumulated grievances — political, economic, social, military.",
+      "Though limited geographically and socially, it marked the first major challenge to colonial rule.",
+      "The timeline shows how leadership was fragmented, causing lack of coordination.",
+      "Its legacy lies in creating a memory of united resistance that fueled later nationalism."
+    ],
+    "mainsPointsHindi": [
+      "विद्रोह अनेक राजनीतिक, आर्थिक, सामाजिक और सैन्य असंतोष का परिणाम था।",
+      "भौगोलिक और सामाजिक दृष्टि से सीमित होने पर भी यह औपनिवेशिक शासन के लिए पहला बड़ा चुनौती था।",
+      "समयरेखा दर्शाती है कि नेतृत्व बिखरा हुआ था, जिससे समन्वय की कमी रही।",
+      "इसकी विरासत संयुक्त प्रतिरोध की स्मृति में रही, जिसने आगे के राष्ट्रवाद को प्रेरित किया।"
+    ],
+  },
+    ],
+    "Chapter 9: Growth of Nationalism and Moderate Phase of Congress": [
+      {
+    "heading": "Factors in the Growth of Modern Nationalism",
+    "headingHindi": "आधुनिक राष्ट्रवाद के विकास के कारक",
+    "highlight": "Modern Indian nationalism grew due to British colonial policies, socio-religious reform movements, emergence of modern education, print culture, and global influences.",
+    "highlightHindi": "आधुनिक भारतीय राष्ट्रवाद का विकास ब्रिटिश औपनिवेशिक नीतियों, सामाजिक-धार्मिक सुधार आंदोलनों, आधुनिक शिक्षा, प्रिंट संस्कृति और वैश्विक प्रभावों के कारण हुआ।",
+    "details": [
+      "Economic Exploitation: Drain of wealth, destruction of Indian industries, high taxation, and famines led to widespread discontent.",
+      "Political Factors: Centralized colonial administration, exclusion of Indians from higher services, racial discrimination created resentment.",
+      "Socio-Religious Reform Movements: Leaders like Raja Ram Mohan Roy, Dayanand Saraswati, Vivekananda, Phule promoted equality, education, and rationalism, preparing the ground for nationalism.",
+      "Role of Education: English education, universities (Calcutta, Bombay, Madras 1857) spread liberal, democratic and nationalist ideas.",
+      "Press and Literature: Vernacular newspapers, journals, pamphlets spread political awareness and criticism of colonial rule.",
+      "Modern Communication: Railways, telegraph, postal system integrated India, promoting unity and quick mobilization.",
+      "Impact of Western Thought: Ideals of liberty, equality, fraternity, and nationalism inspired Indian intellectuals.",
+      "International Influences: Success of American War of Independence, French Revolution, unification of Italy & Germany encouraged Indians.",
+      "Role of Associations: Early associations (East India Association, Indian Association, Poona Sarvajanik Sabha) created political awareness.",
+      "Repressive British Policies: Partition of Bengal (1905), Vernacular Press Act (1878), Arms Act (1878) intensified nationalist feelings."
+    ],
+    "detailsHindi": [
+      "आर्थिक शोषण: धन निकासी, भारतीय उद्योगों का नाश, भारी कर और अकाल ने असंतोष फैलाया।",
+      "राजनीतिक कारक: केंद्रीकृत औपनिवेशिक प्रशासन, उच्च सेवाओं से भारतीयों का बहिष्कार, नस्लीय भेदभाव ने असंतोष पैदा किया।",
+      "सामाजिक-धार्मिक सुधार आंदोलन: राजा राममोहन राय, दयानंद सरस्वती, विवेकानंद, फुले जैसे नेताओं ने समानता, शिक्षा और तर्कवाद का प्रचार कर राष्ट्रवाद की नींव डाली।",
+      "शिक्षा की भूमिका: अंग्रेज़ी शिक्षा और विश्वविद्यालयों (कलकत्ता, बंबई, मद्रास 1857) ने उदार, लोकतांत्रिक और राष्ट्रवादी विचार फैलाए।",
+      "प्रेस और साहित्य: स्थानीय भाषाओं के समाचार पत्र, पत्रिकाओं और पुस्तिकाओं ने राजनीतिक चेतना और औपनिवेशिक शासन की आलोचना फैलाई।",
+      "आधुनिक संचार: रेल, टेलीग्राफ और डाक प्रणाली ने भारत को जोड़ा और एकता व तेज़ संगठन को बढ़ावा दिया।",
+      "पश्चिमी विचारों का प्रभाव: स्वतंत्रता, समानता, भ्रातृत्व और राष्ट्रवाद के आदर्शों ने भारतीयों को प्रेरित किया।",
+      "अंतर्राष्ट्रीय प्रभाव: अमेरिकी स्वतंत्रता संग्राम, फ्रांसीसी क्रांति, इटली और जर्मनी के एकीकरण की सफलता ने भारतीयों को प्रोत्साहित किया।",
+      "संस्थाओं की भूमिका: प्रारंभिक संस्थाएँ (ईस्ट इंडिया एसोसिएशन, इंडियन एसोसिएशन, पूना सर्वजनिक सभा) ने राजनीतिक जागरूकता पैदा की।",
+      "ब्रिटिश दमनकारी नीतियाँ: बंगाल विभाजन (1905), वर्नाक्युलर प्रेस एक्ट (1878), आर्म्स एक्ट (1878) ने राष्ट्रवादी भावनाओं को तेज़ किया।"
+    ],
+    "tables": [{
+      "title": "Key Factors of Nationalism",
+      "titleHindi": "राष्ट्रवाद के प्रमुख कारक",
+      "columns": ["Factor", "Explanation"],
+      "columnsHindi": ["कारक", "व्याख्या"],
+      "rows": [
+        ["Economic Exploitation", "Drain of wealth, industry destruction created discontent"],
+        ["Education", "Spread liberal, democratic, nationalist ideas"],
+        ["Reform Movements", "Social equality, rationalism promoted unity"],
+        ["Press", "Newspapers and literature spread awareness"],
+        ["Modern Transport & Communication", "Railways, telegraph unified India"],
+        ["Western & Global Influences", "Inspired by global revolutions & unifications"],
+        ["Associations", "Early associations built political consciousness"],
+        ["British Policies", "Repressive acts & partition fueled nationalism"]
+      ],
+      "rowsHindi": [
+        ["आर्थिक शोषण", "धन निकासी और उद्योग नष्ट होने से असंतोष"],
+        ["शिक्षा", "उदार, लोकतांत्रिक और राष्ट्रवादी विचारों का प्रसार"],
+        ["सुधार आंदोलन", "सामाजिक समानता और तर्कवाद से एकता को बढ़ावा"],
+        ["प्रेस", "समाचार पत्र और साहित्य ने जागरूकता फैलाई"],
+        ["आधुनिक परिवहन व संचार", "रेलवे और टेलीग्राफ ने भारत को जोड़ा"],
+        ["पश्चिमी व वैश्विक प्रभाव", "विश्व क्रांतियों और एकीकरण से प्रेरणा"],
+        ["संस्थाएँ", "प्रारंभिक संस्थाओं ने राजनीतिक चेतना बढ़ाई"],
+        ["ब्रिटिश नीतियाँ", "दमनकारी कानून और विभाजन ने राष्ट्रवाद को भड़काया"]
+      ]
+    }],
+    "prelimsTips": [
+      "Universities of Calcutta, Bombay, Madras were all founded in 1857.",
+      "Vernacular Press Act (1878) curtailed Indian press freedom.",
+      "Partition of Bengal (1905) was a turning point in nationalism."
+    ],
+    "prelimsTipsHindi": [
+      "कलकत्ता, बंबई, मद्रास विश्वविद्यालय 1857 में स्थापित हुए।",
+      "वर्नाक्युलर प्रेस एक्ट (1878) ने भारतीय प्रेस की स्वतंत्रता को सीमित किया।",
+      "बंगाल विभाजन (1905) राष्ट्रवाद में एक मोड़ साबित हुआ।"
+    ],
+    "funFacts": [
+      "Dadabhai Naoroji’s Drain of Wealth theory became a rallying point for early nationalists.",
+      "The Indian press, despite censorship, became one of the strongest voices of nationalism."
+    ],
+    "funFactsHindi": [
+      "दादाभाई नौरोजी का धन निकासी सिद्धांत प्रारंभिक राष्ट्रवादियों का नारा बन गया।",
+      "भारतीय प्रेस, सेंसरशिप के बावजूद, राष्ट्रवाद की सबसे मज़बूत आवाज़ बना।"
+    ],
+    "mainsPoints": [
+      "Nationalism emerged as a response to colonial exploitation but drew strength from socio-cultural reforms and education.",
+      "Role of press, associations, and modern communication was vital in uniting people.",
+      "Nationalism had both economic and cultural dimensions, making it a mass force by the early 20th century."
+    ],
+    "mainsPointsHindi": [
+      "राष्ट्रवाद औपनिवेशिक शोषण की प्रतिक्रिया के रूप में उभरा पर सामाजिक-सांस्कृतिक सुधारों और शिक्षा से ताकत मिली।",
+      "प्रेस, संस्थाओं और आधुनिक संचार ने लोगों को जोड़ने में अहम भूमिका निभाई।",
+      "राष्ट्रवाद के आर्थिक और सांस्कृतिक दोनों आयाम थे, जिसने इसे 20वीं सदी की शुरुआत तक जनशक्ति बना दिया।"
+    ],
+  },
+  {
+    "heading": "Political Associations Before the Indian National Congress",
+    "headingHindi": "भारतीय राष्ट्रीय कांग्रेस से पहले की राजनीतिक संस्थाएँ",
+    "highlight": "Before the formation of INC in 1885, several regional and all-India political associations emerged that created political consciousness, demanded reforms, and prepared the ground for organized nationalism.",
+    "highlightHindi": "1885 में कांग्रेस की स्थापना से पहले कई क्षेत्रीय और अखिल भारतीय राजनीतिक संस्थाएँ उभरीं, जिन्होंने राजनीतिक चेतना फैलाई, सुधारों की मांग की और संगठित राष्ट्रवाद की नींव रखी।",
+    "tables": [
+      {
+        "title": "Major Political Associations Before INC (State-wise)",
+        "titleHindi": "कांग्रेस से पूर्व प्रमुख राजनीतिक संस्थाएँ (राज्यवार)",
+        "columns": ["Region/State", "Association/Party", "Year", "Leaders/Founders", "Key Features"],
+        "columnsHindi": ["क्षेत्र/राज्य", "संस्था/पार्टी", "साल", "नेता/संस्थापक", "मुख्य विशेषताएँ"],
+        "rows": [
+          ["Bengal", "Zamindari Association / Landholders’ Society", "1838", "Dwarkanath Tagore, Radhakanta Deb", "First political association in India; voiced zamindars’ interests; focused on revenue reforms."],
+          ["Bengal", "Bengal British India Society", "1843", "George Thompson, Krishna Mohan Banerjee", "Sought reforms in governance; protection of tenants; opposed zamindari oppression."],
+          ["Bengal", "Bangabhasha Prakashika Sabha", "1836", "Associates of Raja Rammohan Roy", "First association to promote public opinion; discussion-based body."],
+          ["Bengal", "British Indian Association", "1851", "Debendranath Tagore, Radha Kanta Deb", "Merged Landholders’ Society & Bengal British India Society; demanded reforms in legislature and revenue policies."],
+          ["Bengal", "Indian League", "1875", "Sisir Kumar Ghosh", "Focused on spreading political education among the masses and political reforms."],
+          ["Bengal", "Indian Association of Calcutta (Indian National Association of Bengal)", "1876", "Surendranath Banerjee, Ananda Mohan Bose", "Most important pre-Congress organisation; sought Indianisation of services, expansion of legislative councils; led All India campaigns like Age of Consent agitation."],
+          ["Bombay", "Bombay Association", "1852", "Dadabhai Naoroji, Jagannath Shankar Sheth", "Submitted petitions on financial & administrative reforms; opposed press restrictions."],
+          ["Bombay", "East India Association", "1866", "Dadabhai Naoroji (in London)", "First body to connect Indian political leaders with British Parliament; highlighted 'Drain of Wealth'."],
+          ["Bombay", "Poona Sarvajanik Sabha", "1870", "M.G. Ranade, S.H. Sathe", "Worked for constitutional reforms, famine relief, and economic development."],
+          ["Madras", "Madras Native Association", "1852", "Gazulu Lakshminarasu Chetty", "Petitioned for administrative reforms; limited urban elite participation."],
+          ["Madras", "Madras Mahajan Sabha", "1884", "M. Viraraghavachari, G. Subramania Iyer, P. Ananda Charlu", "Organised political discussions; precursor to INC; fostered unity among South Indian leaders."],
+          ["All India", "Indian National Conference", "1883", "Surendranath Banerjee, Anand Mohan Bose", "Held in Calcutta; demanded representative institutions; merged with INC after 1885."]
+        ],
+        "rowsHindi": [
+          ["बंगाल", "जमींदारी एसोसिएशन / लैंडहोल्डर्स सोसाइटी", "1838", "द्वारकानाथ टैगोर, राधाकांत देव", "भारत की पहली राजनीतिक संस्था; जमींदारों के हितों की आवाज; राजस्व सुधारों पर केंद्रित।"],
+          ["बंगाल", "बंगाल ब्रिटिश इंडिया सोसाइटी", "1843", "जॉर्ज थॉम्पसन, कृष्ण मोहन बनर्जी", "शासन में सुधारों की मांग; किसानों की सुरक्षा; जमींदारी शोषण का विरोध।"],
+          ["बंगाल", "बंगभाषा प्रकाशिका सभा", "1836", "राजा राममोहन राय के सहयोगी", "जनमत को प्रोत्साहित करने वाली पहली संस्था; चर्चा आधारित संगठन।"],
+          ["बंगाल", "ब्रिटिश इंडियन एसोसिएशन", "1851", "देवेन्द्रनाथ टैगोर, राधाकांत देव", "लैंडहोल्डर्स सोसाइटी और बंगाल ब्रिटिश इंडिया सोसाइटी का विलय; विधायी और राजस्व सुधार की मांग।"],
+          ["बंगाल", "इंडियन लीग", "1875", "शिशिर कुमार घोष", "जनता में राजनीतिक शिक्षा और सुधारों के प्रसार पर ध्यान।"],
+          ["बंगाल", "इंडियन एसोसिएशन ऑफ कलकत्ता (इंडियन नेशनल एसोसिएशन ऑफ बंगाल)", "1876", "सुरेन्द्रनाथ बनर्जी, आनंद मोहन बोस", "कांग्रेस-पूर्व सबसे महत्वपूर्ण संस्था; सेवाओं के भारतीयीकरण, विधायी परिषदों के विस्तार की मांग; अखिल भारतीय अभियानों का नेतृत्व किया।"],
+          ["बॉम्बे", "बॉम्बे एसोसिएशन", "1852", "दादाभाई नौरोजी, जगन्नाथ शंकर शेठ", "वित्तीय और प्रशासनिक सुधारों पर याचिकाएँ; प्रेस पर अंकुश का विरोध।"],
+          ["बॉम्बे", "ईस्ट इंडिया एसोसिएशन", "1866", "दादाभाई नौरोजी (लंदन में)", "पहली संस्था जिसने भारतीय नेताओं को ब्रिटिश संसद से जोड़ा; 'धन की निकासी' का मुद्दा उठाया।"],
+          ["बॉम्बे", "पूना सर्वजनिक सभा", "1870", "एम.जी. रानाडे, एस.एच. साठे", "संवैधानिक सुधारों, अकाल राहत और आर्थिक विकास पर कार्य।"],
+          ["मद्रास", "मद्रास नेटिव एसोसिएशन", "1852", "गज़ुलु लक्ष्मीनारसु चेत्ती", "प्रशासनिक सुधारों के लिए याचिकाएँ; सीमित शहरी अभिजन भागीदारी।"],
+          ["मद्रास", "मद्रास महासभा", "1884", "एम. वीराराघवचारी, जी. सुब्रमणिया अय्यर, पी. आनंद चार्लू", "राजनीतिक चर्चाओं का आयोजन; कांग्रेस का पूर्ववर्ती; दक्षिण भारतीय नेताओं में एकता।"],
+          ["अखिल भारतीय", "इंडियन नेशनल कॉन्फ्रेंस", "1883", "सुरेन्द्रनाथ बनर्जी, आनंद मोहन बोस", "कलकत्ता में अधिवेशन; प्रतिनिधि संस्थाओं की मांग; 1885 के बाद कांग्रेस में विलय।"]
+        ]
+      }
+    ],
+  },
+  {
+    "heading": "Foundation of the Indian National Congress (INC)",
+    "headingHindi": "भारतीय राष्ट्रीय कांग्रेस (आईएनसी) की स्थापना",
+    "highlight": "The Indian National Congress, founded in 1885, marked the beginning of an organized nationalist movement in India. It provided a platform for political dialogue, reform demands, and eventually the struggle for independence.",
+    "highlightHindi": "1885 में स्थापित भारतीय राष्ट्रीय कांग्रेस ने भारत में संगठित राष्ट्रवादी आंदोलन की शुरुआत की। यह राजनीतिक संवाद, सुधार की मांगों और अंततः स्वतंत्रता संग्राम का मंच बना।",
+    "details": [
+      "Founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay.",
+      "The idea was conceived by Allan Octavian Hume, a retired British civil servant, to provide a platform for educated Indians.",
+      "First session was presided over by W.C. Bonnerjee with 72 delegates from across India.",
+      "Aimed at creating a forum for civic and political dialogue, uniting Indians across regions.",
+      "Early objectives: Greater Indian representation in legislative councils, civil service reforms, protection of Indian industries, spread of political consciousness.",
+      "INC worked as a 'safety valve' (according to some historians) to allow expression of Indian grievances within constitutional means.",
+      "It soon became the central organisation of the Indian national movement."
+    ],
+    "detailsHindi": [
+      "दिसंबर 1885 में गोखुलदास तेजपाल संस्कृत कॉलेज, बंबई में स्थापित।",
+      "इसका विचार ए.ओ. ह्यूम, एक सेवानिवृत्त ब्रिटिश सिविल सेवक ने रखा, ताकि शिक्षित भारतीयों को मंच मिल सके।",
+      "पहले अधिवेशन की अध्यक्षता डब्ल्यू.सी. बनर्जी ने की जिसमें 72 प्रतिनिधि भारत के विभिन्न क्षेत्रों से आए।",
+      "उद्देश्य: भारतीयों को एक मंच पर लाना और राजनीतिक संवाद को बढ़ावा देना।",
+      "प्रारंभिक उद्देश्य: विधायी परिषदों में भारतीय प्रतिनिधित्व बढ़ाना, सिविल सेवा सुधार, भारतीय उद्योगों की रक्षा, राजनीतिक चेतना फैलाना।",
+      "कुछ इतिहासकारों के अनुसार यह एक 'सेफ्टी वाल्व' था, ताकि भारतीय अपनी शिकायतें संवैधानिक तरीके से व्यक्त कर सकें।",
+      "यह शीघ्र ही भारतीय राष्ट्रीय आंदोलन का केंद्रीय संगठन बन गया।"
+    ],
+    "tables": [
+      {
+        "title": "Early Sessions of the INC",
+        "titleHindi": "कांग्रेस के प्रारंभिक अधिवेशन",
+        "columns": ["Year", "Place", "President", "Key Features"],
+        "columnsHindi": ["साल", "स्थान", "अध्यक्ष", "मुख्य विशेषताएँ"],
+        "rows": [
+          ["1885", "Bombay", "W.C. Bonnerjee", "First session; 72 delegates; moderate constitutional demands"],
+          ["1886", "Calcutta", "Dadabhai Naoroji", "Second session; attendance doubled; Naoroji explained 'Drain of Wealth'"],
+          ["1887", "Madras", "Syed Badruddin Tyabji", "First Muslim President; promoted unity across communities"],
+          ["1888", "Allahabad", "George Yule", "First English President; symbol of inclusivity"],
+          ["1889", "Bombay", "Sir William Wedderburn", "Supported Indian representation in councils"]
+        ],
+        "rowsHindi": [
+          ["1885", "बंबई", "डब्ल्यू.सी. बनर्जी", "पहला अधिवेशन; 72 प्रतिनिधि; संवैधानिक मांगें"],
+          ["1886", "कलकत्ता", "दादाभाई नौरोजी", "दूसरा अधिवेशन; उपस्थिति दोगुनी; 'धन की निकासी' सिद्धांत स्पष्ट किया"],
+          ["1887", "मद्रास", "सैयद बदरुद्दीन तैयबजी", "पहले मुस्लिम अध्यक्ष; साम्प्रदायिक एकता को बढ़ावा दिया"],
+          ["1888", "इलाहाबाद", "जॉर्ज यूल", "पहले अंग्रेज अध्यक्ष; समावेशिता का प्रतीक"],
+          ["1889", "बंबई", "सर विलियम वेडरबर्न", "भारतीय प्रतिनिधित्व का समर्थन"]
+        ]
+      }
+    ],
+    "prelimsTips": [
+      "INC founded in 1885 in Bombay; first session presided over by W.C. Bonnerjee.",
+      "Dadabhai Naoroji (1886 session, Calcutta) = 'Grand Old Man of India'.",
+      "Syed Badruddin Tyabji (1887) = first Muslim President.",
+      "George Yule (1888) = first English President."
+    ],
+    "prelimsTipsHindi": [
+      "कांग्रेस की स्थापना 1885 में बंबई में हुई; पहले अध्यक्ष डब्ल्यू.सी. बनर्जी।",
+      "दादाभाई नौरोजी (1886, कलकत्ता) = 'ग्रैंड ओल्ड मैन ऑफ इंडिया'।",
+      "सैयद बदरुद्दीन तैयबजी (1887) = पहले मुस्लिम अध्यक्ष।",
+      "जॉर्ज यूल (1888) = पहले अंग्रेज अध्यक्ष।"
+    ],
+    "funFacts": [
+      "INC was initially supported by some British officials as a 'safety valve' for political discontent.",
+      "In its early years, INC was dominated by the 'Moderates' who believed in petitions, resolutions, and dialogues.",
+      "The number of delegates rose rapidly: from 72 (1885) to over 600 by the 1890s."
+    ],
+    "funFactsHindi": [
+      "कांग्रेस को प्रारंभ में कुछ ब्रिटिश अधिकारियों ने 'सेफ्टी वाल्व' के रूप में समर्थन दिया।",
+      "प्रारंभिक वर्षों में कांग्रेस 'मॉडरेट्स' के अधीन थी, जो याचिकाओं और संवाद पर विश्वास करते थे।",
+      "प्रतिनिधियों की संख्या तेजी से बढ़ी: 72 (1885) से लेकर 1890 के दशक तक 600 से अधिक।"
+    ],
+    "mainsPoints": [
+      "Foundation of INC symbolized the entry of educated Indians into organized politics.",
+      "It created a national political platform uniting diverse regions and communities.",
+      "Early moderates laid emphasis on constitutional reforms, petitions, and dialogue with the British.",
+      "Though limited in scope, it sowed the seeds of political unity and mass nationalism."
+    ],
+    "mainsPointsHindi": [
+      "कांग्रेस की स्थापना ने संगठित राजनीति में शिक्षित भारतीयों की प्रविष्टि को दर्शाया।",
+      "इसने विविध क्षेत्रों और समुदायों को जोड़कर एक राष्ट्रीय राजनीतिक मंच तैयार किया।",
+      "प्रारंभिक मॉडरेट्स ने संवैधानिक सुधारों, याचिकाओं और ब्रिटिशों से संवाद पर बल दिया।",
+      "यद्यपि इनका दायरा सीमित था, लेकिन इन्होंने राजनीतिक एकता और जन-राष्ट्रवाद की नींव रखी।"
+    ],
+  },
+  {
+    "heading": "Timeline of Indian National Congress Sessions (1885–1907)",
+    "headingHindi": "भारतीय राष्ट्रीय कांग्रेस के अधिवेशनों की समयरेखा (1885–1907)",
+    "highlight": "The first two decades of the Indian National Congress were dominated by Moderates, who believed in petitions, prayers, and constitutional methods. The Surat Split in 1907 marked the division between Moderates and Extremists.",
+    "highlightHindi": "भारतीय राष्ट्रीय कांग्रेस के पहले दो दशक मॉडरेट्स के प्रभुत्व में रहे, जो प्रार्थना-पत्र और संवैधानिक तरीकों में विश्वास रखते थे। 1907 में सूरत विभाजन ने मॉडरेट्स और उग्रवादियों के बीच दरार पैदा की।",
+    "tables": [
+      {
+        "title": "INC Sessions (1885–1907)",
+        "titleHindi": "कांग्रेस अधिवेशन (1885–1907)",
+        "columns": ["Year", "Place", "President", "Key Outcome"],
+        "columnsHindi": ["साल", "स्थान", "अध्यक्ष", "मुख्य परिणाम"],
+        "rows": [
+          ["1885", "Bombay", "W.C. Bonnerjee", "First session; 72 delegates; constitutional reforms demanded."],
+          ["1886", "Calcutta", "Dadabhai Naoroji", "Attendance doubled; 'Drain of Wealth' theory highlighted."],
+          ["1887", "Madras", "Syed Badruddin Tyabji", "First Muslim President; unity across communities stressed."],
+          ["1888", "Allahabad", "George Yule", "First Englishman President; symbol of inclusiveness."],
+          ["1889", "Bombay", "Sir William Wedderburn", "Demanded Indian representation in services."],
+          ["1890", "Calcutta", "Ferozeshah Mehta", "Stressed constitutional reforms."],
+          ["1892", "Allahabad", "Dadabhai Naoroji", "Demanded expansion of legislative councils (Indian Councils Act 1892)."],
+          ["1896", "Calcutta", "Rahimtulla Sayani", "Resolutions on famine relief; Tilak raised 'Swaraj' slogan in parallel sessions."],
+          ["1905", "Banaras", "Gopal Krishna Gokhale", "Resolution against Partition of Bengal; rise of Extremist influence."],
+          ["1906", "Calcutta", "Dadabhai Naoroji", "Declaration of 'Swaraj' (Self-Government) as the goal."],
+          ["1907", "Surat", "Rash Behari Ghosh", "Split between Moderates (Gokhale, Pherozeshah Mehta) and Extremists (Tilak, Bipin Chandra Pal, Lala Lajpat Rai)."]
+        ],
+        "rowsHindi": [
+          ["1885", "बंबई", "डब्ल्यू.सी. बनर्जी", "पहला अधिवेशन; 72 प्रतिनिधि; संवैधानिक सुधारों की मांग।"],
+          ["1886", "कलकत्ता", "दादाभाई नौरोजी", "प्रतिनिधि संख्या दोगुनी; 'धन की निकासी' सिद्धांत पर जोर।"],
+          ["1887", "मद्रास", "सैयद बदरुद्दीन तैयबजी", "पहले मुस्लिम अध्यक्ष; साम्प्रदायिक एकता पर जोर।"],
+          ["1888", "इलाहाबाद", "जॉर्ज यूल", "पहले अंग्रेज अध्यक्ष; समावेशिता का प्रतीक।"],
+          ["1889", "बंबई", "सर विलियम वेडरबर्न", "भारतीय प्रतिनिधित्व की मांग।"],
+          ["1890", "कलकत्ता", "फिरोजशाह मेहता", "संवैधानिक सुधारों पर जोर।"],
+          ["1892", "इलाहाबाद", "दादाभाई नौरोजी", "विधायी परिषदों के विस्तार की मांग (भारतीय परिषद अधिनियम 1892)।"],
+          ["1896", "कलकत्ता", "रहीमतुल्ला सयानी", "अकाल राहत पर प्रस्ताव; तिलक ने समानांतर अधिवेशन में 'स्वराज' का नारा दिया।"],
+          ["1905", "बनारस", "गोपाल कृष्ण गोखले", "बंगाल विभाजन के विरोध का प्रस्ताव; उग्रवादियों का प्रभाव बढ़ा।"],
+          ["1906", "कलकत्ता", "दादाभाई नौरोजी", "'स्वराज' (स्वशासन) को लक्ष्य घोषित किया।"],
+          ["1907", "सूरत", "राश बिहारी घोष", "मॉडरेट्स (गोखले, फिरोजशाह मेहता) और उग्रवादी (तिलक, बिपिन चंद्र पाल, लाला लाजपत राय) के बीच विभाजन।"]
+        ]
+      }
+    ],
+    "prelimsTips": [
+      "INC founded in 1885 (Bombay, W.C. Bonnerjee).",
+      "Dadabhai Naoroji declared 'Swaraj' as Congress goal in 1906 (Calcutta session).",
+      "Surat Split (1907) → Moderates vs Extremists.",
+      "First Muslim President: Badruddin Tyabji (1887).",
+      "First English President: George Yule (1888)."
+    ],
+    "prelimsTipsHindi": [
+      "कांग्रेस की स्थापना 1885 में (बंबई, डब्ल्यू.सी. बनर्जी)।",
+      "दादाभाई नौरोजी ने 1906 (कलकत्ता) में 'स्वराज' को लक्ष्य घोषित किया।",
+      "सूरत विभाजन (1907) → मॉडरेट्स बनाम उग्रवादी।",
+      "पहले मुस्लिम अध्यक्ष: बदरुद्दीन तैयबजी (1887)।",
+      "पहले अंग्रेज अध्यक्ष: जॉर्ज यूल (1888)।"
+    ],
+    "funFacts": [
+      "Dadabhai Naoroji presided over Congress three times (1886, 1893, 1906).",
+      "Surat Split session saw chairs thrown and physical scuffles between groups.",
+      "Early INC had delegates from across India, including princely states."
+    ],
+    "funFactsHindi": [
+      "दादाभाई नौरोजी ने तीन बार कांग्रेस की अध्यक्षता की (1886, 1893, 1906)।",
+      "सूरत विभाजन अधिवेशन में कुर्सियाँ फेंकी गईं और हाथापाई हुई।",
+      "प्रारंभिक कांग्रेस में भारत भर से, यहाँ तक कि रियासतों से भी प्रतिनिधि आते थे।"
+    ],
+    "mainsPoints": [
+      "INC (1885–1907) represented the Moderate Phase of the national movement.",
+      "Demands: representation in councils, civil service reforms, reduction of military expenditure, protection of Indian industries.",
+      "1906 Calcutta session declared 'Swaraj' as the ultimate goal — a turning point.",
+      "1907 Surat Split reflected growing divergence between constitutional moderates and assertive extremists."
+    ],
+    "mainsPointsHindi": [
+      "कांग्रेस (1885–1907) राष्ट्रवादी आंदोलन के मॉडरेट चरण का प्रतिनिधित्व करती है।",
+      "मांगें: परिषदों में प्रतिनिधित्व, सिविल सेवा सुधार, सैन्य खर्च में कमी, भारतीय उद्योगों की रक्षा।",
+      "1906 कलकत्ता अधिवेशन में 'स्वराज' को अंतिम लक्ष्य घोषित किया गया — यह एक मोड़ था।",
+      "1907 सूरत विभाजन ने संवैधानिक मॉडरेट्स और उग्रवादियों के बीच बढ़ते मतभेद को दिखाया।"
+    ],
+  },
+  {
+    "heading": "Indian National Congress and National Movement (1907–1919)",
+    "headingHindi": "भारतीय राष्ट्रीय कांग्रेस और राष्ट्रीय आंदोलन (1907–1919)",
+    "highlight": "This phase witnessed the Surat Split, rise of Extremists, limited constitutional concessions (Morley-Minto Reforms), Hindu-Muslim unity (Lucknow Pact), the spread of Home Rule agitation, and British commitments towards self-government (Montagu Declaration, Montagu-Chelmsford Reforms).",
+    "highlightHindi": "इस चरण में सूरत विभाजन, उग्रवादियों का उदय, सीमित संवैधानिक रियायतें (मॉर्ले-मिंटो सुधार), हिन्दू-मुस्लिम एकता (लखनऊ समझौता), होमरूल आंदोलन का प्रसार और ब्रिटिशों द्वारा स्वशासन का वादा (मॉन्टेग घोषणा, मॉन्टेग-चेम्सफोर्ड सुधार) देखने को मिला।",
+    "tables": [
+      {
+        "title": "Key Events (1907–1919)",
+        "titleHindi": "मुख्य घटनाएँ (1907–1919)",
+        "columns": ["Year", "Event", "Place", "INC President", "Details"],
+      "columnsHindi": ["साल", "घटना", "स्थान", "कांग्रेस अध्यक्ष", "विवरण"],
+      "rows": [
+        ["1905–1907", "Swadeshi & Boycott Movement", "Bengal (Calcutta epicentre)", "Gopal Krishna Gokhale (Banaras Session 1905)", "Triggered by Partition of Bengal (1905); promoted indigenous industries, boycott of foreign goods; leaders: Tilak, Aurobindo, Bipin Pal."],
+        ["1907", "Surat Split", "Surat", "Rashbihari Ghosh (INC President, 1907)", "INC divided into Moderates (Gokhale, Mehta) and Extremists (Tilak, Lajpat Rai, B.C. Pal)."],
+        ["1909", "Morley-Minto Reforms (Indian Councils Act)", "British Parliament, London", "—", "Expanded legislative councils; introduced separate electorates for Muslims → rise of communal politics."],
+        ["1911", "Delhi Durbar", "Delhi", "—", "Partition of Bengal annulled; capital shifted from Calcutta to Delhi."],
+        ["1914–1918", "World War I", "Europe & Global (impact on India)", "—", "India supplied soldiers & resources; expectation of self-government after war; rise of political consciousness."],
+        ["1916", "Lucknow Pact", "Lucknow", "Ambica Charan Mazumdar (Lucknow Session, 1916)", "Congress and Muslim League joint demands; agreement on separate electorates; Hindu-Muslim unity at peak."],
+        ["1916", "Home Rule Movement", "Maharashtra, Karnataka, Madras", "—", "Annie Besant (South India) & Tilak (Maharashtra, Karnataka); demand for self-government; inspired youth and women."],
+        ["1917", "Montagu Declaration", "London", "—", "British Secretary of State Edwin Montagu announced policy of 'progressive realisation of responsible government'."],
+        ["1917", "Champaran Satyagraha (precursor)", "Champaran, Bihar", "—", "Mahatma Gandhi led indigo peasants in Bihar; his first successful mass struggle in India."],
+        ["1919", "Montagu-Chelmsford Reforms (Govt. of India Act 1919)", "British Parliament, London", "—", "Introduced dyarchy in provinces; limited franchise; separate electorates extended to Sikhs, Anglo-Indians, Europeans."]
+      ],
+      "rowsHindi": [
+        ["1905–1907", "स्वदेशी और बहिष्कार आंदोलन", "बंगाल (कलकत्ता केंद्र)", "गोपाल कृष्ण गोखले (वाराणसी अधिवेशन 1905)", "बंगाल विभाजन (1905) से प्रेरित; स्वदेशी उद्योगों को बढ़ावा, विदेशी वस्तुओं का बहिष्कार; नेता: तिलक, अरविंदो, बिपिन पाल।"],
+        ["1907", "सूरत विभाजन", "सूरत", "राशबिहारी घोष (कांग्रेस अध्यक्ष, 1907)", "कांग्रेस मॉडरेट्स (गोखले, मेहता) और उग्रवादियों (तिलक, लाजपत राय, बिपिन चंद्र पाल) में बँटी।"],
+        ["1909", "मॉर्ले-मिंटो सुधार (भारतीय परिषद अधिनियम)", "ब्रिटिश संसद, लंदन", "—", "विधायी परिषदों का विस्तार; मुसलमानों के लिए पृथक निर्वाचक मंडल → साम्प्रदायिक राजनीति का उदय।"],
+        ["1911", "दिल्ली दरबार", "दिल्ली", "—", "बंगाल विभाजन रद्द; राजधानी कलकत्ता से दिल्ली स्थानांतरित।"],
+        ["1914–1918", "प्रथम विश्वयुद्ध", "यूरोप व विश्व (भारत पर प्रभाव)", "—", "भारत ने सैनिक व संसाधन दिए; युद्ध के बाद स्वशासन की अपेक्षा; राजनीतिक चेतना का विस्तार।"],
+        ["1916", "लखनऊ समझौता", "लखनऊ", "अंबिका चरण मजूमदार (कांग्रेस अध्यक्ष, 1916)", "कांग्रेस और मुस्लिम लीग की संयुक्त मांगें; पृथक निर्वाचक मंडलों पर सहमति; हिन्दू-मुस्लिम एकता चरम पर।"],
+        ["1916", "होमरूल आंदोलन", "महाराष्ट्र, कर्नाटक, मद्रास", "—", "एनी बेसेंट (दक्षिण भारत) और तिलक (महाराष्ट्र, कर्नाटक) के नेतृत्व में; स्वशासन की मांग; युवाओं व महिलाओं को प्रेरणा।"],
+        ["1917", "मॉन्टेग घोषणा", "लंदन", "—", "ब्रिटिश मंत्री मॉन्टेग ने 'जिम्मेदार सरकार की क्रमिक प्राप्ति' की नीति की घोषणा की।"],
+        ["1917", "चंपारण सत्याग्रह (प्रारंभिक)", "चंपारण, बिहार", "—", "महात्मा गांधी ने बिहार के नील किसानों का नेतृत्व किया; भारत में पहला सफल जन संघर्ष।"],
+        ["1919", "मॉन्टेग-चेम्सफोर्ड सुधार (भारत सरकार अधिनियम 1919)", "ब्रिटिश संसद, लंदन", "—", "प्रांतों में द्वैध शासन (Dyarchy); सीमित मताधिकार; पृथक निर्वाचक मंडल सिखों, एंग्लो-इंडियन, यूरोपियनों तक विस्तारित।"]
+      ]
+      }
+    ],
+    "prelimsTips": [
+      "1907 Surat Split → Moderates (Gokhale) vs Extremists (Tilak).",
+      "1909 Morley-Minto Reforms → separate electorates for Muslims.",
+      "1916 Lucknow Pact → Hindu-Muslim unity (Congress + Muslim League).",
+      "1916 Home Rule Movement → Annie Besant + Tilak.",
+      "1917 Montagu Declaration → first official step towards self-government.",
+      "1917 Champaran Satyagraha → Gandhi’s first mass movement in India.",
+      "1919 Montagu-Chelmsford Reforms → dyarchy in provinces."
+    ],
+    "prelimsTipsHindi": [
+      "1907 सूरत विभाजन → मॉडरेट्स (गोखले) बनाम उग्रवादी (तिलक)।",
+      "1909 मॉर्ले-मिंटो सुधार → मुसलमानों के लिए पृथक निर्वाचक मंडल।",
+      "1916 लखनऊ समझौता → हिन्दू-मुस्लिम एकता (कांग्रेस + मुस्लिम लीग)।",
+      "1916 होमरूल आंदोलन → एनी बेसेंट + तिलक।",
+      "1917 मॉन्टेग घोषणा → स्वशासन की पहली आधिकारिक घोषणा।",
+      "1917 चंपारण सत्याग्रह → गांधी का भारत में पहला जन आंदोलन।",
+      "1919 मॉन्टेग-चेम्सफोर्ड सुधार → प्रांतो में द्वैध शासन।"
+    ],
+    "funFacts": [
+      "At Surat (1907), chairs and shoes were thrown during clashes between Moderates and Extremists.",
+      "Annie Besant was interned by the British in 1917 for her role in the Home Rule Movement.",
+      "Tilak declared 'Swaraj is my birthright and I shall have it' during this period.",
+      "The annulment of Bengal partition in 1911 was seen as a victory for Swadeshi movement."
+    ],
+    "funFactsHindi": [
+      "सूरत (1907) में मॉडरेट्स और उग्रवादियों की भिड़ंत में कुर्सियाँ और जूते तक फेंके गए।",
+      "एनी बेसेंट को 1917 में होमरूल आंदोलन के कारण ब्रिटिशों ने नजरबंद किया।",
+      "तिलक ने इस समय 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा' का नारा दिया।",
+      "1911 में बंगाल विभाजन की वापसी को स्वदेशी आंदोलन की जीत माना गया।"
+    ],
+    "mainsPoints": [
+      "This phase bridged the gap between early petitions (Moderates) and mass satyagraha (Gandhi).",
+      "It saw both cooperation (Lucknow Pact) and confrontation (Extremist agitation) with British rule.",
+      "The Home Rule Movement carried nationalist ideas deep into Indian society, preparing ground for mass movements.",
+      "World War I increased expectations of reforms, but Montagu-Chelmsford Reforms fell short, leading to post-1919 disillusionment."
+    ],
+    "mainsPointsHindi": [
+      "यह चरण मॉडरेट्स की याचिकाओं और गांधी के जन सत्याग्रह के बीच पुल साबित हुआ।",
+      "इसमें ब्रिटिश शासन से सहयोग (लखनऊ समझौता) और टकराव (उग्रवादी आंदोलन) दोनों देखने को मिले।",
+      "होमरूल आंदोलन ने राष्ट्रवादी विचारों को जनता तक गहराई से पहुँचाया और जन आंदोलनों की नींव रखी।",
+      "प्रथम विश्वयुद्ध ने सुधारों की अपेक्षा बढ़ाई, लेकिन मॉन्टेग-चेम्सफोर्ड सुधार अधूरे रहे, जिससे 1919 के बाद असंतोष फैला।"
+    ],
+  },
+  {
+    "heading": "Gandhian Era – Phase I (1919–1935)",
+    "headingHindi": "गांधी युग – चरण I (1919–1935)",
+    "highlight": "The Gandhian era marked the shift of nationalism into a mass movement. Gandhi’s leadership, satyagraha, and non-violent struggle mobilised millions across classes, regions, and communities. Key milestones include the Rowlatt Satyagraha, Non-Cooperation, Civil Disobedience, and constitutional experiments like Simon Commission and Government of India Act 1935.",
+    "highlightHindi": "गांधी युग ने राष्ट्रवाद को एक जन आंदोलन का रूप दिया। गांधी के नेतृत्व, सत्याग्रह और अहिंसक संघर्ष ने विभिन्न वर्गों, क्षेत्रों और समुदायों के लाखों लोगों को संगठित किया। प्रमुख मील के पत्थर: रॉलेट सत्याग्रह, असहयोग, सविनय अवज्ञा और संवैधानिक प्रयोग जैसे साइमन कमीशन और भारत सरकार अधिनियम 1935।",
+    "tables": [
+      {
+        "title": "Major Events of Gandhian Era (1919–1935)",
+        "titleHindi": "गांधी युग की प्रमुख घटनाएँ (1919–1935)",
+        "columns": ["Year", "Event", "Place", "INC President", "Details"],
+        "columnsHindi": ["साल", "घटना", "स्थान", "कांग्रेस अध्यक्ष", "विवरण"],
+        "rows": [
+          ["1919", "Rowlatt Act & Satyagraha", "Delhi (nationwide protest)", "—", "Extended wartime repressive laws; Gandhi’s first all-India protest; led to unrest."],
+          ["1919", "Jallianwala Bagh Massacre", "Amritsar, Punjab", "—", "General Dyer ordered firing on peaceful gathering; over 1000 killed; turning point."],
+          ["1920–1922", "Non-Cooperation Movement", "Nationwide", "Nagpur Session (1920) → C. Vijayaraghavachariar", "Boycott of schools, councils, foreign goods; ended after Chauri Chaura (1922)."],
+          ["1922–1924", "Swaraj Party", "Calcutta (formation)", "Hakim Ajmal Khan (1921); C.R. Das (leader)", "Entered legislatures to oppose British policies from within."],
+          ["1927", "Simon Commission Boycott", "All-India protests", "—", "All-white commission; boycotted; 'Simon Go Back' slogan."],
+          ["1928", "Nehru Report", "Lucknow", "M.A. Ansari (INC President, 1927)", "Proposed dominion status; rejected by extremists demanding independence."],
+          ["1929", "Lahore Session (Purna Swaraj)", "Lahore", "Jawaharlal Nehru", "INC declared complete independence as its goal; 26 January 1930 observed as Independence Day."],
+          ["1930–1934", "Civil Disobedience Movement", "Started at Dandi, Gujarat", "1930 (Lahore Resolution was followed); Presidents: Sardar Vallabhbhai Patel (Karachi 1931)", "Salt March; no-tax campaigns; wide participation of women, peasants, tribals."],
+          ["1931", "Gandhi-Irwin Pact", "Delhi", "Jawaharlal Nehru (Lahore President 1929); followed by Karachi Session (1931) → Sardar Patel", "INC suspended movement; Gandhi attended 2nd Round Table Conference."],
+          ["1932", "Poona Pact", "Yerwada Jail, Pune", "—", "Agreement between Gandhi & Ambedkar on depressed classes; reserved seats introduced."],
+          ["1935", "Government of India Act", "London (British Parliament)", "—", "Introduced provincial autonomy; expanded franchise; federal scheme (not implemented)."]
+        ],
+        "rowsHindi": [
+          ["1919", "रॉलेट एक्ट और सत्याग्रह", "दिल्ली (अखिल भारतीय विरोध)", "—", "युद्धकालीन दमनकारी कानूनों का विस्तार; गांधी का पहला अखिल भारतीय आंदोलन।"],
+          ["1919", "जलियांवाला बाग नरसंहार", "अमृतसर, पंजाब", "—", "जनरल डायर ने सभा पर गोली चलवाई; 1000+ लोग मारे गए।"],
+          ["1920–1922", "असहयोग आंदोलन", "अखिल भारतीय स्तर", "नागपुर अधिवेशन (1920) → सी. विजयराघवाचारियार", "विद्यालय, परिषद, विदेशी वस्त्रों का बहिष्कार; चौरी-चौरा (1922) के बाद स्थगित।"],
+          ["1922–1924", "स्वराज पार्टी", "कलकत्ता (स्थापना)", "हकीम अजमल खान (1921); सी.आर. दास (नेता)", "विधानसभाओं में प्रवेश कर ब्रिटिश नीतियों का विरोध।"],
+          ["1927", "साइमन कमीशन का बहिष्कार", "संपूर्ण भारत", "—", "संपूर्ण अंग्रेज़ आयोग; 'साइमन वापस जाओ' का नारा।"],
+          ["1928", "नेहरू रिपोर्ट", "लखनऊ", "एम.ए. अंसारी (कांग्रेस अध्यक्ष, 1927)", "डोमिनियन स्टेटस का प्रस्ताव; उग्रवादियों ने पूर्ण स्वतंत्रता की मांग की।"],
+          ["1929", "लाहौर अधिवेशन (पूर्ण स्वराज)", "लाहौर", "जवाहरलाल नेहरू", "पूर्ण स्वतंत्रता का लक्ष्य घोषित; 26 जनवरी 1930 को स्वतंत्रता दिवस मनाया गया।"],
+          ["1930–1934", "सविनय अवज्ञा आंदोलन", "डांडी, गुजरात से आरंभ", "1931 कराची अधिवेशन → सरदार वल्लभभाई पटेल", "नमक सत्याग्रह; कर न देने के अभियान; महिलाओं व किसानों की व्यापक भागीदारी।"],
+          ["1931", "गांधी-इर्विन समझौता", "दिल्ली", "लाहौर अधिवेशन (1929) → नेहरू; कराची अधिवेशन (1931) → सरदार पटेल", "आंदोलन स्थगित; गांधी द्वितीय गोलमेज सम्मेलन में गए।"],
+          ["1932", "पूना समझौता", "यरवदा जेल, पुणे", "—", "गांधी और आंबेडकर के बीच समझौता; आरक्षित सीटें दी गईं।"],
+          ["1935", "भारत सरकार अधिनियम", "लंदन (ब्रिटिश संसद)", "—", "प्रांतीय स्वायत्तता; मताधिकार का विस्तार; संघीय योजना प्रस्तावित पर लागू नहीं।"]
+        ]
+      }
+    ],
+    "prelimsTips": [
+      "Rowlatt Act 1919 → 'Black Act'.",
+      "Jallianwala Bagh massacre (1919) → General Dyer.",
+      "Non-Cooperation (1920–22) ended after Chauri Chaura (1922).",
+      "Simon Commission (1927) → 'Simon Go Back'.",
+      "Lahore Session 1929 → 'Purna Swaraj'.",
+      "Salt March 1930 → 240 miles, Dandi.",
+      "Poona Pact 1932 → Gandhi vs Ambedkar compromise.",
+      "Govt. of India Act 1935 → Provincial Autonomy."
+    ],
+    "prelimsTipsHindi": [
+      "रॉलेट एक्ट 1919 → 'काला कानून'।",
+      "जलियांवाला बाग नरसंहार (1919) → जनरल डायर।",
+      "असहयोग (1920–22) → चौरी-चौरा (1922) के बाद समाप्त।",
+      "साइमन कमीशन (1927) → 'साइमन वापस जाओ'।",
+      "लाहौर अधिवेशन 1929 → 'पूर्ण स्वराज'।",
+      "नमक सत्याग्रह 1930 → 240 मील, डांडी।",
+      "पूना समझौता 1932 → गांधी और आंबेडकर के बीच समझौता।",
+      "भारत सरकार अधिनियम 1935 → प्रांतीय स्वायत्तता।"
+    ],
+    "funFacts": [
+      "Rabindranath Tagore renounced his knighthood in protest against Jallianwala Bagh massacre.",
+      "During the Salt March, Gandhi picked up a lump of salt as a symbolic defiance of British monopoly.",
+      "Round Table Conferences (1930–32) in London showcased deep divisions among Indian groups (INC, Princes, Ambedkar, Communal groups).",
+      "Gandhi was called to London dressed in a simple dhoti, becoming a symbol of India’s humility and resistance."
+    ],
+    "funFactsHindi": [
+      "रवीन्द्रनाथ टैगोर ने जलियांवाला बाग नरसंहार के विरोध में अपनी 'नाइटहुड' की उपाधि लौटा दी।",
+      "नमक सत्याग्रह के दौरान गांधी ने नमक उठाकर ब्रिटिश एकाधिकार को चुनौती दी।",
+      "गोलमेज सम्मेलन (1930–32) में भारतीय गुटों (कांग्रेस, रियासतें, आंबेडकर, साम्प्रदायिक गुट) में गहरे मतभेद दिखे।",
+      "गांधी लंदन केवल धोती पहनकर गए और भारत की सादगी व प्रतिरोध के प्रतीक बने।"
+    ],
+    "mainsPoints": [
+      "The Gandhian era transformed Indian nationalism into a mass struggle, mobilising peasants, tribals, women, students, and workers.",
+      "The use of satyagraha and non-violence gave India a unique method of resistance, contrasting with violent movements globally.",
+      "However, the period also saw communal divisions and failures of constitutional reforms (1919, 1935) to satisfy Indian aspirations.",
+      "The groundwork laid in this phase directly prepared the path for Quit India Movement and Independence in the 1940s."
+    ],
+    "mainsPointsHindi": [
+      "गांधी युग ने भारतीय राष्ट्रवाद को जन संघर्ष का रूप दिया, जिसमें किसान, आदिवासी, महिलाएँ, छात्र और मजदूर शामिल हुए।",
+      "सत्याग्रह और अहिंसा के प्रयोग ने भारत को प्रतिरोध की एक अनूठी पद्धति दी, जो वैश्विक हिंसक आंदोलनों से भिन्न थी।",
+      "हालाँकि इस काल में सांप्रदायिक विभाजन और संवैधानिक सुधारों (1919, 1935) की असफलताएँ भी दिखीं।",
+      "इस चरण ने सीधे तौर पर भारत छोड़ो आंदोलन और स्वतंत्रता की राह तैयार की।"
+    ],
+  },
+    ],
+    "Chapter 10: British Administration in India": [
+      {
+  "heading": "Background of British Administration in India",
+  "headingHindi": "भारत में ब्रिटिश प्रशासन की पृष्ठभूमि",
+  "highlight": "British administration in India gradually evolved from trading company rule to a centralized colonial state, shaped by wars, treaties, and parliamentary control from Britain.",
+  "highlightHindi": "भारत में ब्रिटिश प्रशासन धीरे-धीरे एक व्यापारिक कंपनी के शासन से केंद्रीकृत औपनिवेशिक राज्य में परिवर्तित हुआ, जो युद्धों, संधियों और ब्रिटेन की संसदीय निगरानी से आकार लिया।",
+  "details": [
+    "1600: East India Company formed in England to trade with the East.",
+    "1757: Battle of Plassey marked the beginning of British political control in India.",
+    "1764: Battle of Buxar consolidated British power over Bengal, Bihar, and Orissa.",
+    "1765: Treaty of Allahabad granted Diwani rights (revenue collection) in Bengal → Company became territorial power.",
+    "1773: Regulating Act brought the Company under Parliamentary supervision; Governor-General of Bengal created.",
+    "1784: Pitt’s India Act established dual control of Company and Parliament.",
+    "1793–1853: Charter Acts restructured administration, extended parliamentary oversight, and curtailed Company’s trade monopoly.",
+    "1833: Governor-General of India created (Lord William Bentinck first holder).",
+    "1853: Civil Services opened through competitive exams; foundation of modern bureaucracy.",
+    "1857: Revolt exposed weaknesses of Company rule, leading to direct Crown rule under Government of India Act (1858)."
+  ],
+  "detailsHindi": [
+    "1600: ईस्ट इंडिया कंपनी की स्थापना इंग्लैंड में व्यापार के लिए हुई।",
+    "1757: प्लासी का युद्ध भारत में ब्रिटिश राजनीतिक नियंत्रण की शुरुआत का प्रतीक है।",
+    "1764: बक्सर का युद्ध बंगाल, बिहार और उड़ीसा पर ब्रिटिश शक्ति की पुष्टि करता है।",
+    "1765: इलाहाबाद की संधि से बंगाल में दिवानी अधिकार (राजस्व संग्रह) मिले → कंपनी क्षेत्रीय शक्ति बनी।",
+    "1773: रेगुलेटिंग एक्ट से कंपनी संसदीय नियंत्रण के अधीन हुई; बंगाल का गवर्नर-जनरल नियुक्त।",
+    "1784: पिट्स इंडिया एक्ट से कंपनी और संसद का द्वैध नियंत्रण स्थापित।",
+    "1793–1853: चार्टर एक्ट्स ने प्रशासन का पुनर्गठन किया, संसदीय निगरानी बढ़ाई और कंपनी का व्यापारिक एकाधिकार खत्म किया।",
+    "1833: गवर्नर-जनरल ऑफ इंडिया का पद सृजित हुआ (प्रथम: लॉर्ड विलियम बेंटिक)।",
+    "1853: सिविल सेवा में प्रतिस्पर्धी परीक्षा द्वारा प्रवेश की व्यवस्था → आधुनिक नौकरशाही की नींव।",
+    "1857: विद्रोह ने कंपनी शासन की कमजोरियाँ उजागर कीं, जिसके बाद 1858 के भारत शासन अधिनियम से प्रत्यक्ष ब्रिटिश क्राउन शासन लागू हुआ।"
+  ],
+  "prelimsTips": [
+    "Battle of Plassey (1757) → start of political control.",
+    "Battle of Buxar (1764) → consolidated Company power.",
+    "1773 Regulating Act → first step of Parliamentary control.",
+    "1833 Charter Act → first Governor-General of India.",
+    "1858 Act → end of Company rule, Crown rule begins."
+  ],
+  "prelimsTipsHindi": [
+    "प्लासी का युद्ध (1757) → राजनीतिक नियंत्रण की शुरुआत।",
+    "बक्सर का युद्ध (1764) → कंपनी की शक्ति की पुष्टि।",
+    "1773 रेगुलेटिंग एक्ट → संसदीय नियंत्रण की पहली शुरुआत।",
+    "1833 चार्टर एक्ट → भारत का पहला गवर्नर-जनरल।",
+    "1858 अधिनियम → कंपनी शासन समाप्त, क्राउन शासन प्रारंभ।"
+  ],
+  "funFacts": [
+    "After 1765, the East India Company became the 'Diwan' of Bengal — a trader turned ruler.",
+    "Governor-General Warren Hastings (1773) was the real architect of early British administration in India."
+  ],
+  "funFactsHindi": [
+    "1765 के बाद ईस्ट इंडिया कंपनी बंगाल की 'दीवान' बनी — व्यापारी से शासक बनी।",
+    "गवर्नर-जनरल वॉरेन हेस्टिंग्स (1773) भारत में प्रारंभिक ब्रिटिश प्रशासन के वास्तविक निर्माता थे।"
+  ],
+  "mainsPoints": [
+    "British administration in India transitioned from commercial to political control after 1757.",
+    "Parliamentary Acts (1773–1853) steadily increased Crown oversight over Company rule.",
+    "Administrative institutions (civil services, judiciary, army) laid the foundation for modern governance.",
+    "1857 Revolt revealed exploitative and weak structures, leading to direct Crown rule in 1858."
+  ],
+  "mainsPointsHindi": [
+    "भारत में ब्रिटिश प्रशासन 1757 के बाद व्यावसायिक से राजनीतिक नियंत्रण में बदल गया।",
+    "1773–1853 के संसदीय अधिनियमों ने धीरे-धीरे कंपनी शासन पर क्राउन का नियंत्रण बढ़ाया।",
+    "प्रशासनिक संस्थाओं (सिविल सेवा, न्यायपालिका, सेना) ने आधुनिक शासन की नींव रखी।",
+    "1857 का विद्रोह शोषणकारी और कमजोर ढांचे को उजागर करता है, जिसके परिणामस्वरूप 1858 में प्रत्यक्ष क्राउन शासन लागू हुआ।"
+  ]
+      },
+      {
+  "heading": "Civil Services",
+  "headingHindi": "सिविल सेवाएँ",
+  "highlight": "Civil Services were the administrative backbone of British rule — a professional, hierarchical bureaucracy created to collect revenue, maintain law and order and implement colonial policy; its recruitment, training and slow 'Indianisation' shaped both colonial governance and post-colonial administrative legacies.",
+  "highlightHindi": "सिविल सेवाएँ ब्रिटिश शासन की प्रशासनिक रीढ़ थीं — एक पेशेवर, पदानुक्रमित नौकरशाही जो राजस्व संग्रह, कानून व व्यवस्था बनाए रखने और औपनिवेशिक नीतियाँ लागू करने के लिए बनाई गयी; इसकी भर्ती, प्रशिक्षण और धीरे-धीरे हुए 'भारतीयीकरण' ने औपनिवेशिक शासन और स्वतंत्रता के बाद के प्रशासनिक स्वरूप दोनों को आकार दिया।",
+  "details": [
+    "Origins & Early Structure: From 17th century the Company employed 'factors' and a graded cadre (apprentice/writer → factor → junior merchant → senior merchant). These commercial servants gradually assumed administrative duties as Company possessions expanded after Plassey (1757) and Buxar (1764).",
+    "Cornwallis Reforms (1786–93): Created a professional civil service; separated civil from military functions; introduced covenanted (higher, Europeans) and uncovenanted (lower, open to locals) divisions; prohibited private trade and gifts; emphasized regular pay and seniority-based promotion — earning Cornwallis the title 'Father of Civil Service in India'.",
+    "Charter Acts & Recruitment Reforms: 1793 Charter Act formalised rights and patronage rules; 1833 recommended limited competition; Charter Act 1853 introduced open competitive examinations (statutory provision) — first exam under Board of Control held in 1856 in London (first successful batch recruited thereafter).",
+    "Training & Institutions: Fort William College (Calcutta, 1800) produced administrative manuals and translations; Haileybury College (East India Company College, Hertfordshire) became the principal training institute for Company servants until its closure in 1857 after the transfer of power to the Crown.",
+    "Legislation & Acts: Indian Civil Service Act 1861 clarified appointments and allowed limited Indian entry; Statutory Civil Service (Lytton, 1879) attempted a quota for local recruitment (largely unsuccessful and later abandoned); Government of India Acts (1919, 1935) reorganised services and proposed Public Service Commissions.",
+    "Committees & Commissions: Aitchison classification (1886) re-organised services into Imperial/Provincial/Subordinate grades; Islington Commission (1912) recommended two entry channels and a proposal to reserve posts for Indians; Lee Commission (1923–24) proposed 50:50 parity target over 15 years and immediate Public Service Commission establishment.",
+    "Indianisation: A slow, contested process — structural barriers (exams in London, English syllabus, travel cost), social networks and selection biases preserved European dominance in senior posts well into the 20th century. By 1912 Indians still formed a small minority in senior cadres.",
+    "Functions & Role: District administration (collectors/magistrates), revenue assessment & collection, implementation of laws and public works, supervision of police and local institutions — functionaries exercised wide discretionary power in districts.",
+    "Problems & Critique: Eurocentric recruitment, elitism, language barrier, limited accountability to local populations, tendency to prioritize imperial objectives (revenue, order) over social welfare; early accusations of nepotism/private trade (addressed partly by Cornwallis).",
+    "Legacy: The civil services left institutional practices (cadre structure, rule-based administration, district collector system) that shaped independent India's bureaucracy — an ambivalent legacy combining efficiency with elitist exclusion."
+  ],
+  "detailsHindi": [
+    "उत्पत्ति एवं प्रारम्भिक ढाँचा: 17वीं सदी से कंपनी 'फैक्टर्स' और पदानुक्रम (एप्रेंटिस/राइटर → फैक्टर → जूनियर मर्चेंट → सीनियर मर्चेंट) रखती थी। प्लासी (1757) और बक्सर (1764) के बाद क्षेत्रीय विस्तार के साथ ये व्यापारी सेवक प्रशासनिक कर्तव्यों में परिवर्तित हो गए।",
+    "कॉर्नवालिस सुधार (1786–93): सेवा को पेशेवर बनाया; सिविल और सैन्य कार्यों को अलग किया; कवेनेंटेड (यूरोपीय, उच्च) और अनकवेनेंटेड (निम्न, स्थानीयों के लिए खुला) विभाजन किया; निजी व्यापार व उपहारों पर रोक; नियमित वेतन और वरिष्ठता आधारित पदोन्नति पर जोर। इसलिए कॉर्नवालिस को 'भारतीय सिविल सेवा का जनक' कहा जाता है।",
+    "चार्टर एक्ट और भर्ती सुधार: 1793 का चार्टर एक्ट अधिकार और पैट्रनिज को औपचारिक बनाता है; 1833 ने सीमित प्रतियोगिता सुझायी; चार्टर एक्ट 1853 ने प्रतिस्पर्धी परीक्षाओं का कानूनी प्रावधान दिया — बोर्ड ऑफ कंट्रोल के तहत पहली परीक्षा 1856 में लंदन में हुई।",
+    "प्रशिक्षण व संस्थाएँ: फोर्ट विलियम कॉलेज (कलकत्ता, 1800) प्रशासनिक पुस्तकों व अनुवादों का स्रोत बना; हेइलिबरी (ईस्ट इंडिया कंपनी कॉलेज) 1857 तक मुख्य प्रशिक्षण संस्थान रहा; 1857 के बाद इसका समापन हुआ।",
+    "कानून व अधिनियम: भारतीय सिविल सेवा अधिनियम 1861 ने नियुक्तियाँ स्पष्ट कीं और सीमित भारतीय प्रवेश की अनुमति दी; 1879 का स्टैच्यूटरी सिविल सर्विस स्थानीय भर्ती का प्रयास था (कम सफल); 1919/1935 के अधिनियमों ने सेवाओं का पुनर्गठन और लोक सेवा आयोगों की वापसी/स्थापना सुझायी।",
+    "समितियाँ व आयोग: ऐटिचिसन (1886) ने सेवाओं को इम्पीरियल/प्रांतीय/अनुपनिवेशी श्रेणियों में विभाजित किया; इज़लिंगटन आयोग (1912) ने दो प्रवेश मार्ग व भारतीयों के लिए आरक्षण प्रस्तावित किए; ली आयोग (1923–24) ने 50:50 समानता लक्ष्य तथा लोक सेवा आयोग की तत्काल स्थापना सुझायी।",
+    "भारतीयीकरण: धीमा व विवादास्पद — लंदन में परीक्षा, अंग्रेज़ी पाठ्यक्रम व यात्रा लागत जैसी बाधाओं ने वरिष्ठ पदों पर यूरोपीय वर्चस्व बनाए रखा; 1912 तक वरिष्ठ सेवाओं में भारतीयों की संख्या कम ही थी।",
+    "कार्य व भूमिका: ज़िला प्रशासन (कलेक्टर्स/मैजिस्ट्रेट), राजस्व संग्रह, कानून व सार्वजनिक कार्यों का क्रियान्वयन, पुलिस व लोक संस्थाओं का निरीक्षण — अधिकारियों को व्यापक विवेकाधिकार प्राप्त था।",
+    "समस्याएँ व आलोचना: यूरोकेन्द्रिक भर्ती, अभिजात्य प्रवृत्ति, भाषा बाधा, स्थानीय जनता के प्रति सीमित जवाबदेही; प्रारम्भिक चरणों में निजी व्यापार और भ्रष्‍टाचार के आरोप थे जिन्हें कुछ हद तक कॉर्नवालिस द्वारा संबोधित किया गया।",
+    "विरासत: सिविल सेवाओं ने काडर संरचना, नियम-आधारित प्रशासन और कलेक्टर प्रणाली जैसी संस्थागत प्रथाएँ छोड़ीं, जिन्होंने स्वतंत्र भारत की नौकरशाही को प्रभावित किया — दक्षता और बहिष्कार का मिश्रित प्रभाव।"
+  ],
+  "tables": [
+    {
+      "title": "Timeline & Key Acts (Civil Services)",
+      "titleHindi": "समयरेखा और मुख्य अधिनियम (सिविल सेवाएँ)",
+      "columns": ["Year", "Event / Act", "Significance"],
+      "columnsHindi": ["साल", "घटना / अधिनियम", "महत्व"],
+      "rows": [
+        ["1772–93", "Cornwallis Reforms", "Professionalised service; covenanted/uncovenanted division; barred private trade; separation of revenue & justice (partly)."],
+        ["1793", "Charter Act", "Confirmed Company's civil rights; regulated appointments and age limits (writer age limit raised to 22)."],
+        ["1800", "Fort William College (Calcutta) established", "Produced administrative manuals, translations and language training for Company servants."],
+        ["1806–1813", "Haileybury (EIC College) established & statutory status (1813)", "Principal training college in England for Company writers; training + exams required until 1857."],
+        ["1833", "Charter Act (1833)", "Recommended limited competition and centralised administrative reforms; step toward Governor-General of India concept."],
+        ["1853", "Charter Act (1853)", "Statutory provision for competitive examination for covenanted service — exam location initially London."],
+        ["1856", "First competitive examinations under Board of Control", "First exam held (London) — candidates selected for covenanted posts."],
+        ["1861", "Indian Civil Service Act", "Clarified appointments; allowed limited Indian entry and Devon-style district cadres after 1857 reorganisation."],
+        ["1879", "Statutory Civil Service experiment (Lytton)", "Attempted local recruitment quotas — short-lived and largely unsuccessful."],
+        ["1886", "Aitchison Committee", "Classified services into Imperial, Provincial and Subordinate categories; clarified roles."],
+        ["1912", "Islington Commission", "Recommended two entry channels (England & India), proposed reserving posts/quotas for Indians (partial suggestions)."],
+        ["1919", "Government of India Act (1919)", "Categorised All-India, provincial and subordinate services; strengthened the idea of Public Service Commissions."],
+        ["1923–24", "Lee Commission", "Recommended 50:50 parity target between Europeans and Indians within 15 years and immediate PSC establishment; sectoral recruitment changes."],
+        ["1935", "Government of India Act (1935)", "Further safeguards for services; proposed Public Service Commissions for federation and provinces; service protections."]
+      ],
+      "rowsHindi": [
+        ["1772–93", "कॉर्नवालिस सुधार", "सेवा को पेशेवर बनाया; कवेनेंटेड/अनकवेनेंटेड विभाजन; निजी व्यापार पर रोक; राजस्व और न्याय का आंशिक पृथक्करण।"],
+        ["1793", "चार्टर एक्ट", "कंपनी के नागरिक अधिकारों की पुष्टि; नियुक्तियों और राइटर की आयु सीमा (22 वर्ष) जैसे नियमों का विनियमन।"],
+        ["1800", "फोर्ट विलियम कॉलेज (कलकत्ता) की स्थापना", "प्रशासनिक पुस्तिकाएँ, अनुवाद और भाषा प्रशिक्षण उपलब्ध कराया गया।"],
+        ["1806–1813", "हेइलिबरी (ईआईसी कॉलेज) की स्थापना व सांविधिक दर्जा (1813)", "कंपनी राइटरों के लिए इंग्लैंड में मुख्य प्रशिक्षण संस्थान; 1857 तक प्रशिक्षण व परीक्षा अनिवार्य।"],
+        ["1833", "चार्टर एक्ट (1833)", "सीमित प्रतियोगिता और केंद्रीकृत प्रशासनिक सुधारों की सिफारिश; गवर्नर-जनरल ऑफ इंडिया की धारणा का विकास।"],
+        ["1853", "चार्टर एक्ट (1853)", "कवेनेंटेड सेवा के लिए प्रतियोगी परीक्षा का सांविधिक प्रावधान — प्रारम्भ में परीक्षा लंदन में।"],
+        ["1856", "बोर्ड ऑफ कंट्रोल के अधीन पहली प्रतियोगी परीक्षाएँ", "लंदन में आयोजित पहली परीक्षा — कवेनेंटेड पदों के लिये चयन हुआ।"],
+        ["1861", "भारतीय सिविल सेवा अधिनियम", "नियुक्तियाँ स्पष्ट कीं; सीमित भारतीय प्रवेश की अनुमति; 1857 के बाद ज़िला काडर में पुनर्गठन।"],
+        ["1879", "स्टैच्यूटरी सिविल सर्विस प्रयोग (लाइटन)", "स्थानीय भर्ती के लिए आरक्षण का प्रयास — अल्पकालिक और कम सफल।"],
+        ["1886", "ऐटिचिसन समिति", "सेवाओं को इम्पीरियल, प्रांतीय और अनुगामी श्रेणियों में विभाजित किया; भूमिकाएँ स्पष्ट कीं।"],
+        ["1912", "इज़लिंगटन आयोग", "दो प्रवेश मार्ग (इंग्लैंड और भारत) की सिफारिश; भारतीयों के लिए कुछ आरक्षण प्रस्तावित किए गए।"],
+        ["1919", "भारत सरकार अधिनियम (1919)", "ऑल-इंडिया, प्रांतीय और अनुपनिवेशी सेवाओं का विभाजन; लोक सेवा आयोग की धारणा को मजबूत किया।"],
+        ["1923–24", "ली आयोग", "यूरोपीयों और भारतीयों के बीच 50:50 पारिटी लक्ष्य का प्रस्ताव; लोक सेवा आयोग की तत्काल स्थापना।"],
+        ["1935", "भारत सरकार अधिनियम (1935)", "सेवाओं के लिए और अधिक सुरक्षा; फेडरेशन व प्रांतों के लिए लोक सेवा आयोगों का प्रस्ताव।"]
+      ]
+    },
+    {
+      "title": "Major Committees / Commissions & Recommendations",
+      "titleHindi": "मुख्य समितियाँ/आयोग और सिफारिशें",
+      "columns": ["Committee/Commission", "Year", "Key Recommendations / Outcome"],
+      "columnsHindi": ["समिति/आयोग", "साल", "मुख्य सिफारिशें / परिणाम"],
+      "rows": [
+        ["Committee headed by Lord Macaulay (on education & admin links)", "1835", "Macaulay's Minute influenced English education and indirectly the civil service by supplying English-educated clerks and lawyers; promoted English curriculum used in recruitment."],
+        ["Committee on ICS (Macaulay / Board advice)", "1853–56", "Shaped competitive exam proposals; recommended training and standard for covenanted service; advisory to Board of Control and Secretary of State."],
+        ["Aitchison Committee", "1886", "Reclassified services into Imperial, Provincial and Subordinate; clarified recruitment channels and career paths."],
+        ["Islington Commission", "1912", "Proposed two entry channels (England & India), recommended reserving posts for Indians (quantum debated), suggested more training in India."],
+        ["Lee Commission", "1923–24", "Recommended parity over 15 years, immediate establishment of Public Service Commission, retention of some Imperial recruitment by Secretary of State for technical branches."]
+      ],
+      "rowsHindi": [
+        ["मैकाले (शिक्षा व प्रशासन लिंक)", "1835", "मैकाले का मिनट अंग्रेज़ी शिक्षा को बढ़ावा देने के साथ-साथ सिविल सेवा के लिए अंग्रेज़ी-शिक्षित क्लर्क और वकीलों की आपूर्ति का मार्ग प्रशस्त कर गया; भर्ती में अंग्रेज़ी पाठ्यक्रम का उपयोग हुआ।"],
+        ["आईसीएस पर समिति (चार्टर एक्ट के बाद सुझाव)", "1853–56", "कवेनेंटेड सेवा के लिए प्रतियोगी परीक्षा के प्रस्ताव तैयार किए; प्रशिक्षण व मानक सुझाए; बोर्ड ऑफ कंट्रोल और सेक्रेटरी ऑफ स्टेट को सलाह दी।"],
+        ["ऐटिचिसन समिति", "1886", "सेवाओं को इम्पीरियल, प्रांतीय व अनुगामी श्रेणियों में पुनर्वर्गीकृत किया; भर्ती मार्ग व करियर पथ स्पष्ट किए।"],
+        ["इज़लिंगटन आयोग", "1912", "दो प्रवेश मार्ग (इंग्लैंड व भारत) का प्रस्ताव दिया; भारतीयों के लिए पद आरक्षण सुझाया (परिमाण विवादित), भारत में प्रशिक्षण बढ़ाने की सिफारिश की।"],
+        ["ली आयोग", "1923–24", "15 वर्षों में समानता (पारिटी) का लक्ष्य सुझाया, लोक सेवा आयोग की तत्काल स्थापना का प्रस्ताव दिया, तकनीकी शाखाओं के लिए सचिव ऑफ स्टेट द्वारा भर्ती बनाए रखने की सिफारिश की।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Father of Civil Services in India → Lord Cornwallis (reforms 1786–93).",
+    "ICS competitive exam introduced by Charter Act 1853 (first held 1856 in London).",
+    "Aitchison (1886) = reclassification (Imperial/Provincial/Subordinate); Islington (1912) & Lee (1923–24) focused on Indianisation/parity and PSCs."
+  ],
+  "prelimsTipsHindi": [
+    "भारतीय सिविल सेवा के जनक → लॉर्ड कॉर्नवालिस (1786–93)।",
+    "आईसीएस प्रतियोगी परीक्षा → चार्टर एक्ट 1853 (पहली बार 1856 में लंदन में)।",
+    "ऐटिचिसन (1886) = सेवाओं का पुनर्वर्गीकरण; इज़लिंगटन (1912) व ली (1923–24) भारतीयीकरण व लोक सेवा आयोगों पर केन्द्रित थे।"
+  ],
+  "funFacts": [
+    "Haileybury College (England) trained many Company servants; its closure in 1857 followed the transfer of power to the Crown.",
+    "Before the 1920s, the combination of London-location exams, travel costs and English-only papers made ICS entry virtually impossible for most Indians — early Indian ICS officers were almost exclusively anglicised elites."
+  ],
+  "funFactsHindi": [
+    "हेइलिबरी कॉलेज ने कई कंपनी सेवकों को प्रशिक्षित किया; 1857 के बाद यह बंद कर दिया गया।",
+    "1920s से पहले लंदन में आयोजित अंग्रेज़ी-केवल परीक्षाओं और यात्रा खर्च के कारण आईसीएस में अधिकांश भारतीयों के लिए प्रवेश लगभग असंभव था।"
+  ],
+  "mainsPoints": [
+    "Civil Services formed the backbone of colonial administration — efficient in revenue and law-and-order functions but institutionally designed to ensure European control and serve imperial interests.",
+    "Indianisation was gradual, contested and structurally impeded; commissions between 1886–1924 pushed reforms but full parity was not achieved pre-independence.",
+    "Colonial administrative structures (cadre system, rule-based procedures, district collector model) survived into independent India — both as institutional strengths and as reminders of an exclusionary past."
+  ],
+  "mainsPointsHindi": [
+    "सिविल सेवाएँ औपनिवेशिक प्रशासन की रीढ़ थीं — राजस्व व कानून-व्यवस्था में प्रभावी पर संस्थागत रूप से यूरोपीय नियंत्रण सुनिश्चित करने को डिज़ाइन की गईं।",
+    "भारतीयीकरण क्रमिक, विवादास्पद और संरचनात्मक रूप से बाधित रहा; 1886–1924 के आयोगों ने सुधार किए पर स्वतंत्रता से पहले पूर्ण समानता नहीं मिली।",
+    "औपनिवेशिक प्रशासनिक संरचनाएँ (काडर प्रणाली, नियम-आधारित प्रक्रियाएँ, कलेक्टर मॉडल) स्वतंत्र भारत में जीवित रहीं — संस्थागत मजबूती और बहिष्कारपूर्ण इतिहास दोनों के रूप में।"
+  ],
+},
+{
+  "heading": "Police",
+  "headingHindi": "पुलिस",
+  "highlight": "The British created a structured police system through the 1791 Cornwallis reforms and the 1861 Police Act, designed to protect colonial rule rather than public rights.",
+  "highlightHindi": "ब्रिटिशों ने 1791 के कॉर्नवालिस सुधार और 1861 के पुलिस अधिनियम के माध्यम से एक संरचित पुलिस प्रणाली बनाई, जिसका उद्देश्य जनता के अधिकारों की रक्षा नहीं बल्कि औपनिवेशिक शासन की सुरक्षा था।",
+  "details": [
+    "Pre-British policing was decentralised: zamindars, kotwals, faujdars, and village watchmen maintained order.",
+    "Cornwallis (1791) established regular police units, modernised thanas under darogas, and introduced Superintendent of Police (SP) as district head.",
+    "Bentinck (1828–35) abolished SP office; collectors acted as police heads. Later restored.",
+    "Police Act of 1861 (after 1857 Revolt) formalised police hierarchy: village chowkidars, district police under SP, provincial Inspector General, and Deputy IG at range level.",
+    "1902–03 Police Commission recommended creation of Criminal Investigation Department (CID) and Central Intelligence Bureau (CIB).",
+    "Police became tool of political surveillance, intelligence gathering, and suppression of dissent.",
+    "Criticism: corruption, arbitrary arrests, torture during interrogations, poor accountability, and focus on revenue/security over welfare."
+  ],
+  "detailsHindi": [
+    "पूर्व- ब्रिटिश पुलिस व्यवस्था विकेन्द्रित थी: ज़मींदार, कोतवाल, फ़ौजदार और गाँव के प्रहरी व्यवस्था बनाए रखते थे।",
+    "कॉर्नवालिस (1791) ने नियमित पुलिस इकाइयाँ स्थापित कीं, थानों को डारोगा के अधीन आधुनिक बनाया और ज़िलास्तर पर एसपी की भूमिका शुरू की।",
+    "बेंटिंक (1828–35) ने एसपी का पद समाप्त किया और कलेक्टर पुलिस प्रमुख बने; बाद में इसे बहाल किया गया।",
+    "1857 के विद्रोह के बाद पुलिस अधिनियम 1861 ने पुलिस का ढांचा औपचारिक किया: गाँव के चौकीदार, ज़िले में एसपी, प्रांत में पुलिस महानिरीक्षक और रेंज स्तर पर उप-महानिरीक्षक।",
+    "1902–03 पुलिस आयोग ने सीआईडी (राज्य स्तर) और सीआईबी (केंद्रीय स्तर) की स्थापना की सिफारिश की।",
+    "पुलिस राजनीतिक निगरानी, खुफिया जानकारी इकट्ठा करने और असहमति दबाने का उपकरण बन गई।",
+    "आलोचना: भ्रष्टाचार, मनमानी गिरफ्तारियाँ, पूछताछ में यातना, जवाबदेही की कमी और कल्याण की बजाय राजस्व/सुरक्षा पर ध्यान।"
+  ],
+  "tables": [{
+    "title": "Key Developments in British Police System",
+    "titleHindi": "ब्रिटिश पुलिस व्यवस्था में प्रमुख विकास",
+    "columns": ["Year", "Event/Measure", "Impact"],
+    "columnsHindi": ["साल", "घटना/उपाय", "प्रभाव"],
+    "rows": [
+      ["1791", "Cornwallis organised regular police and thana system", "Modern policing structure under darogas"],
+      ["1828–35", "Bentinck reforms", "Collectors made police heads"],
+      ["1861", "Indian Police Act", "Created structured hierarchy (SP, IG, DIG, chowkidars)"],
+      ["1902–03", "Police Commission", "Recommended CID & CIB for intelligence"],
+      ["Post-1857", "Political policing focus", "Suppression of dissent, surveillance of nationalists"]
+    ],
+    "rowsHindi": [
+      ["1791", "कॉर्नवालिस ने नियमित पुलिस और थाना प्रणाली बनाई", "डारोगा के अधीन आधुनिक पुलिस ढांचा"],
+      ["1828–35", "बेंटिंक सुधार", "कलेक्टर बने पुलिस प्रमुख"],
+      ["1861", "भारतीय पुलिस अधिनियम", "पुलिस संरचना बनी (एसपी, आईजी, डीआईजी, चौकीदार)"],
+      ["1902–03", "पुलिस आयोग", "खुफिया के लिए सीआईडी और सीआईबी की सिफारिश"],
+      ["1857 के बाद", "राजनीतिक पुलिसिंग पर जोर", "राष्ट्रीयवादियों की निगरानी और दमन"]
+    ]
+  }],
+  "prelimsTips": [
+    "Indian Police Act → 1861 (after Revolt of 1857).",
+    "Cornwallis (1791) started modern thana system under darogas.",
+    "CID and CIB were recommended by 1902 Police Commission."
+  ],
+  "prelimsTipsHindi": [
+    "भारतीय पुलिस अधिनियम → 1861 (1857 विद्रोह के बाद)।",
+    "कॉर्नवालिस (1791) ने डारोगा के अधीन आधुनिक थाना प्रणाली शुरू की।",
+    "1902 पुलिस आयोग ने सीआईडी और सीआईबी की सिफारिश की।"
+  ],
+  "funFacts": [
+    "Village chowkidars were paid by villagers, not by the government.",
+    "Early police often doubled as tax collectors during famines and revolts."
+  ],
+  "funFactsHindi": [
+    "गाँव के चौकीदारों को सरकार नहीं बल्कि ग्रामीण भुगतान करते थे।",
+    "प्रारम्भिक पुलिस अकाल और विद्रोहों के समय कर वसूली में भी मदद करती थी।"
+  ],
+  "mainsPoints": [
+    "The colonial police prioritised regime security over public service, making it a tool of repression rather than protection.",
+    "The 1861 Police Act institutionalised a centralised, hierarchical police system that still shapes modern Indian policing.",
+    "Police became an essential arm of colonial surveillance, helping suppress nationalism and revolts."
+  ],
+  "mainsPointsHindi": [
+    "औपनिवेशिक पुलिस ने जनता की सेवा की बजाय शासन सुरक्षा को प्राथमिकता दी और दमन का उपकरण बनी।",
+    "1861 पुलिस अधिनियम ने केंद्रीकृत, पदानुक्रमित पुलिस प्रणाली को संस्थागत किया, जो आज भी भारतीय पुलिस को प्रभावित करती है।",
+    "पुलिस औपनिवेशिक निगरानी का प्रमुख अंग बनी और राष्ट्रवाद व विद्रोहों को दबाने में सहायक रही।"
+  ],
+},
+{
+  "heading": "Army",
+  "headingHindi": "सेना",
+  "highlight": "The British Indian Army was the main pillar of colonial rule — used for conquest, suppression of revolts, and imperial wars abroad, but its recruitment and policies sowed seeds of discontent like in 1857.",
+  "highlightHindi": "ब्रिटिश भारतीय सेना औपनिवेशिक शासन का मुख्य स्तंभ थी — विजय, विद्रोहों को दबाने और विदेशी युद्धों में उपयोग की गई, पर इसकी भर्ती और नीतियों ने 1857 जैसे असंतोष के बीज बोए।",
+  "details": [
+    "Early phase: Company relied on mercenary forces and leased royal troops; later created a permanent standing army of sepoys under British officers.",
+    "Recruitment: Initially from local agricultural classes; later shifted to 'martial races' (Sikhs, Gurkhas, Punjabi Muslims, Pathans) after 1857.",
+    "Organisation: Separate European and native regiments; artillery almost exclusively European after 1857; Indian sepoys commanded by British officers.",
+    "General Services Enlistment Act (1856): Made overseas service mandatory for sepoys, clashing with caste traditions — one cause of 1857 Revolt.",
+    "Functions: Expansion of British territories, frontier defence, internal suppression of revolts, collection of intelligence, and service abroad (Sudan, China, South Africa).",
+    "Post-1857 reforms: European:Indian ratio maintained at 2:1; recruitment favoured loyal communities; artillery, arms, and higher commands restricted to Europeans.",
+    "Impact: Army became both a protector of British empire and a source of resentment among Indians due to discrimination, cultural insensitivities, and unequal privileges."
+  ],
+  "detailsHindi": [
+    "प्रारम्भिक चरण: कंपनी ने भाड़े की सेनाओं और शाही सैनिकों पर भरोसा किया; बाद में ब्रिटिश अधिकारियों के अधीन स्थायी सिपाही सेना बनाई।",
+    "भर्ती: प्रारम्भ में स्थानीय कृषि समुदायों से; 1857 के बाद 'मैर्टियल रेस' (सिख, गोरखा, पंजाबी मुसलमान, पठान) से।",
+    "संगठन: यूरोपीय और स्थानीय रेजिमेंट अलग-अलग; 1857 के बाद तोपखाना लगभग पूरी तरह यूरोपीय नियंत्रण में; भारतीय सिपाही ब्रिटिश अधिकारियों के अधीन।",
+    "जनरल सर्विसेज एन्स्टमेंट एक्ट (1856): सिपाहियों के लिए विदेश में सेवा अनिवार्य की गई, जो जातीय परंपराओं से टकराई — 1857 विद्रोह का एक कारण।",
+    "कार्य: ब्रिटिश क्षेत्रों का विस्तार, सीमांत रक्षा, विद्रोहों का दमन, खुफिया जानकारी एकत्र करना और विदेशों में सेवा (सूदान, चीन, दक्षिण अफ्रीका)।",
+    "1857 के बाद सुधार: यूरोपीय:भारतीय अनुपात 2:1 रखा गया; भर्ती वफादार समुदायों से हुई; तोपखाना, हथियार और उच्च कमान यूरोपीयों तक सीमित रहे।",
+    "प्रभाव: सेना ब्रिटिश साम्राज्य की रक्षक बनी पर भेदभाव, सांस्कृतिक असंवेदनशीलता और असमान विशेषाधिकारों के कारण भारतीयों में असंतोष का कारण भी।"
+  ],
+  "table": {
+    "title": "Key Developments in British Indian Army",
+    "titleHindi": "ब्रिटिश भारतीय सेना में प्रमुख विकास",
+    "columns": ["Year/Period", "Event/Measure", "Impact"],
+    "columnsHindi": ["वर्ष/काल", "घटना/उपाय", "प्रभाव"],
+    "rows": [
+      ["18th century", "Company leased royal forces and raised sepoys", "Foundation of permanent British Indian Army"],
+      ["1856", "General Services Enlistment Act", "Sepoys forced into overseas duty → discontent"],
+      ["1857", "Revolt of 1857", "Army grievances triggered rebellion"],
+      ["Post-1857", "Reorganisation of army", "2:1 ratio Europeans:Indians; artillery European-only"],
+      ["Late 19th–early 20th century", "Deployment abroad", "Indian soldiers fought in Sudan, China, South Africa for empire"]
+    ],
+    "rowsHindi": [
+      ["18वीं सदी", "कंपनी ने शाही सैनिकों को किराए पर लिया और सिपाही भर्ती शुरू की", "ब्रिटिश भारतीय सेना की नींव रखी गई"],
+      ["1856", "जनरल सर्विसेज एन्स्टमेंट एक्ट", "सिपाहियों को विदेश सेवा के लिए मजबूर किया गया → असंतोष"],
+      ["1857", "1857 का विद्रोह", "सेना की शिकायतों ने विद्रोह भड़काया"],
+      ["1857 के बाद", "सेना का पुनर्गठन", "यूरोपीय:भारतीय अनुपात 2:1; तोपखाना केवल यूरोपीयों के पास"],
+      ["19वीं सदी उत्तरार्ध–20वीं सदी आरंभ", "विदेशों में तैनाती", "भारतीय सैनिकों को सूदान, चीन, दक्षिण अफ्रीका में लड़ाया गया"]
+    ]
+  },
+  "prelimsTips": [
+    "General Services Enlistment Act (1856) was a direct cause of sepoy discontent before 1857.",
+    "Post-1857, recruitment favoured Sikhs, Gurkhas, and Punjabi Muslims.",
+    "Artillery remained almost entirely under European control."
+  ],
+  "prelimsTipsHindi": [
+    "जनरल सर्विसेज एन्स्टमेंट एक्ट (1856) 1857 से पहले सिपाही असंतोष का कारण बना।",
+    "1857 के बाद भर्ती सिखों, गोरखाओं और पंजाबी मुसलमानों से हुई।",
+    "तोपखाना लगभग पूरी तरह यूरोपीयों के नियंत्रण में रहा।"
+  ],
+  "funFacts": [
+    "Before 1857, sepoys were sometimes allowed leave to attend village festivals and agricultural duties.",
+    "Indian regiments fought not only in India but also in distant wars like Boxer Rebellion (China, 1900)."
+  ],
+  "funFactsHindi": [
+    "1857 से पहले सिपाहियों को कभी-कभी गाँव के त्यौहारों और कृषि कार्यों में भाग लेने के लिए छुट्टी दी जाती थी।",
+    "भारतीय रेजिमेंट केवल भारत ही नहीं बल्कि दूरस्थ युद्धों (जैसे बॉक्सर विद्रोह, चीन 1900) में भी लड़ीं।"
+  ],
+  "mainsPoints": [
+    "The army was the most crucial pillar of British imperial control in India, combining conquest, suppression, and external service.",
+    "1857 exposed contradictions in recruitment and cultural insensitivity, forcing major reorganisation.",
+    "The 'martial races' policy institutionalised community-based recruitment patterns with long-term political effects."
+  ],
+  "mainsPointsHindi": [
+    "सेना भारत में ब्रिटिश साम्राज्यवादी नियंत्रण का सबसे महत्वपूर्ण स्तंभ थी, जिसने विजय, दमन और बाहरी सेवाएँ दीं।",
+    "1857 ने भर्ती और सांस्कृतिक असंवेदनशीलता की कमजोरियाँ उजागर कीं, जिससे पुनर्गठन हुआ।",
+    "'मैर्टियल रेस' नीति ने सामुदायिक भर्ती पैटर्न को संस्थागत किया, जिसके दीर्घकालिक राजनीतिक प्रभाव पड़े।"
+  ],
+},
+{
+  "heading": "Judiciary",
+  "headingHindi": "न्यायपालिका",
+  "highlight": "The British introduced a structured judiciary in India with codified laws, graded courts, and the principle of rule of law, but it remained costly, inaccessible, and biased towards colonial interests.",
+  "highlightHindi": "ब्रिटिशों ने भारत में संहिताबद्ध कानूनों, श्रेणीबद्ध न्यायालयों और कानून के शासन के सिद्धांत के साथ एक संगठित न्यायपालिका शुरू की, लेकिन यह महंगी, आम लोगों के लिए दुर्गम और औपनिवेशिक हितों की ओर झुकी रही।",
+  "details": [
+    "Early foundations: Company received judicial powers via charters (1662, 1726); Mayor’s Courts established in presidency towns.",
+    "Warren Hastings (1772): Set up district civil (Diwani) and criminal (Faujdari) courts; applied Hindu law for Hindus, Muslim law for Muslims.",
+    "Regulating Act (1773): Established Supreme Court at Calcutta with wide jurisdiction over Europeans and Indians.",
+    "Cornwallis Reforms (1786–93): Created Circuit Courts, separated revenue from justice, introduced principle of rule of law.",
+    "Codification: Macaulay’s Law Commission (1833) drafted IPC (1860), CrPC (1861), Civil Procedure Code (1859).",
+    "Bentinck (1828–33): Abolished Circuit Courts, shifted functions to collectors; English made official language for higher courts.",
+    "Post-1857 reforms: High Courts Act (1861, effective 1865) merged Supreme Courts & Sadar Adalats; Government of India Act 1935 established Federal Court.",
+    "Critique: Judicial system expensive, slow, complex; European judges unfamiliar with Indian customs; access limited to elites."
+  ],
+  "detailsHindi": [
+    "प्रारंभिक नींव: कंपनी को चार्टर्स (1662, 1726) से न्यायिक अधिकार मिले; प्रेसिडेंसी नगरों में मेयर कोर्ट स्थापित हुए।",
+    "वॉरेन हैस्टिंग्स (1772): ज़िला दीवानी (नागरिक) और फ़ौजदारी (आपराधिक) अदालतें स्थापित कीं; हिंदुओं के लिए हिंदू कानून और मुसलमानों के लिए मुस्लिम कानून लागू किया।",
+    "रेगुलेटिंग एक्ट (1773): कलकत्ता में सुप्रीम कोर्ट स्थापित हुआ, जिसका व्यापक क्षेत्राधिकार यूरोपियों और भारतीयों दोनों पर था।",
+    "कॉर्नवालिस सुधार (1786–93): सर्किट कोर्ट बनाए, राजस्व और न्याय को अलग किया, कानून के शासन का सिद्धांत लागू किया।",
+    "कोडिफिकेशन: मैकाले की विधि आयोग (1833) ने आईपीसी (1860), दंड प्रक्रिया संहिता (1861), सिविल प्रक्रिया संहिता (1859) तैयार की।",
+    "बेंटिंक (1828–33): सर्किट कोर्ट समाप्त किए, उनके कार्य कलेक्टरों को सौंपे; उच्च न्यायालयों में अंग्रेज़ी भाषा लागू की।",
+    "1857 के बाद सुधार: उच्च न्यायालय अधिनियम (1861, प्रभावी 1865) ने सुप्रीम कोर्ट और सदर अदालतों को मिलाया; भारत सरकार अधिनियम 1935 ने संघीय न्यायालय बनाया।",
+    "आलोचना: न्यायिक प्रणाली महंगी, धीमी और जटिल थी; यूरोपीय जज भारतीय रीति-रिवाजों से अपरिचित थे; आम जनता के लिए न्याय दुर्लभ रहा।"
+  ],
+  "table": {
+    "title": "Major Judicial Developments",
+    "titleHindi": "प्रमुख न्यायिक विकास",
+    "columns": ["Year", "Event/Measure", "Impact"],
+    "columnsHindi": ["वर्ष", "घटना/उपाय", "प्रभाव"],
+    "rows": [
+      ["1726", "Mayor’s Courts established in Presidency towns", "Laid foundations of Company’s judicial powers"],
+      ["1772", "Hastings’ Judicial Plan", "Created district Diwani & Faujdari courts"],
+      ["1773", "Regulating Act → Supreme Court at Calcutta", "First formal superior court in India"],
+      ["1793", "Cornwallis Code", "Separation of revenue & justice; graded courts"],
+      ["1833–60", "Law Commission (Macaulay)", "Codified IPC, CPC, CrPC"],
+      ["1861", "High Courts Act", "Unified Supreme Courts and Sadar Adalats"],
+      ["1935", "Federal Court established", "Foundation for post-independence Supreme Court"]
+    ],
+    "rowsHindi": [
+      ["1726", "प्रेसिडेंसी नगरों में मेयर कोर्ट", "कंपनी की न्यायिक शक्तियों की नींव रखी गई"],
+      ["1772", "हैस्टिंग्स की न्याय योजना", "ज़िला दीवानी और फ़ौजदारी अदालतें बनीं"],
+      ["1773", "रेगुलेटिंग एक्ट → कलकत्ता में सुप्रीम कोर्ट", "भारत का पहला औपचारिक उच्च न्यायालय"],
+      ["1793", "कॉर्नवालिस कोड", "राजस्व और न्याय का पृथक्करण; श्रेणीबद्ध अदालतें"],
+      ["1833–60", "विधि आयोग (मैकाले)", "आईपीसी, सीपीसी, सीआरपीसी का संहिताकरण"],
+      ["1861", "उच्च न्यायालय अधिनियम", "सुप्रीम कोर्ट और सदर अदालतें एकीकृत"],
+      ["1935", "संघीय न्यायालय की स्थापना", "स्वतंत्र भारत के सुप्रीम कोर्ट की नींव"]
+    ]
+  },
+  "prelimsTips": [
+    "Regulating Act (1773) → Supreme Court at Calcutta.",
+    "Cornwallis Code (1793) → separation of revenue and justice.",
+    "Macaulay’s Law Commission → IPC (1860), CrPC (1861), CPC (1859).",
+    "High Courts Act (1861) merged Supreme Courts and Sadar Adalats."
+  ],
+  "prelimsTipsHindi": [
+    "रेगुलेटिंग एक्ट (1773) → कलकत्ता में सुप्रीम कोर्ट।",
+    "कॉर्नवालिस कोड (1793) → राजस्व और न्याय का पृथक्करण।",
+    "मैकाले की विधि आयोग → आईपीसी (1860), सीआरपीसी (1861), सीपीसी (1859)।",
+    "उच्च न्यायालय अधिनियम (1861) → सुप्रीम कोर्ट और सदर अदालतें एकीकृत।"
+  ],
+  "funFacts": [
+    "Macaulay’s codification introduced English legal ideas but retained Hindu and Muslim personal laws.",
+    "Early courts often had language issues — proceedings in Persian, local vernaculars, and later English."
+  ],
+  "funFactsHindi": [
+    "मैकाले के संहिताकरण ने अंग्रेज़ी कानूनी विचार लाए पर हिन्दू और मुस्लिम व्यक्तिगत कानूनों को बनाए रखा।",
+    "प्रारम्भिक अदालतों में भाषा समस्या रही — कार्यवाही फारसी, स्थानीय भाषाओं और बाद में अंग्रेज़ी में होती थी।"
+  ],
+  "mainsPoints": [
+    "The British judiciary institutionalised rule of law and codified laws, creating uniformity across India.",
+    "Yet, it remained elitist and inaccessible to the masses — favouring colonial interests.",
+    "It became both an instrument of control and a lasting institutional legacy for modern India’s legal system."
+  ],
+  "mainsPointsHindi": [
+    "ब्रिटिश न्यायपालिका ने कानून के शासन और संहिताबद्ध कानूनों को संस्थागत किया, जिससे पूरे भारत में एकरूपता आई।",
+    "फिर भी, यह अभिजात्य और आम जनता के लिए दुर्गम रही — औपनिवेशिक हितों की ओर झुकी रही।",
+    "यह नियंत्रण का औजार भी रही और आधुनिक भारत की न्यायिक प्रणाली की स्थायी विरासत भी।"
+  ],
+},
+{
+  "heading": "Modern Education",
+  "headingHindi": "आधुनिक शिक्षा",
+  "highlight": "The British introduced modern education in India to serve administrative needs, spread western knowledge, and create a loyal class, but it also produced a politically conscious middle class that spearheaded the nationalist movement.",
+  "highlightHindi": "ब्रिटिशों ने भारत में आधुनिक शिक्षा प्रशासनिक आवश्यकताओं को पूरा करने, पाश्चात्य ज्ञान फैलाने और एक वफादार वर्ग तैयार करने के लिए शुरू की, पर इसने एक राजनीतिक रूप से सचेत मध्यम वर्ग भी उत्पन्न किया जिसने राष्ट्रवादी आंदोलन का नेतृत्व किया।",
+  "details": [
+    "Early initiatives: Warren Hastings set up Calcutta Madrassa (1781) for Muslim law; Jonathan Duncan established Sanskrit College at Varanasi (1791).",
+    "Charter Act 1813: First official step — earmarked ₹1 lakh annually for education (though delayed till 1823).",
+    "Macaulay’s Minute (1835): Advocated English medium and western sciences; promoted creation of 'a class of persons Indian in blood and colour, but English in taste, opinions, morals and intellect'.",
+    "Introduction of English schools and colleges in Bengal — focus shifted from oriental learning to western knowledge.",
+    "Wood’s Dispatch (1854): Considered Magna Carta of English Education in India; recommended universities at Calcutta, Bombay, Madras (est. 1857), department of public instruction, teacher training, grants-in-aid, emphasis on women’s education.",
+    "Post-1857 developments: Universities in Presidency towns, professional institutions (law, medicine, engineering), expansion of missionary schools.",
+    "Impact: Created English-educated elite; spread rationalist and nationalist ideas; but neglected mass, technical, and rural education; emphasis on 'downward filtration' (educating few to trickle down knowledge)."
+  ],
+  "detailsHindi": [
+    "प्रारम्भिक प्रयास: वॉरेन हैस्टिंग्स ने मुस्लिम कानून के लिए कलकत्ता मदरसा (1781) बनाया; जोनाथन डंकन ने वाराणसी में संस्कृत कॉलेज (1791) की स्थापना की।",
+    "चार्टर एक्ट 1813: पहला आधिकारिक कदम — शिक्षा के लिए प्रतिवर्ष 1 लाख रुपये निर्धारित (हालाँकि 1823 तक लागू नहीं हुआ)।",
+    "मैकाले का मिनट (1835): अंग्रेज़ी माध्यम और पाश्चात्य विज्ञान की वकालत की; उद्देश्य था 'ऐसा वर्ग बनाना जो रक्त और रंग से भारतीय हो, पर स्वाद, विचार, नैतिकता और बुद्धि से अंग्रेज़ी हो'।",
+    "बंगाल में अंग्रेज़ी स्कूलों और कॉलेजों की शुरुआत — ध्यान पारंपरिक शिक्षा से हटकर पाश्चात्य ज्ञान पर गया।",
+    "वुड्स डिस्पैच (1854): भारत में अंग्रेज़ी शिक्षा का मैग्ना कार्टा माना गया; कलकत्ता, बॉम्बे, मद्रास विश्वविद्यालय (1857 में) की सिफारिश; सार्वजनिक शिक्षा विभाग, शिक्षक प्रशिक्षण, अनुदान-इन-एड प्रणाली, महिला शिक्षा पर बल।",
+    "1857 के बाद: प्रेसिडेंसी नगरों में विश्वविद्यालय, पेशेवर संस्थान (कानून, चिकित्सा, इंजीनियरिंग), मिशनरी स्कूलों का विस्तार।",
+    "प्रभाव: अंग्रेज़ी-शिक्षित अभिजात वर्ग बना; तर्कवादी और राष्ट्रवादी विचार फैले; पर जन-शिक्षा, तकनीकी और ग्रामीण शिक्षा की उपेक्षा हुई; 'डाउनवर्ड फिल्ट्रेशन' पर आधारित नीति।"
+  ],
+  "table": {
+    "title": "Key Developments in Modern Education",
+    "titleHindi": "आधुनिक शिक्षा में प्रमुख विकास",
+    "columns": ["Year", "Event/Measure", "Impact"],
+    "columnsHindi": ["वर्ष", "घटना/उपाय", "प्रभाव"],
+    "rows": [
+      ["1781", "Calcutta Madrassa by Warren Hastings", "Promoted study of Muslim law"],
+      ["1791", "Sanskrit College at Varanasi by Jonathan Duncan", "Encouraged Hindu law & philosophy studies"],
+      ["1813", "Charter Act", "Allocated ₹1 lakh for education"],
+      ["1835", "Macaulay’s Minute", "Introduced English medium & western curriculum"],
+      ["1854", "Wood’s Dispatch", "Universities, DPI, grants-in-aid, women’s education"],
+      ["1857", "Universities of Calcutta, Bombay, Madras", "Laid foundation of higher modern education"],
+      ["Post-1857", "Missionary & professional institutions", "Expanded access but neglected masses"]
+    ],
+    "rowsHindi": [
+      ["1781", "वॉरेन हैस्टिंग्स द्वारा कलकत्ता मदरसा", "मुस्लिम कानून के अध्ययन को बढ़ावा"],
+      ["1791", "जोनाथन डंकन द्वारा वाराणसी संस्कृत कॉलेज", "हिंदू कानून और दर्शन के अध्ययन को प्रोत्साहन"],
+      ["1813", "चार्टर एक्ट", "शिक्षा के लिए 1 लाख रुपये निर्धारित"],
+      ["1835", "मैकाले का मिनट", "अंग्रेज़ी माध्यम और पाश्चात्य पाठ्यक्रम शुरू"],
+      ["1854", "वुड्स डिस्पैच", "विश्वविद्यालय, शिक्षा विभाग, अनुदान-इन-एड, महिला शिक्षा"],
+      ["1857", "कलकत्ता, बॉम्बे, मद्रास विश्वविद्यालय", "आधुनिक उच्च शिक्षा की नींव रखी"],
+      ["1857 के बाद", "मिशनरी और पेशेवर संस्थान", "शिक्षा का विस्तार, पर जन शिक्षा की उपेक्षा"]
+    ]
+  },
+  "prelimsTips": [
+    "Wood’s Dispatch (1854) → Magna Carta of English Education.",
+    "Macaulay’s Minute (1835) → English medium & western sciences.",
+    "First universities: Calcutta, Bombay, Madras (1857)."
+  ],
+  "prelimsTipsHindi": [
+    "वुड्स डिस्पैच (1854) → अंग्रेज़ी शिक्षा का मैग्ना कार्टा।",
+    "मैकाले का मिनट (1835) → अंग्रेज़ी माध्यम और पाश्चात्य विज्ञान।",
+    "प्रथम विश्वविद्यालय: कलकत्ता, बॉम्बे, मद्रास (1857)।"
+  ],
+  "funFacts": [
+    "The first graduates from Calcutta University passed in 1858.",
+    "English became a passport for government jobs after 1844 notification.",
+    "Macaulay openly dismissed oriental learning as 'worthless'."
+  ],
+  "funFactsHindi": [
+    "कलकत्ता विश्वविद्यालय से प्रथम स्नातक 1858 में उत्तीर्ण हुए।",
+    "1844 की अधिसूचना के बाद सरकारी नौकरियों के लिए अंग्रेज़ी अनिवार्य हो गई।",
+    "मैकाले ने परंपरागत शिक्षा को 'निरर्थक' कहकर खारिज किया।"
+  ],
+  "mainsPoints": [
+    "Modern education created an English-educated Indian middle class which became the backbone of reform movements and nationalism.",
+    "It fostered rationalism, liberalism, and modern political ideas but was elitist and left masses untouched.",
+    "Dual nature: tool of colonial control but also instrument of Indian awakening."
+  ],
+  "mainsPointsHindi": [
+    "आधुनिक शिक्षा ने अंग्रेज़ी-शिक्षित भारतीय मध्यम वर्ग तैयार किया जिसने सुधार आंदोलनों और राष्ट्रवाद की रीढ़ बनाई।",
+    "इसने तर्कवाद, उदारवाद और आधुनिक राजनीतिक विचारों को बढ़ावा दिया पर आम जनता तक नहीं पहुँची।",
+    "दोहरा स्वरूप: औपनिवेशिक नियंत्रण का साधन भी और भारतीय जागरण का उपकरण भी।"
+  ],
+},
+{
+  "heading": "Transport & Communication",
+  "headingHindi": "परिवहन और संचार",
+  "highlight": "The British developed transport and communication networks to serve colonial interests — enabling troop movement, revenue collection, and integration of Indian markets with Britain, though these changes had long-term developmental impacts on India.",
+  "highlightHindi": "ब्रिटिशों ने परिवहन और संचार तंत्र का विकास मुख्यतः औपनिवेशिक हितों के लिए किया — सैनिकों की आवाजाही, राजस्व संग्रह और भारतीय बाज़ारों को ब्रिटेन से जोड़ने के लिए; हालाँकि इनसे भारत पर दीर्घकालिक विकासात्मक प्रभाव भी पड़े।",
+  "details": [
+    "Background: Pre-colonial India relied on bullock carts, boats, pack animals; transport was local and village-based with minimal long-distance connectivity.",
+    "Railways: Introduced in 1853 (Bombay–Thane). Expanded to link ports, raw material producing regions, and administrative centers. By 1900, India had over 25,000 km of rail lines.",
+    "Roads: Military roads built by British; Grand Trunk Road modernised; focus on strategic and commercial purposes, not rural needs.",
+    "Canals: Projects like Ganges Canal (1854) aided irrigation and also troop movement; canal colonies in Punjab expanded agriculture.",
+    "Postal System: Reformed by Lord Dalhousie; penny/half-anna postage introduced; standardized stamps allowed easy communication across India.",
+    "Telegraph: Introduced mid-19th century (Dalhousie era). By 1854, Calcutta–Agra–Bombay–Madras linked. Played crucial role during 1857 revolt in helping British coordinate.",
+    "Impact: Helped commercialize agriculture, integrate Indian markets, enable famine relief (though sometimes worsening shortages by exporting food). Primarily served British strategic and economic goals."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: उपनिवेश-पूर्व भारत में बैलगाड़ी, नावें और पशु-आधारित परिवहन प्रमुख था; लंबी दूरी की कनेक्टिविटी बहुत कम थी।",
+    "रेलवे: 1853 (बॉम्बे–ठाणे) में शुरू हुई। बंदरगाहों, कच्चे माल के क्षेत्रों और प्रशासनिक केन्द्रों को जोड़ने के लिए तेजी से फैली। 1900 तक 25,000 किमी रेल लाइनें बिछ गईं।",
+    "सड़कें: ब्रिटिशों ने सैन्य सड़कें बनाईं; ग्रैंड ट्रंक रोड का आधुनिकीकरण किया; ध्यान रणनीतिक व वाणिज्यिक प्रयोजनों पर रहा, ग्रामीण जरूरतों पर नहीं।",
+    "नहरें: गंगा नहर (1854) जैसी परियोजनाओं ने सिंचाई और सैनिक आवाजाही दोनों में मदद की; पंजाब की नहर कॉलोनियों ने कृषि का विस्तार किया।",
+    "डाक व्यवस्था: लॉर्ड डलहौज़ी ने सुधार किए; पेननी/आधा-आना डाक लागू; मानकीकृत टिकटों से पूरे भारत में सरल संचार हुआ।",
+    "टेलीग्राफ: 19वीं सदी मध्य (डलहौज़ी काल) में शुरू; 1854 तक कलकत्ता–आगरा–बॉम्बे–मद्रास जुड़ गए। 1857 विद्रोह के दौरान ब्रिटिश समन्वय में अहम रहा।",
+    "प्रभाव: कृषि का व्यावसायीकरण, भारतीय बाज़ारों का एकीकरण, अकाल राहत में सहायक (कभी-कभी खाद्यान्न निर्यात से स्थिति बिगड़ी)। मुख्यतः ब्रिटिश रणनीतिक और आर्थिक हितों की सेवा की।"
+  ],
+  "table": {
+    "title": "Key Developments in Transport & Communication",
+    "titleHindi": "परिवहन और संचार में प्रमुख विकास",
+    "columns": ["Year", "Development", "Impact"],
+    "columnsHindi": ["वर्ष", "विकास", "प्रभाव"],
+    "rows": [
+      ["1853", "First railway line (Bombay–Thane)", "Linked port with interior; start of Indian railways"],
+      ["1854", "Ganges Canal completed", "Irrigation boost; facilitated troop movement"],
+      ["1854", "Telegraph line (Calcutta–Agra–Bombay–Madras)", "Revolutionised communication; used in 1857 revolt"],
+      ["1854–1855", "Dalhousie’s Postal Reforms", "Half-anna postage; standardized stamps across India"],
+      ["19th century", "Expansion of Grand Trunk Road", "Improved long-distance connectivity for trade & army"],
+      ["Late 19th century", "Railway network 25,000 km+", "Integrated markets; enabled colonial exploitation"]
+    ],
+    "rowsHindi": [
+      ["1853", "पहली रेलवे लाइन (बॉम्बे–ठाणे)", "बंदरगाह को आंतरिक क्षेत्रों से जोड़ा; भारतीय रेलवे की शुरुआत"],
+      ["1854", "गंगा नहर पूर्ण", "सिंचाई में वृद्धि; सैनिक आवाजाही में सहायक"],
+      ["1854", "टेलीग्राफ लाइन (कलकत्ता–आगरा–बॉम्बे–मद्रास)", "संचार में क्रांति; 1857 विद्रोह में उपयोग"],
+      ["1854–1855", "डलहौज़ी के डाक सुधार", "आधा-आना डाक; पूरे भारत में मानकीकृत टिकट लागू"],
+      ["19वीं सदी", "ग्रैंड ट्रंक रोड का विस्तार", "व्यापार और सेना के लिए लंबी दूरी की सुविधा"],
+      ["19वीं सदी उत्तरार्ध", "रेलवे नेटवर्क 25,000 किमी+", "बाज़ारों का एकीकरण; औपनिवेशिक शोषण को सक्षम किया"]
+    ]
+  },
+  "prelimsTips": [
+    "First railway line → Bombay to Thane (1853).",
+    "First telegraph line → Calcutta to Agra (1851–54).",
+    "Dalhousie credited with modern postal and telegraph reforms."
+  ],
+  "prelimsTipsHindi": [
+    "पहली रेलवे लाइन → बॉम्बे से ठाणे (1853)।",
+    "पहली टेलीग्राफ लाइन → कलकत्ता से आगरा (1851–54)।",
+    "डलहौज़ी को आधुनिक डाक और टेलीग्राफ सुधारों का श्रेय।"
+  ],
+  "funFacts": [
+    "The first train in India carried about 400 passengers in 14 coaches.",
+    "The half-anna postage stamp made postal communication affordable to common Indians.",
+    "Telegraph wires were often targeted during the 1857 Revolt by rebels to disrupt British communication."
+  ],
+  "funFactsHindi": [
+    "भारत की पहली ट्रेन में लगभग 400 यात्री 14 डिब्बों में यात्रा किए।",
+    "आधा-आना डाक टिकट ने आम भारतीयों के लिए डाक संचार सुलभ बना दिया।",
+    "1857 विद्रोह के दौरान विद्रोहियों ने ब्रिटिश संचार बाधित करने के लिए टेलीग्राफ तार काटे।"
+  ],
+  "mainsPoints": [
+    "Transport & communication served colonial needs but created enduring infrastructure that shaped India’s economic and political integration.",
+    "Railways accelerated commercialization of agriculture and integration of markets but also deepened India’s economic dependency on Britain.",
+    "Telegraphs and postal systems enhanced administrative efficiency and facilitated colonial control."
+  ],
+  "mainsPointsHindi": [
+    "परिवहन और संचार ने औपनिवेशिक आवश्यकताओं की सेवा की पर दीर्घकालिक रूप से भारत के आर्थिक और राजनीतिक एकीकरण का आधार बने।",
+    "रेलवे ने कृषि का व्यावसायीकरण और बाज़ारों का एकीकरण बढ़ाया, पर भारत की ब्रिटेन पर आर्थिक निर्भरता भी गहरी की।",
+    "टेलीग्राफ और डाक प्रणाली ने प्रशासनिक दक्षता बढ़ाई और औपनिवेशिक नियंत्रण को मजबूत किया।"
+  ],
+},
+    ],
+    "Chapter 11: Era of Militant Nationalism (1905-1909)": [
+{
+  "heading": "Era of Militant Nationalism (1905–1909)",
+  "headingHindi": "उग्र राष्ट्रवाद का युग (1905–1909)",
+  "highlight": "Militant nationalism arose as a response to British repression, economic exploitation, Curzon’s partition of Bengal, and disillusionment with moderate methods. It emphasized swaraj, boycott, swadeshi, and direct action.",
+  "highlightHindi": "उग्र राष्ट्रवाद ब्रिटिश दमन, आर्थिक शोषण, कर्ज़न के बंगाल विभाजन और उदारवादी तरीकों से निराशा के परिणामस्वरूप उभरा। इसकी विशेषता स्वराज, बहिष्कार, स्वदेशी और प्रत्यक्ष कार्रवाई थी।",
+  "details": [
+    "Background: Moderates’ faith in petitions and reforms failed to yield results by 1890s.",
+    "Curzon’s reactionary measures (Calcutta Corporation Act 1899, Official Secrets Act 1904, Partition of Bengal 1905) provoked resentment.",
+    "Swadeshi & Boycott formally launched in Calcutta Town Hall (7 August 1905).",
+    "Early phase (1905–07): Peaceful protests, swadeshi industries, schools, boycotts of foreign cloth.",
+    "Later phase (1907–09): Extremist influence grew → passive resistance, mass mobilization, strikes, defiance of authority.",
+    "Revolutionary terrorism: Secret societies like Anushilan Samiti and Jugantar began targeted assassinations (e.g., Khudiram Bose, Prafulla Chaki in Muzaffarpur, 1908).",
+    "Women’s participation: Urban middle-class women like Sarala Devi Chaudhurani inspired swadeshi activities.",
+    "Students: Active in picketing, protests, spreading nationalist literature.",
+    "Workers: Strikes in railway workshops, cotton mills, plantations linked labour unrest with swadeshi politics.",
+    "Peasants: Limited participation, but some swadeshi leaders tried to connect land grievances with nationalism.",
+    "Cultural revival: Rabindranath Tagore’s songs, Abanindranath Tagore’s paintings, Subramania Bharati’s poems infused nationalism.",
+    "Science & Industry: Prafulla Chandra Ray’s Bengal Chemicals, J.C. Bose’s research symbolised indigenous progress.",
+    "Surat Split (1907): Congress divided → Moderates vs Extremists, weakening nationalist unity.",
+    "Government response: Harsh repression, sedition trials (Tilak), censorship, deportations.",
+    "Morley–Minto Reforms (1909): Separate electorates for Muslims; limited concessions to Moderates.",
+    "Significance: Brought masses into politics, laid foundations of Gandhian movements, and injected confidence in Indian self-reliance."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: उदारवादियों की याचिकाओं और सुधारों पर आस्था 1890 के दशक तक विफल रही।",
+    "कर्ज़न की प्रतिक्रियावादी नीतियाँ (कलकत्ता कॉरपोरेशन अधिनियम 1899, गोपनीयता अधिनियम 1904, बंगाल विभाजन 1905) ने असंतोष भड़काया।",
+    "स्वदेशी और बहिष्कार आंदोलन की औपचारिक शुरुआत कलकत्ता टाउन हाल (7 अगस्त 1905) में हुई।",
+    "प्रारंभिक चरण (1905–07): शांतिपूर्ण विरोध, स्वदेशी उद्योग, स्कूल, विदेशी वस्त्रों का बहिष्कार।",
+    "अंतिम चरण (1907–09): उग्रवादियों का प्रभाव बढ़ा → निष्क्रिय प्रतिरोध, जनसंगठन, हड़तालें, सरकारी अवज्ञा।",
+    "क्रांतिकारी आतंकवाद: अनुशीलन समिति और युगांतर जैसी गुप्त समितियों ने हत्या अभियान शुरू किया (जैसे, खुदीराम बोस, प्रफुल्ल चाकी द्वारा मुज़फ़्फ़रपुर 1908 हमला)।",
+    "महिलाओं की भागीदारी: सरला देवी चौधरानी जैसी शहरी मध्यमवर्गीय महिलाएँ सक्रिय रहीं।",
+    "छात्र: विदेशी वस्तुओं की दुकानों पर धरना, आंदोलन और साहित्य के प्रसार में सक्रिय।",
+    "मजदूर: रेलवे वर्कशॉप, कपड़ा मिल और बागानों की हड़तालों ने श्रमिक संघर्ष को स्वदेशी राजनीति से जोड़ा।",
+    "किसान: सीमित भागीदारी, लेकिन कुछ नेताओं ने भूमि संबंधी शिकायतों को राष्ट्रवाद से जोड़ने का प्रयास किया।",
+    "सांस्कृतिक पुनर्जागरण: रवीन्द्रनाथ टैगोर के गीत, अबनिंद्रनाथ टैगोर की पेंटिंग्स, सुब्रमण्यम भारती की कविताएँ राष्ट्रवाद से ओत-प्रोत थीं।",
+    "विज्ञान और उद्योग: प्रफुल्ल चंद्र रे के बंगाल केमिकल्स और जे.सी. बोस का शोध स्वदेशी प्रगति का प्रतीक बना।",
+    "सूरत विभाजन (1907): कांग्रेस में उदारवादी बनाम उग्रवादी का संघर्ष, जिससे आंदोलन कमजोर हुआ।",
+    "सरकारी प्रतिक्रिया: कठोर दमन, राजद्रोह मुकदमे (तिलक), प्रेस सेंसरशिप, निर्वासन।",
+    "मॉर्ले-मिंटो सुधार (1909): मुसलमानों के लिए अलग निर्वाचन क्षेत्र, उदारवादियों को कुछ रियायतें।",
+    "महत्व: जनता को राजनीति में जोड़ा, गाँधीवादी आंदोलनों की नींव रखी और आत्मनिर्भरता का आत्मविश्वास भरा।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Events (1905–09)",
+      "titleHindi": "प्रमुख क्रांतिकारी घटनाएँ (1905–09)",
+      "columns": ["Year", "Event", "Significance"],
+      "columnsHindi": ["साल", "घटना", "महत्व"],
+      "rows": [
+        ["1905", "Launch of Swadeshi & Boycott in Calcutta", "Formal beginning of mass nationalism"],
+        ["1906", "Formation of All India Muslim League", "Communal divide encouraged by British"],
+        ["1907", "Surat Split", "Division of Congress weakened movement"],
+        ["1908", "Muzaffarpur Bomb Case (Khudiram Bose, Prafulla Chaki)", "Turn towards revolutionary terrorism"],
+        ["1909", "Tilak’s trial and imprisonment in Mandalay", "Suppression of Extremist leadership"],
+        ["1909", "Morley–Minto Reforms", "Introduced separate electorates, sowed communalism"]
+      ],
+      "rowsHindi": [
+        ["1905", "कलकत्ता में स्वदेशी और बहिष्कार आंदोलन की शुरुआत", "जन-आंदोलन की औपचारिक शुरुआत"],
+        ["1906", "ऑल इंडिया मुस्लिम लीग का गठन", "अंग्रेजों द्वारा साम्प्रदायिक फूट"],
+        ["1907", "सूरत विभाजन", "कांग्रेस की फूट से आंदोलन कमजोर"],
+        ["1908", "मुज़फ़्फ़रपुर बमकांड (खुदीराम बोस, प्रफुल्ल चाकी)", "क्रांतिकारी आतंकवाद की ओर झुकाव"],
+        ["1909", "तिलक का मुकदमा और मंडले जेल में कैद", "उग्रवादी नेतृत्व का दमन"],
+        ["1909", "मॉर्ले-मिंटो सुधार", "अलग निर्वाचन क्षेत्र, साम्प्रदायिकता की नींव"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Swadeshi & Boycott → formally launched in 1905 (Calcutta Town Hall).",
+    "Anushilan Samiti & Jugantar → secret societies behind revolutionary activities.",
+    "Surat Split (1907) → divided Moderates and Extremists.",
+    "Morley–Minto Reforms (1909) introduced communal electorates for Muslims."
+  ],
+  "prelimsTipsHindi": [
+    "स्वदेशी व बहिष्कार आंदोलन → 1905 (कलकत्ता टाउन हाल) में औपचारिक शुरुआत।",
+    "अनुशीलन समिति व युगांतर → क्रांतिकारी गतिविधियों के पीछे गुप्त संगठन।",
+    "सूरत विभाजन (1907) → उदारवादी व उग्रवादी कांग्रेस में अलग हुए।",
+    "मॉर्ले-मिंटो सुधार (1909) → मुसलमानों के लिए अलग निर्वाचन क्षेत्र।"
+  ],
+  "funFacts": [
+    "Khudiram Bose was only 18 when he was executed in 1908, becoming one of the youngest martyrs of the freedom struggle.",
+    "Students in Bengal often sold swadeshi matchsticks and soaps to support the movement.",
+    "Tilak’s newspapers Kesari and Mahratta spread extremist nationalist ideas widely."
+  ],
+  "funFactsHindi": [
+    "खुदीराम बोस मात्र 18 वर्ष के थे जब उन्हें 1908 में फांसी दी गई, वे सबसे कम उम्र के शहीदों में गिने जाते हैं।",
+    "बंगाल के छात्र अक्सर स्वदेशी माचिस और साबुन बेचकर आंदोलन को सहयोग करते थे।",
+    "तिलक के समाचारपत्र 'केसरी' और 'मराठा' ने उग्र राष्ट्रवादी विचारों को व्यापक रूप से फैलाया।"
+  ],
+  "mainsPoints": [
+    "Militant nationalism broadened the base of Indian nationalism by involving students, women, and workers.",
+    "It highlighted economic self-reliance through swadeshi industries and education.",
+    "It exposed the communal strategy of the British through the Partition of Bengal and separate electorates.",
+    "Though suppressed, it laid the foundation for mass movements under Gandhi in the following decades."
+  ],
+  "mainsPointsHindi": [
+    "उग्र राष्ट्रवाद ने छात्रों, महिलाओं और मजदूरों को जोड़कर भारतीय राष्ट्रवाद का आधार व्यापक किया।",
+    "इसने स्वदेशी उद्योगों और शिक्षा के माध्यम से आर्थिक आत्मनिर्भरता पर बल दिया।",
+    "इसने बंगाल विभाजन और अलग निर्वाचन क्षेत्रों के माध्यम से अंग्रेजों की साम्प्रदायिक नीति को उजागर किया।",
+    "यद्यपि यह दमन कर दिया गया, परंतु इसने आने वाले दशकों में गाँधीजी के जनआंदोलनों की नींव रखी।"
+  ]
+},
+{
+  "heading": "The Partition of Bengal (1905)",
+  "headingHindi": "बंगाल का विभाजन (1905)",
+  "highlight": "Announced by Lord Curzon on 20 July 1905 and made effective on 16 October 1905, the Partition of Bengal divided the huge province into Eastern Bengal & Assam and Western Bengal — a move presented as administrative, but widely seen as a deliberate 'divide-and-rule' step that galvanized the Swadeshi movement.",
+  "highlightHindi": "लॉर्ड कर्ज़न ने 20 जुलाई 1905 को घोषणा की और 16 अक्तूबर 1905 से लागू हुआ बंगाल का विभाजन — जिसे प्रशासनिक औचित्य बताया गया पर इसे विभाजित-कर-शासन (divide-and-rule) माना गया और इसने स्वदेशी आंदोलन को प्रोत्साहित किया।",
+  "details": [
+    "Background: The idea of reorganising Bengal and eastern districts (Chittagong, Dhaka, Mymensingh) had been under consideration since c.1903; Curzon pursued proposals in 1904 and toured eastern Bengal (Feb 1904) to justify the scheme.",
+    "Official announcement: On 20 July 1905 Lord Curzon issued the order dividing Bengal into two units; the partition formally took effect on 16 October 1905.",
+    "Administrative scheme: Two provinces were created — Eastern Bengal & Assam (Dacca as capital) with about 31 million population, and Western Bengal (including the Presidency) with Calcutta as capital; the official reason cited ease of administration of a province of c.78 million.",
+    "Real (political) motive: The partition aimed to weaken Bengali political unity by splitting the Bengali-speaking population and by creating a Muslim-majority eastern province — seen as an attempt to divide Bengalis on linguistic and communal lines and to blunt the rising nationalist movement in Bengal.",
+    "Demographic engineering: In the new scheme Bengal proper (western part) would have become a Hindu-majority area while Eastern Bengal & Assam would be Muslim-majority — reducing Bengali influence in provincial politics.",
+    "Opposition inside administration: Some officials (e.g., H.J.S. Cotton, former Chief Commissioner of Assam) opposed the scheme; many Bengali political leaders and newspapers protested strongly.",
+    "Mass political reaction: The announcement triggered wide protests — hartals, public meetings, processions, fasting, bathing in the Ganga as a mark of mourning (16 Oct 1905), tying of rakhis across Bengal as a symbol of unity, and large gatherings where songs like Rabindranath Tagore’s 'Amar Sonar Bangla' were sung.",
+    "Swadeshi & Boycott link: Partition became the immediate catalyst for the Swadeshi and Boycott movement (1905 onward): public burning of foreign cloth, boycotts of British goods, establishment of swadeshi schools, industries and banks, and use of festivals for political mobilisation.",
+    "Political fallout: The partition accelerated the rise of extremist leaders (Tilak, Aurobindo, Bipin Chandra Pal, Lajpat Rai) and intensified demands for more vigorous political action beyond moderate petitions.",
+    "Administrative consequences & changes: To placate some interests the British created separate administrative arrangements for Assam and for Bihar & Orissa later (after annulment), and moved the imperial capital to Delhi (1911).",
+    "Annulment (1911): At the Delhi Coronation Durbar on 12 December 1911 King George V announced the annulment of the 1905 partition; Bengal was reunited, but Bihar and Orissa were separated from Bengal and Assam became a separate province; Dacca ceased to be a provincial capital of a separate Bengal province.",
+    "Aftermath and reactions: Many Muslim leaders condemned the annulment as betrayal; Congress and nationalist opinion celebrated the reunification but the long-term damage included communal political mobilization and British use of communal representation (later reinforced by measures like separate electorates)."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: बंगाल और उसके पूर्वी ज़िलों (चित्तौगाँव, ढाका, म्यांसिंघ) के पुनर्गठन पर विचार 1903 के आसपास से था; कर्ज़न ने 1904 में प्रस्तावों को आगे बढ़ाया और फरवरी 1904 में पूर्वी बंगाल का दौरा कर वे इस योजना की औचित्य समझाने लगे।",
+    "औपचारिक घोषणा: 20 जुलाई 1905 को लॉर्ड कर्ज़न ने बंगाल विभाजन का आदेश जारी किया; विभाजन 16 अक्टूबर 1905 से प्रभावी हुआ।",
+    "प्रशासनिक योजना: दो प्रांत बनाए गए — ईस्टर्न बंगाल एवं असम (ढाका राजधानी) लगभग 31 मिलियन जनसंख्या के साथ, और वेस्टर्न बंगाल (कैलकत्ता राजधानी सहित) — आधिकारिक कारण बहुत बड़े प्रांत (लगभग 78 मिलियन) का संचालन सुगम बनाना बताया गया।",
+    "वास्तविक (राजनीतिक) उद्देश्य: विभाजन का उद्देश्य बंगाली राजनीतिक एकता को तोड़ना था — बंगाली-भाषी लोगों को बाँटकर और एक मुस्लिम-बहुल पूर्वी प्रांत बनाकर — ताकि बंगाल में उभरते राष्ट्रवाद को काबू किया जा सके।",
+    "जनसंख्यकीय रणनीति: नए प्रस्ताव में बंगाल के पश्चिमी भाग को हिन्दू-बहुल और पूर्वी भाग को मुस्लिम-बहुल बनाया जाना था — जिससे बंगाली नेतृत्व की धार कमजोर हो जाती।",
+    "प्रशासनिक विरोध: कुछ अधिकारियों (जैसे एच.जे.एस. कॉटन) ने इस योजना का विरोध किया; कई बंगाली नेताओं और पत्रिकाओं ने तीव्र विरोध जताया।",
+    "जन विरोध: घोषणा के बाद व्यापक विरोध हुए — हड़तालें, सार्वजनिक सभाएँ, जुलूस, उपवास, 16 अक्टूबर 1905 को गंगा स्नान को शोक दिवस के रूप में मनाया गया, और बंगाल की एकता के प्रतीक के रूप में राखी बाँधी गई; रवीन्द्रनाथ टैगोर का 'अमर सोनार बांग्ला' जैसे गीत बड़े समूहों में गाए गए।",
+    "स्वदेशी और बहिष्कार से सम्बन्ध: विभाजन ने तुरंत स्वदेशी और बहिष्कार आंदोलन को उत्प्रेरित किया — विदेशी कपड़ों का दहन, ब्रिटिश वस्तुओं का बहिष्कार, स्वदेशी स्कूल और उद्योग स्थापित किए गए, त्योहारों का इस्तेमाल राजनीतिक जागरण के लिए किया गया।",
+    "राजनैतिक परिणाम: विभाजन ने उग्र नेता जैसे तिलक, अरविंदो, बिपिन चंद्र पाल, लाला लाजपत राय को बढ़ावा दिया और उदारवादी याचिका-प्रणाली से परे कड़े कदमों की मांग तेज हुई।",
+    "प्रशासनिक परिणाम और परिवर्तन: बाद में अंग्रेजों ने कुछ हितों को शांत करने के लिए बिहार-ओड़िशा को बंगाल से अलग किया और राजधानी दिल्ली में स्थानांतरित की (1911)।",
+    "रद्दीकरण (1911): 12 दिसंबर 1911 के दिल्ली दरबार में किंग जॉर्ज V ने 1905 के विभाजन को रद्द किया; बंगाल का पुनर्संखलन कर दिया गया, लेकिन बिहार और ओड़िशा बंगाल से अलग कर दिए गए और असम को पृथक प्रांत बना दिया गया; ढाका अब अलग बंगाल प्रांत की राजधानी नहीं रही।",
+    "परिणाम और प्रतिक्रियाएँ: कई मुस्लिम नेताओं ने रद्दीकरण को धोखा बताया; कांग्रेस ने एकता का स्वागत किया पर दीर्घकालिक प्रभावों में साम्प्रदायिक राजनीतिक अभिव्यक्ति को बढ़ावा और अंग्रेजों की साम्प्रदायिक नीतियाँ शामिल रहीं।"
+  ],
+  "tables": [
+    {
+      "title": "Timeline — Key Dates",
+      "titleHindi": "समयरेखा — प्रमुख तिथियाँ",
+      "columns": ["Date / Year", "Event", "Notes"],
+      "columnsHindi": ["तिथि / वर्ष", "घटना", "टिप्पणियाँ"],
+      "rows": [
+        ["c.1903", "Initial proposals to reorganise Bengal discussed", "Early administrative discussions began"],
+        ["January 1904", "Partition proposals officially published", "Scheme circulated for comments"],
+        ["February 1904", "Curzon tours eastern Bengal", "Attempt to justify scheme to public and officials"],
+        ["20 July 1905", "Lord Curzon announces Partition", "Official proclamation issued"],
+        ["16 October 1905", "Partition comes into effect", "Eastern Bengal & Assam operational with Dhaka as capital"],
+        ["1905–1908", "Swadeshi & Boycott agitation peaks", "Mass mobilisation, protests and economic action"],
+        ["1906", "All-India Muslim League formed (Dec 1906)", "Muslim political organisation partly encouraged by communal politics"],
+        ["12 December 1911", "Partition annulled at Delhi Durbar", "Bengal reunited; capital moved to Delhi; Bihar & Orissa separated"]
+      ],
+      "rowsHindi": [
+        ["c.1903", "बंगाल के पुनर्गठन पर प्रारम्भिक विचार", "प्रशासनिक चर्चाएँ शुरू हुईं"],
+        ["जनवरी 1904", "विभाजन प्रस्ताव आधिकारिक रूप से प्रकाशित", "योजना पर टिप्पणियाँ मांगी गईं"],
+        ["फरवरी 1904", "कर्ज़न ने पूर्वी बंगाल का दौरा किया", "जनता और अधिकारियों को योजना समझाने का प्रयास"],
+        ["20 जुलाई 1905", "लॉर्ड कर्ज़न ने विभाजन की घोषणा की", "औपचारिक घोषणा जारी"],
+        ["16 अक्तूबर 1905", "विभाजन लागू हुआ", "पूर्वी बंगाल व असम ढाका के साथ प्रारम्भिक रूप से संचालित"],
+        ["1905–1908", "स्वदेशी व बहिष्कार आंदोलन चरम पर", "जन-जागरण, विरोध और आर्थिक कार्रवाई"],
+        ["1906", "ऑल-इंडिया मुस्लिम लीग का गठन (दिसंबर 1906)", "साम्प्रदायिक राजनीति के सन्दर्भ में महत्वपूर्ण"],
+        ["12 दिसंबर 1911", "दिल्ली दरबार में विभाजन रद्द", "बंगाल का पुनर्संयोजन; राजधानी दिल्ली; बिहार-ओड़िशा अलग"]
+      ]
+    },
+    {
+      "title": "Reasons & Motives",
+      "titleHindi": "कारण और उद्देश्य",
+      "columns": ["Stated (Official) Reason", "Real/Political Motive"],
+      "columnsHindi": ["कथित (आधिकारिक) कारण", "वास्तविक/राजनीतिक उद्देश्य"],
+      "rows": [
+        ["Too large a province (c.78 million) — administrative difficulty", "Divide Bengali political influence and weaken nationalist leadership"],
+        ["To develop and administer Assam more directly", "Create a Muslim-majority province to cultivate Muslim loyalty and divide Hindus & Muslims"],
+        ["Improve provincial efficiency and governance", "Gerrymander demographics — reduce Bengali-speaking majority in West Bengal"]
+      ],
+      "rowsHindi": [
+        ["किसी बहुत बड़े प्रांत (लगभग 78 मिलियन) का प्रशासन कठिन", "बंगाली राजनीतिक प्रभाव को विभाजित कर राष्ट्रवादी नेतृत्व को कमजोर करना"],
+        ["असम के विकास और प्रत्यक्ष प्रशासन की आवश्यकता", "मुस्लिम-बहुल प्रांत बना कर मुसलमानों की वफादारी आकर्षित करना और हिन्दू-मुस्लिम विभाजन उत्पन्न करना"],
+        ["प्रांतीय कार्यकुशलता और शासन सुधार", "जनसांख्यिकीय रूप से गेऱिमैंडर कर के बंगाली बोलने वालों की संख्या घटाना"]
+    ]
+    },
+    {
+      "title": "Reactions — Who supported / opposed",
+      "titleHindi": "प्रतिक्रियाएँ — किसने समर्थन/विरोध किया",
+      "columns": ["Group/Person", "Position", "Reason/Notes"],
+      "columnsHindi": ["समूह/व्यक्ति", "स्थिति", "कारण/टिप्पणियाँ"],
+      "rows": [
+        ["Moderate Congress leaders (initially varied)", "Opposed partition (many supported Swadeshi later)", "Organized petitions, meetings and moderate protest in Bengal"],
+        ["Extremists & younger nationalists (Tilak, Aurobindo, Bipin Chandra Pal)", "Strongly opposed, supported direct action", "Pushed mass agitation, boycott and political mobilisation outside Bengal"],
+        ["Urban middle-class & students in Bengal", "Opposed", "Led picketing, processions and economic boycotts"],
+        ["Some Muslims (esp. certain landlords & elite in Dacca)", "Supported or were neutral", "Perceived administrative advantage and greater representation in the new province"],
+        ["British officials (Curzon and associates)", "Supported and implemented", "Cited administrative efficiency; aimed to split nationalist leadership"]
+      ],
+      "rowsHindi": [
+        ["मध्यमपंथी कांग्रेस नेता (शुरू में मिश्रित)", "विभाजन का विरोध (कई बाद में स्वदेशी का समर्थन)", "याचिकाएँ, सभाएँ और उदारवादी विरोध संगठित किए गए"],
+        ["उग्रवादी व युवा राष्ट्रवादी (तिलक, अरविंदो, बिपिन चंद्र पाल)", "तेज़ी से विरोध किया, प्रत्यक्ष कार्रवाई के समर्थक", "जन-आन्दोलन, बहिष्कार और बंगाल के बाहर भी राजनीतिक जागरण फैलाया"],
+        ["शहरी मध्यमवर्ग और छात्रों (बंगाल)", "विरोधी", "दुकानों पर पिकेटिंग, जुलूस और आर्थिक बहिष्कार का नेतृत्व किया"],
+        ["कुछ मुसलमान (विशेषकर ढाका के जमींदार/अभिजात वर्ग)", "समर्थन या तटस्थ", "नए प्रांत में प्रशासनिक फ़ायदा और बढ़ी हुई प्रतिनिधित्व की धारणा"],
+        ["ब्रीटिश अधिकारी (कर्ज़न व सहयोगी)", "समर्थित और लागू किया", "प्रशासनिक दक्षता का हवाला; राष्ट्रवादी नेतृत्व को विभाजित करने का इरादा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Partition announced: 20 July 1905; came into effect: 16 October 1905.",
+    "Eastern Bengal & Assam capital — Dacca (Dhaka); Western Bengal retained Calcutta (Kolkata).",
+    "Partition annulled: 12 December 1911 (Delhi Durbar of King George V).",
+    "Immediate political consequence — launch and spread of the Swadeshi & Boycott movement (1905 onwards)."
+  ],
+  "prelimsTipsHindi": [
+    "विभाजन की घोषणा: 20 जुलाई 1905; लागू: 16 अक्टूबर 1905।",
+    "पूर्वी बंगाल व असम की राजधानी — ढाका; पश्चिमी बंगाल में कलकत्ता बनी रही।",
+    "विभाजन रद्द: 12 दिसंबर 1911 (दिल्ली दरबार)।",
+    "तुरंत राजनीतिक परिणाम — स्वदेशी व बहिष्कार आंदोलन (1905 से) की शुरुआत।"
+  ],
+  "funFacts": [
+    "On 16 October 1905 (the day partition came into force) people in Bengal observed it as a day of mourning — fasting, bathing in the Ganga and barefoot processions singing 'Bande Mataram'.",
+    "People tied rakhis across communities in Bengal as a symbolic gesture of unity between the two halves.",
+    "Rabindranath Tagore composed and popularised songs (including 'Amar Sonar Bangla') that became anthems of protest during the anti-partition movement."
+  ],
+  "funFactsHindi": [
+    "16 अक्टूबर 1905 (विभाजन के लागू होने का दिन) को बंगाल में शोक दिवस के रूप में मनाया गया — उपवास, गंगा स्नान और नंगे पाँव जुलूसों में 'बंदे मातरम' गाया गया।",
+    "बंगाल में दो हिस्सों की एकता का प्रतीक बनाने के लिए लोगों ने राखी बाँधी।",
+    "रवीन्द्रनाथ टैगोर ने कई गीत रचे और प्रसारित किए (जिनमें 'अमर सोनार बांग्ला' शामिल है) जो विभाजन-विरोधी आंदोलन के गान बने।"
+  ],
+  "mainsPoints": [
+    "Though presented as an administrative reform, the 1905 Partition of Bengal was a politically motivated move to break Bengali unity and to cultivate communal divisions — it exemplifies the British 'divide-and-rule' strategy.",
+    "The announcement triggered mass politics in India — the Swadeshi and Boycott movement linked political protest with economic self-reliance, education reform and cultural revival.",
+    "The partition and its annulment had complex consequences: it briefly achieved some administrative aims but permanently altered political alignments — encouraging communal political organisation (e.g., growth of Muslim League) and strengthening extremist nationalism.",
+    "The Partition episode demonstrates how colonial administrative decisions could produce large-scale political mobilisation and change the trajectory of the freedom movement by widening its social base (students, women, workers)."
+  ],
+  "mainsPointsHindi": [
+    "प्रशासनिक औचित्य बताते हुए भी 1905 का बंगाल विभाजन राजनीतिक उद्देश्य से किया गया था — बंगाली एकता को तोड़ना और साम्प्रदायिक विभाजन को बढ़ावा देना — यह अंग्रेजों की 'विभाजित करो और राज करो' नीति का उदाहरण है।",
+    "घोषणा ने भारत में जन-राजनीति को उभारा — स्वदेशी व बहिष्कार ने राजनीतिक विरोध को आर्थिक आत्मनिर्भरता, शिक्षा- और सांस्कृतिक पुनरुत्थान से जोड़ा।",
+    "विभाजन और उसके रद्दीकरण के जटिल प्रभाव रहे: कुछ प्रशासनिक उद्देश्यों की पूर्ति हुई, पर राजनीतिक संरेखण स्थायी रूप से बदल गए — साम्प्रदायिक संगठनों का विकास और उग्र राष्ट्रवाद का सशक्तिकरण।",
+    "यह घटना दिखाती है कि औपनिवेशिक प्रशासनिक निर्णय किस प्रकार व्यापक जन-आंदोलन उत्पन्न कर सकते हैं और स्वतंत्रता संग्राम की दिशा व सामाजिक आधार को व्यापक कर सकते हैं।"
+  ]
+},
+{
+  "heading": "The Swadeshi and Boycott Movement (1905–1911)",
+  "headingHindi": "स्वदेशी और बहिष्कार आंदोलन (1905–1911)",
+  "highlight": "The Swadeshi and Boycott Movement emerged as a response to the Partition of Bengal (1905). It spread from Bengal to other regions, promoting economic self-reliance, national education, and mass political mobilisation. Moderates and Extremists differed in methods, but together they shaped the foundation of future nationalist struggles.",
+  "highlightHindi": "स्वदेशी और बहिष्कार आंदोलन बंगाल विभाजन (1905) के विरोध में उभरा। यह बंगाल से अन्य क्षेत्रों तक फैला, आर्थिक आत्मनिर्भरता, राष्ट्रीय शिक्षा और जन-राजनीतिक जागरण को प्रोत्साहित किया। उदारवादी और उग्रवादी तरीकों में भिन्न थे, लेकिन मिलकर इसने भविष्य के राष्ट्रवादी संघर्षों की नींव रखी।",
+  "details": [
+    "Launch: Formally proclaimed in Calcutta Town Hall after passage of Boycott Resolution (7 August 1905).",
+    "Campaign under Moderates: Led by Surendranath Banerjea, K.K. Mitra, Prithwishchandra Ray; methods included petitions, public meetings, propaganda through newspapers like Hitabadi, Sanjibani and Bengalee.",
+    "Moderates’ strategy: Pressure British government by building public opinion in India and England; relied on constitutional agitation within Bengal.",
+    "Campaign under Extremists: Leaders included Tilak, Lajpat Rai, Bipin Chandra Pal, Aurobindo Ghosh; advocated passive resistance, boycott of government schools, jobs, courts, legislative councils, and titles.",
+    "Extremists’ strategy: Transform Swadeshi into mass struggle through boycott of foreign goods, public burning of cloth, strikes, processions, and use of religious festivals for mobilisation.",
+    "Extent of the Movement: Spread beyond Bengal to Bombay (Tilak), Punjab (Lajpat Rai, Ajit Singh), Madras Presidency (V.O. Chidambaram Pillai, Subramania Siva), and Andhra (Hari Sarvottam Rao).",
+    "Labour unrest: Strikes by railway workers (1906), Burn Company clerks, and cotton mill labourers; first trade union-like movements emerged.",
+    "Women’s participation: Urban middle-class women joined processions and picketing.",
+    "Students’ role: Organised picketing, boycotted foreign goods; faced expulsions and loss of scholarships.",
+    "Why the Movement fizzled out (by 1908): Severe government repression, arrest of leaders, lack of organisational structure, Surat Split (1907), narrow social base (peasants largely uninvolved), and difficulty of sustaining prolonged mass mobilisation.",
+    "Significance: First mass movement with participation of students, women, workers; strengthened nationalism in economic, cultural, and political spheres; inspired later Gandhian movements."
+  ],
+  "detailsHindi": [
+    "शुरुआत: 7 अगस्त 1905 को कलकत्ता टाउन हाल में बहिष्कार प्रस्ताव पारित होने के बाद औपचारिक घोषणा।",
+    "उदारवादियों के नेतृत्व में अभियान: सुरेन्द्रनाथ बनर्जी, के.के. मित्रा, पृथ्विशचन्द्र राय; तरीक़े—याचिकाएँ, सार्वजनिक सभाएँ, समाचारपत्रों (हितवादी, संजीवनी, बंगाली) से प्रचार।",
+    "उदारवादी रणनीति: भारत और इंग्लैंड में जनमत बनाकर ब्रिटिश सरकार पर दबाव; आंदोलन को बंगाल तक सीमित रखना।",
+    "उग्रवादियों के नेतृत्व में अभियान: तिलक, लाजपत राय, बिपिन चन्द्र पाल, अरविन्द घोष; निष्क्रिय प्रतिरोध, सरकारी स्कूल, नौकरियाँ, अदालतें, परिषदें और उपाधियों का बहिष्कार।",
+    "उग्रवादी रणनीति: आंदोलन को जनसंघर्ष बनाना—विदेशी वस्त्रों का बहिष्कार व दहन, हड़तालें, जुलूस, धार्मिक त्योहारों से जागरण।",
+    "आंदोलन का विस्तार: बंगाल से बाहर बंबई (तिलक), पंजाब (लाजपत राय, अजीत सिंह), मद्रास (वी.ओ. चिदंबरम पिल्लै, सुब्रमण्यम शिवा), आंध्र (हरी सर्वोत्कम राव) तक।",
+    "श्रमिक असंतोष: 1906 में रेलवे मज़दूरों की हड़ताल, बर्न कंपनी के क्लर्कों का बहिष्कार, कपड़ा मिल मज़दूरों का संघर्ष।",
+    "महिलाओं की भागीदारी: शहरी मध्यमवर्गीय महिलाएँ जुलूस और पिकेटिंग में शामिल हुईं।",
+    "छात्रों की भूमिका: विदेशी वस्तुओं की दुकानों पर धरना, बहिष्कार; दंडस्वरूप निष्कासन और छात्रवृत्ति छीन ली गई।",
+    "क्यों आंदोलन कमजोर हुआ (1908 तक): सरकारी दमन, नेताओं की गिरफ्तारी, संगठन की कमी, सूरत विभाजन (1907), सीमित सामाजिक आधार (किसानों की भागीदारी कम), लंबे समय तक उच्च स्तर पर जन-आंदोलन चलाना कठिन।",
+    "महत्व: छात्रों, महिलाओं, मजदूरों की पहली बड़ी भागीदारी; राष्ट्रवाद को आर्थिक, सांस्कृतिक और राजनीतिक रूप से मज़बूत किया; आगे आने वाले गाँधीवादी आंदोलनों के लिए प्रेरणा बनी।"
+  ],
+  "tables": [
+    {
+      "title": "Moderates vs Extremists in Swadeshi Movement",
+      "titleHindi": "स्वदेशी आंदोलन में उदारवादी बनाम उग्रवादी",
+      "columns": ["Aspect", "Moderates’ Approach", "Extremists’ Approach"],
+      "columnsHindi": ["पहलू", "उदारवादियों का दृष्टिकोण", "उग्रवादियों का दृष्टिकोण"],
+      "rows": [
+        ["Leadership", "Surendranath Banerjea, Prithwishchandra Ray", "Tilak, Lajpat Rai, Aurobindo Ghosh, Bipin Chandra Pal"],
+        ["Methods", "Petitions, meetings, propaganda in newspapers", "Boycott, passive resistance, strikes, processions"],
+        ["Focus", "Bengal-centric agitation", "Nationwide mobilisation"],
+        ["Objective", "Pressurise British with public opinion", "Make administration impossible; demand swaraj"],
+        ["Social base", "Upper middle classes, zamindars", "Educated lower middle class, students, workers"]
+      ],
+      "rowsHindi": [
+        ["नेतृत्व", "सुरेन्द्रनाथ बनर्जी, पृथ्विशचन्द्र राय", "तिलक, लाजपत राय, अरविन्द घोष, बिपिन चन्द्र पाल"],
+        ["तरीक़े", "याचिकाएँ, सभाएँ, समाचारपत्रों से प्रचार", "बहिष्कार, निष्क्रिय प्रतिरोध, हड़तालें, जुलूस"],
+        ["केंद्र", "बंगाल तक सीमित", "राष्ट्रव्यापी जागरण"],
+        ["उद्देश्य", "जनमत बनाकर ब्रिटिश पर दबाव", "प्रशासन असंभव बनाना; स्वराज की मांग"],
+        ["सामाजिक आधार", "उच्च मध्यम वर्ग, ज़मींदार", "शिक्षित निम्न मध्यम वर्ग, छात्र, मज़दूर"]
+      ]
+    },
+    {
+      "title": "Extent of Swadeshi and Boycott Movement",
+      "titleHindi": "स्वदेशी और बहिष्कार आंदोलन का विस्तार",
+      "columns": ["Region", "Leaders", "Special Features"],
+      "columnsHindi": ["क्षेत्र", "नेता", "विशेषताएँ"],
+      "rows": [
+        ["Punjab", "Lala Lajpat Rai, Ajit Singh", "Peasant agitation, protests against canal colonies"],
+        ["Bombay", "Bal Gangadhar Tilak", "Ganapati & Shivaji festivals used for mobilisation"],
+        ["Madras Presidency", "V.O. Chidambaram Pillai, Subramania Siva", "Swadeshi Steam Navigation Company, Tamil newspapers"],
+        ["Andhra", "Hari Sarvottam Rao", "Student participation, vernacular speeches"],
+        ["Delhi", "Sayyed Haider Raza", "Meetings and mobilisation in north India"]
+      ],
+      "rowsHindi": [
+        ["पंजाब", "लाला लाजपत राय, अजीत सिंह", "कैनाल कॉलोनियों के विरोध में किसान आंदोलन"],
+        ["बंबई", "बाल गंगाधर तिलक", "गणपति और शिवाजी उत्सवों का प्रयोग"],
+        ["मद्रास प्रेसीडेंसी", "वी.ओ. चिदंबरम पिल्लै, सुब्रमण्यम शिवा", "स्वदेशी स्टीम नेविगेशन कंपनी, तमिल समाचारपत्र"],
+        ["आंध्र", "हरी सर्वोत्कम राव", "छात्रों की भागीदारी, मातृभाषा में भाषण"],
+        ["दिल्ली", "सैयद हैदर रज़ा", "उत्तर भारत में सभाएँ और जागरण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Swadeshi & Boycott → formally launched in Calcutta Town Hall (7 Aug 1905).",
+    "Tilak used Ganapati & Shivaji festivals for mobilisation.",
+    "V.O. Chidambaram Pillai founded Swadeshi Steam Navigation Company in Tuticorin.",
+    "Movement fizzled out by 1908 due to repression and Surat Split (1907)."
+  ],
+  "prelimsTipsHindi": [
+    "स्वदेशी व बहिष्कार → कलकत्ता टाउन हाल (7 अगस्त 1905) में औपचारिक शुरुआत।",
+    "तिलक ने गणपति व शिवाजी उत्सवों का उपयोग किया।",
+    "वी.ओ. चिदंबरम पिल्लै ने तूतीकोरिन में स्वदेशी स्टीम नेविगेशन कंपनी स्थापित की।",
+    "आंदोलन 1908 तक सरकारी दमन व सूरत विभाजन (1907) के कारण कमजोर पड़ा।"
+  ],
+  "funFacts": [
+    "On 16 October 1905, people tied rakhis to each other’s hands to symbolize Bengal’s unity.",
+    "Rabindranath Tagore composed 'Amar Sonar Bangla' as a protest song, later adopted as Bangladesh’s national anthem.",
+    "Priests refused to solemnise marriages where foreign goods were exchanged."
+  ],
+  "funFactsHindi": [
+    "16 अक्तूबर 1905 को लोगों ने बंगाल की एकता का प्रतीक बनाने के लिए राखी बाँधी।",
+    "रवीन्द्रनाथ टैगोर ने विरोध गीत 'अमर सोनार बांग्ला' लिखा, जो बाद में बांग्लादेश का राष्ट्रगान बना।",
+    "पुजारियों ने विदेशी वस्त्रों के आदान-प्रदान वाली शादियों में अनुष्ठान करने से मना कर दिया।"
+  ],
+  "mainsPoints": [
+    "The movement showcased India’s capacity for economic self-reliance and resistance against colonial exploitation.",
+    "It was the first large-scale movement involving students, women, and workers, laying groundwork for later mass movements.",
+    "It revealed ideological divisions within INC (Moderates vs Extremists), leading to Surat Split (1907).",
+    "Though it fizzled out by 1908, it left a deep impact on Indian nationalism by linking cultural, economic, and political struggles."
+  ],
+  "mainsPointsHindi": [
+    "आंदोलन ने औपनिवेशिक शोषण के विरुद्ध भारत की आर्थिक आत्मनिर्भरता और प्रतिरोध की क्षमता दिखाई।",
+    "यह छात्रों, महिलाओं और मजदूरों की पहली बड़ी भागीदारी वाला आंदोलन था, जिसने आगे के जनआंदोलनों की नींव रखी।",
+    "इसने कांग्रेस के भीतर वैचारिक विभाजन (उदारवादी बनाम उग्रवादी) को उजागर किया, जिससे 1907 में सूरत विभाजन हुआ।",
+    "यद्यपि यह 1908 तक कमजोर पड़ा, लेकिन इसने भारतीय राष्ट्रवाद पर गहरा प्रभाव छोड़ा और सांस्कृतिक, आर्थिक व राजनीतिक संघर्षों को जोड़ा।"
+  ]
+},
+{
+  "heading": "Moderates vs Extremists & Surat Split (1905–1907)",
+  "headingHindi": "उदारवादी बनाम उग्रवादी और सूरत विभाजन (1905–1907)",
+  "highlight": "The Swadeshi and Boycott movement exposed sharp differences between Moderates and Extremists in the Congress. Moderates sought constitutional reforms and gradualism, while Extremists demanded swaraj, boycott, and passive resistance. Their clash culminated in the Surat Split of 1907, which weakened the nationalist movement temporarily.",
+  "highlightHindi": "स्वदेशी और बहिष्कार आंदोलन ने कांग्रेस में उदारवादियों और उग्रवादियों के बीच गहरे मतभेद उजागर किए। उदारवादी संवैधानिक सुधार और क्रमिक प्रगति चाहते थे, जबकि उग्रवादी स्वराज, बहिष्कार और निष्क्रिय प्रतिरोध की मांग कर रहे थे। यह टकराव 1907 के सूरत विभाजन में परिणत हुआ, जिससे राष्ट्रवादी आंदोलन अस्थायी रूप से कमजोर पड़ा।",
+  "details": [
+    "Moderates’ Approach: Believed in petitions, constitutional reforms, loyalty to the Crown, and gradual participation of Indians in administration. Leaders: Dadabhai Naoroji, Gopal Krishna Gokhale, Surendranath Banerjea.",
+    "Extremists’ Approach: Advocated swaraj as the ultimate goal, boycott of foreign goods, passive resistance, and mass mobilisation. Leaders: Bal Gangadhar Tilak, Lala Lajpat Rai, Bipin Chandra Pal, Aurobindo Ghosh.",
+    "Moderates’ social base: zamindars, upper middle classes, professionals; Extremists’ social base: lower middle class, students, workers, small traders.",
+    "Moderates saw British rule as ultimately beneficial if reformed; Extremists rejected this, viewing British rule as exploitative.",
+    "Moderates relied on English liberal thought; Extremists drew inspiration from Indian culture, history, and traditional symbols.",
+    "The Surat Split (1907) was the climax of these ideological and tactical differences, leading to a division in the Congress."
+  ],
+  "detailsHindi": [
+    "उदारवादियों का दृष्टिकोण: याचिकाएँ, संवैधानिक सुधार, क्राउन के प्रति निष्ठा, और प्रशासन में भारतीयों की क्रमिक भागीदारी। नेता: दादाभाई नौरोजी, गोपाल कृष्ण गोखले, सुरेन्द्रनाथ बनर्जी।",
+    "उग्रवादियों का दृष्टिकोण: स्वराज को अंतिम लक्ष्य मानना, विदेशी वस्तुओं का बहिष्कार, निष्क्रिय प्रतिरोध और जनसंगठन। नेता: बाल गंगाधर तिलक, लाला लाजपत राय, बिपिन चन्द्र पाल, अरविन्द घोष।",
+    "उदारवादियों का सामाजिक आधार: जमींदार, उच्च मध्यम वर्ग, पेशेवर; उग्रवादियों का सामाजिक आधार: निम्न मध्यम वर्ग, छात्र, मजदूर, छोटे व्यापारी।",
+    "उदारवादी ब्रिटिश शासन को सुधार के साथ लाभकारी मानते थे; उग्रवादी इसे शोषणकारी मानते थे।",
+    "उदारवादी अंग्रेजी उदारवादी विचारों से प्रेरित; उग्रवादी भारतीय संस्कृति, इतिहास और परंपरागत प्रतीकों से प्रेरित।",
+    "सूरत विभाजन (1907) इन वैचारिक और रणनीतिक मतभेदों का चरम था, जिसने कांग्रेस को विभाजित कर दिया।"
+  ],
+  "tables": [
+    {
+      "title": "Difference between Moderates and Extremists",
+      "titleHindi": "उदारवादी और उग्रवादी के बीच अंतर",
+      "columns": ["Aspect", "Moderates", "Extremists"],
+      "columnsHindi": ["पहलू", "उदारवादी", "उग्रवादी"],
+      "rows": [
+        ["Social Base", "Zamindars, upper middle class, professionals", "Lower middle class, students, workers, traders"],
+        ["Ideological Inspiration", "Western liberalism, European history", "Indian culture, history, traditional symbols"],
+        ["View on British Rule", "Providential mission; reforms possible", "Exploitative; must be resisted"],
+        ["Methods", "Petitions, memoranda, meetings", "Boycott, passive resistance, strikes"],
+        ["Goal", "Constitutional reforms, more Indians in governance", "Swaraj (self-rule) as ultimate aim"],
+        ["Attitude towards Masses", "Masses not ready for political work", "Faith in masses’ ability to sacrifice"],
+        ["Approach to British Crown", "Professed loyalty to the Crown", "Rejected loyalty; demanded independence"]
+      ],
+      "rowsHindi": [
+        ["सामाजिक आधार", "जमींदार, उच्च मध्यम वर्ग, पेशेवर", "निम्न मध्यम वर्ग, छात्र, मजदूर, व्यापारी"],
+        ["वैचारिक प्रेरणा", "पाश्चात्य उदारवाद, यूरोपीय इतिहास", "भारतीय संस्कृति, इतिहास, पारंपरिक प्रतीक"],
+        ["ब्रिटिश शासन पर दृष्टिकोण", "ईश्वरीय मिशन; सुधार संभव", "शोषणकारी; विरोध आवश्यक"],
+        ["तरीके", "याचिकाएँ, ज्ञापन, सभाएँ", "बहिष्कार, निष्क्रिय प्रतिरोध, हड़तालें"],
+        ["लक्ष्य", "संवैधानिक सुधार, शासन में भारतीयों की भागीदारी", "स्वराज (पूर्ण आत्म-शासन)"],
+        ["जनता के प्रति दृष्टिकोण", "जनता अभी राजनीति के लिए तैयार नहीं", "जनता की क्षमता और बलिदान पर विश्वास"],
+        ["क्राउन के प्रति रुख", "क्राउन के प्रति निष्ठा जताई", "निष्ठा अस्वीकार; स्वतंत्रता की मांग"]
+      ]
+    },
+    {
+      "title": "Timeline of Surat Split",
+      "titleHindi": "सूरत विभाजन की समयरेखा",
+      "columns": ["Year & Session", "Event", "Outcome"],
+      "columnsHindi": ["वर्ष और अधिवेशन", "घटना", "परिणाम"],
+      "rows": [
+        ["Banaras Session, 1905", "Moderates (Gokhale presiding) vs Extremists on boycott extension", "Mild resolution passed; Extremists dissatisfied"],
+        ["Calcutta Session, 1906", "Dadabhai Naoroji presided; compromise resolutions on swadeshi, boycott, self-government", "Word 'Swaraj' used for first time in INC"],
+        ["Surat Session, 1907", "Extremists wanted Tilak/Lajpat Rai as president; Moderates wanted Rashbehari Ghosh", "Clash between factions → violent split in Congress"]
+      ],
+      "rowsHindi": [
+        ["बनारस अधिवेशन, 1905", "उदारवादी (गोखले अध्यक्ष) बनाम उग्रवादी बहिष्कार विस्तार पर", "हल्का प्रस्ताव पारित; उग्रवादी असंतुष्ट"],
+        ["कलकत्ता अधिवेशन, 1906", "दादाभाई नौरोजी अध्यक्ष; स्वदेशी, बहिष्कार, स्वशासन पर समझौता", "'स्वराज' शब्द पहली बार कांग्रेस में आया"],
+        ["सूरत अधिवेशन, 1907", "उग्रवादी तिलक/लाजपत राय को अध्यक्ष चाहते थे; उदारवादी रशबेहरी घोष", "गुटों में टकराव → कांग्रेस में हिंसक फूट"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Word 'Swaraj' first mentioned officially in INC at Calcutta Session (1906).",
+    "Surat Split happened in 1907 due to clash over president choice and boycott resolutions.",
+    "Moderates led by Gokhale, Naoroji; Extremists led by Tilak, Lajpat Rai, Bipin Chandra Pal."
+  ],
+  "prelimsTipsHindi": [
+    "'स्वराज' शब्द पहली बार कांग्रेस में 1906 के कलकत्ता अधिवेशन में आया।",
+    "सूरत विभाजन 1907 में अध्यक्ष पद और बहिष्कार प्रस्ताव पर टकराव से हुआ।",
+    "उदारवादी नेता: गोखले, नौरोजी; उग्रवादी नेता: तिलक, लाजपत राय, बिपिन चन्द्र पाल।"
+  ],
+  "funFacts": [
+    "At Surat (1907), both factions physically clashed; chairs and shoes were thrown in the session hall.",
+    "Dadabhai Naoroji (1906 Calcutta) was chosen as a compromise candidate between Moderates and Extremists.",
+    "The Surat Split weakened Congress temporarily, allowing British to suppress Extremists."
+  ],
+  "funFactsHindi": [
+    "सूरत (1907) में दोनों गुटों में हिंसक झड़प हुई; हॉल में कुर्सियाँ और जूते फेंके गए।",
+    "दादाभाई नौरोजी (1906 कलकत्ता) को उदारवादी और उग्रवादी के बीच समझौते के उम्मीदवार के रूप में चुना गया।",
+    "सूरत विभाजन से कांग्रेस अस्थायी रूप से कमजोर हुई और अंग्रेजों को उग्रवादियों को दबाने का अवसर मिला।"
+  ],
+  "mainsPoints": [
+    "The Surat Split was the outcome of growing ideological and tactical differences between Moderates and Extremists.",
+    "It demonstrated that nationalism had broadened beyond petitions into mass struggle but lacked unity of leadership.",
+    "While the split weakened the nationalist front temporarily, it also sharpened the ideological clarity of the Extremist camp.",
+    "The lessons from this division influenced later unity attempts under Gandhi’s leadership, where balancing moderates and radicals became crucial."
+  ],
+  "mainsPointsHindi": [
+    "सूरत विभाजन उदारवादियों और उग्रवादियों के बीच बढ़ते वैचारिक और रणनीतिक मतभेदों का परिणाम था।",
+    "इसने दिखाया कि राष्ट्रवाद याचिकाओं से आगे जनसंघर्ष तक बढ़ चुका था, लेकिन नेतृत्व की एकता की कमी थी।",
+    "फूट से राष्ट्रवादी मोर्चा अस्थायी रूप से कमजोर हुआ, पर उग्रवादियों की वैचारिक स्पष्टता बढ़ी।",
+    "इस विभाजन से मिली सीख बाद में गाँधीजी के नेतृत्व में एकता प्रयासों में महत्वपूर्ण रही, जहाँ उदारवादी और कट्टरपंथी संतुलन बनाए रखना आवश्यक था।"
+  ]
+},
+{
+  "heading": "After Surat Split & Morley-Minto Reforms (1907–1909)",
+  "headingHindi": "सूरत विभाजन के बाद और मॉर्ले-मिंटो सुधार (1907–1909)",
+  "highlight": "After the Surat Split of 1907, the nationalist movement weakened due to factionalism and repression. The British exploited this by suppressing Extremists and conciliating Moderates. To placate demands, the Morley-Minto Reforms (Indian Councils Act 1909) expanded legislative councils but introduced communal electorates, institutionalising communal politics.",
+  "highlightHindi": "1907 के सूरत विभाजन के बाद राष्ट्रवादी आंदोलन गुटबाज़ी और दमन से कमजोर हुआ। अंग्रेजों ने इस स्थिति का लाभ उठाकर उग्रवादियों को दबाया और उदारवादियों को रियायतें दीं। उदारवादियों को शांत करने के लिए मॉर्ले-मिंटो सुधार (भारतीय परिषद अधिनियम 1909) लागू किए गए, जिन्होंने परिषदों का विस्तार तो किया पर साम्प्रदायिक निर्वाचन प्रणाली भी शुरू की।",
+  "details": [
+    "Impact of Surat Split (1907): Congress weakened as Moderates and Extremists split; British used 'carrot and stick' policy.",
+    "Attack on Extremists: New laws passed — Seditious Meetings Act (1907), Indian Newspapers Act (1908), Criminal Law Amendment Act (1908), Indian Press Act (1910).",
+    "Tilak: Arrested for sedition in 1908 for his Kesari writings; sentenced to 6 years in Mandalay Jail (Burma).",
+    "Extremist leaders: Aurobindo Ghosh retired from politics; Bipin Chandra Pal withdrew; Lajpat Rai went abroad. Extremists failed to form alternative party.",
+    "British strategy: Three stages — repression of Extremists, conciliation of Moderates (promises of reforms), then full suppression.",
+    "Morley-Minto Reforms (Indian Councils Act, 1909): Enacted under Viceroy Lord Minto and Secretary of State John Morley.",
+    "Key features: Increased number of legislative council members; indirect elections introduced; non-official majority allowed in provincial councils (not central); separate electorates granted to Muslims; Indians nominated to executive councils (S.P. Sinha first Indian law member).",
+    "Impact: Introduced communal representation in politics (Muslims could vote separately for Muslim candidates); divided nationalist ranks; disappointed Moderates since councils had limited powers.",
+    "Nickname: Lord Minto became known as the 'Father of Communal Electorate'.",
+    "Evaluation: While reforms introduced Indians into governance structures, they were designed more to divide rather than empower; did not grant responsible government."
+  ],
+  "detailsHindi": [
+    "सूरत विभाजन (1907) का प्रभाव: कांग्रेस उदारवादी और उग्रवादी में बँट गई; अंग्रेजों ने 'लालच और डंडा' नीति अपनाई।",
+    "उग्रवादियों पर हमला: नए क़ानून बनाए गए — राजद्रोही सभाएँ अधिनियम (1907), भारतीय समाचारपत्र अधिनियम (1908), आपराधिक क़ानून संशोधन अधिनियम (1908), भारतीय प्रेस अधिनियम (1910)।",
+    "तिलक: 1908 में केसरी लेखन के कारण राजद्रोह में गिरफ्तार; 6 वर्ष की सज़ा, मंडले जेल (बर्मा) भेजे गए।",
+    "उग्रवादी नेता: अरविन्द घोष राजनीति से अलग हुए; बिपिन चन्द्र पाल ने सक्रिय राजनीति छोड़ी; लाला लाजपत राय विदेश चले गए। उग्रवादी कोई वैकल्पिक पार्टी नहीं बना पाए।",
+    "ब्रिटिश रणनीति: तीन चरण — उग्रवादियों का दमन, उदारवादियों को रियायतें (सुधार का वादा), फिर पूर्ण दमन।",
+    "मॉर्ले-मिंटो सुधार (भारतीय परिषद अधिनियम, 1909): वायसराय लॉर्ड मिंटो और भारत सचिव जॉन मॉर्ले द्वारा लागू।",
+    "मुख्य विशेषताएँ: विधायी परिषदों के सदस्यों की संख्या बढ़ी; अप्रत्यक्ष चुनाव लागू; प्रांतीय परिषदों में गैर-आधिकारिक बहुमत (केंद्र में नहीं); मुसलमानों को पृथक निर्वाचन मिला; भारतीयों को कार्यकारी परिषद में शामिल किया गया (सत्येन्द्र प्रसाद सिन्हा पहले भारतीय क़ानून सदस्य बने)।",
+    "प्रभाव: राजनीति में साम्प्रदायिक प्रतिनिधित्व शुरू हुआ (मुसलमान केवल मुसलमान उम्मीदवारों को वोट कर सकते थे); राष्ट्रवादी गुटों में और विभाजन हुआ; उदारवादी निराश हुए क्योंकि परिषदों की शक्तियाँ सीमित थीं।",
+    "उपनाम: लॉर्ड मिंटो 'साम्प्रदायिक निर्वाचन के जनक' कहलाए।",
+    "मूल्यांकन: सुधारों ने भारतीयों को शासन संरचना में शामिल किया लेकिन वास्तविक उद्देश्य उन्हें सशक्त करना नहीं बल्कि विभाजित करना था; उत्तरदायी शासन की कोई व्यवस्था नहीं हुई।"
+  ],
+  "tables": [
+    {
+      "title": "Key Repressive Laws (Post-Surat Split)",
+      "titleHindi": "प्रमुख दमनकारी कानून (सूरत विभाजन के बाद)",
+      "columns": ["Year", "Law", "Purpose"],
+      "columnsHindi": ["वर्ष", "कानून", "उद्देश्य"],
+      "rows": [
+        ["1907", "Seditious Meetings Act", "Restricted political gatherings"],
+        ["1908", "Indian Newspapers Act", "Censored nationalist press"],
+        ["1908", "Criminal Law Amendment Act", "Curbed revolutionary activity"],
+        ["1910", "Indian Press Act", "Further tightened press control"]
+      ],
+      "rowsHindi": [
+        ["1907", "राजद्रोही सभाएँ अधिनियम", "राजनीतिक सभाओं पर रोक"],
+        ["1908", "भारतीय समाचारपत्र अधिनियम", "राष्ट्रवादी प्रेस पर सेंसर"],
+        ["1908", "आपराधिक क़ानून संशोधन अधिनियम", "क्रांतिकारी गतिविधियों पर नियंत्रण"],
+        ["1910", "भारतीय प्रेस अधिनियम", "प्रेस पर और कठोर नियंत्रण"]
+      ]
+    },
+    {
+      "title": "Key Features of Morley-Minto Reforms (1909)",
+      "titleHindi": "मॉर्ले-मिंटो सुधार की मुख्य विशेषताएँ (1909)",
+      "columns": ["Feature", "Details"],
+      "columnsHindi": ["विशेषता", "विवरण"],
+      "rows": [
+        ["Expansion of Councils", "More members in central & provincial councils"],
+        ["Indirect Elections", "Introduced for the first time"],
+        ["Provincial Councils", "Non-official majority allowed"],
+        ["Central Legislative Council", "Still retained official majority"],
+        ["Communal Representation", "Separate electorates for Muslims introduced"],
+        ["Indian in Executive Council", "S.P. Sinha appointed as first Indian law member"]
+      ],
+      "rowsHindi": [
+        ["परिषदों का विस्तार", "केंद्रीय व प्रांतीय परिषदों में अधिक सदस्य"],
+        ["अप्रत्यक्ष चुनाव", "पहली बार लागू किए गए"],
+        ["प्रांतीय परिषदें", "गैर-आधिकारिक बहुमत दिया गया"],
+        ["केंद्रीय विधायी परिषद", "अभी भी आधिकारिक बहुमत बना रहा"],
+        ["साम्प्रदायिक प्रतिनिधित्व", "मुसलमानों के लिए पृथक निर्वाचन शुरू हुआ"],
+        ["भारतीय कार्यकारी परिषद में", "एस.पी. सिन्हा पहले भारतीय क़ानून सदस्य बने"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Surat Split → 1907, weakened Congress; allowed British to suppress Extremists.",
+    "Tilak imprisoned in Mandalay (1908–1914).",
+    "Indian Councils Act of 1909 = Morley-Minto Reforms.",
+    "Separate Electorates for Muslims introduced in 1909 → Father of Communal Electorate = Lord Minto."
+  ],
+  "prelimsTipsHindi": [
+    "सूरत विभाजन → 1907, कांग्रेस कमजोर हुई; अंग्रेजों ने उग्रवादियों को दबाया।",
+    "तिलक 1908–1914 तक मंडले जेल में रहे।",
+    "भारतीय परिषद अधिनियम 1909 = मॉर्ले-मिंटो सुधार।",
+    "1909 में मुसलमानों के लिए पृथक निर्वाचन शुरू हुआ → 'साम्प्रदायिक निर्वाचन के जनक' = लॉर्ड मिंटो।"
+  ],
+  "funFacts": [
+    "Satyendra Prasad Sinha became the first Indian to join the Viceroy’s Executive Council in 1909 as Law Member.",
+    "The 1909 reforms disappointed Moderates, as real powers still remained with officials.",
+    "The reforms laid the seeds of communal politics, shaping later divisions in Indian society."
+  ],
+  "funFactsHindi": [
+    "सत्येन्द्र प्रसाद सिन्हा 1909 में वायसराय की कार्यकारी परिषद में शामिल होने वाले पहले भारतीय बने।",
+    "1909 के सुधारों से उदारवादी निराश हुए क्योंकि असली शक्ति अधिकारियों के पास ही रही।",
+    "इन सुधारों ने साम्प्रदायिक राजनीति के बीज बोए, जिसने आगे भारतीय समाज में विभाजन को जन्म दिया।"
+  ],
+  "mainsPoints": [
+    "After Surat Split, British successfully used repression and conciliation to weaken the nationalist movement.",
+    "The failure of Extremists to sustain momentum left Moderates dominant for a short while.",
+    "The Morley-Minto Reforms expanded councils but denied real power; their major legacy was communal representation through separate electorates.",
+    "The reforms deepened communal divisions, which became a long-term challenge for Indian nationalism."
+  ],
+  "mainsPointsHindi": [
+    "सूरत विभाजन के बाद अंग्रेजों ने दमन और रियायत दोनों का प्रयोग कर राष्ट्रवादी आंदोलन को कमजोर किया।",
+    "उग्रवादियों की गति बनाए रखने में असफलता से थोड़े समय के लिए उदारवादियों का प्रभुत्व रहा।",
+    "मॉर्ले-मिंटो सुधारों ने परिषदों का विस्तार किया लेकिन वास्तविक शक्ति नहीं दी; इनकी सबसे बड़ी विरासत पृथक निर्वाचन के रूप में साम्प्रदायिक प्रतिनिधित्व थी।",
+    "इन सुधारों ने साम्प्रदायिक विभाजन को गहरा किया, जो भारतीय राष्ट्रवाद के लिए दीर्घकालिक चुनौती बन गया।"
+  ]
+},
+    ],
+    "Chapter 12: First Phase of Revolutionary Activities(1907-1917)": [
+      {
+  "heading": "First Phase of Revolutionary Activities (1907–1917)",
+  "headingHindi": "क्रांतिकारी गतिविधियों का पहला चरण (1907–1917)",
+  "highlight": "The first phase of revolutionary nationalism (1907–1917) emerged as Extremists lost ground after the Surat Split and Swadeshi fizzled out. Revolutionary groups, inspired by international events and frustrated youth energy, turned to secret societies, assassinations, and bomb attacks as a new form of resistance against British rule.",
+  "highlightHindi": "क्रांतिकारी राष्ट्रवाद का पहला चरण (1907–1917) सूरत विभाजन और स्वदेशी आंदोलन के कमजोर पड़ने के बाद सामने आया। अंतर्राष्ट्रीय घटनाओं से प्रेरित और युवाओं की निराशा से भरे गुप्त संगठन हत्या और बम विस्फोट जैसे तरीकों से अंग्रेजी शासन का विरोध करने लगे।",
+  "details": [
+    "Background: After 1905–08 Swadeshi movement weakened due to repression, leader arrests, and Surat Split (1907).",
+    "Youth frustration: Educated middle and lower-middle-class youth, denied jobs and political voice, turned to revolutionary terrorism.",
+    "International inspiration: Russian Revolution of 1905, nationalist struggles in Ireland, and Japanese victory over Russia (1905) showed that mighty empires could be defeated.",
+    "Ideological influences: Extremist leaders like Aurobindo Ghosh, Bipin Chandra Pal, and writings of Bankim Chandra Chattopadhyay (Anandamath, 'Bande Mataram') inspired secret societies.",
+    "Secret organisations: Anushilan Samiti in Bengal, Jugantar group, Mitra Mela/Abhinav Bharat in Maharashtra founded by V.D. Savarkar.",
+    "Support from diasporas: Indian revolutionaries in Europe (Shyamji Krishna Varma, Madam Bhikaji Cama, Veer Savarkar in London) and America (Ghadar Party) provided ideological and material aid.",
+    "Activities: Political assassinations of British officials, dacoities (robberies to raise funds), bomb-making training, and circulation of revolutionary literature.",
+    "Government repression: Laws like Criminal Law Amendment Act (1908) and Indian Press Act (1910) tightened surveillance and censorship.",
+    "Despite repression, revolutionaries kept alive the spirit of defiance, inspiring a new generation."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: 1905–08 का स्वदेशी आंदोलन दमन, नेताओं की गिरफ्तारी और 1907 के सूरत विभाजन के बाद कमजोर पड़ा।",
+    "युवा निराशा: शिक्षित मध्यम और निम्न-मध्यम वर्ग के युवाओं को रोजगार और राजनीतिक अवसर नहीं मिले, वे क्रांतिकारी आतंकवाद की ओर मुड़े।",
+    "अंतर्राष्ट्रीय प्रेरणा: 1905 की रूसी क्रांति, आयरलैंड का स्वतंत्रता संघर्ष और जापान द्वारा रूस की हार (1905) ने दिखाया कि शक्तिशाली साम्राज्य भी हार सकते हैं।",
+    "वैचारिक प्रभाव: अरविन्द घोष, बिपिन चन्द्र पाल जैसे उग्रवादी नेता और बंकिमचन्द्र चट्टोपाध्याय की 'आनंदमठ' व 'बंदे मातरम' ने गुप्त संगठनों को प्रेरित किया।",
+    "गुप्त संगठन: बंगाल में अनुशीलन समिति, युगांतर; महाराष्ट्र में मित्र मेला/अभिनव भारत (वी.डी. सावरकर द्वारा स्थापित)।",
+    "विदेशी सहयोग: यूरोप में श्यामजी कृष्ण वर्मा, भीकाजी कामा, लंदन में सावरकर और अमेरिका में ग़दर पार्टी ने वैचारिक व आर्थिक सहयोग दिया।",
+    "गतिविधियाँ: ब्रिटिश अधिकारियों की हत्याएँ, धन जुटाने के लिए डकैती, बम बनाने का प्रशिक्षण, और क्रांतिकारी साहित्य का प्रसार।",
+    "सरकारी दमन: आपराधिक कानून संशोधन अधिनियम (1908) और भारतीय प्रेस अधिनियम (1910) ने निगरानी और सेंसरशिप कड़ी कर दी।",
+    "दमन के बावजूद क्रांतिकारियों ने विद्रोह की भावना को जीवित रखा और नई पीढ़ी को प्रेरित किया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Factors Behind Rise of Revolutionary Nationalism (1907–1917)",
+      "titleHindi": "क्रांतिकारी राष्ट्रवाद के उदय के प्रमुख कारण (1907–1917)",
+      "columns": ["Factor", "Explanation"],
+      "columnsHindi": ["कारण", "व्याख्या"],
+      "rows": [
+        ["Failure of Moderates", "Petitions and reforms produced little result; youth lost faith"],
+        ["Decline of Swadeshi", "Government repression and lack of leadership after Surat Split weakened open movements"],
+        ["Economic Hardship", "Unemployment and poverty among educated youth created anger"],
+        ["International Influence", "Russian Revolution (1905), Japan’s victory over Russia, Irish freedom struggle"],
+        ["Ideological Inspiration", "Aurobindo, Tilak, Bankim Chandra’s writings, Bande Mataram"],
+        ["Support Abroad", "Indian revolutionaries in London, Paris, USA provided funds and propaganda"]
+      ],
+      "rowsHindi": [
+        ["उदारवादियों की विफलता", "याचिकाओं और सुधारों से कोई परिणाम न निकला; युवाओं का विश्वास टूटा"],
+        ["स्वदेशी का पतन", "दमन और सूरत विभाजन के बाद आंदोलन कमजोर हुआ"],
+        ["आर्थिक कठिनाई", "शिक्षित युवाओं में बेरोज़गारी और गरीबी से आक्रोश"],
+        ["अंतर्राष्ट्रीय प्रभाव", "1905 की रूसी क्रांति, जापान की रूस पर विजय, आयरलैंड का संघर्ष"],
+        ["वैचारिक प्रेरणा", "अरविन्दो, तिलक, बंकिमचन्द्र की रचनाएँ, 'बंदे मातरम'"],
+        ["विदेशी सहयोग", "लंदन, पेरिस, अमेरिका में भारतीय क्रांतिकारियों ने धन और प्रचार में मदद की"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Anushilan Samiti founded in Bengal → major revolutionary group.",
+    "Abhinav Bharat founded by V.D. Savarkar in Maharashtra.",
+    "Russian Revolution (1905) was a key international inspiration.",
+    "1908 Criminal Law Amendment Act & 1910 Press Act used to suppress revolutionaries."
+  ],
+  "prelimsTipsHindi": [
+    "अनुशीलन समिति बंगाल में स्थापित → प्रमुख क्रांतिकारी संगठन।",
+    "अभिनव भारत महाराष्ट्र में वी.डी. सावरकर द्वारा स्थापित।",
+    "1905 की रूसी क्रांति मुख्य अंतर्राष्ट्रीय प्रेरणा थी।",
+    "1908 आपराधिक कानून संशोधन अधिनियम और 1910 प्रेस अधिनियम से क्रांतिकारियों को दबाया गया।"
+  ],
+  "funFacts": [
+    "Madam Bhikaji Cama unfurled the first version of the Indian national flag at Stuttgart (Germany) in 1907.",
+    "Shyamji Krishna Varma started 'India House' in London as a hub for young revolutionaries like Savarkar.",
+    "Revolutionaries often learnt bomb-making by studying French and Russian revolutionary manuals."
+  ],
+  "funFactsHindi": [
+    "मैडम भीकाजी कामा ने 1907 में जर्मनी के स्टटगार्ट में भारतीय राष्ट्रीय ध्वज का पहला रूप फहराया।",
+    "श्यामजी कृष्ण वर्मा ने लंदन में 'इंडिया हाउस' की स्थापना की जहाँ सावरकर जैसे क्रांतिकारी जुटे।",
+    "क्रांतिकारी अक्सर बम बनाने की तकनीक फ्रांसीसी और रूसी क्रांतिकारी पुस्तकों से सीखते थे।"
+  ],
+  "mainsPoints": [
+    "The first phase of revolutionary activities arose from frustration with Moderates and decline of Swadeshi.",
+    "Secret societies in Bengal and Maharashtra carried out assassinations, bombings, and dacoities to challenge colonial power.",
+    "International influences and diaspora support gave revolutionaries new ideological and material strength.",
+    "Though suppressed, this phase inspired later revolutionary movements (e.g., Hindustan Socialist Republican Association in 1920s)."
+  ],
+  "mainsPointsHindi": [
+    "क्रांतिकारी गतिविधियों का पहला चरण उदारवादियों की विफलता और स्वदेशी के पतन से उत्पन्न हुआ।",
+    "बंगाल और महाराष्ट्र के गुप्त संगठनों ने अंग्रेज़ी सत्ता को चुनौती देने के लिए हत्या, बम धमाके और डकैती की।",
+    "अंतर्राष्ट्रीय प्रभाव और प्रवासी भारतीयों के सहयोग से क्रांतिकारियों को नई वैचारिक व आर्थिक शक्ति मिली।",
+    "यद्यपि इन्हें दबा दिया गया, इस चरण ने आगे के क्रांतिकारी संगठनों (जैसे 1920 के दशक का एचएसआरए) को प्रेरित किया।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities in Bengal (1905–1917)",
+  "headingHindi": "बंगाल में क्रांतिकारी गतिविधियाँ (1905–1917)",
+  "highlight": "Bengal was the cradle of revolutionary nationalism during the first phase of armed resistance (1905–1917). Organisations like Anushilan Samiti and Jugantar organised assassinations, dacoities, bomb attacks, and underground networks. Despite repression, Bengal’s revolutionaries inspired nationalist youth across India and abroad.",
+  "highlightHindi": "1905–1917 के दौरान बंगाल क्रांतिकारी राष्ट्रवाद का गढ़ बना। अनुशीलन समिति और युगांतर जैसे संगठनों ने हत्याएँ, डकैतियाँ, बम हमले और भूमिगत नेटवर्क तैयार किए। कठोर दमन के बावजूद बंगाल के क्रांतिकारियों ने भारत और विदेशों में राष्ट्रवादी युवाओं को प्रेरित किया।",
+  "details": [
+    "Rise of Secret Societies: The Anushilan Samiti, founded in Calcutta by Pramathanath Mitra, and Jugantar, led by Barindra Ghosh, became the two most important revolutionary organisations.",
+    "Membership and Training: Members were mostly educated youth from middle and lower-middle classes. They trained in physical fitness, wrestling, swordplay, and bomb-making.",
+    "Ideological Inspiration: Aurobindo Ghosh’s writings (Bande Mataram journal), Bankim Chandra’s Anandamath, and Yogic philosophy inspired armed struggle.",
+    "Early Actions: Dacca Anushilan Samiti carried out assassinations of police informers and British officials, gaining wide notoriety.",
+    "Muzaffarpur Bomb Case (1908): Khudiram Bose and Prafulla Chaki attempted to kill Judge Kingsford. Although the target survived, two women died. Khudiram was executed at 18, becoming a martyr.",
+    "Alipore Conspiracy Case (1908–09): A police raid on Jugantar’s Manicktolla bomb factory led to the arrest of Barindra Ghosh and 37 others. Aurobindo Ghosh was also tried but acquitted. The case exposed the revolutionary underground in Bengal.",
+    "Dacoities: Revolutionaries conducted armed robberies (called ‘Swadeshi dacoities’) to fund their activities, targeting rich loyalists and government treasuries.",
+    "Howrah–Sibpur Conspiracy Case (1910–11): Exposed the link between revolutionaries and workers in Calcutta’s industrial areas, reflecting attempts to connect with the working class.",
+    "Role of Press: Papers like Jugantar, Sandhya, and Bande Mataram spread revolutionary ideas, often facing bans and confiscations.",
+    "Bagha Jatin (Jatindranath Mukherjee): Emerged as a charismatic leader after 1910. Organised secret societies, dacoities, and built connections with German agents during WWI (Indo-German Conspiracy, 1915). Martyred at Balasore after fierce battle with police.",
+    "Indo-German Conspiracy (1915): Revolutionaries attempted to land arms on the Orissa coast with German help during WWI. The plan failed, but it showed global networks of Indian revolutionaries.",
+    "Women in Revolution: Women like Bina Das and Pritilata Waddedar (slightly later) were inspired by Bengal’s revolutionary tradition, showing its long-term impact.",
+    "British Repression: Harsh measures included Press Act (1910), arrests, deportations, and surveillance by the newly formed Intelligence Bureau.",
+    "Legacy: Despite failures, Bengal revolutionaries kept militant nationalism alive, inspiring Punjab (Ghadar Movement) and later HSRA in 1920s."
+  ],
+  "detailsHindi": [
+    "गुप्त संगठनों का उदय: कलकत्ता में प्रमथनाथ मित्र द्वारा अनुशीलन समिति और बारिन्द्र घोष के नेतृत्व में युगांतर दो सबसे महत्वपूर्ण क्रांतिकारी संगठन बने।",
+    "सदस्यता और प्रशिक्षण: सदस्य अधिकतर शिक्षित मध्यम व निम्न-मध्यम वर्ग के युवा थे। वे शारीरिक प्रशिक्षण, कुश्ती, तलवारबाज़ी और बम बनाने का अभ्यास करते थे।",
+    "वैचारिक प्रेरणा: अरविन्द घोष के लेखन (बंदे मातरम पत्र), बंकिमचन्द्र का आनंदमठ और योग दर्शन ने सशस्त्र संघर्ष को प्रेरित किया।",
+    "प्रारंभिक कार्रवाई: ढाका अनुशीलन समिति ने पुलिस मुखबिरों और ब्रिटिश अधिकारियों की हत्याएँ कीं।",
+    "मुज़फ़्फ़रपुर बमकांड (1908): खुदीराम बोस और प्रफुल्ल चाकी ने जज किंग्सफोर्ड की हत्या का प्रयास किया। गलती से दो महिलाओं की मृत्यु हुई। खुदीराम 18 वर्ष की आयु में फाँसी पर चढ़े और शहीद बने।",
+    "अलीपुर षड्यंत्र केस (1908–09): युगांतर के मणिकटोला बम कारखाने पर छापे के बाद बारिन्द्र घोष व अन्य गिरफ्तार हुए। अरविन्द घोष पर मुकदमा चला पर बरी हुए। इस केस ने क्रांतिकारी नेटवर्क को उजागर किया।",
+    "डकैतियाँ: क्रांतिकारियों ने धन जुटाने के लिए सशस्त्र डकैतियाँ (‘स्वदेशी डकैती’) कीं, जिनका निशाना अंग्रेज़ समर्थक अमीर और सरकारी खजाने होते थे।",
+    "हावड़ा-शिबपुर षड्यंत्र केस (1910–11): क्रांतिकारियों और कलकत्ता के औद्योगिक मज़दूरों के संबंध उजागर हुए।",
+    "प्रेस की भूमिका: युगांतर, संध्या और बंदे मातरम जैसे पत्र क्रांतिकारी विचार फैलाते रहे, यद्यपि उन्हें बार-बार बंद किया गया।",
+    "बाघा जतिन (जतिंद्रनाथ मुखर्जी): 1910 के बाद करिश्माई नेता बने। डकैती कीं, गुप्त समाज बनाए और प्रथम विश्व युद्ध के दौरान जर्मनी से संपर्क (इंडो-जर्मन षड्यंत्र) बनाए। बलासोर में संघर्ष के बाद शहीद हुए।",
+    "इंडो-जर्मन षड्यंत्र (1915): क्रांतिकारियों ने जर्मनी की मदद से ओडिशा तट पर हथियार उतारने का प्रयास किया। असफल रहा, पर वैश्विक नेटवर्क का प्रमाण था।",
+    "महिलाओं की भूमिका: बीना दास और प्रीतिलता वाडेदार (थोड़ा बाद में) बंगाल की क्रांतिकारी परंपरा से प्रेरित हुईं।",
+    "ब्रिटिश दमन: 1910 का प्रेस अधिनियम, गिरफ्तारी, निर्वासन और खुफिया विभाग (IB) की निगरानी से आंदोलन को कुचलने की कोशिश हुई।",
+    "विरासत: विफलताओं के बावजूद बंगाल के क्रांतिकारियों ने उग्र राष्ट्रवाद को जीवित रखा और पंजाब (ग़दर आंदोलन) व बाद में 1920 के दशक के एचएसआरए को प्रेरित किया।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Cases in Bengal",
+      "titleHindi": "बंगाल में प्रमुख क्रांतिकारी मुकदमे",
+      "columns": ["Year", "Case/Incident", "Key Figures", "Outcome"],
+      "columnsHindi": ["वर्ष", "मामला/घटना", "प्रमुख व्यक्ति", "परिणाम"],
+      "rows": [
+        ["1905", "Formation of Anushilan Samiti", "Jatindranath Banerjee, Pramathanath Mitra", "Spread rapidly in Bengal"],
+        ["1906", "Jugantar group formed", "Barindra Ghosh, Ullaskar Datta", "Engaged in bomb-making"],
+        ["1908", "Muzaffarpur Bombing", "Khudiram Bose, Prafulla Chaki", "Khudiram executed, Prafulla committed suicide"],
+        ["1908–09", "Alipore Conspiracy Case", "Aurobindo Ghosh, Barindra Ghosh", "Aurobindo acquitted, Barindra sentenced"],
+        ["1910–11", "Howrah–Sibpur Conspiracy", "Workers and revolutionaries", "Crackdown on industrial revolutionary links"],
+        ["1915", "Indo-German Conspiracy", "Bagha Jatin, German agents", "Jatin martyred in Balasore gunfight"]
+      ],
+      "rowsHindi": [
+        ["1905", "अनुशीलन समिति की स्थापना", "जतिंद्रनाथ बनर्जी, प्रमथनाथ मित्र", "तेज़ी से बंगाल में फैली"],
+        ["1906", "युगांतर समूह की स्थापना", "बारिन्द्र घोष, उल्लासकर दत्ता", "बम निर्माण में सक्रिय"],
+        ["1908", "मुज़फ़्फ़रपुर बमकांड", "खुदीराम बोस, प्रफुल्ल चाकी", "खुदीराम फाँसी, प्रफुल्ल ने आत्महत्या की"],
+        ["1908–09", "अलीपुर षड्यंत्र केस", "अरविन्द घोष, बारिन्द्र घोष", "अरविन्द बरी, बारिन्द्र दोषी ठहराए गए"],
+        ["1910–11", "हावड़ा-शिबपुर षड्यंत्र", "मज़दूर और क्रांतिकारी", "औद्योगिक क्रांतिकारी नेटवर्क पर दमन"],
+        ["1915", "इंडो-जर्मन षड्यंत्र", "बाघा जतिन, जर्मन एजेंट", "जतिन बलासोर में शहीद"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Khudiram Bose → executed at 18 after Muzaffarpur Bomb Case (1908).",
+    "Alipore Conspiracy Case (1908–09) → Aurobindo acquitted, Barindra convicted.",
+    "Bagha Jatin died in Balasore gun battle (1915) during Indo-German Conspiracy.",
+    "Anushilan Samiti and Jugantar were main revolutionary groups in Bengal."
+  ],
+  "prelimsTipsHindi": [
+    "खुदीराम बोस → 18 वर्ष की आयु में मुज़फ़्फ़रपुर बमकांड (1908) के बाद फाँसी।",
+    "अलीपुर षड्यंत्र केस (1908–09) → अरविन्द बरी, बारिन्द्र दोषी।",
+    "बाघा जतिन 1915 में बलासोर की लड़ाई में शहीद हुए (इंडो-जर्मन षड्यंत्र)।",
+    "अनुशीलन समिति और युगांतर बंगाल के प्रमुख क्रांतिकारी संगठन थे।"
+  ],
+  "funFacts": [
+    "Khudiram Bose’s smiling face at the gallows became legendary and inspired patriotic songs.",
+    "Revolutionaries often used religious festivals like Durga Puja as cover for secret meetings.",
+    "Jugantar members experimented with crude bombs using instructions from European revolutionary manuals."
+  ],
+  "funFactsHindi": [
+    "खुदीराम बोस का फाँसी के समय मुस्कुराता चेहरा किंवदंती बना और देशभक्ति गीतों का हिस्सा बना।",
+    "क्रांतिकारी अक्सर दुर्गा पूजा जैसे धार्मिक त्योहारों का प्रयोग गुप्त बैठकों के लिए करते थे।",
+    "युगांतर के सदस्यों ने यूरोपीय क्रांतिकारी पुस्तकों से सीखकर कच्चे बम बनाए।"
+  ],
+  "mainsPoints": [
+    "Bengal was the stronghold of revolutionary terrorism, marked by secret societies, assassinations, and bomb plots.",
+    "The movement represented the anger of disillusioned educated youth who found moderate politics ineffective.",
+    "Key incidents like Muzaffarpur Bombing and Alipore Conspiracy became symbols of sacrifice and defiance.",
+    "Despite severe repression, Bengal revolutionaries kept alive the spirit of militant nationalism and inspired future groups across India and abroad."
+  ],
+  "mainsPointsHindi": [
+    "बंगाल क्रांतिकारी आतंकवाद का गढ़ था, जहाँ गुप्त संगठन, हत्याएँ और बम षड्यंत्र आम थे।",
+    "आंदोलन ने निराश शिक्षित युवाओं के गुस्से को दर्शाया जिन्हें उदारवादी राजनीति बेअसर लगी।",
+    "मुज़फ़्फ़रपुर बमकांड और अलीपुर षड्यंत्र जैसी घटनाएँ बलिदान और विद्रोह का प्रतीक बनीं।",
+    "कठोर दमन के बावजूद बंगाल के क्रांतिकारियों ने उग्र राष्ट्रवाद की भावना जीवित रखी और पूरे भारत व विदेशों में भविष्य के संगठनों को प्रेरित किया।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities in Maharashtra (1897–1917)",
+  "headingHindi": "महाराष्ट्र में क्रांतिकारी गतिविधियाँ (1897–1917)",
+  "highlight": "Maharashtra emerged as another important centre of revolutionary nationalism. Starting with the Chapekar Brothers’ assassination of British officials in 1897, the movement grew with organisations like Mitra Mela and Abhinav Bharat under V.D. Savarkar. The Nasik Conspiracy Case (1909) became a landmark, exposing underground networks and inspiring future revolutionaries.",
+  "highlightHindi": "महाराष्ट्र क्रांतिकारी राष्ट्रवाद का एक महत्वपूर्ण केंद्र बना। 1897 में चापेकर भाइयों द्वारा ब्रिटिश अधिकारियों की हत्या से इसकी शुरुआत हुई। वी.डी. सावरकर के नेतृत्व में मित्र मेला और अभिनव भारत जैसे संगठन विकसित हुए। 1909 का नासिक षड्यंत्र केस ऐतिहासिक बना जिसने भूमिगत नेटवर्क का खुलासा किया और भविष्य के क्रांतिकारियों को प्रेरित किया।",
+  "details": [
+    "Early spark: In 1897, the Chapekar Brothers (Damodar, Balkrishna, and Vasudev Chapekar) assassinated Rand, the Plague Commissioner of Pune, and Lt. Ayerst, as revenge for high-handed plague measures.",
+    "Mitra Mela (1899): Founded by V.D. Savarkar in Nashik; later evolved into Abhinav Bharat. Focused on nationalism, armed training, and spreading revolutionary literature.",
+    "Abhinav Bharat Society (1904): Founded by Savarkar and his brother Ganesh Savarkar. Inspired by Giuseppe Mazzini’s Young Italy, it sought complete independence through armed struggle.",
+    "Savarkar in London (1906): Joined India House founded by Shyamji Krishna Varma. Spread revolutionary propaganda, wrote 'The First War of Independence (1857)' portraying 1857 Revolt as a national struggle.",
+    "Arms and literature: Savarkar and associates circulated manuals on bomb-making and firearms; India House became a hub for training revolutionaries like Madan Lal Dhingra.",
+    "Madan Lal Dhingra (1909): Assassinated Sir Curzon Wyllie in London; inspired Indian revolutionaries worldwide.",
+    "Nasik Conspiracy Case (1909): Anushilan Samiti-inspired revolutionaries in Maharashtra assassinated A.M.T. Jackson, Collector of Nashik. This led to the arrest of Savarkar (extradited from London in 1910) and crackdown on Abhinav Bharat.",
+    "Savarkar’s imprisonment: Transported for life to the Cellular Jail in Andamans in 1911.",
+    "Spread of revolutionary culture: Tilak’s Ganapati and Shivaji festivals created political awareness, which complemented revolutionary propaganda.",
+    "Legacy: Maharashtra’s revolutionaries provided ideological foundation (complete independence, militant nationalism) and connected Indian struggle to global revolutionary movements."
+  ],
+  "detailsHindi": [
+    "प्रारंभिक चिंगारी: 1897 में चापेकर भाइयों (दामोदर, बालकृष्ण, वासुदेव) ने पुणे में प्लेग आयुक्त रैंड और लेफ्टिनेंट एयर्स्ट की हत्या की। यह अत्याचारी प्लेग उपायों का प्रतिशोध था।",
+    "मित्र मेला (1899): वी.डी. सावरकर ने नासिक में स्थापित किया; बाद में अभिनव भारत में विकसित हुआ। इसका ध्यान राष्ट्रवाद, सशस्त्र प्रशिक्षण और क्रांतिकारी साहित्य के प्रसार पर था।",
+    "अभिनव भारत सोसायटी (1904): सावरकर और उनके भाई गणेश सावरकर द्वारा स्थापित। यह ग्यूसेप्पे मज़िनी के यंग इटली से प्रेरित था और पूर्ण स्वतंत्रता को लक्ष्य बनाकर सशस्त्र संघर्ष चाहता था।",
+    "लंदन में सावरकर (1906): श्यामजी कृष्ण वर्मा द्वारा स्थापित इंडिया हाउस से जुड़े। क्रांतिकारी प्रचार किया और '1857 का पहला स्वतंत्रता संग्राम' लिखा, जिसमें 1857 के विद्रोह को राष्ट्रीय संघर्ष बताया।",
+    "हथियार और साहित्य: सावरकर व सहयोगियों ने बम और हथियार बनाने की पुस्तिकाएँ प्रसारित कीं। इंडिया हाउस क्रांतिकारियों के प्रशिक्षण का केंद्र बना (मदन लाल ढींगरा जैसे)।",
+    "मदन लाल ढींगरा (1909): लंदन में कर्ज़न वायली की हत्या की; इससे विश्वभर में भारतीय क्रांतिकारियों को प्रेरणा मिली।",
+    "नासिक षड्यंत्र केस (1909): महाराष्ट्र के क्रांतिकारियों ने नासिक के कलेक्टर ए.एम.टी. जैक्सन की हत्या की। इसने सावरकर की गिरफ्तारी (1910 में लंदन से प्रत्यर्पण) और अभिनव भारत पर दमन का रास्ता खोला।",
+    "सावरकर की कैद: 1911 में उन्हें आजीवन कारावास की सज़ा देकर अंडमान की सेल्यूलर जेल भेजा गया।",
+    "क्रांतिकारी संस्कृति का प्रसार: तिलक के गणपति और शिवाजी उत्सवों ने राजनीतिक जागरण फैलाया, जो क्रांतिकारी प्रचार का पूरक बना।",
+    "विरासत: महाराष्ट्र के क्रांतिकारियों ने वैचारिक नींव (पूर्ण स्वतंत्रता, उग्र राष्ट्रवाद) प्रदान की और भारतीय संघर्ष को वैश्विक क्रांतिकारी आंदोलनों से जोड़ा।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Events in Maharashtra",
+      "titleHindi": "महाराष्ट्र में प्रमुख क्रांतिकारी घटनाएँ",
+      "columns": ["Year", "Event", "Details"],
+      "columnsHindi": ["वर्ष", "घटना", "विवरण"],
+      "rows": [
+        ["1897", "Chapekar Brothers’ Assassination", "Killed Rand & Ayerst in Pune during plague epidemic"],
+        ["1899", "Formation of Mitra Mela", "Founded by V.D. Savarkar; secret society for armed struggle"],
+        ["1904", "Abhinav Bharat founded", "Savarkar brothers; inspired by Mazzini’s Young Italy"],
+        ["1906", "Savarkar in London", "Joined India House; spread revolutionary propaganda"],
+        ["1909", "Madan Lal Dhingra Assassination", "Killed Curzon Wyllie in London; executed"],
+        ["1909", "Nasik Conspiracy Case", "Assassination of Collector Jackson; crackdown on Abhinav Bharat"],
+        ["1911", "Savarkar’s Imprisonment", "Transported to Cellular Jail in Andamans"]
+      ],
+      "rowsHindi": [
+        ["1897", "चापेकर भाइयों की हत्या", "पुणे में रैंड और एयर्स्ट की हत्या (प्लेग काल)"],
+        ["1899", "मित्र मेला की स्थापना", "वी.डी. सावरकर द्वारा; गुप्त संगठन"],
+        ["1904", "अभिनव भारत की स्थापना", "सावरकर भाइयों द्वारा; यंग इटली से प्रेरित"],
+        ["1906", "सावरकर लंदन में", "इंडिया हाउस से जुड़े; क्रांतिकारी प्रचार"],
+        ["1909", "मदन लाल ढींगरा की हत्या", "लंदन में कर्ज़न वायली की हत्या; फाँसी"],
+        ["1909", "नासिक षड्यंत्र केस", "कलेक्टर जैक्सन की हत्या; अभिनव भारत पर दमन"],
+        ["1911", "सावरकर की कैद", "अंडमान की सेल्यूलर जेल भेजा गया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Chapekar Brothers assassinated Rand in Pune (1897).",
+    "Abhinav Bharat founded in 1904 by V.D. Savarkar.",
+    "Madan Lal Dhingra assassinated Curzon Wyllie in London (1909).",
+    "Nasik Conspiracy Case (1909) led to Savarkar’s arrest and transportation to Cellular Jail."
+  ],
+  "prelimsTipsHindi": [
+    "चापेकर भाइयों ने पुणे में रैंड की हत्या की (1897)।",
+    "अभिनव भारत 1904 में वी.डी. सावरकर द्वारा स्थापित।",
+    "मदन लाल ढींगरा ने लंदन में कर्ज़न वायली की हत्या की (1909)।",
+    "नासिक षड्यंत्र केस (1909) में सावरकर गिरफ्तार हुए और सेल्यूलर जेल भेजे गए।"
+  ],
+  "funFacts": [
+    "Savarkar smuggled pistols into India through biscuit tins and concealed literature in double-lined books.",
+    "Madan Lal Dhingra’s courtroom speech became legendary, inspiring revolutionaries worldwide.",
+    "Chapekar Brothers were executed but became folk heroes in Maharashtra."
+  ],
+  "funFactsHindi": [
+    "सावरकर ने पिस्तौल बिस्कुट के डिब्बों में छिपाकर भारत भेजीं और साहित्य दोहरी परत वाली किताबों में छुपाया।",
+    "मदन लाल ढींगरा का अदालती भाषण प्रसिद्ध हुआ और विश्वभर में क्रांतिकारियों को प्रेरित किया।",
+    "चापेकर भाइयों को फाँसी दी गई लेकिन वे महाराष्ट्र में लोकनायक बने।"
+  ],
+  "mainsPoints": [
+    "Maharashtra’s revolutionary movement laid ideological foundations of militant nationalism with demands for complete independence.",
+    "Abhinav Bharat provided organised structure for secret societies and connected Indian revolutionaries with global movements.",
+    "The Nasik Conspiracy Case exposed networks linking revolutionaries, workers, and students, leading to harsh repression.",
+    "Despite failures, Maharashtra’s revolutionaries inspired future armed groups, influencing Bhagat Singh and HSRA in the 1920s."
+  ],
+  "mainsPointsHindi": [
+    "महाराष्ट्र के क्रांतिकारी आंदोलन ने पूर्ण स्वतंत्रता की माँग के साथ उग्र राष्ट्रवाद की वैचारिक नींव रखी।",
+    "अभिनव भारत ने गुप्त संगठनों को संगठित रूप दिया और भारतीय क्रांतिकारियों को वैश्विक आंदोलनों से जोड़ा।",
+    "नासिक षड्यंत्र केस ने क्रांतिकारियों, मजदूरों और छात्रों के संबंध उजागर किए, जिससे कठोर दमन हुआ।",
+    "विफलताओं के बावजूद महाराष्ट्र के क्रांतिकारियों ने भावी सशस्त्र संगठनों (जैसे भगत सिंह और एचएसआरए) को प्रेरित किया।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities in Punjab (1907–1917)",
+  "headingHindi": "पंजाब में क्रांतिकारी गतिविधियाँ (1907–1917)",
+  "highlight": "Punjab emerged as a hub of revolutionary activity due to agrarian unrest, canal colony disputes, and nationalist inspiration. Leaders like Lala Lajpat Rai, Ajit Singh, and the Ghadr Party mobilized peasants and overseas Indians. Newspapers such as 'The Tribune' and 'Punjabee' played a major role in spreading revolutionary ideas.",
+  "highlightHindi": "कृषि असंतोष, नहर कॉलोनी विवाद और राष्ट्रवादी प्रेरणा के कारण पंजाब क्रांतिकारी गतिविधियों का प्रमुख केंद्र बना। लाला लाजपत राय, अजीत सिंह और ग़दर पार्टी जैसे नेताओं ने किसानों और प्रवासी भारतीयों को संगठित किया। 'दि ट्रिब्यून' और 'पंजाबी' जैसे समाचारपत्रों ने क्रांतिकारी विचारों को फैलाने में बड़ी भूमिका निभाई।",
+  "details": [
+    "Agrarian discontent: The Punjab Land Alienation Act (1900) and exploitation in canal colonies created deep resentment among peasants.",
+    "Leaders: Lala Lajpat Rai and Ajit Singh mobilized peasants under the 'Pagri Sambhal Jatta' movement (1907) against anti-peasant laws.",
+    "Pagri Sambhal Jatta Movement (1907): Led by Ajit Singh and Kishan Singh (Bhagat Singh’s uncle). Farmers protested against increased land revenue and irrigation rates in Lyallpur (now Faisalabad).",
+    "Revolutionary Organisations: Secret groups emerged, linking Punjab with Bengal and Maharashtra networks.",
+    "Diaspora Support: Punjab revolutionaries abroad (USA, Canada) formed the Ghadar Party (1913) under Lala Hardayal, Kartar Singh Sarabha, and Sohan Singh Bhakna.",
+    "Ghadar Movement: Published the newspaper 'Ghadar' in San Francisco; called for armed revolt in India during WWI.",
+    "Suppression: British used deportations, arrests, and censorship. Ajit Singh was deported, Lajpat Rai exiled temporarily.",
+    "Influence on Youth: Young revolutionaries like Kartar Singh Sarabha became iconic figures; Bhagat Singh later carried forward this revolutionary legacy.",
+    "Newspapers in Punjab: 'The Tribune' (English, 1881, Amritsar), 'Punjabee' (Urdu), 'Bharat Mata', and 'Ghadar' (published abroad) spread nationalist and revolutionary ideas."
+  ],
+  "detailsHindi": [
+    "कृषि असंतोष: पंजाब भूमि हस्तांतरण अधिनियम (1900) और नहर कॉलोनियों में शोषण ने किसानों में गहरा आक्रोश पैदा किया।",
+    "नेता: लाला लाजपत राय और अजीत सिंह ने 'पगड़ी संभाल जट्टा' आंदोलन (1907) के माध्यम से किसानों को संगठित किया।",
+    "पगड़ी संभाल जट्टा आंदोलन (1907): अजीत सिंह और किशन सिंह (भगत सिंह के चाचा) के नेतृत्व में हुआ। लायलपुर (अब फैसलाबाद) में ज़मींदारों ने लगान वृद्धि और सिंचाई दरों के खिलाफ आंदोलन किया।",
+    "क्रांतिकारी संगठन: गुप्त समूह बने, जिन्होंने पंजाब को बंगाल और महाराष्ट्र के नेटवर्क से जोड़ा।",
+    "प्रवासी सहयोग: पंजाब के प्रवासी भारतीयों ने (अमेरिका, कनाडा में) ग़दर पार्टी (1913) बनाई। इसके प्रमुख नेता लाला हरदयाल, करतार सिंह सराभा, सोहन सिंह भकना थे।",
+    "ग़दर आंदोलन: सैन फ़्रांसिस्को से 'ग़दर' अख़बार प्रकाशित किया गया; प्रथम विश्व युद्ध के दौरान भारत में सशस्त्र क्रांति का आह्वान किया।",
+    "दमन: अंग्रेज़ों ने निर्वासन, गिरफ्तारियाँ और सेंसरशिप का सहारा लिया। अजीत सिंह निर्वासित हुए, लाजपत राय को भी अस्थायी रूप से निर्वासित किया गया।",
+    "युवाओं पर प्रभाव: करतार सिंह सराभा जैसे युवा क्रांतिकारी प्रतीक बने; बाद में भगत सिंह ने इस परंपरा को आगे बढ़ाया।",
+    "पंजाब के समाचारपत्र: 'दि ट्रिब्यून' (अंग्रेज़ी, 1881, अमृतसर), 'पंजाबी' (उर्दू), 'भारत माता', और विदेश से प्रकाशित 'ग़दर' ने राष्ट्रवादी व क्रांतिकारी विचार फैलाए।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Events in Punjab",
+      "titleHindi": "पंजाब में प्रमुख क्रांतिकारी घटनाएँ",
+      "columns": ["Year", "Event", "Leaders/Details"],
+      "columnsHindi": ["वर्ष", "घटना", "नेता/विवरण"],
+      "rows": [
+        ["1900", "Punjab Land Alienation Act", "Created discontent among peasants"],
+        ["1907", "Pagri Sambhal Jatta Movement", "Ajit Singh, Kishan Singh; anti-revenue agitation in Lyallpur"],
+        ["1907", "Deportation of Leaders", "Ajit Singh and Lajpat Rai exiled for their role in agitation"],
+        ["1913", "Formation of Ghadar Party (San Francisco)", "Lala Hardayal, Sohan Singh Bhakna, Kartar Singh Sarabha"],
+        ["1914–15", "Ghadar Conspiracy during WWI", "Attempted revolt with German help; suppressed by British"]
+      ],
+      "rowsHindi": [
+        ["1900", "पंजाब भूमि हस्तांतरण अधिनियम", "किसानों में असंतोष उत्पन्न हुआ"],
+        ["1907", "पगड़ी संभाल जट्टा आंदोलन", "अजीत सिंह, किशन सिंह; लायलपुर में लगान विरोध"],
+        ["1907", "नेताओं का निर्वासन", "अजीत सिंह और लाजपत राय निर्वासित किए गए"],
+        ["1913", "ग़दर पार्टी की स्थापना (सैन फ़्रांसिस्को)", "लाला हरदयाल, सोहन सिंह भकना, करतार सिंह सराभा"],
+        ["1914–15", "ग़दर षड्यंत्र (प्रथम विश्व युद्ध)", "जर्मनी की मदद से विद्रोह का प्रयास; अंग्रेज़ों ने दबाया"]
+      ]
+    },
+    {
+      "title": "Important Newspapers in Punjab’s Revolutionary Movement",
+      "titleHindi": "पंजाब के क्रांतिकारी आंदोलन में महत्वपूर्ण समाचारपत्र",
+      "columns": ["Newspaper", "Language", "Role"],
+      "columnsHindi": ["समाचारपत्र", "भाषा", "भूमिका"],
+      "rows": [
+        ["The Tribune (1881)", "English", "Spread nationalist views; based in Amritsar"],
+        ["Punjabee", "Urdu", "Mobilised masses with nationalist content"],
+        ["Bharat Mata", "Hindi", "Encouraged patriotic awakening"],
+        ["Ghadar (1913)", "Punjabi/Urdu/English", "Published abroad; called for armed revolt against British"]
+      ],
+      "rowsHindi": [
+        ["दि ट्रिब्यून (1881)", "अंग्रेज़ी", "राष्ट्रवादी विचार फैलाए; अमृतसर से प्रकाशित"],
+        ["पंजाबी", "उर्दू", "जनता में राष्ट्रवादी सामग्री फैलायी"],
+        ["भारत माता", "हिंदी", "देशभक्ति का जागरण प्रोत्साहित किया"],
+        ["ग़दर (1913)", "पंजाबी/उर्दू/अंग्रेज़ी", "विदेश से प्रकाशित; अंग्रेज़ों के खिलाफ सशस्त्र क्रांति का आह्वान"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Pagri Sambhal Jatta Movement → 1907, led by Ajit Singh, Kishan Singh in Lyallpur.",
+    "Ghadar Party founded in 1913 in San Francisco.",
+    "The Tribune (1881, Amritsar) was a major nationalist paper in Punjab.",
+    "Kartar Singh Sarabha became a key Ghadar revolutionary, hanged in 1915."
+  ],
+  "prelimsTipsHindi": [
+    "पगड़ी संभाल जट्टा आंदोलन → 1907, अजीत सिंह और किशन सिंह द्वारा लायलपुर में।",
+    "ग़दर पार्टी 1913 में सैन फ़्रांसिस्को में स्थापित हुई।",
+    "दि ट्रिब्यून (1881, अमृतसर) पंजाब का प्रमुख राष्ट्रवादी अख़बार था।",
+    "करतार सिंह सराभा प्रमुख ग़दर क्रांतिकारी बने, 1915 में फाँसी दी गई।"
+  ],
+  "funFacts": [
+    "The slogan 'Pagri Sambhal Jatta' became a rallying cry for peasant dignity in Punjab.",
+    "The Ghadar newspaper was published weekly from San Francisco and smuggled into India.",
+    "The Tribune, though in English, had wide influence among the educated Punjabi elite."
+  ],
+  "funFactsHindi": [
+    "'पगड़ी संभाल जट्टा' का नारा पंजाब में किसान सम्मान का प्रतीक बन गया।",
+    "ग़दर अख़बार सैन फ़्रांसिस्को से साप्ताहिक प्रकाशित होता था और भारत में गुप्त रूप से पहुँचाया जाता था।",
+    "दि ट्रिब्यून अंग्रेज़ी में होने के बावजूद शिक्षित पंजाबी वर्ग में अत्यधिक प्रभावशाली था।"
+  ],
+  "mainsPoints": [
+    "Punjab’s revolutionary nationalism was deeply rooted in agrarian grievances and canal colony discontent.",
+    "Movements like Pagri Sambhal Jatta linked peasants directly with political agitation.",
+    "The Ghadar Party gave Punjab revolutionaries a global dimension, linking diaspora with Indian struggle.",
+    "Newspapers like The Tribune, Punjabee, and Ghadar played a crucial role in mobilising opinion and spreading revolutionary ideology."
+  ],
+  "mainsPointsHindi": [
+    "पंजाब का क्रांतिकारी राष्ट्रवाद कृषि असंतोष और नहर कॉलोनी विवाद में गहराई से जुड़ा था।",
+    "पगड़ी संभाल जट्टा जैसे आंदोलनों ने किसानों को सीधे राजनीतिक संघर्ष से जोड़ा।",
+    "ग़दर पार्टी ने पंजाब के क्रांतिकारियों को वैश्विक आयाम दिया और प्रवासी भारतीयों को भारत के संघर्ष से जोड़ा।",
+    "दि ट्रिब्यून, पंजाबी और ग़दर जैसे समाचारपत्रों ने जनमत निर्माण और क्रांतिकारी विचार फैलाने में महत्वपूर्ण भूमिका निभाई।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities Abroad (1905–1917)",
+  "headingHindi": "विदेशों में क्रांतिकारी गतिविधियाँ (1905–1917)",
+  "highlight": "Indian revolutionaries abroad created networks in Europe, America, and Asia to mobilize support for independence. Organizations like India House in London, Paris Indian Society, Ghadar Party in USA, and Berlin Committee coordinated propaganda, arms smuggling, and conspiracies. Newspapers such as 'Indian Sociologist', 'Talwar', 'Ghadar', and 'Bande Mataram' were crucial tools of mobilization.",
+  "highlightHindi": "भारतीय क्रांतिकारियों ने विदेशों में यूरोप, अमेरिका और एशिया में स्वतंत्रता के लिए समर्थन जुटाने हेतु नेटवर्क बनाए। लंदन का इंडिया हाउस, पेरिस इंडियन सोसाइटी, अमेरिका की ग़दर पार्टी और बर्लिन कमेटी ने प्रचार, हथियार तस्करी और षड्यंत्रों का संचालन किया। 'इंडियन सोशियोलॉजिस्ट', 'तलवार', 'ग़दर' और 'बंदे मातरम' जैसे समाचारपत्र प्रमुख साधन बने।",
+  "details": [
+    "India House (London, 1905): Founded by Shyamji Krishna Varma. Became a hub for Indian students and revolutionaries. Members included V.D. Savarkar, Madan Lal Dhingra, and others.",
+    "Publications: 'Indian Sociologist' (by Krishna Varma) propagated anti-colonial views; Savarkar circulated 'First War of Independence (1857)' glorifying the revolt.",
+    "Madan Lal Dhingra (1909): Assassinated Curzon Wyllie in London; executed, but became an icon of sacrifice.",
+    "Paris Indian Society: Led by Madam Bhikaji Cama after Krishna Varma moved to Paris. She unfurled the first version of the Indian national flag at Stuttgart (1907).",
+    "Publications in Paris: 'Bande Mataram' (inspired by Aurobindo Ghosh’s journal) and 'Talwar' spread revolutionary messages across Europe.",
+    "Berlin Committee (Indian Independence Committee, 1915): Formed during WWI by Virendranath Chattopadhyaya, Chempakaraman Pillai, and others. Collaborated with Germany for the Indo-German Conspiracy to smuggle arms to India.",
+    "Ghadar Party (San Francisco, 1913): Founded by Lala Hardayal, Sohan Singh Bhakna, and Kartar Singh Sarabha. Published the 'Ghadar' newspaper in multiple languages (Punjabi, Urdu, English).",
+    "Ghadar Movement during WWI: Called upon Indian soldiers to revolt against the British. Arms shipments attempted with German aid, but conspiracy failed due to intelligence leaks.",
+    "Role of diaspora: Overseas Indians, especially in USA and Canada, raised funds, recruited volunteers, and smuggled literature back to India.",
+    "Suppression: British intelligence monitored revolutionaries abroad; India House was shut down, Ghadar leaders arrested, Berlin conspiracy crushed.",
+    "Legacy: These foreign networks internationalized India’s independence struggle and connected it with global anti-imperialist movements."
+  ],
+  "detailsHindi": [
+    "इंडिया हाउस (लंदन, 1905): श्यामजी कृष्ण वर्मा द्वारा स्थापित। यह भारतीय छात्रों और क्रांतिकारियों का केंद्र बना। इसके सदस्य वी.डी. सावरकर, मदन लाल ढींगरा आदि थे।",
+    "प्रकाशन: 'इंडियन सोशियोलॉजिस्ट' (कृष्ण वर्मा द्वारा) ने औपनिवेशिक विरोधी विचार फैलाए; सावरकर ने '1857 का प्रथम स्वतंत्रता संग्राम' पुस्तक का प्रसार किया।",
+    "मदन लाल ढींगरा (1909): लंदन में कर्ज़न वायली की हत्या की; फाँसी दी गई पर वे बलिदान के प्रतीक बने।",
+    "पेरिस इंडियन सोसाइटी: श्यामजी कृष्ण वर्मा के पेरिस चले जाने के बाद मैडम भीकाजी कामा ने नेतृत्व संभाला। उन्होंने 1907 में स्टटगार्ट (जर्मनी) में भारतीय ध्वज फहराया।",
+    "पेरिस से प्रकाशन: 'बंदे मातरम' (अरविन्द घोष की पत्रिका से प्रेरित) और 'तलवार' ने यूरोप में क्रांतिकारी संदेश फैलाए।",
+    "बर्लिन कमेटी (भारतीय स्वतंत्रता समिति, 1915): वीरेन्द्रनाथ चट्टोपाध्याय, चेम्पाकरामन पिल्लै आदि द्वारा स्थापित। जर्मनी के सहयोग से इंडो-जर्मन षड्यंत्र चलाया गया।",
+    "ग़दर पार्टी (सैन फ्रांसिस्को, 1913): लाला हरदयाल, सोहन सिंह भकना, करतार सिंह सराभा द्वारा स्थापित। 'ग़दर' अख़बार पंजाबी, उर्दू और अंग्रेज़ी में प्रकाशित होता था।",
+    "ग़दर आंदोलन (प्रथम विश्व युद्ध): भारतीय सैनिकों से ब्रिटिश के खिलाफ विद्रोह का आह्वान किया। जर्मन मदद से हथियार लाने का प्रयास हुआ, पर असफल रहा।",
+    "प्रवासी भारतीयों की भूमिका: अमेरिका और कनाडा के भारतीयों ने धन जुटाया, स्वयंसेवक भर्ती किए और साहित्य भारत भेजा।",
+    "दमन: ब्रिटिश खुफ़िया विभाग ने विदेशों में क्रांतिकारियों की निगरानी की; इंडिया हाउस बंद किया गया, ग़दर नेताओं को गिरफ्तार किया गया, बर्लिन षड्यंत्र विफल हुआ।",
+    "विरासत: इन विदेशी नेटवर्कों ने भारत के स्वतंत्रता संग्राम को अंतरराष्ट्रीय स्वरूप दिया और इसे वैश्विक साम्राज्यवाद विरोधी आंदोलनों से जोड़ा।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Organisations Abroad",
+      "titleHindi": "विदेशों में प्रमुख क्रांतिकारी संगठन",
+      "columns": ["Year", "Organisation", "Leaders", "Activities"],
+      "columnsHindi": ["वर्ष", "संगठन", "नेता", "गतिविधियाँ"],
+      "rows": [
+        ["1905", "India House (London)", "Shyamji Krishna Varma, V.D. Savarkar, Madan Lal Dhingra", "Propaganda, training, publications"],
+        ["1907", "Paris Indian Society", "Madam Bhikaji Cama, S.R. Rana", "Published Bande Mataram, Talwar; unfurled Indian flag"],
+        ["1913", "Ghadar Party (San Francisco)", "Lala Hardayal, Kartar Singh Sarabha, Sohan Singh Bhakna", "Published Ghadar newspaper; called for armed revolt"],
+        ["1915", "Berlin Committee", "Virendranath Chattopadhyaya, Chempakaraman Pillai", "Indo-German Conspiracy; attempted arms smuggling"]
+      ],
+      "rowsHindi": [
+        ["1905", "इंडिया हाउस (लंदन)", "श्यामजी कृष्ण वर्मा, वी.डी. सावरकर, मदन लाल ढींगरा", "प्रचार, प्रशिक्षण, प्रकाशन"],
+        ["1907", "पेरिस इंडियन सोसाइटी", "मैडम भीकाजी कामा, एस.आर. राणा", "बंदे मातरम, तलवार प्रकाशित; ध्वज फहराया"],
+        ["1913", "ग़दर पार्टी (सैन फ्रांसिस्को)", "लाला हरदयाल, करतार सिंह सराभा, सोहन सिंह भकना", "ग़दर अख़बार प्रकाशित; सशस्त्र विद्रोह का आह्वान"],
+        ["1915", "बर्लिन कमेटी", "वीरेन्द्रनाथ चट्टोपाध्याय, चेम्पाकरामन पिल्लै", "इंडो-जर्मन षड्यंत्र; हथियार तस्करी का प्रयास"]
+      ]
+    },
+    {
+      "title": "Important Revolutionary Newspapers Abroad",
+      "titleHindi": "विदेशों में महत्वपूर्ण क्रांतिकारी समाचारपत्र",
+      "columns": ["Newspaper", "Place", "Language", "Purpose"],
+      "columnsHindi": ["समाचारपत्र", "स्थान", "भाषा", "उद्देश्य"],
+      "rows": [
+        ["Indian Sociologist", "London", "English", "Founded by Krishna Varma; anti-colonial propaganda"],
+        ["Talwar", "Paris", "English", "Published by Madam Cama; revolutionary literature"],
+        ["Bande Mataram", "Paris", "English", "Spread nationalist ideas in Europe"],
+        ["Ghadar", "San Francisco", "Punjabi, Urdu, English", "Called Indians to rise in revolt against British"]
+      ],
+      "rowsHindi": [
+        ["इंडियन सोशियोलॉजिस्ट", "लंदन", "अंग्रेज़ी", "कृष्ण वर्मा द्वारा; औपनिवेशिक विरोधी प्रचार"],
+        ["तलवार", "पेरिस", "अंग्रेज़ी", "मैडम कामा द्वारा प्रकाशित; क्रांतिकारी साहित्य"],
+        ["बंदे मातरम", "पेरिस", "अंग्रेज़ी", "यूरोप में राष्ट्रवादी विचार फैलाया"],
+        ["ग़दर", "सैन फ्रांसिस्को", "पंजाबी, उर्दू, अंग्रेज़ी", "भारतीयों को ब्रिटिश के खिलाफ विद्रोह का आह्वान"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "India House → founded 1905 in London by Shyamji Krishna Varma.",
+    "Madam Bhikaji Cama → unfurled Indian flag at Stuttgart, 1907.",
+    "Ghadar Party → formed 1913 in San Francisco; newspaper 'Ghadar'.",
+    "Berlin Committee → formed 1915; linked with Indo-German Conspiracy."
+  ],
+  "prelimsTipsHindi": [
+    "इंडिया हाउस → 1905 में लंदन में श्यामजी कृष्ण वर्मा ने स्थापित किया।",
+    "मैडम भीकाजी कामा → 1907 में स्टटगार्ट में भारतीय ध्वज फहराया।",
+    "ग़दर पार्टी → 1913 में सैन फ्रांसिस्को में बनी; अख़बार 'ग़दर' प्रकाशित।",
+    "बर्लिन कमेटी → 1915 में बनी; इंडो-जर्मन षड्यंत्र से जुड़ी।"
+  ],
+  "funFacts": [
+    "The 'Ghadar' newspaper was shipped secretly to India in bundles of grain and cloth.",
+    "Madam Cama’s flag unfurled in Stuttgart (1907) had 'Vande Mataram' inscribed on it.",
+    "Savarkar once smuggled pistols to India hidden in books and everyday objects."
+  ],
+  "funFactsHindi": [
+    "'ग़दर' अख़बार को अनाज और कपड़े की गठरियों में छुपाकर भारत भेजा जाता था।",
+    "मैडम कामा के 1907 में फहराए ध्वज पर 'वन्दे मातरम्' लिखा हुआ था।",
+    "सावरकर ने पिस्तौल भारत में किताबों और रोज़मर्रा की वस्तुओं में छुपाकर भेजीं।"
+  ],
+  "mainsPoints": [
+    "Revolutionary activities abroad internationalised India’s freedom struggle, linking it with anti-imperialist movements worldwide.",
+    "India House, Paris Society, Ghadar Party, and Berlin Committee spread propaganda, mobilised diaspora, and attempted armed revolts.",
+    "Newspapers like Indian Sociologist, Talwar, Bande Mataram, and Ghadar were powerful tools to awaken nationalism among Indians abroad and at home.",
+    "Though suppressed by British intelligence, these movements inspired later revolutionary organisations in India."
+  ],
+  "mainsPointsHindi": [
+    "विदेशों की क्रांतिकारी गतिविधियों ने भारत के स्वतंत्रता संग्राम को अंतरराष्ट्रीय बना दिया और इसे वैश्विक साम्राज्यवाद विरोधी आंदोलनों से जोड़ा।",
+    "इंडिया हाउस, पेरिस सोसाइटी, ग़दर पार्टी और बर्लिन कमेटी ने प्रचार फैलाया, प्रवासी भारतीयों को संगठित किया और सशस्त्र विद्रोह के प्रयास किए।",
+    "इंडियन सोशियोलॉजिस्ट, तलवार, बंदे मातरम और ग़दर जैसे समाचारपत्रों ने विदेशों और भारत दोनों में राष्ट्रवाद जगाने का काम किया।",
+    "यद्यपि ब्रिटिश खुफ़िया विभाग ने इन्हें दबा दिया, इन आंदोलनों ने भारत के भावी क्रांतिकारी संगठनों को प्रेरित किया।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities in South India (1905–1917)",
+  "headingHindi": "दक्षिण भारत में क्रांतिकारी गतिविधियाँ (1905–1917)",
+  "highlight": "In South India, revolutionary nationalism was closely linked with the Swadeshi Movement. Leaders like V.O. Chidambaram Pillai, Subramania Siva, and Nilakanta Brahmachari mobilized people through strikes, Swadeshi enterprises, and secret revolutionary societies. The Swadeshi Steam Navigation Company and militant propaganda in Tamil Nadu were symbols of this phase.",
+  "highlightHindi": "दक्षिण भारत में क्रांतिकारी राष्ट्रवाद स्वदेशी आंदोलन से गहराई से जुड़ा था। वी.ओ. चिदंबरम पिल्लै, सुब्रमणिया सिवा और नीलकंठ ब्रह्मचारी जैसे नेताओं ने हड़तालों, स्वदेशी उद्योगों और गुप्त क्रांतिकारी संगठनों के माध्यम से जनता को संगठित किया। तमिलनाडु में स्वदेशी स्टीम नेविगेशन कंपनी और उग्र प्रचार इसके प्रतीक बने।",
+  "details": [
+    "V.O. Chidambaram Pillai (VOC): A key leader from Tamil Nadu who founded the Swadeshi Steam Navigation Company (SSNC) in Tuticorin (1906) to challenge the monopoly of the British India Steam Navigation Company.",
+    "Strikes in Tuticorin (1908): VOC and Subramania Siva led strikes in the Coral Mills against harsh British policies. Workers joined in large numbers, marking the beginning of organised labour resistance in South India.",
+    "Repression: VOC was sentenced to transportation for life (later reduced) and suffered brutal treatment in prison. Subramania Siva was also jailed.",
+    "Nilakanta Brahmachari: Formed the Bharat Mata Association (1909) in Madras Presidency, which recruited youth into secret revolutionary activities.",
+    "Use of Folk Traditions: Revolutionaries in South India used songs, dramas, and religious gatherings to spread nationalist ideas.",
+    "Andhra Contribution: Leaders like Harisarvottam Rao mobilised students and youth in coastal Andhra. Secret societies connected with Bengal revolutionaries.",
+    "Integration with Swadeshi: South Indian revolutionaries promoted boycott of foreign cloth and adoption of handloom textiles.",
+    "Impact of Extremist Leaders: Tilak’s visits to Madras Presidency inspired youth; his Ganapati and Shivaji festivals became models for mobilisation.",
+    "British Response: Harsh repression, imprisonment, and banning of nationalist newspapers such as 'India' (edited by Subramania Bharati) weakened the movement temporarily.",
+    "Legacy: Inspired future freedom fighters like Subramania Bharati, who through his writings gave voice to militant nationalism in Tamil Nadu."
+  ],
+  "detailsHindi": [
+    "वी.ओ. चिदंबरम पिल्लै (वी.ओ.सी.): तमिलनाडु के प्रमुख नेता, जिन्होंने 1906 में तूतुकुड़ी में स्वदेशी स्टीम नेविगेशन कंपनी (SSNC) की स्थापना की। यह ब्रिटिश इंडिया स्टीम नेविगेशन कंपनी के एकाधिकार को चुनौती थी।",
+    "तूतुकुड़ी की हड़तालें (1908): वी.ओ.सी. और सुब्रमणिया सिवा ने कोरल मिल्स में अंग्रेज़ी नीतियों के खिलाफ हड़ताल का नेतृत्व किया। इसमें बड़ी संख्या में मज़दूर शामिल हुए।",
+    "दमन: वी.ओ.सी. को आजीवन कारावास की सज़ा दी गई (बाद में कम की गई) और जेल में कठोर यातनाएँ दी गईं। सुब्रमणिया सिवा को भी कैद किया गया।",
+    "नीलकंठ ब्रह्मचारी: 1909 में मद्रास प्रेसीडेंसी में भारत माता एसोसिएशन बनाई, जिसने युवाओं को गुप्त क्रांतिकारी गतिविधियों में भर्ती किया।",
+    "लोक परंपराओं का प्रयोग: दक्षिण भारत के क्रांतिकारियों ने गीत, नाटक और धार्मिक सभाओं के माध्यम से राष्ट्रवादी विचार फैलाए।",
+    "आंध्र का योगदान: हरिसर्वोत्तम राव जैसे नेताओं ने तटीय आंध्र में छात्रों और युवाओं को संगठित किया। गुप्त संगठन बंगाल के क्रांतिकारियों से जुड़े।",
+    "स्वदेशी से जुड़ाव: दक्षिण भारतीय क्रांतिकारियों ने विदेशी कपड़ों का बहिष्कार और हाथकरघा वस्त्रों का प्रचार किया।",
+    "उग्र नेताओं का प्रभाव: तिलक की मद्रास यात्राओं ने युवाओं को प्रेरित किया। उनके गणपति और शिवाजी उत्सव जन-जागरण के मॉडल बने।",
+    "ब्रिटिश प्रतिक्रिया: कठोर दमन, कैद और 'इंडिया' (संपादक: सुब्रमणिया भारती) जैसे राष्ट्रवादी समाचारपत्रों पर प्रतिबंध लगाया गया।",
+    "विरासत: इस आंदोलन ने भविष्य के स्वतंत्रता सेनानियों को प्रेरित किया। सुब्रमणिया भारती ने अपने लेखन के माध्यम से तमिलनाडु में उग्र राष्ट्रवाद की आवाज़ दी।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Events in South India",
+      "titleHindi": "दक्षिण भारत में प्रमुख क्रांतिकारी घटनाएँ",
+      "columns": ["Year", "Event", "Leaders/Details"],
+      "columnsHindi": ["वर्ष", "घटना", "नेता/विवरण"],
+      "rows": [
+        ["1906", "Formation of Swadeshi Steam Navigation Company (Tuticorin)", "V.O. Chidambaram Pillai challenged British monopoly"],
+        ["1908", "Tuticorin Coral Mills Strike", "Led by VOC and Subramania Siva; marked labour participation"],
+        ["1909", "Bharat Mata Association", "Formed by Nilakanta Brahmachari in Madras Presidency"],
+        ["1910", "Suppression of nationalist press", "Subramania Bharati’s paper 'India' banned by British"]
+      ],
+      "rowsHindi": [
+        ["1906", "स्वदेशी स्टीम नेविगेशन कंपनी (तूतुकुड़ी)", "वी.ओ. चिदंबरम पिल्लै द्वारा; ब्रिटिश एकाधिकार को चुनौती"],
+        ["1908", "तूतुकुड़ी कोरल मिल्स की हड़ताल", "वी.ओ.सी. और सुब्रमणिया सिवा द्वारा नेतृत्व; मज़दूरों की भागीदारी"],
+        ["1909", "भारत माता एसोसिएशन", "नीलकंठ ब्रह्मचारी द्वारा मद्रास प्रेसीडेंसी में स्थापित"],
+        ["1910", "राष्ट्रवादी प्रेस का दमन", "सुब्रमणिया भारती के अख़बार 'इंडिया' पर प्रतिबंध"]
+      ]
+    },
+    {
+      "title": "Important Newspapers in South Indian Revolutionary Movement",
+      "titleHindi": "दक्षिण भारत के क्रांतिकारी आंदोलन में प्रमुख समाचारपत्र",
+      "columns": ["Newspaper", "Language", "Role"],
+      "columnsHindi": ["समाचारपत्र", "भाषा", "भूमिका"],
+      "rows": [
+        ["India", "Tamil/English", "Edited by Subramania Bharati; spread militant nationalism"],
+        ["Swadesamitran", "Tamil", "Encouraged Swadeshi and boycott"],
+        ["Sudesa Geetham (songs)", "Tamil", "Patriotic songs by Subramania Bharati; inspired masses"]
+      ],
+      "rowsHindi": [
+        ["इंडिया", "तमिल/अंग्रेज़ी", "संपादक सुब्रमणिया भारती; उग्र राष्ट्रवाद का प्रचार"],
+        ["स्वदेशमित्रन", "तमिल", "स्वदेशी और बहिष्कार का समर्थन"],
+        ["सुदेशा गीतम् (गीत)", "तमिल", "सुब्रमणिया भारती के देशभक्ति गीत; जनता को प्रेरित किया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "VOC founded Swadeshi Steam Navigation Company in 1906.",
+    "Tuticorin Coral Mills strike (1908) → first major labour strike in South India.",
+    "Nilakanta Brahmachari formed Bharat Mata Association in 1909.",
+    "Subramania Bharati’s newspaper 'India' was banned in 1910."
+  ],
+  "prelimsTipsHindi": [
+    "वी.ओ.सी. ने 1906 में स्वदेशी स्टीम नेविगेशन कंपनी स्थापित की।",
+    "तूतुकुड़ी कोरल मिल्स की हड़ताल (1908) → दक्षिण भारत की पहली बड़ी मज़दूर हड़ताल।",
+    "नीलकंठ ब्रह्मचारी ने 1909 में भारत माता एसोसिएशन बनाई।",
+    "सुब्रमणिया भारती का अख़बार 'इंडिया' 1910 में प्रतिबंधित हुआ।"
+  ],
+  "funFacts": [
+    "VOC was popularly known as 'Kappalottiya Tamizhan' (The Tamil Helmsman) for challenging British shipping.",
+    "Subramania Bharati disguised revolutionary songs as devotional poetry to avoid censorship.",
+    "Nilakanta Brahmachari was inspired by Bengal’s Anushilan Samiti and adopted similar methods in Madras Presidency."
+  ],
+  "funFactsHindi": [
+    "वी.ओ.सी. को ब्रिटिश शिपिंग को चुनौती देने के कारण 'कप्पलोट्टिया तमिऴन' (जहाज़ चलाने वाला तमिल) कहा गया।",
+    "सुब्रमणिया भारती ने क्रांतिकारी गीतों को भक्ति कविताओं के रूप में लिखा ताकि सेंसरशिप से बच सकें।",
+    "नीलकंठ ब्रह्मचारी बंगाल की अनुशीलन समिति से प्रेरित होकर मद्रास प्रेसीडेंसी में वैसी ही पद्धति अपनाई।"
+  ],
+  "mainsPoints": [
+    "South India’s revolutionary activities were closely tied with the Swadeshi and labour movements.",
+    "VOC’s SSNC represented an economic challenge to British monopoly and symbolised nationalist enterprise.",
+    "Nilakanta Brahmachari and Bharat Mata Association showed the spread of underground revolutionary societies beyond Bengal and Maharashtra.",
+    "Nationalist newspapers and poetry (Subramania Bharati) played a crucial role in awakening Tamil masses."
+  ],
+  "mainsPointsHindi": [
+    "दक्षिण भारत की क्रांतिकारी गतिविधियाँ स्वदेशी और मज़दूर आंदोलनों से गहराई से जुड़ी थीं।",
+    "वी.ओ.सी. की SSNC ब्रिटिश एकाधिकार को आर्थिक चुनौती थी और राष्ट्रवादी उद्योग का प्रतीक बनी।",
+    "नीलकंठ ब्रह्मचारी और भारत माता एसोसिएशन ने बंगाल और महाराष्ट्र से बाहर भी गुप्त क्रांतिकारी संगठनों के प्रसार को दिखाया।",
+    "राष्ट्रवादी समाचारपत्रों और कविताओं (सुब्रमणिया भारती) ने तमिल जनता को जगाने में महत्वपूर्ण भूमिका निभाई।"
+  ]
+},
+{
+  "heading": "Revolutionary Activities in Uttar Pradesh & Bihar (1907–1930)",
+  "headingHindi": "उत्तर प्रदेश और बिहार में क्रांतिकारी गतिविधियाँ (1907–1930)",
+  "highlight": "UP and Bihar became important centres of revolutionary nationalism with leaders like Sachindranath Sanyal, Ramprasad Bismil, Ashfaqulla Khan, and Chandrashekhar Azad. Secret societies like Hindustan Republican Association (HRA) and Hindustan Socialist Republican Association (HSRA) organised armed robberies, assassinations, and political propaganda. The Kakori Conspiracy (1925) was the defining event of this region’s revolutionary phase.",
+  "highlightHindi": "उत्तर प्रदेश और बिहार क्रांतिकारी राष्ट्रवाद के प्रमुख केंद्र बने। सचिन्द्रनाथ सान्याल, रामप्रसाद बिस्मिल, अशफ़ाक़ुल्ला ख़ान और चन्द्रशेखर आज़ाद जैसे नेताओं ने यहाँ नेतृत्व किया। हिन्दुस्तान रिपब्लिकन एसोसिएशन (HRA) और हिन्दुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (HSRA) जैसे गुप्त संगठनों ने डकैतियाँ, राजनीतिक हत्याएँ और प्रचार किया। 1925 की काकोरी साज़िश इस क्षेत्र की क्रांतिकारी गतिविधियों की निर्णायक घटना थी।",
+  "details": [
+    "Early inspiration: Sachindranath Sanyal, based in Banaras, established secret revolutionary groups connected with Bengal revolutionaries.",
+    "Formation of Hindustan Republican Association (HRA, 1924): Founded by Sachindranath Sanyal, Ramprasad Bismil, Jogesh Chandra Chatterjee, and others. Its aim was to organise armed struggle for a federal republic of India.",
+    "Kakori Conspiracy (1925): Revolutionaries looted a train carrying government treasury near Kakori (Lucknow). Leaders included Ramprasad Bismil, Ashfaqulla Khan, Chandrashekhar Azad, Rajendra Lahiri, and Roshan Singh.",
+    "Trial & Martyrdom: Bismil, Ashfaqulla Khan, Lahiri, and Roshan Singh were executed in 1927. Chandrashekhar Azad escaped and continued underground struggle.",
+    "Transition to HSRA (1928): Younger revolutionaries like Bhagat Singh, Chandrashekhar Azad, and Sukhdev reorganised HRA into HSRA with socialist ideology.",
+    "Bihar’s Role: Bihar became a base for revolutionary propaganda, safe houses, and fundraising activities. Many HSRA members were sheltered by sympathisers in Bihar.",
+    "Propaganda Literature: Pamphlets like 'The Revolutionary' and 'Manifesto of HRA' outlined their ideology and called for mass revolution.",
+    "Women in UP-Bihar Revolution: Durga Bhabhi (Durga Devi Vohra) played a crucial role in helping Bhagat Singh escape and in fundraising.",
+    "British Response: Harsh repression, trials, and executions. Special branches of police set up in UP and Bihar to track revolutionaries.",
+    "Legacy: The Kakori martyrs became household names and inspired later revolutionary movements across India."
+  ],
+  "detailsHindi": [
+    "प्रारंभिक प्रेरणा: बनारस में सचिन्द्रनाथ सान्याल ने गुप्त क्रांतिकारी संगठन बनाए और बंगाल क्रांतिकारियों से संपर्क रखा।",
+    "हिन्दुस्तान रिपब्लिकन एसोसिएशन (HRA, 1924): सचिन्द्रनाथ सान्याल, रामप्रसाद बिस्मिल, जोगेश चन्द्र चटर्जी आदि ने स्थापित किया। इसका उद्देश्य सशस्त्र संघर्ष के माध्यम से भारत को संघीय गणराज्य बनाना था।",
+    "काकोरी साज़िश (1925): क्रांतिकारियों ने लखनऊ के पास काकोरी में सरकारी खजाना ले जा रही ट्रेन लूटी। इसमें रामप्रसाद बिस्मिल, अशफ़ाक़ुल्ला ख़ान, चन्द्रशेखर आज़ाद, राजेन्द्र लाहिड़ी और रोशन सिंह शामिल थे।",
+    "मुकदमा और शहादत: बिस्मिल, अशफ़ाक़ुल्ला ख़ान, लाहिड़ी और रोशन सिंह को 1927 में फाँसी दी गई। चन्द्रशेखर आज़ाद बच निकले और भूमिगत संघर्ष जारी रखा।",
+    "HSRA (1928): भगत सिंह, चन्द्रशेखर आज़ाद और सुखदेव जैसे युवाओं ने HRA को पुनर्गठित कर समाजवादी विचारधारा पर आधारित HSRA बनाया।",
+    "बिहार की भूमिका: बिहार क्रांतिकारी प्रचार, गुप्त ठिकानों और धन एकत्र करने का केंद्र बना। कई HSRA सदस्यों को बिहार में शरण मिली।",
+    "प्रचार साहित्य: 'दि रिवोल्यूशनरी' और 'HRA का घोषणापत्र' जैसे पैम्फलेट्स में उनकी विचारधारा और जनक्रांति का आह्वान था।",
+    "महिलाओं की भूमिका: दुर्गा भाभी (दुर्गा देवी वोहरा) ने भगत सिंह को भगाने और धन जुटाने में अहम योगदान दिया।",
+    "ब्रिटिश दमन: कड़ी सज़ाएँ, मुकदमे और फाँसी। यूपी और बिहार में विशेष पुलिस शाखाएँ बनाई गईं।",
+    "विरासत: काकोरी शहीद घर-घर में प्रेरणा बने और आगे की क्रांतिकारी गतिविधियों को प्रोत्साहन मिला।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Events in UP & Bihar",
+      "titleHindi": "उत्तर प्रदेश और बिहार में प्रमुख क्रांतिकारी घटनाएँ",
+      "columns": ["Year", "Event", "Leaders"],
+      "columnsHindi": ["वर्ष", "घटना", "नेता"],
+      "rows": [
+        ["1924", "Formation of HRA", "Sachindranath Sanyal, Ramprasad Bismil, Jogesh Ch. Chatterjee"],
+        ["1925", "Kakori Conspiracy", "Bismil, Ashfaqulla, Azad, Lahiri, Roshan Singh"],
+        ["1927", "Execution of Kakori Martyrs", "Bismil, Ashfaqulla, Lahiri, Roshan Singh"],
+        ["1928", "Reorganisation into HSRA", "Bhagat Singh, Azad, Sukhdev"]
+      ],
+      "rowsHindi": [
+        ["1924", "HRA की स्थापना", "सचिन्द्रनाथ सान्याल, रामप्रसाद बिस्मिल, जोगेश च. चटर्जी"],
+        ["1925", "काकोरी साज़िश", "बिस्मिल, अशफ़ाक़ुल्ला, आज़ाद, लाहिड़ी, रोशन सिंह"],
+        ["1927", "काकोरी शहीदों को फाँसी", "बिस्मिल, अशफ़ाक़ुल्ला, लाहिड़ी, रोशन सिंह"],
+        ["1928", "HSRA का पुनर्गठन", "भगत सिंह, आज़ाद, सुखदेव"]
+      ]
+    },
+    {
+      "title": "Important Revolutionary Newspapers in UP & Bihar",
+      "titleHindi": "उत्तर प्रदेश और बिहार में क्रांतिकारी समाचारपत्र",
+      "columns": ["Newspaper", "Language", "Role"],
+      "columnsHindi": ["समाचारपत्र", "भाषा", "भूमिका"],
+      "rows": [
+        ["Pratap", "Hindi", "Edited by Ganesh Shankar Vidyarthi; supported revolutionaries and exposed colonial repression"],
+        ["Swarajya", "Hindi", "Carried writings of Bismil and other revolutionaries"],
+        ["The Revolutionary (Pamphlet)", "English", "Published by HRA; spread ideology of armed struggle"],
+        ["Manifesto of HRA", "Hindi/English", "Outlined objective of establishing a federal republic of India"]
+      ],
+      "rowsHindi": [
+        ["प्रताप", "हिंदी", "गणेश शंकर विद्यार्थी द्वारा संपादित; क्रांतिकारियों का समर्थन और औपनिवेशिक दमन का खुलासा"],
+        ["स्वराज्य", "हिंदी", "बिस्मिल और अन्य क्रांतिकारियों की रचनाएँ प्रकाशित"],
+        ["दि रिवोल्यूशनरी (पैम्फलेट)", "अंग्रेज़ी", "HRA द्वारा प्रकाशित; सशस्त्र संघर्ष की विचारधारा फैलाई"],
+        ["HRA का घोषणापत्र", "हिंदी/अंग्रेज़ी", "भारत को संघीय गणराज्य बनाने का लक्ष्य स्पष्ट किया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "HRA founded in 1924 by Sachindranath Sanyal and Ramprasad Bismil.",
+    "Kakori Conspiracy (1925) → looting of train treasury near Lucknow.",
+    "Kakori Martyrs executed in 1927: Bismil, Ashfaqulla, Lahiri, Roshan Singh.",
+    "HSRA formed in 1928 by Bhagat Singh, Azad, and others."
+  ],
+  "prelimsTipsHindi": [
+    "HRA 1924 में सचिन्द्रनाथ सान्याल और रामप्रसाद बिस्मिल द्वारा स्थापित।",
+    "काकोरी साज़िश (1925) → लखनऊ के पास ट्रेन खजाना लूटा गया।",
+    "काकोरी शहीद 1927 में फाँसी पर चढ़े: बिस्मिल, अशफ़ाक़ुल्ला, लाहिड़ी, रोशन सिंह।",
+    "HSRA 1928 में भगत सिंह, आज़ाद आदि ने बनाया।"
+  ],
+  "funFacts": [
+    "Ashfaqulla Khan was the first Muslim revolutionary to be hanged for India’s independence.",
+    "Ramprasad Bismil was also a poet; his famous poems inspired fellow revolutionaries.",
+    "Durga Bhabhi once disguised as Bhagat Singh’s wife to help him escape after Saunders’ assassination."
+  ],
+  "funFactsHindi": [
+    "अशफ़ाक़ुल्ला ख़ान भारत की स्वतंत्रता के लिए फाँसी पाए पहले मुस्लिम क्रांतिकारी थे।",
+    "रामप्रसाद बिस्मिल कवि भी थे; उनकी कविताएँ क्रांतिकारियों को प्रेरित करती थीं।",
+    "दुर्गा भाभी ने एक बार भगत सिंह की पत्नी का भेष धरकर उन्हें भागने में मदद की।"
+  ],
+  "mainsPoints": [
+    "Revolutionary activities in UP and Bihar were organised under HRA and HSRA, combining armed struggle with political propaganda.",
+    "The Kakori Conspiracy became a turning point, highlighting both revolutionary daring and British repression.",
+    "The ideological shift from HRA to HSRA reflected the influence of socialist thought and broader revolutionary vision.",
+    "Revolutionary newspapers and literature created strong nationalist consciousness in the Hindi heartland."
+  ],
+  "mainsPointsHindi": [
+    "उत्तर प्रदेश और बिहार में क्रांतिकारी गतिविधियाँ HRA और HSRA के अंतर्गत संगठित हुईं, जिनमें सशस्त्र संघर्ष और राजनीतिक प्रचार का संयोजन था।",
+    "काकोरी साज़िश निर्णायक मोड़ बनी, जिसने क्रांतिकारी साहस और ब्रिटिश दमन दोनों को उजागर किया।",
+    "HRA से HSRA में परिवर्तन समाजवादी विचारधारा और व्यापक क्रांतिकारी दृष्टि का प्रतीक था।",
+    "क्रांतिकारी समाचारपत्रों और साहित्य ने हिंदी क्षेत्र में गहन राष्ट्रवादी चेतना उत्पन्न की।"
+  ]
+},
+{
+  "heading": "Komagata Maru Incident and the Ghadar Movement",
+  "headingHindi": "कोमागाटा मारु घटना और ग़दर आंदोलन",
+  "highlight": "The Komagata Maru Incident (1914) exposed racial discrimination faced by Indian immigrants in Canada and galvanized the Ghadar Movement, which had already mobilized Indian expatriates in North America for India’s independence. Both became symbols of global anti-colonial resistance.",
+  "highlightHindi": "कोमागाटा मारु घटना (1914) ने कनाडा में भारतीय प्रवासियों के साथ नस्लीय भेदभाव को उजागर किया और पहले से सक्रिय ग़दर आंदोलन को और तेज़ कर दिया। दोनों ही घटनाएँ वैश्विक औपनिवेशिक-विरोधी प्रतिरोध के प्रतीक बनीं।",
+  "details": [
+    "Background: Large numbers of Punjabis migrated to Canada and the USA in the early 20th century, facing severe racial prejudice and immigration restrictions.",
+    "Komagata Maru Incident (1914): A Japanese ship carrying 376 Indian passengers, mostly Sikhs from Punjab, was denied entry at Vancouver due to Canada’s discriminatory immigration laws.",
+    "After two months of standoff, the ship was forced to return to India. On arrival at Budge Budge (near Calcutta), British police attempted to arrest passengers. Violence broke out, leading to deaths of 19 passengers and arrests of many others.",
+    "Impact: The incident became a rallying point for anti-colonial sentiment among Indians abroad and in Punjab.",
+    "The Ghadar Party (founded 1913, San Francisco): Led by Lala Hardayal, Sohan Singh Bhakna, and Kartar Singh Sarabha, it aimed at armed revolution in India.",
+    "Ghadar Newspaper (from 1913): Published in Punjabi, Urdu, Hindi, and English, it spread the message of revolt against British rule among Indian diaspora.",
+    "WWI and Ghadar Conspiracy: The Ghadar leaders, inspired by Komagata Maru, called Indians to return home and launch uprisings. With German help, they attempted to smuggle arms into India (1915 Indo-German Conspiracy).",
+    "British Suppression: Through intelligence networks, the conspiracies were foiled. Many Ghadar leaders were executed or imprisoned (e.g., Kartar Singh Sarabha was executed in 1915 at age 19).",
+    "Legacy: Komagata Maru and Ghadar became symbols of resistance to imperialism, connecting India’s freedom struggle with global anti-racist and anti-colonial struggles."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: 20वीं सदी की शुरुआत में बड़ी संख्या में पंजाबी कनाडा और अमेरिका गए। वहाँ उन्हें नस्लीय भेदभाव और आव्रजन प्रतिबंधों का सामना करना पड़ा।",
+    "कोमागाटा मारु घटना (1914): जापानी जहाज़ कोमागाटा मारु पर 376 भारतीय यात्री, जिनमें अधिकांश पंजाबी सिख थे, वैंकूवर पहुँचे। कनाडा के भेदभावपूर्ण कानूनों के कारण उन्हें प्रवेश नहीं मिला।",
+    "दो माह तक गतिरोध के बाद जहाज़ को भारत लौटना पड़ा। कलकत्ता के पास बड़ाबाज़ (बज-बज) पर पहुँचने पर ब्रिटिश पुलिस ने यात्रियों को गिरफ्तार करने का प्रयास किया। हिंसा हुई, जिसमें 19 यात्री मारे गए और कई गिरफ्तार हुए।",
+    "प्रभाव: यह घटना विदेशों और पंजाब में औपनिवेशिक-विरोधी भावना का केंद्र बन गई।",
+    "ग़दर पार्टी (1913, सैन फ़्रांसिस्को): लाला हरदयाल, सोहन सिंह भकना और करतार सिंह सराभा के नेतृत्व में गठित, जिसका उद्देश्य भारत में सशस्त्र क्रांति था।",
+    "ग़दर अख़बार (1913 से): पंजाबी, उर्दू, हिंदी और अंग्रेज़ी में प्रकाशित होकर भारतीय प्रवासियों में विद्रोह का संदेश फैलाया।",
+    "प्रथम विश्व युद्ध और ग़दर षड्यंत्र: कोमागाटा मारु से प्रेरित होकर ग़दर नेताओं ने भारतीयों को लौटकर विद्रोह करने का आह्वान किया। जर्मनी की मदद से हथियार भारत लाने की योजना बनाई (1915 इंडो-जर्मन षड्यंत्र)।",
+    "ब्रिटिश दमन: खुफ़िया तंत्र के कारण षड्यंत्र विफल हुए। कई ग़दर नेताओं को फाँसी दी गई या जेल में डाला गया (जैसे करतार सिंह सराभा को 1915 में 19 वर्ष की आयु में फाँसी दी गई)।",
+    "विरासत: कोमागाटा मारु और ग़दर साम्राज्यवाद के प्रतिरोध के प्रतीक बने और भारत के स्वतंत्रता संग्राम को वैश्विक नस्लवाद-विरोधी व औपनिवेशिक-विरोधी संघर्षों से जोड़ा।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of Komagata Maru Incident",
+      "titleHindi": "कोमागाटा मारु घटना के प्रमुख पहलू",
+      "columns": ["Year", "Event", "Details"],
+      "columnsHindi": ["वर्ष", "घटना", "विवरण"],
+      "rows": [
+        ["1914", "Komagata Maru reaches Vancouver", "Denied entry to 376 Indians due to racial laws"],
+        ["1914", "Return to India", "At Budge Budge, violence erupted; 19 killed"],
+        ["Impact", "Symbol of racial discrimination", "Inspired Punjabi migrants and revolutionaries"]
+      ],
+      "rowsHindi": [
+        ["1914", "कोमागाटा मारु वैंकूवर पहुँचा", "376 भारतीयों को नस्लीय कानूनों के कारण प्रवेश नहीं मिला"],
+        ["1914", "भारत वापसी", "बज-बज पर हिंसा; 19 यात्री मारे गए"],
+        ["प्रभाव", "नस्लीय भेदभाव का प्रतीक", "पंजाबी प्रवासियों और क्रांतिकारियों को प्रेरित किया"]
+      ]
+    },
+    {
+      "title": "Key Aspects of the Ghadar Movement",
+      "titleHindi": "ग़दर आंदोलन के प्रमुख पहलू",
+      "columns": ["Year", "Event", "Details"],
+      "columnsHindi": ["वर्ष", "घटना", "विवरण"],
+      "rows": [
+        ["1913", "Formation of Ghadar Party", "Founded in San Francisco by Indian immigrants"],
+        ["1913", "Launch of Ghadar Newspaper", "Published in Punjabi, Urdu, Hindi, and English"],
+        ["1915", "Indo-German Conspiracy", "Attempted arms shipment to India for uprising"],
+        ["1915", "Executions", "Kartar Singh Sarabha executed at age 19"],
+        ["Legacy", "Inspired future revolutionaries", "Linked diaspora struggles with Indian independence"]
+      ],
+      "rowsHindi": [
+        ["1913", "ग़दर पार्टी की स्थापना", "भारतीय प्रवासियों ने सैन फ़्रांसिस्को में बनाई"],
+        ["1913", "ग़दर अख़बार का प्रकाशन", "पंजाबी, उर्दू, हिंदी और अंग्रेज़ी में प्रकाशित"],
+        ["1915", "इंडो-जर्मन षड्यंत्र", "भारत में विद्रोह हेतु हथियार भेजने का प्रयास"],
+        ["1915", "फाँसी", "करतार सिंह सराभा को 19 वर्ष की आयु में फाँसी"],
+        ["विरासत", "भविष्य के क्रांतिकारियों को प्रेरित किया", "प्रवासी संघर्षों को भारतीय स्वतंत्रता से जोड़ा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Komagata Maru Incident → 1914, Vancouver, ship with 376 Indians denied entry.",
+    "Budge Budge violence killed 19 passengers on return to India.",
+    "Ghadar Party founded 1913 in San Francisco; published 'Ghadar' newspaper.",
+    "Kartar Singh Sarabha → executed in 1915 at age 19."
+  ],
+  "prelimsTipsHindi": [
+    "कोमागाटा मारु घटना → 1914, वैंकूवर; 376 भारतीयों को प्रवेश नहीं मिला।",
+    "भारत लौटने पर बज-बज में हिंसा; 19 यात्री मारे गए।",
+    "ग़दर पार्टी 1913 में सैन फ़्रांसिस्को में बनी; 'ग़दर' अख़बार प्रकाशित हुआ।",
+    "करतार सिंह सराभा → 1915 में 19 वर्ष की आयु में फाँसी।"
+  ],
+  "funFacts": [
+    "The Komagata Maru ship was originally a Japanese ship hired by Gurdit Singh, a Sikh businessman from Singapore.",
+    "The Ghadar newspaper was printed on cheap paper but circulated globally, from Canada to India.",
+    "Kartar Singh Sarabha was so young that even the British judge noted his bravery at execution."
+  ],
+  "funFactsHindi": [
+    "कोमागाटा मारु जहाज़ मूल रूप से जापानी जहाज़ था जिसे सिख व्यापारी गुरदित सिंह ने किराए पर लिया था।",
+    "ग़दर अख़बार सस्ते कागज़ पर छपता था लेकिन कनाडा से लेकर भारत तक पहुँचा।",
+    "करतार सिंह सराभा इतने युवा थे कि ब्रिटिश जज ने भी फाँसी के समय उनकी बहादुरी की प्रशंसा की।"
+  ],
+  "mainsPoints": [
+    "Komagata Maru highlighted racial discrimination against Indians abroad and connected diaspora struggles to India’s freedom movement.",
+    "The Ghadar Party represented the global dimension of Indian nationalism, mobilising expatriates for armed revolt.",
+    "Both events exposed the hypocrisy of imperial powers claiming democracy but enforcing racial exclusion and colonial rule.",
+    "Komagata Maru and Ghadar became enduring symbols of sacrifice, resistance, and international solidarity in India’s independence movement."
+  ],
+  "mainsPointsHindi": [
+    "कोमागाटा मारु ने विदेशों में भारतीयों के साथ नस्लीय भेदभाव को उजागर किया और प्रवासी संघर्षों को भारत की स्वतंत्रता से जोड़ा।",
+    "ग़दर पार्टी भारतीय राष्ट्रवाद के वैश्विक स्वरूप का प्रतिनिधित्व करती थी, जिसने प्रवासी भारतीयों को सशस्त्र विद्रोह के लिए संगठित किया।",
+    "दोनों घटनाओं ने साम्राज्यवादी शक्तियों की उस पाखंडिता को उजागर किया जो लोकतंत्र का दावा करती थीं लेकिन नस्लीय भेदभाव और औपनिवेशिक शासन लागू करती थीं।",
+    "कोमागाटा मारु और ग़दर बलिदान, प्रतिरोध और अंतरराष्ट्रीय एकजुटता के स्थायी प्रतीक बने।"
+  ]
+},
+    ],
+    "Chapter 13: India’s Response to First World War and Home Rule Movement": [
+      {
+  "heading": "India’s Response to First World War and Home Rule Movement (Background)",
+  "headingHindi": "प्रथम विश्व युद्ध पर भारत की प्रतिक्रिया और होम रूल आंदोलन (पृष्ठभूमि)",
+  "highlight": "The outbreak of the First World War (1914) brought India into the conflict as a colony of Britain. While Indian leaders initially supported the war effort expecting political concessions, economic hardship, repression, and disappointment over reforms soon fueled discontent. This disillusionment set the stage for the Home Rule Movement (1916) led by Bal Gangadhar Tilak and Annie Besant.",
+  "highlightHindi": "प्रथम विश्व युद्ध (1914) के प्रारंभ में भारत ब्रिटेन का उपनिवेश होने के कारण युद्ध में शामिल हुआ। भारतीय नेताओं ने राजनीतिक रियायतों की आशा में युद्ध का समर्थन किया, लेकिन आर्थिक संकट, दमन और निराशाजनक सुधारों ने असंतोष को जन्म दिया। इसी असंतोष की पृष्ठभूमि में बाल गंगाधर तिलक और एनी बेसेंट के नेतृत्व में होम रूल आंदोलन (1916) शुरू हुआ।",
+  "details": [
+    "India in World War I: Over 13 lakh Indian soldiers fought overseas (France, Mesopotamia, Gallipoli, Africa). Around 74,000 Indians died.",
+    "Initial Support: Moderates and Congress leaders supported Britain, hoping loyalty would be rewarded with self-government.",
+    "Economic Impact: Heavy war expenditure led to increased taxes, rise in prices, food shortages, and famines. Common people bore the brunt.",
+    "Repression: Wartime measures like the Defence of India Act (1915) curtailed civil liberties, press freedom, and allowed preventive detention.",
+    "Revolutionary Activity: Ghadar Party (abroad) and revolutionary groups in India attempted to exploit wartime conditions for revolt (Indo-German Conspiracy, 1915–17).",
+    "Political Frustration: Despite India’s sacrifices, Britain’s post-war reforms (Montagu-Chelmsford Reforms) fell short of expectations.",
+    "Rise of Home Rule Demand: Inspired by Ireland’s Home Rule agitation, Indian leaders like Tilak and Annie Besant launched the Home Rule Movement (1916) demanding self-government within the British Empire.",
+    "Role of Extremists and Moderates: The Home Rule Movement created a platform where moderates, extremists, and even some revolutionaries could come together against colonial rule."
+  ],
+  "detailsHindi": [
+    "प्रथम विश्व युद्ध में भारत: 13 लाख से अधिक भारतीय सैनिकों ने विदेशों में (फ़्रांस, मेसोपोटामिया, गैलीपोली, अफ्रीका) लड़ाई लड़ी। लगभग 74,000 भारतीय मारे गए।",
+    "प्रारंभिक समर्थन: कांग्रेस और उदारवादी नेताओं ने ब्रिटेन का समर्थन किया, यह आशा करते हुए कि निष्ठा के बदले स्वशासन मिलेगा।",
+    "आर्थिक प्रभाव: युद्ध खर्च के कारण करों में वृद्धि, महँगाई, खाद्य संकट और अकाल उत्पन्न हुए। जनता को गहरी पीड़ा झेलनी पड़ी।",
+    "दमन: युद्धकालीन कानून जैसे डिफ़ेन्स ऑफ़ इंडिया एक्ट (1915) ने नागरिक स्वतंत्रताओं और प्रेस की स्वतंत्रता को दबाया तथा बिना मुकदमे गिरफ्तारी की अनुमति दी।",
+    "क्रांतिकारी गतिविधि: ग़दर पार्टी (विदेश में) और भारत के क्रांतिकारी समूहों ने युद्धकालीन परिस्थितियों का उपयोग विद्रोह के लिए करने की कोशिश की (इंडो-जर्मन षड्यंत्र, 1915–17)।",
+    "राजनीतिक निराशा: भारत के बलिदानों के बावजूद ब्रिटेन के युद्धोत्तर सुधार (मॉन्टेग-चेम्सफोर्ड सुधार) अपेक्षाओं से बहुत कम थे।",
+    "होम रूल की माँग: आयरलैंड के होम रूल आंदोलन से प्रेरित होकर तिलक और एनी बेसेंट ने भारत में होम रूल आंदोलन (1916) शुरू किया। इसका लक्ष्य ब्रिटिश साम्राज्य के भीतर स्वशासन था।",
+    "उग्रवादी और उदारवादी की भूमिका: होम रूल आंदोलन ने एक ऐसा मंच दिया, जहाँ उग्रवादी, उदारवादी और कुछ क्रांतिकारी भी औपनिवेशिक शासन के खिलाफ एकजुट हुए।"
+  ],
+  "tables": [
+    {
+      "title": "India’s Role in First World War",
+      "titleHindi": "प्रथम विश्व युद्ध में भारत की भूमिका",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Military Contribution", "13 lakh Indian soldiers fought; 74,000 killed"],
+        ["Economic Burden", "Taxes increased, inflation, food shortages"],
+        ["Political Response", "Congress supported war expecting reforms"],
+        ["Repressive Laws", "Defence of India Act (1915) curtailed freedoms"],
+        ["Revolutionary Response", "Ghadar Party and Indo-German Conspiracy attempted revolt"]
+      ],
+      "rowsHindi": [
+        ["सैन्य योगदान", "13 लाख भारतीय सैनिक; 74,000 शहीद"],
+        ["आर्थिक बोझ", "करों में वृद्धि, महँगाई, खाद्य संकट"],
+        ["राजनीतिक प्रतिक्रिया", "कांग्रेस ने सुधारों की आशा में युद्ध का समर्थन किया"],
+        ["दमनकारी कानून", "डिफ़ेन्स ऑफ़ इंडिया एक्ट (1915) ने स्वतंत्रता छीनी"],
+        ["क्रांतिकारी प्रतिक्रिया", "ग़दर पार्टी और इंडो-जर्मन षड्यंत्र ने विद्रोह का प्रयास किया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Defence of India Act → 1915 (wartime repressive law).",
+    "Over 13 lakh Indians fought in WWI; 74,000 killed.",
+    "Home Rule Movement launched in 1916 by Tilak and Annie Besant.",
+    "Inspired by Irish Home Rule agitation."
+  ],
+  "prelimsTipsHindi": [
+    "डिफ़ेन्स ऑफ़ इंडिया एक्ट → 1915 (युद्धकालीन दमनकारी कानून)।",
+    "प्रथम विश्व युद्ध में 13 लाख भारतीय सैनिक; 74,000 शहीद।",
+    "होम रूल आंदोलन 1916 में तिलक और एनी बेसेंट ने शुरू किया।",
+    "आयरलैंड के होम रूल आंदोलन से प्रेरित।"
+  ],
+  "funFacts": [
+    "Indian soldiers fought in Europe wearing turbans, which surprised many Europeans who had never seen Sikhs before.",
+    "Annie Besant, originally an Irishwoman, connected Irish and Indian struggles for Home Rule.",
+    "Tilak returned to politics in 1916 after his imprisonment (1908–14) and became a central figure in Home Rule agitation."
+  ],
+  "funFactsHindi": [
+    "भारतीय सैनिकों ने यूरोप में पगड़ी पहनकर युद्ध लड़ा, जिससे यूरोपियन चकित रह गए।",
+    "एनी बेसेंट मूल रूप से आयरलैंड की थीं और उन्होंने आयरिश व भारतीय होम रूल संघर्ष को जोड़ा।",
+    "तिलक 1908–14 की कैद के बाद 1916 में राजनीति में लौटे और होम रूल आंदोलन के केंद्रीय नेता बने।"
+  ],
+  "mainsPoints": [
+    "India’s enthusiastic participation in WWI initially reflected loyalty but later exposed colonial exploitation.",
+    "Economic hardships and repressive laws created mass discontent, weakening faith in British promises.",
+    "The disappointment after WWI reforms became a trigger for the rise of Home Rule Movement.",
+    "The Home Rule Movement bridged moderates and extremists, creating new unity in the nationalist struggle."
+  ],
+  "mainsPointsHindi": [
+    "प्रथम विश्व युद्ध में भारत की उत्साही भागीदारी ने प्रारंभ में निष्ठा दिखाई लेकिन बाद में औपनिवेशिक शोषण को उजागर किया।",
+    "आर्थिक कठिनाइयाँ और दमनकारी कानूनों ने व्यापक असंतोष उत्पन्न किया, जिससे ब्रिटिश वादों पर विश्वास कमज़ोर हुआ।",
+    "युद्धोत्तर सुधारों से निराशा होम रूल आंदोलन के उदय का कारण बनी।",
+    "होम रूल आंदोलन ने उदारवादियों और उग्रवादियों को जोड़कर राष्ट्रीय आंदोलन में नई एकता पैदा की।"
+  ]
+},
+{
+  "heading": "Home Rule Movement (1916–1918)",
+  "headingHindi": "होम रूल आंदोलन (1916–1918)",
+  "highlight": "The Home Rule Movement, launched separately by Bal Gangadhar Tilak and Annie Besant in 1916, demanded self-government for India within the British Empire. Inspired by Irish Home Rule, it marked a revival of nationalist politics after the decline of Swadeshi Movement and created unity between moderates and extremists.",
+  "highlightHindi": "होम रूल आंदोलन 1916 में बाल गंगाधर तिलक और एनी बेसेंट द्वारा अलग-अलग शुरू किया गया। इस आंदोलन ने ब्रिटिश साम्राज्य के भीतर भारत के लिए स्वशासन की माँग की। आयरिश होम रूल से प्रेरित यह आंदोलन स्वदेशी आंदोलन के पतन के बाद राष्ट्रवादी राजनीति का पुनर्जागरण था और इसने उग्रवादियों व उदारवादियों को जोड़ा।",
+  "details": [
+    "Launch: Tilak started the Home Rule League in April 1916 at Poona. Annie Besant launched her league in September 1916, headquartered at Adyar (Madras).",
+    "Objective: Self-government for India within the British Empire; increase political participation of Indians.",
+    "Inspirations: The Irish Home Rule Movement was the direct model.",
+    "Membership: Both leagues attracted students, lawyers, journalists, and professionals; membership spread across provinces.",
+    "Methods: Public meetings, pamphlets, newspapers, tours, lectures, and campaigns for political awareness. Mobilised Indian language press.",
+    "Tilak’s League: Active in Maharashtra, Karnataka, Central Provinces, and Berar. Focused on popular mobilisation and linking with peasants.",
+    "Besant’s League: Covered the rest of India, particularly Madras, Bombay, and United Provinces. Organised meetings, petitions, and propaganda.",
+    "Congress-League Pact (Lucknow Pact, 1916): The rise of Home Rule coincided with Hindu-Muslim unity through Congress-League Pact, boosting the movement’s significance.",
+    "British Response: Initially repressive; Annie Besant was interned in June 1917. Tilak faced restrictions. Repression, however, gave the movement more popularity.",
+    "Montagu’s Declaration (August 1917): Promising 'gradual development of self-governing institutions' was seen as a response to Home Rule pressure.",
+    "Decline: By 1918, movement weakened due to Besant’s moderate stance, return of moderates to Congress, and emergence of Gandhi’s mass Satyagraha (post-1919)."
+  ],
+  "detailsHindi": [
+    "शुरुआत: तिलक ने अप्रैल 1916 में पुणे से होम रूल लीग शुरू की। एनी बेसेंट ने सितंबर 1916 में अड्यार (मद्रास) से अपनी लीग शुरू की।",
+    "उद्देश्य: ब्रिटिश साम्राज्य के भीतर भारत के लिए स्वशासन; भारतीयों की राजनीतिक भागीदारी बढ़ाना।",
+    "प्रेरणा: आयरलैंड के होम रूल आंदोलन से मिली।",
+    "सदस्यता: छात्रों, वकीलों, पत्रकारों और पेशेवरों ने इसमें भाग लिया; प्रांतों में व्यापक प्रसार।",
+    "तरीके: सार्वजनिक सभाएँ, पैम्फलेट, समाचारपत्र, यात्राएँ, व्याख्यान और राजनीतिक जागरूकता अभियान। भारतीय भाषाई प्रेस का उपयोग।",
+    "तिलक की लीग: महाराष्ट्र, कर्नाटक, मध्य प्रांत और बेरार में सक्रिय। किसानों से जुड़कर लोकप्रिय समर्थन जुटाया।",
+    "बेसेंट की लीग: मद्रास, बॉम्बे और संयुक्त प्रांतों में सक्रिय। सभाएँ, याचिकाएँ और प्रचार संगठित किए।",
+    "कांग्रेस-लीग समझौता (लखनऊ पैक्ट, 1916): होम रूल आंदोलन के दौरान हिंदू-मुस्लिम एकता हुई, जिससे आंदोलन की महत्ता बढ़ी।",
+    "ब्रिटिश प्रतिक्रिया: प्रारंभ में दमनकारी; जून 1917 में एनी बेसेंट को नजरबंद किया गया। तिलक पर भी पाबंदियाँ लगीं। दमन ने आंदोलन की लोकप्रियता और बढ़ा दी।",
+    "मॉन्टेग घोषणा (अगस्त 1917): 'स्वशासी संस्थाओं के क्रमिक विकास' का वादा किया गया, जिसे होम रूल आंदोलन का परिणाम माना गया।",
+    "पतन: 1918 तक आंदोलन कमजोर पड़ा; बेसेंट का उदारवादी रुख, उदारवादियों का कांग्रेस में लौटना और गांधी के सत्याग्रह (1919 के बाद) का उभार।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Tilak’s and Besant’s Home Rule Leagues",
+      "titleHindi": "तिलक और बेसेंट की होम रूल लीग की तुलना",
+      "columns": ["Aspect", "Tilak’s League", "Besant’s League"],
+      "columnsHindi": ["पहलू", "तिलक की लीग", "बेसेंट की लीग"],
+      "rows": [
+        ["Founded", "April 1916 (Poona)", "September 1916 (Adyar, Madras)"],
+        ["Regions", "Maharashtra, Karnataka, CP & Berar", "Madras, Bombay, United Provinces, rest of India"],
+        ["Focus", "Mass mobilisation, peasants, popular appeal", "Educated classes, petitions, propaganda"],
+        ["Method", "Tours, meetings, vernacular press", "Pamphlets, petitions, journals"],
+        ["Leadership Style", "Assertive, linked with extremists", "Moderate, linked with Congress liberals"]
+      ],
+      "rowsHindi": [
+        ["स्थापना", "अप्रैल 1916 (पुणे)", "सितंबर 1916 (अड्यार, मद्रास)"],
+        ["क्षेत्र", "महाराष्ट्र, कर्नाटक, मध्य प्रांत और बेरार", "मद्रास, बॉम्बे, संयुक्त प्रांत और अन्य क्षेत्र"],
+        ["केन्द्र", "जनजागरण, किसानों से जुड़ाव, जनसामान्य", "शिक्षित वर्ग, याचिकाएँ, प्रचार"],
+        ["तरीके", "यात्राएँ, सभाएँ, भारतीय भाषाई प्रेस", "पैम्फलेट, याचिकाएँ, जर्नल"],
+        ["नेतृत्व शैली", "उग्रवादी रुझान, assertive", "उदारवादी रुझान, कांग्रेस से जुड़ाव"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Home Rule Movement launched 1916 by Tilak (Poona) and Annie Besant (Madras).",
+    "Inspired by Irish Home Rule Movement.",
+    "Annie Besant was interned in June 1917; release increased popularity.",
+    "Montagu’s Declaration (1917) → response to Home Rule agitation."
+  ],
+  "prelimsTipsHindi": [
+    "होम रूल आंदोलन 1916 में तिलक (पुणे) और एनी बेसेंट (मद्रास) ने शुरू किया।",
+    "आयरिश होम रूल आंदोलन से प्रेरित।",
+    "एनी बेसेंट को जून 1917 में नजरबंद किया गया; उनकी रिहाई ने लोकप्रियता बढ़ाई।",
+    "मॉन्टेग घोषणा (1917) → होम रूल आंदोलन का परिणाम।"
+  ],
+  "funFacts": [
+    "Tilak popularised the slogan: 'Home Rule is my birthright and I shall have it'.",
+    "Besant used Theosophical networks to spread the movement’s message across India.",
+    "The Lucknow Session (1916) of Congress witnessed unity between moderates, extremists, and Muslim League for the first time since Surat Split."
+  ],
+  "funFactsHindi": [
+    "तिलक ने नारा दिया: 'होम रूल मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा'।",
+    "बेसेंट ने थियोसोफिकल नेटवर्क का उपयोग आंदोलन के संदेश फैलाने में किया।",
+    "कांग्रेस का लखनऊ अधिवेशन (1916) में उदारवादी, उग्रवादी और मुस्लिम लीग पहली बार एक हुए।"
+  ],
+  "mainsPoints": [
+    "The Home Rule Movement revived nationalist activity after Swadeshi decline.",
+    "Created unity between moderates and extremists, and also fostered Hindu-Muslim cooperation (Lucknow Pact).",
+    "Spread political education to new social groups including students, women, and middle classes.",
+    "Pressured British to announce Montagu’s Declaration (1917).",
+    "Although short-lived, it prepared ground for Gandhi’s mass movements from 1919 onwards."
+  ],
+  "mainsPointsHindi": [
+    "होम रूल आंदोलन ने स्वदेशी आंदोलन के पतन के बाद राष्ट्रवादी गतिविधियों को पुनर्जीवित किया।",
+    "उदारवादियों और उग्रवादियों में एकता लाई और हिंदू-मुस्लिम सहयोग (लखनऊ पैक्ट) को भी प्रोत्साहित किया।",
+    "छात्रों, महिलाओं और मध्यम वर्ग सहित नए सामाजिक समूहों में राजनीतिक शिक्षा फैलाई।",
+    "ब्रिटिश सरकार को मॉन्टेग घोषणा (1917) करने के लिए बाध्य किया।",
+    "यद्यपि अल्पकालिक रहा, पर इसने 1919 के बाद गांधी के जन आंदोलनों की नींव रखी।"
+  ]
+},
+{
+  "heading": "Lucknow Pact (1916)",
+  "headingHindi": "लखनऊ समझौता (1916)",
+  "highlight": "The Lucknow Pact of 1916 was a historic agreement between the Indian National Congress and the All-India Muslim League, facilitated during the rise of the Home Rule Movement. It marked Hindu-Muslim unity and presented joint constitutional demands to the British, strengthening India’s nationalist struggle.",
+  "highlightHindi": "लखनऊ समझौता (1916) भारतीय राष्ट्रीय कांग्रेस और ऑल इंडिया मुस्लिम लीग के बीच हुआ एक ऐतिहासिक समझौता था, जो होम रूल आंदोलन के समय हुआ। इसने हिंदू-मुस्लिम एकता को मजबूत किया और ब्रिटिश सरकार के सामने संयुक्त संवैधानिक माँगें रखीं।",
+  "details": [
+    "Background: The political climate during World War I and the rise of the Home Rule Movement created opportunities for unity.",
+    "Congress Session at Lucknow (December 1916): Extremists (Tilak group) and Moderates (Gokhale’s followers) reunited after the Surat Split of 1907.",
+    "Muslim League Session at Lucknow (1916): For the first time, the Muslim League held its session at the same place and time as the Congress.",
+    "Agreement: Both parties agreed on a common set of constitutional reforms to demand from the British government.",
+    "Joint Demands: Expansion of legislative councils, greater Indian participation, protection of minorities, and self-government.",
+    "Separate Electorates: Congress accepted separate electorates for Muslims (first time), ensuring Muslim League’s support.",
+    "Role of Leaders: Tilak, Annie Besant, Mohammad Ali Jinnah, and others played key roles in facilitating the pact.",
+    "Impact: Created Hindu-Muslim unity at the national level, increased pressure on British government, and strengthened nationalist momentum.",
+    "Limitations: While it united communities temporarily, the acceptance of separate electorates laid foundations for communal politics later."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: प्रथम विश्व युद्ध और होम रूल आंदोलन के दौर में राजनीतिक एकता का अवसर बना।",
+    "कांग्रेस अधिवेशन (लखनऊ, दिसंबर 1916): उग्रवादी (तिलक गुट) और उदारवादी (गोखले के अनुयायी) 1907 के सूरत विभाजन के बाद फिर से एकजुट हुए।",
+    "मुस्लिम लीग अधिवेशन (लखनऊ, 1916): पहली बार मुस्लिम लीग का अधिवेशन कांग्रेस के अधिवेशन के साथ एक ही स्थान पर हुआ।",
+    "समझौता: दोनों दलों ने ब्रिटिश सरकार से माँगने के लिए संवैधानिक सुधारों पर सहमति बनाई।",
+    "संयुक्त माँगें: विधान परिषदों का विस्तार, भारतीयों की अधिक भागीदारी, अल्पसंख्यकों की सुरक्षा और स्वशासन।",
+    "पृथक निर्वाचक मंडल: कांग्रेस ने पहली बार मुसलमानों के लिए पृथक निर्वाचक मंडल को स्वीकार किया, जिससे मुस्लिम लीग का समर्थन मिला।",
+    "नेताओं की भूमिका: तिलक, एनी बेसेंट, मोहम्मद अली जिन्ना आदि ने समझौते में अहम भूमिका निभाई।",
+    "प्रभाव: राष्ट्रीय स्तर पर हिंदू-मुस्लिम एकता बनी, ब्रिटिश सरकार पर दबाव बढ़ा और राष्ट्रवादी आंदोलन को बल मिला।",
+    "सीमाएँ: हालाँकि इसने अस्थायी एकता बनाई, लेकिन पृथक निर्वाचक मंडलों की स्वीकृति ने आगे चलकर साम्प्रदायिक राजनीति की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Key Provisions of the Lucknow Pact",
+      "titleHindi": "लखनऊ समझौते के प्रमुख प्रावधान",
+      "columns": ["Provision", "Details"],
+      "columnsHindi": ["प्रावधान", "विवरण"],
+      "rows": [
+        ["Expansion of Councils", "Legislative councils to be larger with elected majority"],
+        ["Separate Electorates", "Muslims to elect their own representatives"],
+        ["Minority Rights", "Assurance of minority representation in legislatures"],
+        ["Self-Government", "Demand for eventual dominion status/self-rule"],
+        ["Unity", "Hindu-Muslim cooperation in political demands"]
+      ],
+      "rowsHindi": [
+        ["परिषदों का विस्तार", "विधान परिषदों का विस्तार और निर्वाचित बहुमत"],
+        ["पृथक निर्वाचक मंडल", "मुसलमान अपने प्रतिनिधि स्वयं चुनेंगे"],
+        ["अल्पसंख्यक अधिकार", "अल्पसंख्यकों को विधानमंडल में प्रतिनिधित्व की गारंटी"],
+        ["स्वशासन", "डोमिनियन स्टेटस/स्वशासन की माँग"],
+        ["एकता", "राजनीतिक माँगों में हिंदू-मुस्लिम सहयोग"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Lucknow Pact → 1916 (Congress + Muslim League).",
+    "Congress accepted separate electorates for Muslims for the first time.",
+    "Extremists and moderates reunited at Lucknow Session (1916).",
+    "Key leaders: Tilak, Annie Besant, Jinnah."
+  ],
+  "prelimsTipsHindi": [
+    "लखनऊ समझौता → 1916 (कांग्रेस + मुस्लिम लीग)।",
+    "कांग्रेस ने पहली बार मुसलमानों के लिए पृथक निर्वाचक मंडल स्वीकार किया।",
+    "उग्रवादी और उदारवादी 1916 के लखनऊ अधिवेशन में एकजुट हुए।",
+    "प्रमुख नेता: तिलक, एनी बेसेंट, जिन्ना।"
+  ],
+  "funFacts": [
+    "At Lucknow in 1916, Tilak and Jinnah shared the same political stage, symbolizing Hindu-Muslim unity.",
+    "The pact was hailed by Annie Besant as a 'wonderful beginning of a new era of national cooperation'.",
+    "The Lucknow Pact marked Jinnah as an 'ambassador of Hindu-Muslim unity', a title he later lost."
+  ],
+  "funFactsHindi": [
+    "1916 के लखनऊ अधिवेशन में तिलक और जिन्ना एक ही मंच पर आए, जो हिंदू-मुस्लिम एकता का प्रतीक था।",
+    "एनी बेसेंट ने इस समझौते को 'राष्ट्रीय सहयोग के नए युग की अद्भुत शुरुआत' कहा।",
+    "लखनऊ समझौते ने जिन्ना को 'हिंदू-मुस्लिम एकता का राजदूत' कहा, जो उपाधि उन्होंने आगे खो दी।"
+  ],
+  "mainsPoints": [
+    "Lucknow Pact marked the first formal Congress-Muslim League cooperation.",
+    "It strengthened nationalist struggle by bridging moderates, extremists, and Muslims.",
+    "Acceptance of separate electorates sowed seeds of future communal divide.",
+    "Despite its flaws, it was a milestone in India’s political awakening during WWI."
+  ],
+  "mainsPointsHindi": [
+    "लखनऊ समझौता कांग्रेस-मुस्लिम लीग के पहले औपचारिक सहयोग का प्रतीक था।",
+    "इसने उदारवादी, उग्रवादी और मुस्लिमों को जोड़कर राष्ट्रवादी संघर्ष को मजबूत किया।",
+    "पृथक निर्वाचक मंडल की स्वीकृति ने आगे चलकर साम्प्रदायिक विभाजन की नींव डाली।",
+    "कमियों के बावजूद यह प्रथम विश्व युद्ध के दौरान भारत की राजनीतिक चेतना का महत्वपूर्ण मील का पत्थर था।"
+  ]
+},
+{
+  "heading": "Montagu’s Declaration (1917) and Montagu-Chelmsford Reforms (1919)",
+  "headingHindi": "मॉन्टेग घोषणा (1917) और मॉन्टेग-चेम्सफोर्ड सुधार (1919)",
+  "highlight": "Montagu’s Declaration of August 1917 promised 'progressive realisation of responsible government in India.' This was followed by the Government of India Act, 1919 (Montagu-Chelmsford Reforms), introducing dyarchy in provinces and expanding legislative councils. While reforms fell short of nationalist expectations, they marked a shift in British policy acknowledging India’s demand for self-government.",
+  "highlightHindi": "अगस्त 1917 की मॉन्टेग घोषणा ने भारत में 'उत्तरदायी सरकार की क्रमिक स्थापना' का वादा किया। इसके बाद 1919 का भारत सरकार अधिनियम (मॉन्टेग-चेम्सफोर्ड सुधार) आया, जिसने प्रांतों में द्वैध शासन (डायार्की) और विधान परिषदों का विस्तार किया। यद्यपि सुधार राष्ट्रवादी अपेक्षाओं से कम थे, फिर भी उन्होंने भारत में स्वशासन की माँग को स्वीकार किया।",
+  "details": [
+    "Montagu’s Declaration (August 20, 1917): Edwin Montagu, Secretary of State for India, announced that Britain’s policy was to introduce 'gradual development of self-governing institutions' in India.",
+    "Context: Pressure from Home Rule Movement, Lucknow Pact, growing revolutionary activities, and India’s sacrifices in WWI forced Britain to promise reforms.",
+    "Government of India Act, 1919 (Montagu-Chelmsford Reforms): Implemented recommendations of Montagu and Viceroy Lord Chelmsford.",
+    "Provincial Dyarchy: Subjects divided into 'Reserved' (law, police, revenue – under British officials) and 'Transferred' (education, health, agriculture – under Indian ministers).",
+    "Legislative Councils: Expanded at central and provincial levels; more Indians included but still no real control over executives.",
+    "Bicameralism at Centre: For the first time, a bicameral legislature introduced – Central Legislative Assembly and Council of States.",
+    "Separate Electorates: Extended to Sikhs, Anglo-Indians, Indian Christians, and Europeans – deepening communal divisions.",
+    "Governor-General’s Powers: Retained overriding veto; executive remained firmly under British control.",
+    "Public Reaction: Nationalists criticized reforms as inadequate, calling them 'disappointing and deceitful'. Tilak called dyarchy 'a new charter of slavery'.",
+    "Impact: Though unsatisfactory, the reforms represented a constitutional milestone and laid foundation for later reforms like Government of India Act, 1935."
+  ],
+  "detailsHindi": [
+    "मॉन्टेग घोषणा (20 अगस्त 1917): भारत सचिव एडविन मॉन्टेग ने घोषणा की कि ब्रिटेन की नीति भारत में 'स्वशासी संस्थाओं के क्रमिक विकास' की है।",
+    "परिप्रेक्ष्य: होम रूल आंदोलन, लखनऊ समझौता, बढ़ती क्रांतिकारी गतिविधियाँ और प्रथम विश्व युद्ध में भारत के बलिदानों ने ब्रिटेन को सुधारों का वादा करने के लिए मजबूर किया।",
+    "भारत सरकार अधिनियम, 1919 (मॉन्टेग-चेम्सफोर्ड सुधार): मॉन्टेग और वायसराय लॉर्ड चेम्सफोर्ड की सिफारिशों पर आधारित।",
+    "प्रांतीय द्वैध शासन (डायार्की): विषय दो भागों में बाँटे गए – 'आरक्षित' (कानून, पुलिस, राजस्व – ब्रिटिश अधिकारियों के अधीन) और 'हस्तांतरित' (शिक्षा, स्वास्थ्य, कृषि – भारतीय मंत्रियों के अधीन)।",
+    "विधान परिषदें: केंद्रीय और प्रांतीय स्तर पर विस्तार; अधिक भारतीय शामिल लेकिन कार्यपालिका पर वास्तविक नियंत्रण नहीं।",
+    "केंद्रीय द्विसदनीयता: पहली बार केंद्रीय स्तर पर द्विसदनीय विधानमंडल – केंद्रीय विधान सभा और राज्यों की परिषद।",
+    "पृथक निर्वाचक मंडल: सिखों, एंग्लो-इंडियनों, भारतीय ईसाइयों और यूरोपियनों तक बढ़ाया गया – साम्प्रदायिक विभाजन गहराया।",
+    "गवर्नर-जनरल की शक्तियाँ: सर्वोच्च वीटो और नियंत्रण बना रहा; कार्यपालिका ब्रिटिश नियंत्रण में रही।",
+    "जन प्रतिक्रिया: राष्ट्रवादियों ने सुधारों को अपर्याप्त और 'छलपूर्ण' कहा। तिलक ने डायार्की को 'ग़ुलामी का नया चार्टर' बताया।",
+    "प्रभाव: यद्यपि असंतोषजनक थे, सुधार एक संवैधानिक मील का पत्थर बने और 1935 के भारत सरकार अधिनियम जैसे आगे के सुधारों की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of Montagu-Chelmsford Reforms (1919)",
+      "titleHindi": "मॉन्टेग-चेम्सफोर्ड सुधार (1919) की प्रमुख विशेषताएँ",
+      "columns": ["Feature", "Details"],
+      "columnsHindi": ["विशेषता", "विवरण"],
+      "rows": [
+        ["Provincial Dyarchy", "Subjects divided into Reserved (British control) and Transferred (Indian ministers)"],
+        ["Legislative Councils", "Expanded, but executive power remained with British"],
+        ["Central Legislature", "Introduced bicameralism: Assembly + Council of States"],
+        ["Separate Electorates", "Extended to more communities (Sikhs, Christians, Anglo-Indians)"],
+        ["Governor-General Powers", "Retained veto and overriding control"]
+      ],
+      "rowsHindi": [
+        ["प्रांतीय द्वैध शासन", "विषयों का विभाजन – आरक्षित (ब्रिटिश नियंत्रण) और हस्तांतरित (भारतीय मंत्रियों के अधीन)"],
+        ["विधान परिषदें", "विस्तारित, पर कार्यपालिका पर ब्रिटिश का नियंत्रण"],
+        ["केंद्रीय विधानमंडल", "द्विसदनीयता लागू – विधानसभा + राज्यों की परिषद"],
+        ["पृथक निर्वाचक मंडल", "अधिक समुदायों (सिख, ईसाई, एंग्लो-इंडियन) तक बढ़ाया गया"],
+        ["गवर्नर-जनरल की शक्तियाँ", "वीटो और सर्वोच्च नियंत्रण बरकरार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Montagu’s Declaration → 20 August 1917.",
+    "Government of India Act, 1919 → Introduced dyarchy in provinces.",
+    "First bicameral legislature at centre introduced in 1919.",
+    "Tilak called dyarchy 'a new charter of slavery'."
+  ],
+  "prelimsTipsHindi": [
+    "मॉन्टेग घोषणा → 20 अगस्त 1917।",
+    "भारत सरकार अधिनियम, 1919 → प्रांतों में द्वैध शासन लागू।",
+    "केंद्रीय स्तर पर पहली बार द्विसदनीय विधानमंडल (1919)।",
+    "तिलक ने डायार्की को 'ग़ुलामी का नया चार्टर' कहा।"
+  ],
+  "funFacts": [
+    "Montagu was the first British Secretary of State for India to visit India personally (1917).",
+    "The reforms introduced the first Indian woman legislator, Begum Jahanara Shahnawaz, later under expanded councils.",
+    "Despite reforms, Governor-General could overrule all provincial decisions, making dyarchy ineffective."
+  ],
+  "funFactsHindi": [
+    "मॉन्टेग पहले ब्रिटिश भारत सचिव थे जिन्होंने व्यक्तिगत रूप से भारत का दौरा किया (1917)।",
+    "सुधारों के बाद विस्तारित परिषदों में पहली भारतीय महिला विधायक बेगम जहांआरा शहनवाज बनीं।",
+    "सुधारों के बावजूद गवर्नर-जनरल सभी प्रांतीय निर्णयों को निरस्त कर सकता था, जिससे डायार्की अप्रभावी रही।"
+  ],
+  "mainsPoints": [
+    "Montagu’s Declaration was the first official British statement promising responsible government in India.",
+    "Montagu-Chelmsford Reforms introduced dyarchy, but left critical powers with British officials.",
+    "Acceptance of separate electorates deepened communal politics.",
+    "Though inadequate, the reforms marked a constitutional step and prepared ground for future struggles."
+  ],
+  "mainsPointsHindi": [
+    "मॉन्टेग घोषणा भारत में उत्तरदायी सरकार का पहला आधिकारिक ब्रिटिश वादा था।",
+    "मॉन्टेग-चेम्सफोर्ड सुधारों ने डायार्की लागू की, पर महत्वपूर्ण शक्तियाँ ब्रिटिश अधिकारियों के पास रहीं।",
+    "पृथक निर्वाचक मंडल की स्वीकृति ने साम्प्रदायिक राजनीति को गहरा किया।",
+    "अपर्याप्त होने के बावजूद, सुधार संवैधानिक कदम थे और आगे के संघर्षों की नींव बने।"
+  ]
+},
+    ],
+    "Chapter 14: Emergence of Gandhi": [
+      {
+  "heading": "Emergence of Gandhi in Indian Politics (1915–1920)",
+  "headingHindi": "भारतीय राजनीति में गांधी का उदय (1915–1920)",
+  "highlight": "Gandhi returned from South Africa in 1915, bringing with him the methods of satyagraha and non-violence. Through local movements in Champaran, Ahmedabad, and Kheda, and his leadership in the Rowlatt Satyagraha, he emerged as the national leader. By 1920, he became the undisputed face of Indian nationalism, linking diverse classes and communities.",
+  "highlightHindi": "गांधी 1915 में दक्षिण अफ्रीका से लौटे और अपने साथ सत्याग्रह और अहिंसा की पद्धति लेकर आए। चंपारण, अहमदाबाद और खेड़ा जैसे स्थानीय आंदोलनों तथा रोलेट सत्याग्रह के नेतृत्व के माध्यम से वे राष्ट्रीय नेता बने। 1920 तक वे भारतीय राष्ट्रवाद के निर्विवाद प्रतीक बन गए और विभिन्न वर्गों व समुदायों को जोड़ा।",
+  "details": [
+    "South Africa Experience: Gandhi developed satyagraha during struggles against racial laws (1906–14). This training shaped his future role in India.",
+    "Return to India (1915): He toured widely to understand conditions, often avoiding immediate political activity as advised by Gopal Krishna Gokhale.",
+    "Sabarmati Ashram (1917): Gandhi established his ashram near Ahmedabad, which became a hub of experiments in truth, non-violence, simplicity, and constructive work.",
+    "Champaran Satyagraha (1917): Against tinkathia system (forced indigo cultivation). Gandhi organized peasants, conducted surveys, and secured official abolition of the system.",
+    "Ahmedabad Mill Strike (1918): Textile workers demanded better wages. Gandhi supported them using hunger strike, forcing owners to concede.",
+    "Kheda Satyagraha (1918): Peasants faced famine and demanded tax remission. Gandhi, Sardar Patel, and Indulal Yajnik organized no-tax campaign; government conceded partial relief.",
+    "Rowlatt Act & Satyagraha (1919): The act allowed detention without trial. Gandhi called for hartals and non-violent protests nationwide. Although violence broke out, this was Gandhi’s first all-India agitation.",
+    "Jallianwala Bagh Massacre (April 1919): General Dyer’s firing on unarmed crowd shocked the nation. Gandhi assumed moral leadership of Indian politics.",
+    "Khilafat Movement (1919–20): Indian Muslims opposed dismemberment of the Ottoman Caliphate. Gandhi supported them, merging Khilafat with Non-Cooperation, creating Hindu-Muslim unity.",
+    "Rise as National Leader: By 1920, Gandhi had transformed the nationalist struggle into a mass movement involving peasants, workers, women, and students.",
+    "Constructive Programme: Gandhi emphasized spinning khadi, removal of untouchability, promotion of Hindu-Muslim unity, and rural uplift as part of the freedom struggle."
+  ],
+  "detailsHindi": [
+    "दक्षिण अफ्रीका का अनुभव: गांधी ने वहाँ (1906–14) नस्लीय कानूनों के खिलाफ संघर्षों में सत्याग्रह विकसित किया। यही प्रशिक्षण भारत में उनकी भूमिका का आधार बना।",
+    "भारत वापसी (1915): गोपाल कृष्ण गोखले की सलाह पर उन्होंने तुरंत राजनीति में प्रवेश न कर पूरे भारत का भ्रमण किया।",
+    "साबरमती आश्रम (1917): अहमदाबाद के पास गांधी ने आश्रम स्थापित किया, जो सत्य, अहिंसा, सादगी और रचनात्मक कार्यों का केंद्र बना।",
+    "चंपारण सत्याग्रह (1917): 'टिनकठिया प्रथा' (जबरन नील की खेती) के खिलाफ। गांधी ने किसानों को संगठित किया, सर्वेक्षण किया और प्रथा समाप्त कराई।",
+    "अहमदाबाद मिल हड़ताल (1918): कपड़ा मजदूरों ने वेतन वृद्धि की माँग की। गांधी ने अनशन का प्रयोग कर मालिकों को झुकाया।",
+    "खेड़ा सत्याग्रह (1918): अकाल से प्रभावित किसानों ने कर माफी की माँग की। गांधी, सरदार पटेल और इंदुलाल याज्ञिक ने नेतृत्व किया और आंशिक कर माफी मिली।",
+    "रोलेट एक्ट और सत्याग्रह (1919): इस कानून ने बिना मुकदमे गिरफ्तारी की अनुमति दी। गांधी ने अखिल भारतीय हड़ताल और अहिंसक आंदोलन का आह्वान किया। हिंसा के बावजूद यह गांधी का पहला अखिल भारतीय आंदोलन था।",
+    "जलियाँवाला बाग हत्याकांड (अप्रैल 1919): जनरल डायर द्वारा निहत्थे लोगों पर गोलीबारी ने पूरे राष्ट्र को झकझोर दिया। गांधी राष्ट्रीय राजनीति के नैतिक नेता बने।",
+    "खिलाफत आंदोलन (1919–20): भारतीय मुसलमान ओटोमन खलीफात के विघटन का विरोध कर रहे थे। गांधी ने इसका समर्थन किया और असहयोग आंदोलन से जोड़ा, जिससे हिंदू-मुस्लिम एकता बनी।",
+    "राष्ट्रीय नेता के रूप में उदय: 1920 तक गांधी ने किसानों, मजदूरों, महिलाओं और छात्रों को जोड़कर राष्ट्रवादी आंदोलन को जनांदोलन बना दिया।",
+    "रचनात्मक कार्यक्रम: गांधी ने खादी कातने, छुआछूत हटाने, हिंदू-मुस्लिम एकता और ग्रामीण उत्थान को स्वतंत्रता संघर्ष का हिस्सा बनाया।"
+  ],
+  "tables": [
+    {
+      "title": "Timeline of Gandhi’s Early Movements in India",
+      "titleHindi": "भारत में गांधी के प्रारंभिक आंदोलनों की समयरेखा",
+      "columns": ["Year", "Event", "Region", "Outcome"],
+      "columnsHindi": ["वर्ष", "घटना", "क्षेत्र", "परिणाम"],
+      "rows": [
+        ["1915", "Return from South Africa", "India", "Began tours to understand India"],
+        ["1917", "Sabarmati Ashram", "Gujarat", "Centre of satyagraha and constructive work"],
+        ["1917", "Champaran Satyagraha", "Bihar", "Abolition of tinkathia system"],
+        ["1918", "Ahmedabad Mill Strike", "Gujarat", "Workers gained wage increase"],
+        ["1918", "Kheda Satyagraha", "Gujarat", "Partial revenue remission for peasants"],
+        ["1919", "Rowlatt Satyagraha", "All India", "Suppressed violently; Gandhi emerged as all-India leader"],
+        ["1919", "Jallianwala Bagh Massacre", "Punjab", "National outrage; Gandhi gained moral leadership"],
+        ["1920", "Khilafat-Non-Cooperation", "All India", "Start of Gandhian mass movement phase"]
+      ],
+      "rowsHindi": [
+        ["1915", "दक्षिण अफ्रीका से वापसी", "भारत", "भारत की परिस्थितियों का अध्ययन शुरू किया"],
+        ["1917", "साबरमती आश्रम", "गुजरात", "सत्याग्रह और रचनात्मक कार्य का केंद्र"],
+        ["1917", "चंपारण सत्याग्रह", "बिहार", "टिनकठिया प्रथा समाप्त"],
+        ["1918", "अहमदाबाद मिल हड़ताल", "गुजरात", "मजदूरों को वेतन वृद्धि"],
+        ["1918", "खेड़ा सत्याग्रह", "गुजरात", "किसानों को कर माफी"],
+        ["1919", "रोलेट सत्याग्रह", "अखिल भारतीय", "हिंसक दमन; गांधी अखिल भारतीय नेता बने"],
+        ["1919", "जलियाँवाला बाग हत्याकांड", "पंजाब", "राष्ट्रीय आक्रोश; गांधी नैतिक नेता बने"],
+        ["1920", "खिलाफत-असहयोग आंदोलन", "अखिल भारतीय", "गांधी युगीन जन आंदोलन की शुरुआत"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Champaran Satyagraha (1917) → Gandhi’s first satyagraha in India.",
+    "Ahmedabad Mill Strike (1918) → Gandhi used hunger strike successfully.",
+    "Kheda Satyagraha (1918) → Revenue remission for peasants.",
+    "Rowlatt Satyagraha (1919) → First all-India agitation under Gandhi.",
+    "Jallianwala Bagh (1919) → Turning point in nationalist struggle.",
+    "Khilafat merged with Non-Cooperation (1920) → Gandhi as national leader."
+  ],
+  "prelimsTipsHindi": [
+    "चंपारण सत्याग्रह (1917) → गांधी का भारत में पहला सत्याग्रह।",
+    "अहमदाबाद मिल हड़ताल (1918) → गांधी ने अनशन का प्रयोग किया।",
+    "खेड़ा सत्याग्रह (1918) → किसानों को कर माफी मिली।",
+    "रोलेट सत्याग्रह (1919) → गांधी का पहला अखिल भारतीय आंदोलन।",
+    "जलियाँवाला बाग (1919) → स्वतंत्रता आंदोलन का निर्णायक मोड़।",
+    "खिलाफत-असहयोग (1920) → गांधी राष्ट्रीय नेता बने।"
+  ],
+  "funFacts": [
+    "Champaran peasants called Gandhi 'Bapu' for the first time.",
+    "Gandhi experimented with diet, spinning, and simple living at Sabarmati Ashram as part of his philosophy.",
+    "During Kheda Satyagraha, Gandhi inspired peasants to 'do or die' but without violence."
+  ],
+  "funFactsHindi": [
+    "चंपारण के किसानों ने पहली बार गांधी को 'बापू' कहा।",
+    "गांधी ने साबरमती आश्रम में आहार, चरखा और सादगी के साथ प्रयोग किए।",
+    "खेड़ा सत्याग्रह में गांधी ने किसानों को 'करो या मरो' की प्रेरणा दी लेकिन बिना हिंसा।"
+  ],
+  "mainsPoints": [
+    "Gandhi introduced satyagraha and non-violence as practical tools of mass struggle in India.",
+    "His leadership connected peasants, workers, and middle classes, widening the nationalist base.",
+    "Rowlatt Satyagraha and Jallianwala Bagh massacre elevated him as moral and political leader of India.",
+    "By 1920, Gandhi unified Congress, Khilafat, and masses into a single movement, marking the beginning of the Gandhian era."
+  ],
+  "mainsPointsHindi": [
+    "गांधी ने सत्याग्रह और अहिंसा को भारत में जन संघर्ष के व्यावहारिक साधन बनाया।",
+    "उनके नेतृत्व ने किसानों, मजदूरों और मध्यम वर्ग को राष्ट्रवादी आंदोलन से जोड़ा।",
+    "रोलेट सत्याग्रह और जलियाँवाला बाग ने उन्हें भारत का नैतिक और राजनीतिक नेता बना दिया।",
+    "1920 तक गांधी ने कांग्रेस, खिलाफत और जनता को एक मंच पर लाकर गांधी युग की शुरुआत की।"
+  ]
+},
+{
+  "heading": "Rowlatt Act (1919)",
+  "headingHindi": "रोलेट एक्ट (1919)",
+  "highlight": "The Rowlatt Act, passed in March 1919, empowered the British government in India to arrest and detain individuals without trial and curb press freedom. Popularly called the 'Black Act,' it sparked widespread anger, leading to Gandhi’s first all-India satyagraha and ultimately contributing to the Jallianwala Bagh tragedy.",
+  "highlightHindi": "मार्च 1919 में पारित रोलेट एक्ट ने भारत में ब्रिटिश सरकार को बिना मुकदमे गिरफ्तारी और हिरासत का अधिकार दिया तथा प्रेस की स्वतंत्रता पर रोक लगाई। इसे 'काला क़ानून' कहा गया और इसने व्यापक आक्रोश पैदा किया, जिसके परिणामस्वरूप गांधी का पहला अखिल भारतीय सत्याग्रह हुआ और जलियाँवाला बाग त्रासदी की पृष्ठभूमि बनी।",
+  "details": [
+    "Background: Recommended by the Rowlatt Committee (1918) under Justice Sydney Rowlatt to curb revolutionary activities during and after WWI.",
+    "Provisions: Allowed detention without trial for up to two years, trial without jury, restrictions on press, and preventive measures against political agitation.",
+    "Nickname: Nationalists termed it the 'Black Act' for its draconian measures.",
+    "Public Reaction: Leaders across the country condemned it as a betrayal of wartime promises of self-government.",
+    "Gandhi’s Response: Gandhi called for a nationwide hartal (April 6, 1919) – the first all-India satyagraha.",
+    "Spread of Agitation: Strikes, processions, and protests erupted in Delhi, Punjab, Gujarat, and Bengal.",
+    "Consequences: Repression by British authorities, mass arrests, and violence in some places.",
+    "Link to Jallianwala Bagh: The agitation against the Act culminated in the Jallianwala Bagh massacre (April 13, 1919), intensifying nationalist struggle."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: 1918 में जस्टिस सिडनी रोलेट की अध्यक्षता वाली समिति ने प्रथम विश्व युद्ध के दौरान और बाद में क्रांतिकारी गतिविधियों को रोकने के लिए सिफारिशें दीं।",
+    "प्रावधान: बिना मुकदमे दो वर्ष तक हिरासत, बिना जूरी मुकदमा, प्रेस पर पाबंदी और राजनीतिक आंदोलनों पर रोक।",
+    "उपनाम: राष्ट्रवादियों ने इसे दमनकारी उपायों के कारण 'काला क़ानून' कहा।",
+    "जन प्रतिक्रिया: पूरे देश के नेताओं ने इसे स्वशासन के वादों से विश्वासघात बताया।",
+    "गांधी की प्रतिक्रिया: गांधी ने 6 अप्रैल 1919 को अखिल भारतीय हड़ताल का आह्वान किया – यह पहला अखिल भारतीय सत्याग्रह था।",
+    "आंदोलन का प्रसार: दिल्ली, पंजाब, गुजरात और बंगाल में हड़तालें, जुलूस और प्रदर्शन हुए।",
+    "परिणाम: ब्रिटिश दमन, बड़े पैमाने पर गिरफ्तारियाँ और कुछ स्थानों पर हिंसा।",
+    "जलियाँवाला बाग से संबंध: इस क़ानून के खिलाफ आंदोलन का चरम जलियाँवाला बाग नरसंहार (13 अप्रैल 1919) बना, जिसने राष्ट्रवादी संघर्ष को तीव्र कर दिया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of Rowlatt Act (1919)",
+      "titleHindi": "रोलेट एक्ट (1919) की प्रमुख विशेषताएँ",
+      "columns": ["Feature", "Details"],
+      "columnsHindi": ["विशेषता", "विवरण"],
+      "rows": [
+        ["Detention", "Arrest without warrant; detention up to 2 years without trial"],
+        ["Trials", "Political cases tried without jury"],
+        ["Press", "Severe restrictions on newspapers and publications"],
+        ["Political Activity", "Government empowered to curb nationalist movements"],
+        ["Public Perception", "Called 'Black Act' due to suppression of civil rights"]
+      ],
+      "rowsHindi": [
+        ["हिरासत", "बिना वारंट गिरफ्तारी; बिना मुकदमे दो वर्ष तक हिरासत"],
+        ["मुकदमे", "राजनीतिक मामलों में बिना जूरी मुकदमा"],
+        ["प्रेस", "समाचार पत्रों और प्रकाशनों पर कड़ी पाबंदियाँ"],
+        ["राजनीतिक गतिविधि", "राष्ट्रीय आंदोलनों को दबाने का अधिकार सरकार को मिला"],
+        ["जन धारणा", "नागरिक अधिकारों को कुचलने के कारण 'काला क़ानून' कहा गया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Rowlatt Act (1919) → Based on Rowlatt Committee report (1918).",
+    "Allowed detention without trial; called 'Black Act'.",
+    "First all-India satyagraha launched by Gandhi against it.",
+    "Directly linked to Jallianwala Bagh massacre."
+  ],
+  "prelimsTipsHindi": [
+    "रोलेट एक्ट (1919) → रोलेट समिति (1918) की सिफारिशों पर आधारित।",
+    "बिना मुकदमे गिरफ्तारी की अनुमति; 'काला क़ानून' कहा गया।",
+    "गांधी ने इसके खिलाफ पहला अखिल भारतीय सत्याग्रह शुरू किया।",
+    "सीधे जलियाँवाला बाग नरसंहार से जुड़ा।"
+  ],
+  "funFacts": [
+    "The Act was officially called the 'Anarchical and Revolutionary Crimes Act of 1919'.",
+    "Even moderates like Madan Mohan Malaviya and Annie Besant opposed it strongly.",
+    "Gandhi’s hartal against the Act on April 6, 1919, was one of the first truly nationwide protests in India."
+  ],
+  "funFactsHindi": [
+    "इस कानून का आधिकारिक नाम 'एनेर्किकल एंड रेवोल्यूशनरी क्राइम्स एक्ट, 1919' था।",
+    "यहाँ तक कि मदन मोहन मालवीय और एनी बेसेंट जैसे उदारवादियों ने भी इसका कड़ा विरोध किया।",
+    "गांधी का 6 अप्रैल 1919 का हड़ताल आह्वान भारत का पहला वास्तविक अखिल भारतीय विरोध प्रदर्शन था।"
+  ],
+  "mainsPoints": [
+    "Rowlatt Act exposed British betrayal of wartime promises of self-government.",
+    "Its draconian provisions curbed civil liberties and press freedom.",
+    "Gandhi’s anti-Rowlatt Satyagraha marked the beginning of mass Gandhian politics.",
+    "It directly led to unrest culminating in Jallianwala Bagh massacre."
+  ],
+  "mainsPointsHindi": [
+    "रोलेट एक्ट ने युद्धकालीन स्वशासन के ब्रिटिश वादों के विश्वासघात को उजागर किया।",
+    "इसके दमनकारी प्रावधानों ने नागरिक स्वतंत्रताओं और प्रेस की आज़ादी को कुचल दिया।",
+    "गांधी का रोलेट सत्याग्रह गांधीवादी जन राजनीति की शुरुआत बना।",
+    "यह सीधे जलियाँवाला बाग नरसंहार तक ले गया।"
+  ]
+},
+{
+  "heading": "Impact of the Rowlatt Act (1919)",
+  "headingHindi": "रोलेट एक्ट (1919) का प्रभाव",
+  "highlight": "The Rowlatt Act provoked unprecedented anger across India, uniting moderates and extremists against British repression. Gandhi’s first all-India satyagraha was launched in protest. The Act intensified distrust in British promises, led to mass protests, and directly contributed to the Jallianwala Bagh massacre.",
+  "highlightHindi": "रोलेट एक्ट ने पूरे भारत में अभूतपूर्व आक्रोश पैदा किया और उदारवादियों व उग्रवादियों को ब्रिटिश दमन के खिलाफ एकजुट किया। गांधी ने इसके विरोध में पहला अखिल भारतीय सत्याग्रह शुरू किया। इस कानून ने ब्रिटिश वादों पर अविश्वास गहराया, जन आंदोलनों को जन्म दिया और सीधे जलियाँवाला बाग नरसंहार का कारण बना।",
+  "details": [
+    "National Outrage: The Act was denounced as 'Black Act' by leaders across political spectrum.",
+    "Unity of Nationalists: Moderates and extremists, Congress and Muslim League leaders, all opposed the Act, bringing rare unity.",
+    "Mass Protests: Hartals, strikes, processions, and demonstrations spread across India.",
+    "Birth of Nationwide Satyagraha: Gandhi launched his first all-India satyagraha (April 1919) against the Act, introducing non-violent protest as a mass tool.",
+    "Repression: British authorities used violence and arrests; peaceful protests turned violent in some places due to police action.",
+    "Loss of Faith in British: Indians saw the Act as betrayal of Montagu’s 1917 promise of gradual self-government.",
+    "Escalation to Violence: The unrest culminated in the Jallianwala Bagh massacre in Amritsar (April 1919).",
+    "Legacy: Though repealed later, the Act left a deep scar on Indian politics and marked the beginning of Gandhi’s dominance in the national movement."
+  ],
+  "detailsHindi": [
+    "राष्ट्रीय आक्रोश: इस कानून को पूरे राजनीतिक वर्ग ने 'काला क़ानून' कहकर निंदा की।",
+    "राष्ट्रवादियों की एकता: उदारवादी और उग्रवादी, कांग्रेस और मुस्लिम लीग के नेता सभी इसके खिलाफ एकजुट हुए।",
+    "जन आंदोलन: पूरे भारत में हड़तालें, जुलूस और प्रदर्शन हुए।",
+    "अखिल भारतीय सत्याग्रह का जन्म: गांधी ने अप्रैल 1919 में इसके खिलाफ पहला अखिल भारतीय सत्याग्रह शुरू किया और अहिंसा को जन संघर्ष का साधन बनाया।",
+    "दमन: ब्रिटिश सरकार ने हिंसा और गिरफ्तारियों का सहारा लिया; शांतिपूर्ण आंदोलन कई जगह पुलिस कार्रवाई से हिंसक बन गया।",
+    "ब्रिटिश पर अविश्वास: भारतीयों ने इसे 1917 की मॉन्टेग घोषणा (क्रमिक स्वशासन) के वादे से विश्वासघात माना।",
+    "हिंसा की ओर बढ़ाव: इस अशांति का चरम अमृतसर के जलियाँवाला बाग नरसंहार (अप्रैल 1919) में हुआ।",
+    "विरासत: बाद में इसे निरस्त किया गया, लेकिन इसने भारतीय राजनीति पर गहरा घाव छोड़ा और गांधी के राष्ट्रीय आंदोलन में प्रभुत्व की शुरुआत की।"
+  ],
+  "tables": [
+    {
+      "title": "Impact of the Rowlatt Act",
+      "titleHindi": "रोलेट एक्ट का प्रभाव",
+      "columns": ["Impact Area", "Details"],
+      "columnsHindi": ["प्रभाव क्षेत्र", "विवरण"],
+      "rows": [
+        ["Political Unity", "Moderates and extremists, Hindus and Muslims opposed the Act"],
+        ["Mass Politics", "First all-India satyagraha by Gandhi"],
+        ["Civil Liberties", "Freedom of press and personal liberty suppressed"],
+        ["Trust Deficit", "Betrayal of Montagu Declaration (1917)"],
+        ["Escalation", "Led to violence and Jallianwala Bagh massacre"]
+      ],
+      "rowsHindi": [
+        ["राजनीतिक एकता", "उदारवादी और उग्रवादी, हिंदू और मुसलमान सभी विरोध में"],
+        ["जन राजनीति", "गांधी का पहला अखिल भारतीय सत्याग्रह"],
+        ["नागरिक स्वतंत्रता", "प्रेस और व्यक्तिगत स्वतंत्रता का दमन"],
+        ["विश्वास संकट", "मॉन्टेग घोषणा (1917) के वादे से विश्वासघात"],
+        ["वृद्धि", "हिंसा और जलियाँवाला बाग नरसंहार तक पहुँचा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Rowlatt Act (1919) → Called 'Black Act'.",
+    "Led to first all-India satyagraha by Gandhi.",
+    "Deepened distrust in British promises of reforms.",
+    "Direct precursor to Jallianwala Bagh massacre."
+  ],
+  "prelimsTipsHindi": [
+    "रोलेट एक्ट (1919) → 'काला क़ानून' कहा गया।",
+    "गांधी का पहला अखिल भारतीय सत्याग्रह इसी के खिलाफ हुआ।",
+    "ब्रिटिश सुधार वादों पर अविश्वास गहराया।",
+    "जलियाँवाला बाग नरसंहार का प्रत्यक्ष कारण।"
+  ],
+  "funFacts": [
+    "Even loyalists like Madan Mohan Malaviya and Annie Besant strongly opposed the Act.",
+    "The Act was officially called the 'Anarchical and Revolutionary Crimes Act of 1919'.",
+    "The nationwide hartal of April 1919 was among India’s first coordinated mass strikes."
+  ],
+  "funFactsHindi": [
+    "यहाँ तक कि मदन मोहन मालवीय और एनी बेसेंट जैसे वफादार नेताओं ने भी इसका विरोध किया।",
+    "इसका आधिकारिक नाम 'एनेर्किकल एंड रेवोल्यूशनरी क्राइम्स एक्ट, 1919' था।",
+    "अप्रैल 1919 की अखिल भारतीय हड़ताल भारत की पहली समन्वित जन हड़तालों में से थी।"
+  ],
+  "mainsPoints": [
+    "Rowlatt Act united diverse political groups in opposition to British repression.",
+    "It marked Gandhi’s entry into national leadership with his first satyagraha.",
+    "The act undermined faith in British reforms and promises.",
+    "Its impact culminated in Jallianwala Bagh massacre, a turning point in Indian freedom struggle."
+  ],
+  "mainsPointsHindi": [
+    "रोलेट एक्ट ने ब्रिटिश दमन के खिलाफ विभिन्न राजनीतिक समूहों को एकजुट किया।",
+    "गांधी का पहला सत्याग्रह राष्ट्रीय नेतृत्व में उनके प्रवेश का प्रतीक बना।",
+    "इस कानून ने ब्रिटिश सुधारों और वादों पर विश्वास को कमजोर किया।",
+    "इसका चरम जलियाँवाला बाग नरसंहार रहा, जो स्वतंत्रता संग्राम का निर्णायक मोड़ बना।"
+  ]
+},
+{
+  "heading": "Jallianwala Bagh Massacre (1919) and Its Outcome",
+  "headingHindi": "जलियाँवाला बाग हत्याकांड (1919) और उसका परिणाम",
+  "highlight": "On 13 April 1919, thousands of unarmed men, women, and children had gathered at Jallianwala Bagh, Amritsar, to protest peacefully against the Rowlatt Act. General Dyer ordered troops to fire without warning, killing hundreds. The massacre shocked India, destroyed trust in British rule, and became a turning point in the freedom struggle.",
+  "highlightHindi": "13 अप्रैल 1919 को अमृतसर के जलियाँवाला बाग में रोलेट एक्ट के विरोध में हजारों निहत्थे लोग इकट्ठा हुए। जनरल डायर ने बिना चेतावनी गोली चलाने का आदेश दिया, जिससे सैकड़ों लोग मारे गए। इस हत्याकांड ने भारत को झकझोर दिया, ब्रिटिश शासन पर विश्वास तोड़ दिया और स्वतंत्रता संग्राम का निर्णायक मोड़ बना।",
+  "details": [
+    "Background: Following protests against Rowlatt Act in Punjab, meetings were banned, but people assembled peacefully at Jallianwala Bagh on Baisakhi day (April 13, 1919).",
+    "The Incident: General Reginald Dyer blocked exits and ordered troops to fire on the unarmed crowd without warning.",
+    "Casualties: Official British figures claimed around 379 deaths, but Indian estimates placed deaths over 1,000 with many more injured.",
+    "Nature of Attack: Continuous firing until ammunition was exhausted; no escape route for people inside the walled garden.",
+    "Hunter Commission (1919): Set up by the British to investigate, it condemned Dyer’s actions but no major punishment was given.",
+    "Tagore’s Protest: Rabindranath Tagore renounced his knighthood in protest against the massacre.",
+    "Gandhi’s Reaction: Gandhi called it a 'national humiliation' and intensified his non-cooperation campaign.",
+    "Public Shock: The massacre destroyed any remaining faith in British justice among Indians."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: रोलेट एक्ट के विरोध में पंजाब में प्रदर्शन हो रहे थे। बैठकें प्रतिबंधित थीं, फिर भी बैसाखी के दिन (13 अप्रैल 1919) लोग जलियाँवाला बाग में शांति से इकट्ठा हुए।",
+    "घटना: जनरल रेजिनाल्ड डायर ने बाग के द्वार बंद कर सैनिकों को निहत्थी भीड़ पर गोली चलाने का आदेश दिया।",
+    "हानि: ब्रिटिश रिपोर्ट के अनुसार लगभग 379 लोग मारे गए, लेकिन भारतीय अनुमान 1,000 से अधिक मृतक और सैकड़ों घायल बताते हैं।",
+    "हमले की प्रकृति: लगातार गोलीबारी तब तक चली जब तक गोलियाँ खत्म नहीं हो गईं; लोगों के लिए कोई भागने का रास्ता नहीं था।",
+    "हंटर आयोग (1919): ब्रिटिश सरकार ने जांच के लिए आयोग बनाया, जिसने डायर की निंदा की पर कोई सख्त दंड नहीं दिया।",
+    "टैगोर का विरोध: रवींद्रनाथ टैगोर ने विरोध स्वरूप अपनी नाइटहुड की उपाधि लौटा दी।",
+    "गांधी की प्रतिक्रिया: गांधी ने इसे 'राष्ट्रीय अपमान' कहा और असहयोग अभियान को तेज किया।",
+    "जन आघात: इस हत्याकांड ने भारतीयों के मन में ब्रिटिश न्याय पर शेष विश्वास भी समाप्त कर दिया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Outcomes of Jallianwala Bagh Massacre",
+      "titleHindi": "जलियाँवाला बाग हत्याकांड के प्रमुख परिणाम",
+      "columns": ["Outcome", "Details"],
+      "columnsHindi": ["परिणाम", "विवरण"],
+      "rows": [
+        ["National Outrage", "Massacre condemned across India; protests intensified"],
+        ["Tagore’s Protest", "Renounced knighthood in protest"],
+        ["Gandhi’s Response", "Strengthened call for non-cooperation with British"],
+        ["Political Shift", "Moderates lost faith in British rule; unity with extremists increased"],
+        ["International Condemnation", "Global criticism of British actions damaged empire’s image"]
+      ],
+      "rowsHindi": [
+        ["राष्ट्रीय आक्रोश", "पूरे भारत में हत्याकांड की निंदा; विरोध तेज हुआ"],
+        ["टैगोर का विरोध", "नाइटहुड की उपाधि लौटाई"],
+        ["गांधी की प्रतिक्रिया", "ब्रिटिश के साथ असहयोग का आह्वान मजबूत हुआ"],
+        ["राजनीतिक बदलाव", "उदारवादियों का भी ब्रिटिश पर से विश्वास उठा; उग्रवादियों से एकता बढ़ी"],
+        ["अंतरराष्ट्रीय निंदा", "ब्रिटिश कार्यवाही की वैश्विक आलोचना; साम्राज्य की छवि धूमिल"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Jallianwala Bagh Massacre → 13 April 1919, Amritsar, Punjab.",
+    "General Dyer ordered firing on unarmed civilians.",
+    "Hunter Commission investigated but gave no real punishment.",
+    "Rabindranath Tagore renounced knighthood in protest."
+  ],
+  "prelimsTipsHindi": [
+    "जलियाँवाला बाग नरसंहार → 13 अप्रैल 1919, अमृतसर, पंजाब।",
+    "जनरल डायर ने निहत्थे नागरिकों पर गोली चलाने का आदेश दिया।",
+    "हंटर आयोग ने जांच की लेकिन कोई सजा नहीं दी।",
+    "रवींद्रनाथ टैगोर ने विरोध स्वरूप नाइटहुड की उपाधि लौटाई।"
+  ],
+  "funFacts": [
+    "The garden had only one narrow exit, which was blocked by troops, trapping people inside.",
+    "The massacre occurred on Baisakhi, a major harvest festival in Punjab.",
+    "Udham Singh later avenged the massacre by assassinating Michael O’Dwyer (Punjab’s Lt. Governor during 1919) in London (1940)."
+  ],
+  "funFactsHindi": [
+    "बाग में केवल एक संकरा द्वार था, जिसे सैनिकों ने बंद कर दिया और लोग अंदर फँस गए।",
+    "यह नरसंहार बैसाखी के दिन हुआ, जो पंजाब का प्रमुख फसल पर्व है।",
+    "उधम सिंह ने 1940 में लंदन में माइकल ओ’ड्वायर (1919 में पंजाब के लेफ्टिनेंट गवर्नर) की हत्या कर इसका बदला लिया।"
+  ],
+  "mainsPoints": [
+    "The massacre was a turning point, destroying faith in British justice among moderates.",
+    "It radicalized Indian politics and pushed Congress towards mass non-cooperation.",
+    "Symbolized brutality of colonial rule and united Indians in anger and resistance.",
+    "International criticism weakened moral legitimacy of British empire."
+  ],
+  "mainsPointsHindi": [
+    "यह हत्याकांड निर्णायक मोड़ बना और उदारवादियों का ब्रिटिश न्याय पर विश्वास तोड़ दिया।",
+    "इसने भारतीय राजनीति को उग्र बनाया और कांग्रेस को जन असहयोग की ओर धकेला।",
+    "औपनिवेशिक शासन की क्रूरता का प्रतीक बना और भारतीयों को आक्रोश व प्रतिरोध में एकजुट किया।",
+    "अंतरराष्ट्रीय आलोचना ने ब्रिटिश साम्राज्य की नैतिक वैधता को कमजोर किया।"
+  ]
+},
+{
+  "heading": "Hunter Committee of Inquiry (1919)",
+  "headingHindi": "हंटर समिति की जांच (1919)",
+  "highlight": "The Hunter Committee was appointed by the British Government in October 1919 to investigate the Jallianwala Bagh Massacre and disturbances in Punjab. Though it condemned General Dyer’s actions as excessive, it recommended no severe punishment, causing widespread anger in India.",
+  "highlightHindi": "हंटर समिति को ब्रिटिश सरकार ने अक्टूबर 1919 में जलियाँवाला बाग नरसंहार और पंजाब की अशांति की जाँच के लिए नियुक्त किया। इसने जनरल डायर की कार्रवाई को अत्यधिक बताया लेकिन कठोर दंड की सिफारिश नहीं की, जिससे भारत में व्यापक आक्रोश हुआ।",
+  "details": [
+    "Formation: The Disorders Inquiry Committee (popularly called Hunter Committee) was set up in October 1919 by the Government of India.",
+    "Composition: Chaired by Lord William Hunter; included 7 members (3 British, 4 Indians).",
+    "Mandate: To inquire into the disturbances in Bombay, Delhi, and Punjab, including the Jallianwala Bagh massacre.",
+    "Findings: The committee criticized General Dyer’s action as 'inhumane' and 'excessive' but acknowledged that he acted in good faith.",
+    "Recommendations: No criminal action against Dyer; only censured and relieved of his command. Michael O’Dwyer, the Punjab Lieutenant Governor, was largely exonerated.",
+    "Public Reaction: Nationalists were outraged; they felt the inquiry was biased and unjust. Gandhi, Congress, and moderates strongly criticized it.",
+    "National Inquiry: In protest, the Indian National Congress set up its own inquiry committee, which strongly condemned Dyer and British policies.",
+    "Legacy: The lenient treatment of Dyer deepened Indian anger and accelerated the demand for complete independence."
+  ],
+  "detailsHindi": [
+    "गठन: 'डिसऑर्डर्स इंक्वायरी कमेटी' (लोकप्रिय नाम हंटर समिति) को अक्टूबर 1919 में भारत सरकार ने गठित किया।",
+    "संरचना: अध्यक्ष लॉर्ड विलियम हंटर; कुल 7 सदस्य (3 ब्रिटिश, 4 भारतीय)।",
+    "मंडेट: बॉम्बे, दिल्ली और पंजाब की अशांति, विशेषकर जलियाँवाला बाग नरसंहार की जाँच।",
+    "निष्कर्ष: समिति ने जनरल डायर की कार्रवाई को 'अमानवीय' और 'अत्यधिक' बताया लेकिन यह भी कहा कि उन्होंने 'सद्भावना से' कार्य किया।",
+    "सिफारिशें: डायर पर कोई आपराधिक कार्रवाई नहीं; केवल फटकार और सेवा से मुक्त किया गया। पंजाब के लेफ्टिनेंट गवर्नर माइकल ओ’ड्वायर को लगभग निर्दोष ठहराया गया।",
+    "जन प्रतिक्रिया: राष्ट्रवादी आक्रोशित हुए; इसे पक्षपाती और अन्यायपूर्ण माना गया। गांधी, कांग्रेस और उदारवादियों ने इसकी कड़ी आलोचना की।",
+    "राष्ट्रीय जांच: विरोधस्वरूप भारतीय राष्ट्रीय कांग्रेस ने अपनी जांच समिति बनाई, जिसने डायर और ब्रिटिश नीतियों की कठोर निंदा की।",
+    "विरासत: डायर के प्रति नरमी ने भारतीयों का गुस्सा और बढ़ाया और पूर्ण स्वतंत्रता की माँग को तेज किया।"
+  ],
+  "tables": [
+    {
+      "title": "Hunter Committee vs Congress Inquiry",
+      "titleHindi": "हंटर समिति बनाम कांग्रेस जांच",
+      "columns": ["Aspect", "Hunter Committee", "Congress Inquiry"],
+      "columnsHindi": ["पहलू", "हंटर समिति", "कांग्रेस जांच"],
+      "rows": [
+        ["Formation", "By British Govt (Oct 1919)", "By Indian National Congress"],
+        ["Leadership", "Lord William Hunter", "Madan Mohan Malaviya, Motilal Nehru, M.R. Jayakar"],
+        ["Verdict on Dyer", "Criticized but no real punishment", "Held guilty of inhuman and criminal action"],
+        ["Verdict on O’Dwyer", "Largely exonerated", "Held responsible for repression"],
+        ["Impact", "Increased Indian anger against British", "Strengthened call for non-cooperation"]
+      ],
+      "rowsHindi": [
+        ["गठन", "ब्रिटिश सरकार द्वारा (अक्टूबर 1919)", "भारतीय राष्ट्रीय कांग्रेस द्वारा"],
+        ["नेतृत्व", "लॉर्ड विलियम हंटर", "मदन मोहन मालवीय, मोतीलाल नेहरू, एम.आर. जयकर"],
+        ["डायर पर निर्णय", "आलोचना लेकिन कोई कठोर दंड नहीं", "अमानवीय और आपराधिक कृत्य के दोषी"],
+        ["ओ’ड्वायर पर निर्णय", "लगभग निर्दोष ठहराया", "दमनकारी नीतियों के लिए दोषी"],
+        ["प्रभाव", "भारतीयों का गुस्सा बढ़ा", "असहयोग आंदोलन की माँग मजबूत हुई"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Hunter Committee (1919) investigated Jallianwala Bagh massacre.",
+    "Headed by Lord William Hunter; 3 British + 4 Indian members.",
+    "Criticized Dyer but gave no major punishment.",
+    "Congress formed its own parallel inquiry, condemning Dyer."
+  ],
+  "prelimsTipsHindi": [
+    "हंटर समिति (1919) ने जलियाँवाला बाग नरसंहार की जांच की।",
+    "अध्यक्ष: लॉर्ड विलियम हंटर; 3 ब्रिटिश + 4 भारतीय सदस्य।",
+    "डायर की आलोचना की पर कोई कठोर दंड नहीं दिया।",
+    "कांग्रेस ने समानांतर जांच की और डायर को दोषी ठहराया।"
+  ],
+  "funFacts": [
+    "General Dyer was celebrated by British loyalists in Britain; a fund was raised for him after his resignation.",
+    "Winston Churchill, then Secretary of War, called the massacre 'monstrous' in the House of Commons.",
+    "The Congress inquiry was better received by Indians than the official Hunter report."
+  ],
+  "funFactsHindi": [
+    "जनरल डायर को ब्रिटेन में वफादारों ने नायक माना और उसके लिए फंड भी जुटाया गया।",
+    "विंस्टन चर्चिल (तब युद्ध सचिव) ने संसद में नरसंहार को 'राक्षसी' कहा।",
+    "भारतीय जनता ने कांग्रेस जांच को आधिकारिक हंटर रिपोर्ट से अधिक विश्वसनीय माना।"
+  ],
+  "mainsPoints": [
+    "Hunter Committee exposed British reluctance to punish colonial officials for atrocities.",
+    "It deepened Indian anger and highlighted need for self-rule.",
+    "Congress parallel inquiry strengthened nationalist narratives against colonial injustice.",
+    "The episode contributed directly to rise of Non-Cooperation Movement under Gandhi."
+  ],
+  "mainsPointsHindi": [
+    "हंटर समिति ने ब्रिटिश की औपनिवेशिक अधिकारियों को दंडित करने की अनिच्छा को उजागर किया।",
+    "इससे भारतीयों का गुस्सा बढ़ा और स्वशासन की आवश्यकता स्पष्ट हुई।",
+    "कांग्रेस की समानांतर जांच ने औपनिवेशिक अन्याय के खिलाफ राष्ट्रवादी दृष्टिकोण को मजबूत किया।",
+    "यह घटना सीधे गांधी के नेतृत्व में असहयोग आंदोलन के उदय का कारण बनी।"
+  ]
+},
+{
+  "heading": "Montagu-Chelmsford Reforms and the Government of India Act, 1919 (Critical Evaluation)",
+  "headingHindi": "मॉन्टेग-चेम्सफोर्ड सुधार और भारत सरकार अधिनियम, 1919 (आलोचनात्मक मूल्यांकन)",
+  "highlight": "The Montagu-Chelmsford Reforms, implemented through the Government of India Act, 1919, introduced dyarchy in provinces, expanded legislatures, and gave Indians limited representation. While projected as a step towards responsible government, they disappointed nationalists by retaining British control over key powers, extending separate electorates, and limiting Indian influence.",
+  "highlightHindi": "मॉन्टेग-चेम्सफोर्ड सुधार, जिन्हें भारत सरकार अधिनियम 1919 के माध्यम से लागू किया गया, ने प्रांतों में द्वैध शासन, विस्तारित विधानमंडल और भारतीयों को सीमित प्रतिनिधित्व दिया। इन्हें उत्तरदायी सरकार की दिशा में कदम बताया गया, लेकिन राष्ट्रवादियों को निराशा हुई क्योंकि प्रमुख शक्तियाँ ब्रिटिश नियंत्रण में रहीं, पृथक निर्वाचक मंडल बढ़ाए गए और भारतीय प्रभाव सीमित रखा गया।",
+  "details": [
+    "Positive Aspects: For the first time, Indians were associated with law-making at both central and provincial levels. Dyarchy introduced limited ministerial responsibility in provinces.",
+    "Expansion of Councils: Central and provincial legislatures were expanded; some Indians elected through indirect franchise.",
+    "Entry of Indians in Executive: A few Indians were admitted to the Viceroy’s Executive Council; S.P. Sinha became the first Indian to hold a law member’s portfolio.",
+    "Bicameral Legislature: At the center, bicameralism was introduced for the first time – Council of States and Legislative Assembly.",
+    "Provincial Dyarchy: Transferred subjects (education, agriculture, public health) were handled by Indian ministers; Reserved subjects (finance, police, law and order) remained under British officials.",
+    "Disappointment: Key powers – finance, police, land revenue – remained under British; Indian ministers lacked real authority.",
+    "Separate Electorates: Extended beyond Muslims to Sikhs, Anglo-Indians, Indian Christians, Europeans; deepened communal divide.",
+    "Limited Franchise: Only about 10% of population had voting rights; largely based on property and education qualifications.",
+    "Governor-General’s Powers: Retained overriding veto; could suspend legislatures.",
+    "Nationalist Criticism: Congress rejected reforms as 'disappointing and sham'; Tilak called dyarchy 'a new charter of slavery'.",
+    "Long-term Impact: Though inadequate, reforms were a constitutional step, laying groundwork for future debates and the Government of India Act, 1935."
+  ],
+  "detailsHindi": [
+    "सकारात्मक पहलू: पहली बार भारतीयों को केंद्रीय और प्रांतीय स्तर पर कानून निर्माण में जोड़ा गया। प्रांतों में द्वैध शासन के तहत सीमित मंत्री उत्तरदायित्व दिया गया।",
+    "विधान परिषदों का विस्तार: केंद्रीय और प्रांतीय विधानमंडल का विस्तार हुआ; कुछ भारतीय अप्रत्यक्ष चुनाव से चुने गए।",
+    "कार्यपालिका में भारतीय प्रवेश: वायसराय की कार्यकारिणी परिषद में कुछ भारतीय शामिल किए गए; एस.पी. सिन्हा पहले भारतीय बने जिन्हें कानून सदस्य का पद मिला।",
+    "केंद्रीय द्विसदनीयता: पहली बार केंद्र में द्विसदनीय विधानमंडल (राज्य परिषद और विधान सभा) बनाया गया।",
+    "प्रांतीय द्वैध शासन: शिक्षा, कृषि, स्वास्थ्य जैसे 'हस्तांतरित विषय' भारतीय मंत्रियों को दिए गए; वित्त, पुलिस और कानून व्यवस्था जैसे 'आरक्षित विषय' ब्रिटिश अधिकारियों के अधीन रहे।",
+    "निराशा: प्रमुख शक्तियाँ – वित्त, पुलिस, भूमि राजस्व – ब्रिटिश के हाथों में ही रहीं; भारतीय मंत्रियों के पास वास्तविक अधिकार नहीं था।",
+    "पृथक निर्वाचक मंडल: मुसलमानों के अलावा सिखों, एंग्लो-इंडियनों, भारतीय ईसाइयों और यूरोपियनों को भी दिया गया; साम्प्रदायिक विभाजन गहराया।",
+    "सीमित मताधिकार: केवल लगभग 10% जनसंख्या को मताधिकार मिला; यह संपत्ति और शिक्षा पर आधारित था।",
+    "गवर्नर-जनरल की शक्तियाँ: उनके पास सर्वोच्च वीटो था और वे विधानमंडल को निलंबित कर सकते थे।",
+    "राष्ट्रवादी आलोचना: कांग्रेस ने सुधारों को 'निराशाजनक और छलपूर्ण' बताया; तिलक ने डायार्की को 'ग़ुलामी का नया चार्टर' कहा।",
+    "दीर्घकालिक प्रभाव: अपर्याप्त होने के बावजूद, ये सुधार एक संवैधानिक कदम थे, जिसने भविष्य की बहसों और 1935 के भारत सरकार अधिनियम की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Critical Evaluation of Montagu-Chelmsford Reforms (1919)",
+      "titleHindi": "मॉन्टेग-चेम्सफोर्ड सुधार (1919) का आलोचनात्मक मूल्यांकन",
+      "columns": ["Aspect", "Evaluation"],
+      "columnsHindi": ["पहलू", "मूल्यांकन"],
+      "rows": [
+        ["Dyarchy", "Introduced ministerial responsibility but reserved key powers for British"],
+        ["Legislatures", "Expanded, but limited franchise (10% population)"],
+        ["Executive", "Some Indian representation; no real power"],
+        ["Separate Electorates", "Extended to new groups; communal divisions deepened"],
+        ["Governor-General Powers", "Veto and overriding authority undermined reforms"],
+        ["Overall Impact", "Step forward constitutionally but disappointing politically"]
+      ],
+      "rowsHindi": [
+        ["द्वैध शासन", "मंत्री उत्तरदायित्व की शुरुआत लेकिन प्रमुख शक्तियाँ ब्रिटिश के पास"],
+        ["विधानमंडल", "विस्तारित, पर सीमित मताधिकार (केवल 10% जनसंख्या)"],
+        ["कार्यपालिका", "कुछ भारतीय शामिल लेकिन वास्तविक शक्ति नहीं"],
+        ["पृथक निर्वाचक मंडल", "नए समुदायों तक विस्तारित; साम्प्रदायिक विभाजन गहराया"],
+        ["गवर्नर-जनरल की शक्तियाँ", "वीटो और सर्वोच्च अधिकार ने सुधारों को कमजोर किया"],
+        ["कुल प्रभाव", "संवैधानिक रूप से आगे का कदम, पर राजनीतिक रूप से निराशाजनक"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Government of India Act, 1919 → Introduced dyarchy in provinces.",
+    "First bicameral legislature at center under this Act.",
+    "Franchise extended but still limited to about 10% of population.",
+    "Separate electorates extended to Sikhs, Anglo-Indians, Indian Christians, Europeans."
+  ],
+  "prelimsTipsHindi": [
+    "भारत सरकार अधिनियम, 1919 → प्रांतों में द्वैध शासन लागू।",
+    "पहली बार केंद्र में द्विसदनीय विधानमंडल।",
+    "मताधिकार बढ़ा लेकिन केवल लगभग 10% जनसंख्या तक सीमित।",
+    "पृथक निर्वाचक मंडल सिखों, एंग्लो-इंडियनों, भारतीय ईसाइयों और यूरोपियनों तक बढ़ाया गया।"
+  ],
+  "funFacts": [
+    "S.P. Sinha became the first Indian to join the Viceroy’s Executive Council as Law Member.",
+    "Despite reforms, real power still rested with the Governor-General and British officials.",
+    "Tilak famously called dyarchy 'a new charter of slavery'."
+  ],
+  "funFactsHindi": [
+    "एस.पी. सिन्हा वायसराय की कार्यकारिणी परिषद में कानून सदस्य बनने वाले पहले भारतीय बने।",
+    "सुधारों के बावजूद वास्तविक शक्ति गवर्नर-जनरल और ब्रिटिश अधिकारियों के पास रही।",
+    "तिलक ने डायार्की को 'ग़ुलामी का नया चार्टर' कहा।"
+  ],
+  "mainsPoints": [
+    "Reforms introduced structural changes like dyarchy and bicameralism, but failed to transfer real power to Indians.",
+    "Extended separate electorates deepened communalism, undermining unity.",
+    "Limited franchise excluded majority of Indians from political participation.",
+    "The reforms disillusioned nationalists and prepared ground for Non-Cooperation Movement."
+  ],
+  "mainsPointsHindi": [
+    "सुधारों ने डायार्की और द्विसदनीयता जैसी संरचनात्मक बदलाव किए, पर वास्तविक शक्ति भारतीयों को नहीं मिली।",
+    "पृथक निर्वाचक मंडल ने साम्प्रदायिकता को गहराया और एकता को कमजोर किया।",
+    "सीमित मताधिकार ने अधिकांश भारतीयों को राजनीतिक भागीदारी से बाहर रखा।",
+    "इन सुधारों से राष्ट्रवादी निराश हुए और असहयोग आंदोलन की नींव पड़ी।"
+  ]
+},
+    ],
+    "Chapter 15: Non-Cooperation Movement and Khilafat Movement": [
+      {
+  "heading": "Background of Non-Cooperation and Khilafat Movement (1919–1920)",
+  "headingHindi": "असहयोग और खिलाफत आंदोलन की पृष्ठभूमि (1919–1920)",
+  "highlight": "The Non-Cooperation and Khilafat movements arose from widespread discontent against British betrayal after World War I. The Rowlatt Act, Jallianwala Bagh massacre, and Montagu-Chelmsford Reforms caused anger among Indians, while the dismemberment of the Ottoman Caliphate outraged Muslims. Gandhi merged the Khilafat issue with Non-Cooperation, creating the first mass pan-Indian struggle under his leadership.",
+  "highlightHindi": "असहयोग और खिलाफत आंदोलन प्रथम विश्व युद्ध के बाद ब्रिटिश विश्वासघात के प्रति व्यापक असंतोष से उत्पन्न हुए। रोलेट एक्ट, जलियाँवाला बाग नरसंहार और मॉन्टेग-चेम्सफोर्ड सुधारों ने भारतीयों को क्रोधित किया, जबकि ओटोमन खलीफात के विघटन ने मुसलमानों को आहत किया। गांधी ने खिलाफत मुद्दे को असहयोग से जोड़ा और उनके नेतृत्व में पहला अखिल भारतीय जन संघर्ष खड़ा हुआ।",
+  "details": [
+    "Rowlatt Act (1919): Introduced draconian powers of detention without trial; provoked Gandhi’s first nationwide satyagraha.",
+    "Jallianwala Bagh Massacre (1919): General Dyer’s brutal firing on peaceful gathering in Amritsar destroyed faith in British justice.",
+    "Hunter Committee’s Whitewash: Failure to punish Dyer and exoneration of officials deepened nationalist anger.",
+    "Montagu-Chelmsford Reforms / Government of India Act (1919): Disappointed nationalists with limited reforms, dyarchy, and extension of separate electorates.",
+    "Economic Hardship: Post-WWI inflation, high prices, food shortages, and rising unemployment increased discontent among peasants and workers.",
+    "Disappointment after WWI: Indian leaders had supported British war efforts expecting self-government, but promises were betrayed.",
+    "Khilafat Issue (1919): Harsh Treaty of Sevres (1920) against Ottoman Empire, removal of Caliph’s authority angered Muslims worldwide.",
+    "Khilafat Committee (1919): Formed under Ali brothers (Mohammad Ali, Shaukat Ali), Maulana Azad, Hakim Ajmal Khan, to protect Caliphate.",
+    "Gandhi’s Strategy: Saw an opportunity for Hindu-Muslim unity by supporting Khilafat demands, merging it with Non-Cooperation.",
+    "Nagpur Session of Congress (December 1920): Congress adopted Non-Cooperation Programme, formally aligning with Khilafat leaders."
+  ],
+  "detailsHindi": [
+    "रोलेट एक्ट (1919): बिना मुकदमे गिरफ्तारी जैसे कठोर अधिकार दिए गए; इसके विरोध में गांधी का पहला अखिल भारतीय सत्याग्रह हुआ।",
+    "जलियाँवाला बाग नरसंहार (1919): अमृतसर में शांतिपूर्ण सभा पर जनरल डायर की गोलीबारी ने ब्रिटिश न्याय पर विश्वास खत्म कर दिया।",
+    "हंटर समिति की लीपापोती: डायर को दंडित न करना और अधिकारियों को निर्दोष ठहराना राष्ट्रवादियों के आक्रोश को और गहरा कर गया।",
+    "मॉन्टेग-चेम्सफोर्ड सुधार / भारत सरकार अधिनियम (1919): सीमित सुधारों, द्वैध शासन और पृथक निर्वाचक मंडल ने राष्ट्रवादियों को निराश किया।",
+    "आर्थिक कठिनाइयाँ: युद्धोत्तर काल में महँगाई, खाद्यान्न संकट, बेरोजगारी और कर्ज़ ने किसानों व मजदूरों को असंतोष से भर दिया।",
+    "प्रथम विश्व युद्ध के बाद निराशा: भारतीय नेताओं ने स्वशासन की आशा में युद्ध प्रयासों का समर्थन किया था, पर ब्रिटिश ने वादाखिलाफी की।",
+    "खिलाफत प्रश्न (1919): ओटोमन साम्राज्य पर कठोर सेव्र संधि (1920) और खलीफा की सत्ता का ह्रास मुसलमानों के लिए गहरा आघात था।",
+    "खिलाफत समिति (1919): अली बंधु (मोहम्मद अली, शौकत अली), मौलाना आज़ाद और हकीम अजमल खान ने खलीफा की रक्षा हेतु समिति बनाई।",
+    "गांधी की रणनीति: उन्होंने खिलाफत का समर्थन कर हिंदू-मुस्लिम एकता को अवसर के रूप में देखा और इसे असहयोग आंदोलन से जोड़ा।",
+    "कांग्रेस का नागपुर अधिवेशन (दिसंबर 1920): कांग्रेस ने औपचारिक रूप से असहयोग कार्यक्रम को अपनाया और खिलाफत नेताओं के साथ संरेखित हुई।"
+  ],
+  "tables": [
+    {
+      "title": "Events Leading to Non-Cooperation and Khilafat Movement",
+      "titleHindi": "असहयोग और खिलाफत आंदोलन की पृष्ठभूमि की घटनाएँ",
+      "columns": ["Event", "Year", "Impact"],
+      "columnsHindi": ["घटना", "वर्ष", "प्रभाव"],
+      "rows": [
+        ["Rowlatt Act", "1919", "Sparked Gandhi’s first satyagraha; civil liberties curtailed"],
+        ["Jallianwala Bagh Massacre", "1919", "Destroyed trust in British justice; mass outrage"],
+        ["Hunter Committee", "1919", "Whitewashed British responsibility; deepened anger"],
+        ["Montagu-Chelmsford Reforms", "1919", "Disappointing reforms; extended communal electorates"],
+        ["Treaty of Sevres / Khilafat Issue", "1920", "Angered Muslims; sparked pan-Islamic protests"],
+        ["Formation of Khilafat Committee", "1919", "Mobilized Indian Muslims; joined hands with Gandhi"],
+        ["Nagpur Session of Congress", "1920", "Adopted Non-Cooperation; merged with Khilafat cause"]
+      ],
+      "rowsHindi": [
+        ["रोलेट एक्ट", "1919", "गांधी का पहला सत्याग्रह; नागरिक अधिकार सीमित"],
+        ["जलियाँवाला बाग नरसंहार", "1919", "ब्रिटिश न्याय पर विश्वास खत्म; जन आक्रोश"],
+        ["हंटर समिति", "1919", "ब्रिटिश जिम्मेदारी की लीपापोती; गुस्सा और बढ़ा"],
+        ["मॉन्टेग-चेम्सफोर्ड सुधार", "1919", "निराशाजनक सुधार; सांप्रदायिक निर्वाचक मंडल बढ़ा"],
+        ["सेव्र संधि / खिलाफत प्रश्न", "1920", "मुसलमान आहत; पैन-इस्लामिक आंदोलन शुरू"],
+        ["खिलाफत समिति का गठन", "1919", "भारतीय मुसलमानों को संगठित किया; गांधी से गठजोड़"],
+        ["कांग्रेस नागपुर अधिवेशन", "1920", "असहयोग अपनाया; खिलाफत से एकता"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Rowlatt Act & Jallianwala Bagh were immediate political triggers.",
+    "Khilafat issue arose due to dismemberment of Ottoman Empire.",
+    "Nagpur Session (1920) → Congress adopted Non-Cooperation.",
+    "Movement marked first Hindu-Muslim joint struggle under Gandhi."
+  ],
+  "prelimsTipsHindi": [
+    "रोलेट एक्ट और जलियाँवाला बाग तत्काल राजनीतिक कारण थे।",
+    "खिलाफत प्रश्न ओटोमन साम्राज्य के विघटन से जुड़ा।",
+    "नागपुर अधिवेशन (1920) → कांग्रेस ने असहयोग अपनाया।",
+    "आंदोलन गांधी के नेतृत्व में पहला हिंदू-मुस्लिम संयुक्त संघर्ष बना।"
+  ],
+  "funFacts": [
+    "Mahatma Gandhi initially hesitated to lead Khilafat agitation but later saw it as a chance for Hindu-Muslim unity.",
+    "Ali brothers became iconic leaders of the Khilafat cause, inspiring massive Muslim participation.",
+    "The Nagpur session also reorganized Congress on provincial linguistic basis, increasing grassroots reach."
+  ],
+  "funFactsHindi": [
+    "महात्मा गांधी शुरू में खिलाफत आंदोलन का नेतृत्व करने से हिचक रहे थे, पर बाद में इसे हिंदू-मुस्लिम एकता का अवसर माना।",
+    "अली बंधु खिलाफत आंदोलन के प्रतीक बने और मुस्लिमों की व्यापक भागीदारी प्रेरित की।",
+    "नागपुर अधिवेशन में कांग्रेस को प्रांतीय भाषाई आधार पर पुनर्गठित भी किया गया, जिससे इसकी जमीनी पहुँच बढ़ी।"
+  ],
+  "mainsPoints": [
+    "Rowlatt Act, Jallianwala Bagh, and disappointment with reforms created political discontent.",
+    "Khilafat grievance gave Gandhi a chance to unite Hindus and Muslims.",
+    "The merger of Khilafat and Non-Cooperation turned nationalism into a mass movement.",
+    "This phase marked the beginning of Gandhi’s dominance and mass-based struggle in India."
+  ],
+  "mainsPointsHindi": [
+    "रोलेट एक्ट, जलियाँवाला बाग और सुधारों से निराशा ने राजनीतिक असंतोष पैदा किया।",
+    "खिलाफत असंतोष ने गांधी को हिंदू-मुस्लिम एकता का अवसर दिया।",
+    "खिलाफत और असहयोग के विलय ने राष्ट्रवाद को जन आंदोलन बना दिया।",
+    "यह दौर गांधी के प्रभुत्व और जन-आधारित संघर्ष की शुरुआत थी।"
+  ]
+      },
+      {
+  "heading": "Non-Cooperation Movement (1920–1922): Course and Impact",
+  "headingHindi": "असहयोग आंदोलन (1920–1922): क्रम और प्रभाव",
+  "highlight": "The Non-Cooperation Movement, launched in 1920, was the first mass nationwide struggle under Gandhi’s leadership. It began with boycotts of foreign goods, schools, and titles, expanded to peasants, workers, women, and students, and fostered Hindu-Muslim unity. However, it was abruptly withdrawn in February 1922 after the Chauri Chaura incident, but it marked a turning point in Indian nationalism.",
+  "highlightHindi": "1920 में शुरू हुआ असहयोग आंदोलन गांधी के नेतृत्व में पहला अखिल भारतीय जन संघर्ष था। इसमें विदेशी वस्तुओं, स्कूलों और उपाधियों का बहिष्कार किया गया और इसमें किसान, मजदूर, महिलाएँ और छात्र शामिल हुए। इसने हिंदू-मुस्लिम एकता को मजबूत किया, पर फरवरी 1922 में चौरी-चौरा घटना के बाद इसे अचानक वापस ले लिया गया। फिर भी यह भारतीय राष्ट्रवाद का निर्णायक मोड़ बना।",
+  "details": [
+    "Launch (Nagpur Session, Dec 1920): Congress formally adopted the Non-Cooperation Movement, aligning with Khilafat leaders.",
+    "Initial Phase (1920): Boycott of schools, colleges, law courts, foreign cloth, and titles like 'Sir' and 'Kaiser-i-Hind'.",
+    "Expansion (1921): Students left schools to join national institutions like Jamia Millia Islamia; lawyers like C.R. Das, Motilal Nehru, Rajendra Prasad gave up practice.",
+    "Mass Participation: Peasants in Awadh (under Baba Ramchandra), workers in Assam tea plantations, and tribal movements like Eka movement joined the agitation.",
+    "Women’s Role: Women picketed liquor shops and foreign cloth stores in large numbers for the first time.",
+    "Economic Dimension: Bonfires of foreign cloth organized; Khadi and swadeshi industries promoted.",
+    "Hindu-Muslim Unity: Joint participation due to merger with Khilafat issue; Ali brothers played key role.",
+    "Government Repression: Arrest of leaders (including Gandhi later in 1922), police violence, and strict censorship.",
+    "Chauri Chaura Incident (Feb 1922): In Gorakhpur district (UP), protestors clashed with police; 22 policemen were killed. Gandhi, distressed by the violence, suspended the movement.",
+    "Outcome: Though short-lived, it created unprecedented political awakening, spread nationalist ideas to villages, and made Gandhi the supreme leader of Indian politics."
+  ],
+  "detailsHindi": [
+    "शुरुआत (नागपुर अधिवेशन, दिसंबर 1920): कांग्रेस ने औपचारिक रूप से असहयोग आंदोलन अपनाया और खिलाफत नेताओं के साथ गठबंधन किया।",
+    "प्रारंभिक चरण (1920): स्कूलों, कॉलेजों, अदालतों, विदेशी कपड़ों और 'सर' तथा 'क़ैसर-ए-हिंद' जैसी उपाधियों का बहिष्कार।",
+    "विस्तार (1921): छात्रों ने स्कूल छोड़े और जामिया मिलिया इस्लामिया जैसे राष्ट्रीय संस्थानों में गए; सी.आर. दास, मोतीलाल नेहरू और राजेंद्र प्रसाद जैसे वकीलों ने वकालत छोड़ दी।",
+    "जन भागीदारी: अवध में किसान (बाबा रामचंद्र के नेतृत्व में), असम की चाय बगान मज़दूर, और एक आंदोलन जैसे जनजातीय आंदोलन जुड़े।",
+    "महिलाओं की भूमिका: महिलाओं ने शराब और विदेशी कपड़ों की दुकानों पर बड़ी संख्या में पिकेटिंग की।",
+    "आर्थिक पहलू: विदेशी कपड़ों की होलियाँ जलाई गईं; खादी और स्वदेशी उद्योगों को बढ़ावा मिला।",
+    "हिंदू-मुस्लिम एकता: खिलाफत मुद्दे के साथ आंदोलन जुड़ने से संयुक्त भागीदारी हुई; अली बंधुओं की भूमिका महत्वपूर्ण रही।",
+    "सरकारी दमन: नेताओं की गिरफ्तारी (गांधी भी 1922 में गिरफ्तार हुए), पुलिस हिंसा और कड़ी सेंसरशिप।",
+    "चौरी-चौरा घटना (फरवरी 1922): गोरखपुर (यूपी) में प्रदर्शनकारियों और पुलिस के बीच हिंसा में 22 पुलिसकर्मी मारे गए। गांधी ने हिंसा से दुखी होकर आंदोलन वापस ले लिया।",
+    "परिणाम: अल्पकालिक होने के बावजूद इसने अभूतपूर्व राजनीतिक जागृति पैदा की, राष्ट्रवादी विचारों को गाँवों तक पहुँचाया और गांधी को भारतीय राजनीति का सर्वोच्च नेता बना दिया।"
+  ],
+  "tables": [
+    {
+      "title": "Timeline of the Non-Cooperation Movement",
+      "titleHindi": "असहयोग आंदोलन की समयरेखा",
+      "columns": ["Year", "Event", "Details"],
+      "columnsHindi": ["वर्ष", "घटना", "विवरण"],
+      "rows": [
+        ["1920", "Nagpur Congress Session", "Non-Cooperation adopted, Gandhi emerges as leader"],
+        ["1920–21", "Boycott Campaign", "Schools, colleges, courts, titles, and foreign cloth boycotted"],
+        ["1921", "Mass Participation", "Peasants, workers, students, and women joined movement"],
+        ["1921", "Hindu-Muslim Unity", "Merger with Khilafat strengthened base"],
+        ["1922", "Chauri Chaura Incident", "Violence led Gandhi to withdraw the movement"]
+      ],
+      "rowsHindi": [
+        ["1920", "नागपुर कांग्रेस अधिवेशन", "असहयोग अपनाया गया, गांधी नेता बने"],
+        ["1920–21", "बहिष्कार अभियान", "स्कूल, कॉलेज, अदालतें, उपाधियाँ और विदेशी कपड़े बहिष्कृत"],
+        ["1921", "जन भागीदारी", "किसान, मजदूर, छात्र और महिलाएँ शामिल"],
+        ["1921", "हिंदू-मुस्लिम एकता", "खिलाफत से जुड़कर आधार मजबूत हुआ"],
+        ["1922", "चौरी-चौरा घटना", "हिंसा के कारण गांधी ने आंदोलन वापस लिया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Nagpur Session (1920) → Congress adopted Non-Cooperation.",
+    "Lawyers like C.R. Das and Motilal Nehru gave up practice.",
+    "Chauri Chaura Incident (1922) → Gandhi suspended the movement.",
+    "First mass nationwide struggle under Gandhi’s leadership."
+  ],
+  "prelimsTipsHindi": [
+    "नागपुर अधिवेशन (1920) → कांग्रेस ने असहयोग अपनाया।",
+    "सी.आर. दास और मोतीलाल नेहरू जैसे वकीलों ने वकालत छोड़ी।",
+    "चौरी-चौरा घटना (1922) → गांधी ने आंदोलन वापस लिया।",
+    "गांधी के नेतृत्व में पहला अखिल भारतीय जन आंदोलन।"
+  ],
+  "funFacts": [
+    "Jamia Millia Islamia (1920) was established in response to the Non-Cooperation and Khilafat movements.",
+    "Women from middle-class families, like Basanti Devi (wife of C.R. Das), actively picketed shops.",
+    "The Congress party membership swelled to over 2 million during this movement."
+  ],
+  "funFactsHindi": [
+    "जामिया मिलिया इस्लामिया (1920) असहयोग और खिलाफत आंदोलनों की प्रतिक्रिया में स्थापित हुई।",
+    "मध्यमवर्गीय परिवारों की महिलाएँ, जैसे सी.आर. दास की पत्नी बसंती देवी, दुकानों पर पिकेटिंग में शामिल हुईं।",
+    "इस आंदोलन के दौरान कांग्रेस की सदस्यता 20 लाख से अधिक हो गई।"
+  ],
+  "mainsPoints": [
+    "The Non-Cooperation Movement spread nationalism to villages and common people, not just elites.",
+    "It marked the first large-scale use of non-violent methods under Gandhi’s leadership.",
+    "Its withdrawal highlighted Gandhi’s uncompromising commitment to non-violence.",
+    "Despite its abrupt end, it created political awakening and mass mobilization, laying groundwork for future struggles."
+  ],
+  "mainsPointsHindi": [
+    "असहयोग आंदोलन ने राष्ट्रवाद को गाँवों और आम लोगों तक पहुँचाया, केवल अभिजात वर्ग तक सीमित नहीं रहा।",
+    "गांधी के नेतृत्व में पहली बार अहिंसक तरीकों का बड़े पैमाने पर प्रयोग हुआ।",
+    "आंदोलन की वापसी ने गांधी की अहिंसा के प्रति अडिग निष्ठा को दिखाया।",
+    "अचानक समाप्ति के बावजूद इसने राजनीतिक जागरण और जनसंगठन किया, जिससे भविष्य के संघर्षों की नींव पड़ी।"
+  ]
+},
+{
+  "heading": "Local Struggles During the Non-Cooperation-Khilafat Movement",
+  "headingHindi": "असहयोग-खिलाफत आंदोलन के दौरान स्थानीय संघर्ष",
+  "highlight": "The Non-Cooperation-Khilafat Movement (1920–22) was not limited to urban elites but spread into villages and local communities. Peasants, tribals, and workers launched localized struggles against colonial exploitation, often combining nationalist slogans with their socio-economic demands.",
+  "highlightHindi": "असहयोग-खिलाफत आंदोलन (1920–22) केवल शहरी अभिजात वर्ग तक सीमित नहीं था बल्कि गाँवों और स्थानीय समुदायों तक फैला। किसानों, जनजातियों और मजदूरों ने औपनिवेशिक शोषण के खिलाफ स्थानीय संघर्ष शुरू किए, जिनमें राष्ट्रवादी नारों को अपनी सामाजिक-आर्थिक माँगों से जोड़ा।",
+  "details": [
+    "Awadh (United Provinces): Peasants under Baba Ramchandra demanded reduction of rents and abolition of begar (forced labour). Congress leaders like Jawaharlal Nehru and Kisan Sabhas linked peasant struggles with Non-Cooperation.",
+    "Malabar (Kerala): The Moplah uprising (1921) involved Muslim tenants against oppressive landlords and British officials. Initially part of Khilafat agitation, it later turned violent and communal.",
+    "Assam: Tea plantation workers struck work demanding better wages and conditions. Many tried to leave plantations and join the movement but faced severe repression.",
+    "Andhra Pradesh: The forest satyagrahas involved peasants and tribals opposing British restrictions on grazing, forest produce, and wood cutting.",
+    "Punjab: Sikh Akali movement fought to reform Gurudwara management by removing corrupt mahants backed by the British.",
+    "Bihar: Indigo cultivators and peasants linked their economic grievances with the call for Non-Cooperation.",
+    "Gorakhpur (UP): Peasant unrest culminated in the Chauri Chaura incident (1922), where violence led Gandhi to withdraw the movement."
+  ],
+  "detailsHindi": [
+    "अवध (संयुक्त प्रांत): बाबा रामचंद्र के नेतृत्व में किसानों ने किराए में कमी और बेगार (जबरन श्रम) की समाप्ति की माँग की। कांग्रेस नेताओं जैसे जवाहरलाल नेहरू और किसान सभाओं ने किसानों के संघर्षों को असहयोग से जोड़ा।",
+    "मालाबार (केरल): मोपला विद्रोह (1921) मुस्लिम कृषक पट्टेदारों का शोषक जमींदारों और ब्रिटिश अधिकारियों के खिलाफ आंदोलन था। यह शुरुआत में खिलाफत आंदोलन का हिस्सा था लेकिन बाद में हिंसक और सांप्रदायिक हो गया।",
+    "असम: चाय बगान मजदूरों ने बेहतर मजदूरी और परिस्थितियों की माँग को लेकर हड़ताल की। कई मजदूर बागान छोड़कर आंदोलन में शामिल होना चाहते थे लेकिन कठोर दमन का सामना करना पड़ा।",
+    "आंध्र प्रदेश: वन सत्याग्रहों में किसानों और जनजातियों ने ब्रिटिश प्रतिबंधों (चराई, लकड़ी काटना और वन उत्पादों पर नियंत्रण) का विरोध किया।",
+    "पंजाब: सिख अकाली आंदोलन ने गुरुद्वारा प्रबंधन सुधारने और ब्रिटिश समर्थित भ्रष्ट महंतों को हटाने के लिए संघर्ष किया।",
+    "बिहार: नील की खेती करने वाले और किसान अपने आर्थिक मुद्दों को असहयोग आंदोलन से जोड़कर संघर्षरत हुए।",
+    "गोरखपुर (यूपी): किसानों की असंतुष्टि चौरी-चौरा घटना (1922) में फूट पड़ी, जहाँ हिंसा के कारण गांधी ने आंदोलन वापस ले लिया।"
+  ],
+  "tables": [
+    {
+      "title": "Major Local Struggles (1920–22)",
+      "titleHindi": "प्रमुख स्थानीय संघर्ष (1920–22)",
+      "columns": ["Region", "Leader/Group", "Nature of Struggle"],
+      "columnsHindi": ["क्षेत्र", "नेता/समूह", "संघर्ष का स्वरूप"],
+      "rows": [
+        ["Awadh (UP)", "Baba Ramchandra, Kisan Sabhas", "Anti-rent, anti-begar peasant struggle"],
+        ["Malabar (Kerala)", "Moplah peasants", "Tenant uprising; violent, communal turn"],
+        ["Assam", "Tea plantation workers", "Strikes against low wages, poor conditions"],
+        ["Andhra Pradesh", "Peasants & tribals", "Forest satyagraha against restrictions"],
+        ["Punjab", "Akali Sikhs", "Gurudwara reform movement"],
+        ["Bihar", "Indigo cultivators", "Peasant economic grievances tied to Non-Cooperation"],
+        ["Gorakhpur (UP)", "Local peasants", "Chauri Chaura violence; led to withdrawal of movement"]
+      ],
+      "rowsHindi": [
+        ["अवध (यूपी)", "बाबा रामचंद्र, किसान सभाएँ", "किराया विरोधी, बेगार विरोधी किसान संघर्ष"],
+        ["मालाबार (केरल)", "मोपला किसान", "पट्टेदार विद्रोह; हिंसक और सांप्रदायिक रूप"],
+        ["असम", "चाय बगान मजदूर", "कम मजदूरी और खराब परिस्थितियों के खिलाफ हड़ताल"],
+        ["आंध्र प्रदेश", "किसान व जनजातियाँ", "वन सत्याग्रह; ब्रिटिश प्रतिबंधों का विरोध"],
+        ["पंजाब", "अकाली सिख", "गुरुद्वारा सुधार आंदोलन"],
+        ["बिहार", "नील किसान", "आर्थिक असंतोष को असहयोग से जोड़ा"],
+        ["गोरखपुर (यूपी)", "स्थानीय किसान", "चौरी-चौरा हिंसा; आंदोलन वापसी का कारण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Baba Ramchandra → Peasant leader in Awadh during Non-Cooperation.",
+    "Moplah Rebellion (1921) → Malabar, Kerala; linked to Khilafat, later turned violent.",
+    "Akali Movement → Gurudwara reform struggle in Punjab.",
+    "Chauri Chaura Incident (1922) → Immediate cause of withdrawal of Non-Cooperation."
+  ],
+  "prelimsTipsHindi": [
+    "बाबा रामचंद्र → असहयोग के दौरान अवध के किसान नेता।",
+    "मोपला विद्रोह (1921) → मालाबार, केरल; खिलाफत से जुड़ा, बाद में हिंसक हुआ।",
+    "अकाली आंदोलन → पंजाब में गुरुद्वारा सुधार संघर्ष।",
+    "चौरी-चौरा घटना (1922) → असहयोग की वापसी का तत्काल कारण।"
+  ],
+  "funFacts": [
+    "In Awadh, peasants often carried Gandhi’s name on flags during their marches.",
+    "The Akali reformers introduced democratic management in Sikh Gurudwaras, replacing hereditary mahants.",
+    "Moplah rebels declared local 'Khilafat kingdoms' before being brutally suppressed by British troops."
+  ],
+  "funFactsHindi": [
+    "अवध में किसान अपने जुलूसों में गांधी का नाम लिखे झंडे लेकर चलते थे।",
+    "अकाली सुधारकों ने सिख गुरुद्वारों में वंशानुगत महंतों की जगह लोकतांत्रिक प्रबंधन लागू किया।",
+    "मोपला विद्रोहियों ने ब्रिटिश दमन से पहले स्थानीय 'खिलाफत राज्य' घोषित किए।"
+  ],
+  "mainsPoints": [
+    "Local struggles connected nationalist politics with everyday economic grievances of peasants, workers, and tribals.",
+    "They widened the social base of the national movement beyond urban elites.",
+    "Some struggles, like Moplah rebellion and Chauri Chaura, showed challenges of controlling mass movements within Gandhian non-violence.",
+    "These localized agitations demonstrated that freedom struggle had penetrated rural India by early 1920s."
+  ],
+  "mainsPointsHindi": [
+    "स्थानीय संघर्षों ने किसानों, मजदूरों और जनजातियों की दैनिक आर्थिक समस्याओं को राष्ट्रवादी राजनीति से जोड़ा।",
+    "इससे राष्ट्रीय आंदोलन का सामाजिक आधार शहरी अभिजात वर्ग से आगे बढ़ा।",
+    "मोपला विद्रोह और चौरी-चौरा जैसी घटनाओं ने गांधीवादी अहिंसा के भीतर जन आंदोलनों को नियंत्रित करने की चुनौती को दिखाया।",
+    "इन स्थानीय आंदोलनों ने प्रमाणित किया कि 1920 के दशक की शुरुआत तक स्वतंत्रता संग्राम ग्रामीण भारत तक पहुँच चुका था।"
+  ]
+},
+{
+  "heading": "Moplah (Malabar) Uprising, 1921",
+  "headingHindi": "मोपला (मालाबार) विद्रोह, 1921",
+  "highlight": "The Moplah Uprising of 1921 in Malabar, Kerala, was a violent rebellion by Muslim tenants against oppressive landlords and British authorities. Initially connected to the Khilafat and Non-Cooperation Movement, it soon turned communal and violent, leading to mass casualties and brutal suppression by the British.",
+  "highlightHindi": "1921 का मोपला विद्रोह केरल के मालाबार में मुस्लिम कृषक पट्टेदारों का जमींदारों और ब्रिटिश अधिकारियों के खिलाफ हिंसक आंदोलन था। शुरुआत में यह खिलाफत और असहयोग आंदोलन से जुड़ा था, परंतु बाद में सांप्रदायिक और हिंसक रूप ले लिया, जिससे भारी हताहत हुए और ब्रिटिश दमन हुआ।",
+  "details": [
+    "Background: Moplahs were Muslim tenants in Malabar under Hindu zamindars; faced high rents, illegal levies, and eviction threats.",
+    "Link to Khilafat: Leaders mobilized peasants under the Khilafat and Non-Cooperation banners, mixing agrarian grievances with religious sentiment.",
+    "Outbreak (August 1921): Sparked by police action against Khilafat meetings; quickly escalated into large-scale violence.",
+    "Nature of Uprising: Moplah rebels attacked landlords, police stations, government offices; violence also turned against Hindus in some areas, causing communal rifts.",
+    "British Response: Martial law declared; British repression was extremely brutal with mass killings, deportations, and torture (notably Wagon Tragedy, 1921).",
+    "Casualties: Around 10,000 Moplahs killed, thousands imprisoned or deported.",
+    "Nationalist Response: Congress and Khilafat leaders initially sympathized but later distanced themselves due to communal violence.",
+    "Legacy: Exposed tension between peasant struggles and Gandhian non-violence; highlighted dangers of communal polarization in nationalist politics."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: मोपला मुस्लिम पट्टेदार किसान थे जो हिंदू जमींदारों के अधीन थे; उन्हें ऊँचे किराए, अवैध कर और बेदखली के खतरे का सामना करना पड़ता था।",
+    "खिलाफत से संबंध: नेताओं ने खिलाफत और असहयोग आंदोलन के नाम पर किसानों को संगठित किया, जिसमें कृषि समस्याओं को धार्मिक भावना से जोड़ा गया।",
+    "प्रकोप (अगस्त 1921): पुलिस द्वारा खिलाफत सभाओं पर कार्रवाई से विद्रोह शुरू हुआ और तेजी से बड़े पैमाने पर हिंसा में बदल गया।",
+    "विद्रोह की प्रकृति: मोपला विद्रोहियों ने जमींदारों, थानों और सरकारी दफ्तरों पर हमले किए; कुछ क्षेत्रों में हिंसा हिंदुओं के खिलाफ भी हुई, जिससे सांप्रदायिक तनाव बढ़ा।",
+    "ब्रिटिश प्रतिक्रिया: मार्शल लॉ लागू हुआ; ब्रिटिश दमन अत्यंत क्रूर था, जिसमें सामूहिक हत्याएँ, निर्वासन और यातनाएँ शामिल थीं (विशेषकर 1921 का 'वागन त्रासदी').",
+    "हानि: लगभग 10,000 मोपला मारे गए, हजारों कैद या निर्वासित हुए।",
+    "राष्ट्रवादी प्रतिक्रिया: कांग्रेस और खिलाफत नेताओं ने शुरुआत में सहानुभूति दिखाई, पर बाद में सांप्रदायिक हिंसा के कारण दूरी बना ली।",
+    "विरासत: इसने किसान संघर्ष और गांधीवादी अहिंसा के बीच तनाव उजागर किया तथा राष्ट्रवादी राजनीति में सांप्रदायिक ध्रुवीकरण के खतरों को दिखाया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Facts about Moplah Uprising (1921)",
+      "titleHindi": "मोपला विद्रोह (1921) के प्रमुख तथ्य",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Region", "Malabar, Kerala"],
+        ["Participants", "Moplah Muslim tenants (peasants)"],
+        ["Causes", "High rents, exploitation by landlords, Khilafat sentiment"],
+        ["Trigger", "Police crackdown on Khilafat meetings (Aug 1921)"],
+        ["Nature", "Peasant uprising, later turned communal and violent"],
+        ["British Response", "Martial law, brutal repression, Wagon Tragedy"],
+        ["Casualties", "Around 10,000 killed; thousands imprisoned or deported"],
+        ["Outcome", "Weakened Khilafat; exposed limits of Non-Cooperation"]
+      ],
+      "rowsHindi": [
+        ["क्षेत्र", "मालाबार, केरल"],
+        ["प्रतिभागी", "मोपला मुस्लिम पट्टेदार (किसान)"],
+        ["कारण", "उच्च किराया, जमींदारों का शोषण, खिलाफत भावना"],
+        ["प्रेरक घटना", "खिलाफत सभाओं पर पुलिस कार्रवाई (अगस्त 1921)"],
+        ["स्वरूप", "किसान विद्रोह, बाद में सांप्रदायिक और हिंसक"],
+        ["ब्रिटिश प्रतिक्रिया", "मार्शल लॉ, क्रूर दमन, वागन त्रासदी"],
+        ["हानि", "लगभग 10,000 मरे; हजारों कैद या निर्वासित"],
+        ["परिणाम", "खिलाफत कमजोर; असहयोग की सीमाएँ उजागर"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Moplah Uprising → Malabar, Kerala (1921).",
+    "Linked to Khilafat and agrarian discontent.",
+    "Suppressed brutally; Wagon Tragedy a key event.",
+    "Initially part of Non-Cooperation but later condemned due to communal violence."
+  ],
+  "prelimsTipsHindi": [
+    "मोपला विद्रोह → मालाबार, केरल (1921)।",
+    "खिलाफत और कृषि असंतोष से जुड़ा।",
+    "ब्रिटिश ने क्रूरता से दबाया; वागन त्रासदी महत्वपूर्ण घटना।",
+    "शुरुआत में असहयोग से जुड़ा, बाद में सांप्रदायिक हिंसा के कारण निंदा हुई।"
+  ],
+  "funFacts": [
+    "The 'Wagon Tragedy' occurred when over 60 Moplah prisoners suffocated to death in a closed railway wagon while being transported.",
+    "The rebellion lasted for several months and required deployment of British army regiments for suppression.",
+    "Moplah ballads (Mappila Pattu) later memorialized the rebellion in local folklore."
+  ],
+  "funFactsHindi": [
+    "'वागन त्रासदी' में 60 से अधिक मोपला कैदी बंद रेल डिब्बे में दम घुटने से मारे गए।",
+    "विद्रोह कई महीनों तक चला और इसे दबाने के लिए ब्रिटिश सेना की तैनाती करनी पड़ी।",
+    "मोपला गीत (मप्पिला पट्टु) में यह विद्रोह स्थानीय लोककथाओं में याद किया गया।"
+  ],
+  "mainsPoints": [
+    "The Moplah uprising demonstrated how local agrarian grievances merged with larger nationalist and Khilafat struggles.",
+    "It revealed the volatility of mass movements when economic and religious grievances combined.",
+    "The violent and communal turn alienated Congress and Gandhi, who emphasized non-violence.",
+    "Its brutal suppression highlighted the colonial state’s ruthlessness and deepened rural resentment."
+  ],
+  "mainsPointsHindi": [
+    "मोपला विद्रोह ने दिखाया कि स्थानीय कृषि असंतोष कैसे बड़े राष्ट्रवादी और खिलाफत संघर्षों से जुड़ा।",
+    "यह दर्शाता है कि जब आर्थिक और धार्मिक असंतोष मिलते हैं तो जन आंदोलन कितना अस्थिर हो सकता है।",
+    "हिंसा और सांप्रदायिक रूप लेने से कांग्रेस और गांधी दूर हो गए, जिन्होंने अहिंसा पर जोर दिया।",
+    "इसका क्रूर दमन औपनिवेशिक शासन की निर्ममता को उजागर करता है और ग्रामीण असंतोष को गहराता है।"
+  ]
+},
+{
+  "heading": "Awadh Kisan Movement (1920) and Eka Movement (1921)",
+  "headingHindi": "अवध किसान आंदोलन (1920) और एका आंदोलन (1921)",
+  "highlight": "The peasant struggles in Awadh and Eka (United Provinces, now Uttar Pradesh) were significant local movements during the Non-Cooperation period. While the Awadh Kisan Movement under Baba Ramchandra demanded fair rents and abolition of forced labour, the Eka Movement under Madari Pasi highlighted resentment against landlords and moneylenders. Both linked rural discontent with the wider nationalist struggle.",
+  "highlightHindi": "असहयोग काल के दौरान अवध और एका (संयुक्त प्रांत, वर्तमान उत्तर प्रदेश) में किसान संघर्ष महत्वपूर्ण स्थानीय आंदोलन थे। बाबा रामचंद्र के नेतृत्व वाला अवध किसान आंदोलन उचित किराया और बेगार की समाप्ति की माँग करता था, जबकि मदारी पासी के नेतृत्व वाला एका आंदोलन जमींदारों और महाजनों के खिलाफ असंतोष को दर्शाता था। दोनों ने ग्रामीण असंतोष को व्यापक राष्ट्रवादी संघर्ष से जोड़ा।",
+  "details": [
+    "Awadh Kisan Movement (1920):",
+    "• Leader: Baba Ramchandra, a sanyasi who worked closely with peasants.",
+    "• Issues: High rents, illegal cesses, excessive demands by taluqdars (landlords), and forced labour (begar).",
+    "• Nature: Peasants carried Gandhi’s name on flags; supported Non-Cooperation and Khilafat.",
+    "• Congress Involvement: Jawaharlal Nehru and Kisan Sabhas linked peasants with Congress programs.",
+    "• Methods: Peaceful rallies, refusal to do begar, withholding of rents.",
+    "• Outcome: Strengthened Congress’ rural base but often faced repression.",
+    "Eka Movement (1921):",
+    "• Leader: Madari Pasi, supported by small zamindars and lower-caste peasants.",
+    "• Issues: Resentment against oppressive landlords, moneylenders, and colonial officials.",
+    "• Oath of Eka: Peasants swore unity (eka) at village meetings, pledging to resist unjust demands, pay only recorded rent, and oppose eviction.",
+    "• Spread: Movement spread to districts like Hardoi, Bahraich, and Sitapur.",
+    "• Difference from Awadh Movement: Less directly linked to Congress; more radical and militant in nature.",
+    "• Outcome: British repression crushed the movement by 1922, but it reflected growing peasant militancy."
+  ],
+  "detailsHindi": [
+    "अवध किसान आंदोलन (1920):",
+    "• नेता: बाबा रामचंद्र, एक संन्यासी जिन्होंने किसानों के बीच काम किया।",
+    "• मुद्दे: ऊँचे किराए, अवैध कर, तालुकदारों की ज्यादतियाँ और बेगार (जबरन श्रम)।",
+    "• स्वरूप: किसान गांधी का नाम लिखे झंडे लेकर चलते थे; असहयोग और खिलाफत का समर्थन किया।",
+    "• कांग्रेस की भागीदारी: जवाहरलाल नेहरू और किसान सभाओं ने किसानों को कांग्रेस कार्यक्रमों से जोड़ा।",
+    "• तरीके: शांतिपूर्ण जुलूस, बेगार न करना, किराया रोकना।",
+    "• परिणाम: कांग्रेस का ग्रामीण आधार मजबूत हुआ लेकिन दमन का सामना करना पड़ा।",
+    "एका आंदोलन (1921):",
+    "• नेता: मदारी पासी; छोटे जमींदारों और निचली जाति के किसानों का समर्थन।",
+    "• मुद्दे: जमींदारों, महाजनों और औपनिवेशिक अधिकारियों के शोषण के खिलाफ असंतोष।",
+    "• एका की शपथ: किसानों ने गाँव सभाओं में 'एका' की शपथ ली कि केवल दर्ज किराया देंगे, बेदखली का विरोध करेंगे और अन्यायपूर्ण माँगों को अस्वीकार करेंगे।",
+    "• प्रसार: आंदोलन हरदोई, बहराइच और सीतापुर जिलों में फैला।",
+    "• अवध आंदोलन से भिन्नता: कांग्रेस से सीधा जुड़ाव कम था; स्वरूप अधिक उग्र और क्रांतिकारी था।",
+    "• परिणाम: 1922 तक ब्रिटिश दमन ने आंदोलन को कुचल दिया, लेकिन इसने किसान उग्रता को उजागर किया।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison: Awadh Kisan Movement vs Eka Movement",
+      "titleHindi": "तुलना: अवध किसान आंदोलन बनाम एका आंदोलन",
+      "columns": ["Aspect", "Awadh Kisan Movement (1920)", "Eka Movement (1921)"],
+      "columnsHindi": ["पहलू", "अवध किसान आंदोलन (1920)", "एका आंदोलन (1921)"],
+      "rows": [
+        ["Leader", "Baba Ramchandra", "Madari Pasi"],
+        ["Issues", "High rents, begar, taluqdars’ oppression", "Oppressive landlords, moneylenders, colonial officials"],
+        ["Connection with Congress", "Strong, linked with Nehru and Kisan Sabhas", "Weak, more independent and militant"],
+        ["Methods", "Peaceful rallies, rent withholding, no begar", "Oath of unity, refusal to pay extra rent, village-level mobilization"],
+        ["Outcome", "Strengthened Congress rural base, faced repression", "Suppressed by 1922, but reflected militant peasant consciousness"]
+      ],
+      "rowsHindi": [
+        ["नेता", "बाबा रामचंद्र", "मदारी पासी"],
+        ["मुद्दे", "ऊँचे किराए, बेगार, तालुकदारों का शोषण", "जमींदारों, महाजनों और अधिकारियों का शोषण"],
+        ["कांग्रेस से जुड़ाव", "मजबूत; नेहरू और किसान सभाओं से जुड़ा", "कमज़ोर; अधिक स्वतंत्र और उग्र"],
+        ["तरीके", "शांतिपूर्ण जुलूस, किराया रोकना, बेगार न करना", "एका की शपथ, अतिरिक्त किराया न देना, गाँव स्तर पर संगठन"],
+        ["परिणाम", "कांग्रेस का ग्रामीण आधार मजबूत, दमन झेला", "1922 तक कुचल दिया गया, पर किसान उग्रता प्रकट की"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Awadh Kisan Movement (1920) → Baba Ramchandra, no-begar, anti-rent struggle.",
+    "Eka Movement (1921) → Madari Pasi, oath of unity, refusal to pay unjust rent.",
+    "Both reflected peasant assertion during Non-Cooperation era."
+  ],
+  "prelimsTipsHindi": [
+    "अवध किसान आंदोलन (1920) → बाबा रामचंद्र, बेगार विरोधी, किराया विरोधी।",
+    "एका आंदोलन (1921) → मदारी पासी, एका की शपथ, अन्यायपूर्ण किराया न देना।",
+    "दोनों असहयोग काल में किसान चेतना का प्रतीक थे।"
+  ],
+  "funFacts": [
+    "In Awadh, peasants carried Gandhi’s name on green flags in processions.",
+    "Eka meetings often began with recitations from Ramayana and Quran, symbolizing unity.",
+    "Madari Pasi, leader of Eka, came from a lower-caste background, showing peasant movements cut across caste barriers."
+  ],
+  "funFactsHindi": [
+    "अवध में किसान जुलूसों में हरे झंडों पर गांधी का नाम लिखकर चलते थे।",
+    "एका सभाएँ अक्सर रामायण और कुरान के पाठ से शुरू होती थीं, जो एकता का प्रतीक था।",
+    "एका के नेता मदारी पासी निचली जाति से थे, जिससे किसान आंदोलनों में जातीय सीमाएँ टूटती दिखीं।"
+  ],
+  "mainsPoints": [
+    "Both movements reflected peasant dissatisfaction with colonial agrarian policies and landlord oppression.",
+    "Awadh movement was closely linked with Congress, while Eka was more autonomous and militant.",
+    "They expanded the rural base of the nationalist movement, connecting village struggles with anti-colonial politics.",
+    "Their suppression reflected the limits of Congress’ control over localized peasant militancy."
+  ],
+  "mainsPointsHindi": [
+    "दोनों आंदोलनों ने औपनिवेशिक कृषि नीतियों और जमींदारी शोषण के प्रति किसानों की असंतुष्टि को दर्शाया।",
+    "अवध आंदोलन कांग्रेस से जुड़ा रहा, जबकि एका अधिक स्वतंत्र और उग्र था।",
+    "इनसे राष्ट्रीय आंदोलन का ग्रामीण आधार विस्तारित हुआ और गाँवों के संघर्ष औपनिवेशिक राजनीति से जुड़े।",
+    "इनका दमन कांग्रेस की स्थानीय किसान उग्रता पर नियंत्रण की सीमाओं को दर्शाता है।"
+  ]
+},
+{
+  "heading": "Last Phase of the Non-Cooperation Movement (1921–1922)",
+  "headingHindi": "असहयोग आंदोलन का अंतिम चरण (1921–1922)",
+  "highlight": "The final phase of the Non-Cooperation Movement saw heightened mass participation, increasing repression, and growing tension over non-violence. The Nagpur and Ahmedabad Congress Sessions consolidated the program, but the Chauri Chaura incident in February 1922 forced Gandhi to abruptly withdraw the movement, formalized through the Bardoli Resolution.",
+  "highlightHindi": "असहयोग आंदोलन के अंतिम चरण में व्यापक जन भागीदारी, सरकारी दमन और अहिंसा को लेकर तनाव बढ़ा। नागपुर और अहमदाबाद कांग्रेस अधिवेशन ने कार्यक्रम को मजबूत किया, लेकिन फरवरी 1922 की चौरी-चौरा घटना ने गांधी को आंदोलन अचानक वापस लेने पर मजबूर कर दिया, जिसे बारडोली प्रस्ताव के माध्यम से औपचारिक रूप दिया गया।",
+  "details": [
+    "Congress Sessions, 1921:",
+    "• Nagpur Session (Dec 1920): Congress adopted Non-Cooperation, reorganized on linguistic basis, opened to peasants and workers.",
+    "• Ahmedabad Session (Dec 1921): Ratified Gandhi’s leadership; urged complete boycott of foreign cloth, schools, councils, and adoption of Khadi.",
+    "Rising Mass Participation (1921):",
+    "• Students left schools and colleges in thousands to join national institutions like Jamia Millia Islamia.",
+    "• Lawyers like C.R. Das, Motilal Nehru, and Rajendra Prasad gave up their practice.",
+    "• Peasants, tribals, workers, and women joined in boycotts, strikes, and picketing.",
+    "Chauri Chaura Incident (Feb 1922):",
+    "• Location: Gorakhpur district, United Provinces (UP).",
+    "• Event: Protestors clashed with police; in retaliation they set fire to the police station, killing 22 policemen.",
+    "• Gandhi’s Response: Deeply distressed by violence, Gandhi immediately suspended the movement.",
+    "Bardoli Resolution (Feb 1922):",
+    "• Congress Working Committee met at Bardoli, Gujarat, to endorse Gandhi’s decision.",
+    "• Resolution formally suspended the Non-Cooperation Movement.",
+    "• It reaffirmed Congress’ commitment to non-violence and constructive work like promotion of Khadi, Hindu-Muslim unity, removal of untouchability, and national education.",
+    "Impact:",
+    "• Many leaders like C.R. Das and Subhas Bose opposed withdrawal, calling it premature.",
+    "• The suspension disheartened some sections but preserved Gandhi’s moral authority and commitment to non-violence.",
+    "• Marked the end of the first nationwide mass struggle, laying the foundation for future Gandhian movements."
+  ],
+  "detailsHindi": [
+    "कांग्रेस अधिवेशन, 1921:",
+    "• नागपुर अधिवेशन (दिसंबर 1920): कांग्रेस ने असहयोग अपनाया, प्रांतीय भाषाई आधार पर पुनर्गठित हुई और किसानों-मजदूरों के लिए द्वार खोले।",
+    "• अहमदाबाद अधिवेशन (दिसंबर 1921): गांधी के नेतृत्व की पुष्टि की गई; विदेशी कपड़ों, स्कूलों, परिषदों के बहिष्कार और खादी के प्रचार पर जोर दिया।",
+    "जन भागीदारी में वृद्धि (1921):",
+    "• हजारों छात्रों ने स्कूल-कॉलेज छोड़े और जामिया मिलिया इस्लामिया जैसे राष्ट्रीय संस्थानों में दाखिला लिया।",
+    "• सी.आर. दास, मोतीलाल नेहरू और राजेंद्र प्रसाद जैसे वकीलों ने वकालत छोड़ दी।",
+    "• किसान, जनजातियाँ, मजदूर और महिलाएँ बहिष्कार, हड़ताल और पिकेटिंग में शामिल हुए।",
+    "चौरी-चौरा घटना (फरवरी 1922):",
+    "• स्थान: गोरखपुर जिला, संयुक्त प्रांत (यूपी)।",
+    "• घटना: प्रदर्शनकारियों और पुलिस में टकराव हुआ; गुस्साए प्रदर्शनकारियों ने थाने को आग लगा दी, जिससे 22 पुलिसकर्मी मारे गए।",
+    "• गांधी की प्रतिक्रिया: हिंसा से दुखी होकर गांधी ने तुरंत आंदोलन निलंबित कर दिया।",
+    "बारडोली प्रस्ताव (फरवरी 1922):",
+    "• कांग्रेस कार्यकारिणी की बैठक बारडोली (गुजरात) में हुई, जहाँ गांधी के निर्णय को मंजूरी दी गई।",
+    "• प्रस्ताव में औपचारिक रूप से असहयोग आंदोलन को निलंबित किया गया।",
+    "• कांग्रेस ने अहिंसा और रचनात्मक कार्यों जैसे खादी का प्रचार, हिंदू-मुस्लिम एकता, अस्पृश्यता उन्मूलन और राष्ट्रीय शिक्षा को पुनः पुष्ट किया।",
+    "प्रभाव:",
+    "• सी.आर. दास और सुभाष बोस जैसे कई नेताओं ने आंदोलन की वापसी का विरोध किया और इसे समयपूर्व माना।",
+    "• आंदोलन की वापसी से कुछ वर्ग निराश हुए लेकिन गांधी का नैतिक नेतृत्व और अहिंसा के प्रति निष्ठा बरकरार रही।",
+    "• यह पहला अखिल भारतीय जन संघर्ष था जिसने भविष्य के गांधीवादी आंदोलनों की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Key Events in Last Phase of Non-Cooperation Movement",
+      "titleHindi": "असहयोग आंदोलन के अंतिम चरण की प्रमुख घटनाएँ",
+      "columns": ["Event", "Year", "Significance"],
+      "columnsHindi": ["घटना", "वर्ष", "महत्व"],
+      "rows": [
+        ["Nagpur Session", "1920", "Adoption of Non-Cooperation, reorganization of Congress"],
+        ["Ahmedabad Session", "1921", "Strengthened boycott, ratified Gandhi’s leadership"],
+        ["Chauri Chaura Incident", "1922", "Violence led to suspension of movement"],
+        ["Bardoli Resolution", "1922", "Congress formally withdrew Non-Cooperation, reaffirmed non-violence"]
+      ],
+      "rowsHindi": [
+        ["नागपुर अधिवेशन", "1920", "असहयोग अपनाया, कांग्रेस का पुनर्गठन"],
+        ["अहमदाबाद अधिवेशन", "1921", "बहिष्कार पर जोर, गांधी के नेतृत्व की पुष्टि"],
+        ["चौरी-चौरा घटना", "1922", "हिंसा के कारण आंदोलन निलंबित"],
+        ["बारडोली प्रस्ताव", "1922", "कांग्रेस ने औपचारिक रूप से आंदोलन वापस लिया, अहिंसा दोहराई"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Chauri Chaura Incident (1922) → 22 policemen killed; Gandhi withdrew movement.",
+    "Bardoli Resolution (1922) → Formal suspension of Non-Cooperation.",
+    "Nagpur Session (1920) → Adopted Non-Cooperation and restructured Congress.",
+    "Ahmedabad Session (1921) → Intensified boycott, reaffirmed Gandhi’s leadership."
+  ],
+  "prelimsTipsHindi": [
+    "चौरी-चौरा घटना (1922) → 22 पुलिसकर्मी मारे गए; गांधी ने आंदोलन वापस लिया।",
+    "बारडोली प्रस्ताव (1922) → असहयोग की औपचारिक वापसी।",
+    "नागपुर अधिवेशन (1920) → असहयोग अपनाया और कांग्रेस का पुनर्गठन।",
+    "अहमदाबाद अधिवेशन (1921) → बहिष्कार तेज किया, गांधी के नेतृत्व की पुष्टि।"
+  ],
+  "funFacts": [
+    "The Bardoli Resolution emphasized constructive work like spinning khadi and social reform over active protest after withdrawal.",
+    "Chauri Chaura became a symbol of the challenges in maintaining strict non-violence in mass movements.",
+    "Though the movement ended, Congress membership had swelled to nearly 20 lakh people."
+  ],
+  "funFactsHindi": [
+    "बारडोली प्रस्ताव ने आंदोलन की वापसी के बाद खादी कातना और सामाजिक सुधार जैसे रचनात्मक कार्यों पर जोर दिया।",
+    "चौरी-चौरा जन आंदोलनों में कड़ी अहिंसा बनाए रखने की चुनौतियों का प्रतीक बना।",
+    "हालाँकि आंदोलन समाप्त हो गया, कांग्रेस की सदस्यता लगभग 20 लाख तक पहुँच गई।"
+  ],
+  "mainsPoints": [
+    "The Chauri Chaura incident exposed the difficulty of controlling mass movements within the framework of strict non-violence.",
+    "The Bardoli Resolution reflected Gandhi’s moral authority and commitment to non-violence over political expediency.",
+    "Though withdrawn, the movement transformed Indian politics by involving peasants, workers, students, and women.",
+    "Marked Gandhi’s consolidation as the undisputed leader of the national movement."
+  ],
+  "mainsPointsHindi": [
+    "चौरी-चौरा घटना ने सख्त अहिंसा के ढाँचे में जन आंदोलनों को नियंत्रित करने की कठिनाई को उजागर किया।",
+    "बारडोली प्रस्ताव ने राजनीतिक लाभ की तुलना में गांधी के नैतिक नेतृत्व और अहिंसा के प्रति निष्ठा को दिखाया।",
+    "वापसी के बावजूद, आंदोलन ने किसानों, मजदूरों, छात्रों और महिलाओं की भागीदारी से भारतीय राजनीति को बदल दिया।",
+    "गांधी के निर्विवाद नेता बनने का यह निर्णायक क्षण था।"
+  ]
+},
+{
+  "heading": "People’s Response and Evaluation of the Non-Cooperation-Khilafat Movement (1920–1922)",
+  "headingHindi": "असहयोग-खिलाफत आंदोलन (1920–1922) की जन प्रतिक्रिया और मूल्यांकन",
+  "highlight": "The Non-Cooperation-Khilafat Movement evoked unprecedented nationwide participation, bringing peasants, workers, women, and students into the nationalist struggle. Despite its abrupt end, it transformed Indian politics into a mass movement, strengthened Hindu-Muslim unity temporarily, and established Gandhi as the supreme leader. However, it also revealed organizational weaknesses, communal tensions, and the challenges of sustaining non-violent mass struggles.",
+  "highlightHindi": "असहयोग-खिलाफत आंदोलन ने अभूतपूर्व अखिल भारतीय भागीदारी को जन्म दिया, जिससे किसान, मजदूर, महिलाएँ और छात्र राष्ट्रवादी संघर्ष में शामिल हुए। अचानक समाप्ति के बावजूद, इसने भारतीय राजनीति को जन आंदोलन में बदला, अस्थायी रूप से हिंदू-मुस्लिम एकता को मजबूत किया और गांधी को सर्वोच्च नेता स्थापित किया। हालाँकि, इसने संगठनात्मक कमजोरियों, सांप्रदायिक तनाव और अहिंसक जन आंदोलनों को बनाए रखने की चुनौतियों को भी उजागर किया।",
+  "details": [
+    "Peasants: Actively participated, especially in Awadh (Baba Ramchandra) and Bihar; linked anti-rent struggles with Non-Cooperation.",
+    "Workers: Strikes in Assam tea plantations, Bombay textile mills, railway workshops; demands combined with nationalist slogans.",
+    "Students: Left government schools and colleges in thousands; enrolled in national institutions like Jamia Millia Islamia, Kashi Vidyapeeth.",
+    "Women: Urban middle-class women joined picketing of liquor shops and foreign cloth stores; leaders like Basanti Devi (wife of C.R. Das) inspired participation.",
+    "Muslims: Actively joined under Khilafat leadership (Ali brothers, Maulana Azad), strengthening Hindu-Muslim unity.",
+    "Businessmen: Supported swadeshi by investing in Indian industries, banks, insurance companies.",
+    "Nationalist Leaders: Lawyers like C.R. Das, Motilal Nehru, and Rajendra Prasad gave up legal practice.",
+    "Repression: British arrested leaders, censored press, and used brutal force against protests.",
+    "Withdrawal: Chauri Chaura incident (1922) forced Gandhi to suspend the movement, leading to disappointment among radicals."
+  ],
+  "detailsHindi": [
+    "किसान: सक्रिय रूप से शामिल हुए, खासकर अवध (बाबा रामचंद्र) और बिहार में; किराया विरोधी संघर्ष असहयोग से जोड़े।",
+    "मजदूर: असम के चाय बागानों, बंबई की कपड़ा मिलों और रेलवे कार्यशालाओं में हड़तालें हुईं; माँगें राष्ट्रवादी नारों से जुड़ीं।",
+    "छात्र: हजारों की संख्या में सरकारी स्कूल-कॉलेज छोड़े; जामिया मिलिया इस्लामिया, काशी विद्यापीठ जैसे राष्ट्रीय संस्थानों में दाखिला लिया।",
+    "महिलाएँ: शहरी मध्यम वर्ग की महिलाएँ शराब और विदेशी कपड़ों की दुकानों पर पिकेटिंग में शामिल हुईं; बसंती देवी (सी.आर. दास की पत्नी) जैसी नेताओं ने प्रेरित किया।",
+    "मुस्लिम: अली बंधु और मौलाना आज़ाद जैसे खिलाफत नेताओं के तहत सक्रिय भागीदारी; हिंदू-मुस्लिम एकता मजबूत हुई।",
+    "व्यापारी: भारतीय उद्योगों, बैंकों और बीमा कंपनियों में निवेश कर स्वदेशी का समर्थन किया।",
+    "राष्ट्रवादी नेता: सी.आर. दास, मोतीलाल नेहरू और राजेंद्र प्रसाद जैसे वकीलों ने वकालत छोड़ दी।",
+    "दमन: ब्रिटिश ने नेताओं को गिरफ्तार किया, प्रेस पर सेंसरशिप लगाई और प्रदर्शनों पर क्रूर बल प्रयोग किया।",
+    "वापसी: चौरी-चौरा घटना (1922) ने गांधी को आंदोलन निलंबित करने पर मजबूर किया, जिससे उग्र नेताओं में निराशा फैली।"
+  ],
+  "tables": [
+    {
+      "title": "Evaluation of Non-Cooperation-Khilafat Movement",
+      "titleHindi": "असहयोग-खिलाफत आंदोलन का मूल्यांकन",
+      "columns": ["Aspect", "Evaluation"],
+      "columnsHindi": ["पहलू", "मूल्यांकन"],
+      "rows": [
+        ["Mass Participation", "For the first time, peasants, workers, women, students joined in large numbers"],
+        ["Hindu-Muslim Unity", "Strengthened during Khilafat, but temporary"],
+        ["Economic Impact", "Boost to swadeshi industries, khadi, national institutions"],
+        ["Leadership", "Established Gandhi as the undisputed leader of Indian nationalism"],
+        ["Organizational Weakness", "Lack of sustained planning; no parallel institutions created"],
+        ["Communal Tensions", "Moplah Rebellion (1921) highlighted dangers of communal violence"],
+        ["End of Movement", "Withdrawal after Chauri Chaura disappointed radicals like Subhas Bose and C.R. Das"],
+        ["Legacy", "Laid foundation for future mass movements like Civil Disobedience"]
+      ],
+      "rowsHindi": [
+        ["जन भागीदारी", "पहली बार किसान, मजदूर, महिलाएँ, छात्र बड़ी संख्या में जुड़े"],
+        ["हिंदू-मुस्लिम एकता", "खिलाफत के दौरान मजबूत हुई, लेकिन अस्थायी"],
+        ["आर्थिक प्रभाव", "स्वदेशी उद्योगों, खादी और राष्ट्रीय संस्थानों को बढ़ावा"],
+        ["नेतृत्व", "गांधी भारतीय राष्ट्रवाद के निर्विवाद नेता बने"],
+        ["संगठनात्मक कमजोरी", "सतत योजना का अभाव; समानांतर संस्थाएँ नहीं बनीं"],
+        ["सांप्रदायिक तनाव", "मोपला विद्रोह (1921) ने सांप्रदायिक हिंसा के खतरों को उजागर किया"],
+        ["आंदोलन का अंत", "चौरी-चौरा के बाद वापसी से सुभाष बोस और सी.आर. दास जैसे नेताओं में निराशा"],
+        ["विरासत", "भविष्य के जन आंदोलनों जैसे सविनय अवज्ञा की नींव रखी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "First nationwide mass struggle under Gandhi’s leadership.",
+    "Non-Cooperation merged with Khilafat → Hindu-Muslim unity.",
+    "Chauri Chaura Incident (1922) led to suspension.",
+    "Established Gandhi’s supremacy in national politics."
+  ],
+  "prelimsTipsHindi": [
+    "गांधी के नेतृत्व में पहला अखिल भारतीय जन आंदोलन।",
+    "असहयोग और खिलाफत का विलय → हिंदू-मुस्लिम एकता।",
+    "चौरी-चौरा घटना (1922) → आंदोलन की वापसी।",
+    "गांधी का सर्वोच्च राजनीतिक नेतृत्व स्थापित हुआ।"
+  ],
+  "funFacts": [
+    "Jamia Millia Islamia and Kashi Vidyapeeth were established as national institutions during the movement.",
+    "Foreign cloth worth over ₹90 crore was boycotted and burnt in bonfires across India.",
+    "Congress membership rose to around 20 lakh during the movement."
+  ],
+  "funFactsHindi": [
+    "जामिया मिलिया इस्लामिया और काशी विद्यापीठ जैसे राष्ट्रीय संस्थान आंदोलन के दौरान स्थापित हुए।",
+    "लगभग ₹90 करोड़ का विदेशी कपड़ा बहिष्कृत और सार्वजनिक होलियों में जलाया गया।",
+    "कांग्रेस की सदस्यता आंदोलन के दौरान लगभग 20 लाख तक पहुँच गई।"
+  ],
+  "mainsPoints": [
+    "The movement successfully transformed Indian nationalism into a mass-based struggle.",
+    "It temporarily united Hindus and Muslims on a common platform through Khilafat.",
+    "However, organizational weaknesses and communal tensions limited its effectiveness.",
+    "Withdrawal after Chauri Chaura disappointed many, but preserved the non-violent character of Gandhian struggle.",
+    "Despite short duration, it laid the foundation for future movements like Civil Disobedience and Quit India."
+  ],
+  "mainsPointsHindi": [
+    "आंदोलन ने भारतीय राष्ट्रवाद को सफलतापूर्वक जन-आधारित संघर्ष में बदला।",
+    "खिलाफत के माध्यम से हिंदू और मुस्लिम अस्थायी रूप से एक मंच पर आए।",
+    "हालाँकि, संगठनात्मक कमजोरियों और सांप्रदायिक तनाव ने इसकी प्रभावशीलता को सीमित किया।",
+    "चौरी-चौरा के बाद वापसी से कई नेता निराश हुए, लेकिन गांधीवादी संघर्ष का अहिंसक स्वरूप सुरक्षित रहा।",
+    "कम अवधि के बावजूद, इसने सविनय अवज्ञा और भारत छोड़ो जैसे भविष्य के आंदोलनों की नींव रखी।"
+  ]
+},
+
+    ],
+    "Chapter 16: Emergence of Swarajists, Socialist Ideas, Revolutionary Activities": [
+      {
+  "heading": "Swarajists and No-Changers (Post Non-Cooperation Politics, 1923–1930)",
+  "headingHindi": "स्वराजी और नो-चेंजर (असहयोग आंदोलन के बाद की राजनीति, 1923–1930)",
+  "highlight": "After the suspension of the Non-Cooperation Movement in 1922, Congress leaders were divided. The Swarajists, led by C.R. Das and Motilal Nehru, advocated entry into legislative councils to wreck them from within, while the No-Changers, led by Gandhi, Rajendra Prasad, and Vallabhbhai Patel, emphasized constructive work like khadi, education, and social reforms outside legislatures.",
+  "highlightHindi": "1922 में असहयोग आंदोलन के निलंबन के बाद कांग्रेस नेता विभाजित हो गए। सी.आर. दास और मोतीलाल नेहरू के नेतृत्व में स्वराजियों ने विधान परिषदों में प्रवेश कर उन्हें भीतर से निष्प्रभावी बनाने की वकालत की, जबकि गांधी, राजेंद्र प्रसाद और वल्लभभाई पटेल के नेतृत्व में नो-चेंजरों ने खादी, शिक्षा और सामाजिक सुधार जैसे रचनात्मक कार्यों पर जोर दिया।",
+  "details": [
+    "Background: After the Bardoli Resolution (1922) suspended Non-Cooperation, Congress faced the dilemma of political strategy.",
+    "Swarajists (Pro-Changers):",
+    "• Leaders: C.R. Das, Motilal Nehru, N.C. Kelkar.",
+    "• Objective: Enter legislatures through elections, expose and obstruct colonial policies from within.",
+    "• Belief: Legislatures could be used as arenas for nationalist propaganda and resistance.",
+    "• Activities: Fought elections of 1923; won significant seats; acted as a strong opposition in councils.",
+    "No-Changers:",
+    "• Leaders: Mahatma Gandhi, Rajendra Prasad, Vallabhbhai Patel, C. Rajagopalachari.",
+    "• Objective: Continue Gandhian constructive program – promotion of khadi, boycott of foreign goods, removal of untouchability, spreading national education.",
+    "• Belief: True strength lay in mass work, not legislative councils.",
+    "• Activities: Expanded charkha and khadi work, established ashrams and national schools, promoted social reform.",
+    "Reconciliation:",
+    "• At the Belgaum Congress Session (1924), Gandhi (as Congress President) brought both groups together.",
+    "• Both wings cooperated in keeping the national movement alive – Swarajists inside legislatures, No-Changers outside.",
+    "Impact:",
+    "• Swarajists kept political pressure alive in councils and prevented Congress from becoming irrelevant.",
+    "• No-Changers preserved Gandhian discipline and mass contact through constructive programs.",
+    "• This dual approach helped sustain the nationalist movement in the 1920s despite absence of major Gandhian mass movements."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि: बारडोली प्रस्ताव (1922) के बाद असहयोग निलंबित हुआ तो कांग्रेस के सामने राजनीतिक रणनीति का संकट था।",
+    "स्वराजी (प्रो-चेंजर):",
+    "• नेता: सी.आर. दास, मोतीलाल नेहरू, एन.सी. केलकर।",
+    "• उद्देश्य: चुनावों के माध्यम से विधान परिषदों में प्रवेश करना और उन्हें भीतर से निष्प्रभावी बनाना।",
+    "• विश्वास: परिषदों का उपयोग राष्ट्रवादी प्रचार और प्रतिरोध के मंच के रूप में किया जा सकता है।",
+    "• गतिविधियाँ: 1923 के चुनावों में भाग लिया; कई सीटें जीतीं; परिषदों में मजबूत विपक्ष बने।",
+    "नो-चेंजर:",
+    "• नेता: महात्मा गांधी, राजेंद्र प्रसाद, वल्लभभाई पटेल, सी. राजगोपालाचारी।",
+    "• उद्देश्य: गांधीवादी रचनात्मक कार्यक्रम जारी रखना – खादी का प्रचार, विदेशी वस्तुओं का बहिष्कार, अस्पृश्यता उन्मूलन, राष्ट्रीय शिक्षा का प्रसार।",
+    "• विश्वास: सच्ची शक्ति जन कार्य में है, न कि विधान परिषदों में।",
+    "• गतिविधियाँ: चरखा और खादी का विस्तार, आश्रम और राष्ट्रीय स्कूलों की स्थापना, सामाजिक सुधारों को बढ़ावा।",
+    "समन्वय:",
+    "• बेलगाँव कांग्रेस अधिवेशन (1924) में गांधी (कांग्रेस अध्यक्ष के रूप में) ने दोनों समूहों को एकजुट किया।",
+    "• दोनों ने मिलकर आंदोलन को जीवित रखा – स्वराजी परिषदों के भीतर, नो-चेंजर बाहर।",
+    "प्रभाव:",
+    "• स्वराजियों ने परिषदों में राजनीतिक दबाव बनाए रखा और कांग्रेस को अप्रासंगिक होने से बचाया।",
+    "• नो-चेंजरों ने गांधीवादी अनुशासन और जनसंपर्क को रचनात्मक कार्यक्रमों से सुरक्षित रखा।",
+    "• इस दोहरे दृष्टिकोण ने 1920 के दशक में बड़े गांधीवादी आंदोलनों की अनुपस्थिति के बावजूद राष्ट्रीय आंदोलन को जीवित रखा।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison: Swarajists vs No-Changers",
+      "titleHindi": "तुलना: स्वराजी बनाम नो-चेंजर",
+      "columns": ["Aspect", "Swarajists", "No-Changers"],
+      "columnsHindi": ["पहलू", "स्वराजी", "नो-चेंजर"],
+      "rows": [
+        ["Leaders", "C.R. Das, Motilal Nehru, N.C. Kelkar", "Gandhi, Rajendra Prasad, Vallabhbhai Patel"],
+        ["Strategy", "Enter legislatures, wreck from within", "Boycott legislatures, focus on constructive work"],
+        ["Focus", "Political engagement in councils", "Khadi, social reform, national education"],
+        ["Belief", "Legislatures useful for propaganda", "Mass movements more powerful than councils"],
+        ["Impact", "Prevented political vacuum in legislatures", "Sustained Gandhian programs and discipline"]
+      ],
+      "rowsHindi": [
+        ["नेता", "सी.आर. दास, मोतीलाल नेहरू, एन.सी. केलकर", "गांधी, राजेंद्र प्रसाद, वल्लभभाई पटेल"],
+        ["रणनीति", "विधान परिषदों में प्रवेश, भीतर से निष्प्रभावी करना", "विधान परिषदों का बहिष्कार, रचनात्मक कार्यों पर ध्यान"],
+        ["केंद्रबिंदु", "परिषदों में राजनीतिक कार्य", "खादी, सामाजिक सुधार, राष्ट्रीय शिक्षा"],
+        ["विश्वास", "परिषदें प्रचार के लिए उपयोगी", "जन आंदोलन परिषदों से अधिक शक्तिशाली"],
+        ["प्रभाव", "विधान परिषदों में राजनीतिक शून्य रोका", "गांधीवादी कार्यक्रम और अनुशासन को बनाए रखा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Swaraj Party founded in 1923 by C.R. Das and Motilal Nehru.",
+    "No-Changers included Gandhi, Rajendra Prasad, and Vallabhbhai Patel.",
+    "Belgaum Session (1924) → Gandhi as Congress President reconciled both factions."
+  ],
+  "prelimsTipsHindi": [
+    "स्वराज पार्टी 1923 में सी.आर. दास और मोतीलाल नेहरू ने बनाई।",
+    "नो-चेंजरों में गांधी, राजेंद्र प्रसाद और वल्लभभाई पटेल शामिल थे।",
+    "बेलगाँव अधिवेशन (1924) → गांधी कांग्रेस अध्यक्ष बने और दोनों गुटों को जोड़ा।"
+  ],
+  "funFacts": [
+    "The Swaraj Party was nicknamed the 'Pro-Changers' because they wanted to change the boycott policy.",
+    "No-Changers focused on spinning khadi and running national schools even when legislative politics was ongoing.",
+    "Belgaum Session (1924) was the only time Gandhi accepted Congress presidency."
+  ],
+  "funFactsHindi": [
+    "स्वराज पार्टी को 'प्रो-चेंजर' कहा गया क्योंकि वे बहिष्कार नीति बदलना चाहते थे।",
+    "नो-चेंजरों ने खादी कातने और राष्ट्रीय स्कूल चलाने पर ध्यान दिया जबकि विधान राजनीति चल रही थी।",
+    "बेलगाँव अधिवेशन (1924) गांधी का कांग्रेस अध्यक्ष बनने का एकमात्र अवसर था।"
+  ],
+  "mainsPoints": [
+    "The split highlighted differences in strategy but not in ultimate goal of swaraj.",
+    "Swarajists prevented political stagnation by challenging colonial policies in councils.",
+    "No-Changers preserved Gandhian mass contact and constructive programs.",
+    "Their eventual reconciliation ensured Congress remained united and active in the 1920s."
+  ],
+  "mainsPointsHindi": [
+    "विभाजन ने रणनीति में अंतर दिखाया लेकिन स्वराज के अंतिम लक्ष्य में नहीं।",
+    "स्वराजियों ने परिषदों में औपनिवेशिक नीतियों को चुनौती देकर राजनीतिक ठहराव रोका।",
+    "नो-चेंजरों ने गांधीवादी जनसंपर्क और रचनात्मक कार्यक्रम सुरक्षित रखे।",
+    "आखिरकार दोनों के मेल से कांग्रेस 1920 के दशक में एकजुट और सक्रिय रही।"
+  ]
+},
+{
+  "heading": "Congress-Khilafat Swarajya Party (1923)",
+  "headingHindi": "कांग्रेस-खिलाफत स्वराज्य पार्टी (1923)",
+  "highlight": "The Swarajya Party, also known as the Congress-Khilafat Swarajya Party, was formed in 1923 by C.R. Das and Motilal Nehru after differences with Gandhi’s strategy of boycott. It aimed to enter legislative councils and use them as platforms to resist colonial rule from within, while remaining part of the Congress and Khilafat movements.",
+  "highlightHindi": "स्वराज्य पार्टी, जिसे कांग्रेस-खिलाफत स्वराज्य पार्टी भी कहा जाता है, 1923 में सी.आर. दास और मोतीलाल नेहरू ने गांधी की बहिष्कार नीति से मतभेद के बाद बनाई। इसका उद्देश्य विधान परिषदों में प्रवेश कर उन्हें औपनिवेशिक शासन के खिलाफ प्रतिरोध के मंच के रूप में इस्तेमाल करना था, जबकि यह कांग्रेस और खिलाफत आंदोलनों का हिस्सा भी बनी रही।",
+  "details": [
+    "Formation:",
+    "• Founded on 1 January 1923 by Chittaranjan (C.R.) Das, Motilal Nehru, and N.C. Kelkar.",
+    "• Emerged after Gandhi suspended the Non-Cooperation Movement (1922) following the Chauri Chaura incident.",
+    "• Swarajists were also called 'Pro-Changers' as they wanted to change the boycott strategy by entering councils.",
+    "Objectives:",
+    "• To contest elections to legislative councils under the Government of India Act, 1919.",
+    "• To obstruct colonial governance from within and use councils for nationalist propaganda.",
+    "• To demand swaraj (self-rule) and expose the limitations of constitutional reforms.",
+    "Leadership:",
+    "• President: C.R. Das.",
+    "• Secretary: Motilal Nehru.",
+    "• N.C. Kelkar and others played key roles.",
+    "• Khilafat leaders like Mohammad Ali and Shaukat Ali also supported the party, hence 'Congress-Khilafat Swarajya Party'.",
+    "Role in Councils:",
+    "• In the elections of 1923, Swarajists won 42 seats in Central Legislative Assembly.",
+    "• Acted as a strong opposition by rejecting budgets, blocking laws, and exposing colonial injustices.",
+    "• The party gave the slogan 'Council entry to wreck the councils'.",
+    "Achievements:",
+    "• Kept Congress politically relevant when mass movements were suspended.",
+    "• Brought nationalist ideas inside legislatures, using speeches and debates as propaganda.",
+    "• United moderates and extremists temporarily under one platform.",
+    "Limitations:",
+    "• Could not prevent government from passing laws due to official majority.",
+    "• Internal differences weakened the party.",
+    "• Death of C.R. Das in 1925 reduced its strength.",
+    "• Declined after 1927 as focus shifted back to mass movements."
+  ],
+  "detailsHindi": [
+    "गठन:",
+    "• 1 जनवरी 1923 को चितरंजन (सी.आर.) दास, मोतीलाल नेहरू और एन.सी. केलकर द्वारा स्थापित।",
+    "• चौरी-चौरा घटना (1922) के बाद गांधी द्वारा असहयोग आंदोलन निलंबित करने से यह सामने आई।",
+    "• स्वराजियों को 'प्रो-चेंजर' भी कहा गया क्योंकि वे परिषदों में प्रवेश कर बहिष्कार नीति बदलना चाहते थे।",
+    "उद्देश्य:",
+    "• 1919 के भारत सरकार अधिनियम के तहत विधान परिषदों के चुनाव लड़ना।",
+    "• परिषदों को भीतर से बाधित करना और उन्हें राष्ट्रवादी प्रचार का मंच बनाना।",
+    "• स्वराज (स्वशासन) की माँग करना और संवैधानिक सुधारों की सीमाओं को उजागर करना।",
+    "नेतृत्व:",
+    "• अध्यक्ष: सी.आर. दास।",
+    "• सचिव: मोतीलाल नेहरू।",
+    "• एन.सी. केलकर और अन्य ने महत्वपूर्ण भूमिका निभाई।",
+    "• मोहम्मद अली और शौकत अली जैसे खिलाफत नेताओं ने भी पार्टी का समर्थन किया, इसलिए इसे 'कांग्रेस-खिलाफत स्वराज्य पार्टी' कहा गया।",
+    "परिषदों में भूमिका:",
+    "• 1923 के चुनावों में स्वराजियों ने केंद्रीय विधान सभा में 42 सीटें जीतीं।",
+    "• बजट खारिज कर, कानून रोककर और औपनिवेशिक अन्याय उजागर कर मजबूत विपक्ष बने।",
+    "• पार्टी का नारा था – 'काउंसिल में प्रवेश करो, काउंसिल को ध्वस्त करो'।",
+    "उपलब्धियाँ:",
+    "• जब जन आंदोलनों को निलंबित किया गया, तब कांग्रेस को राजनीतिक रूप से प्रासंगिक बनाए रखा।",
+    "• राष्ट्रवादी विचारों को परिषदों के भीतर लाया और भाषणों-बहसों को प्रचार का माध्यम बनाया।",
+    "• कुछ समय के लिए उदारवादियों और उग्रवादियों को एक मंच पर लाया।",
+    "सीमाएँ:",
+    "• सरकारी बहुमत के कारण कानून पास होने से रोक नहीं पाए।",
+    "• आंतरिक मतभेदों से पार्टी कमजोर हुई।",
+    "• 1925 में सी.आर. दास की मृत्यु से इसकी ताकत घट गई।",
+    "• 1927 के बाद जब ध्यान पुनः जन आंदोलनों पर गया, तब इसका प्रभाव घटा।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of Congress-Khilafat Swarajya Party",
+      "titleHindi": "कांग्रेस-खिलाफत स्वराज्य पार्टी की प्रमुख विशेषताएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Founded", "1923 by C.R. Das, Motilal Nehru, N.C. Kelkar"],
+        ["Support", "Congress members and Khilafat leaders (Ali brothers)"],
+        ["Strategy", "Council entry to wreck councils from within"],
+        ["Achievement", "Won 42 seats in 1923; acted as strong opposition"],
+        ["Limitation", "Official majority prevented real legislative change"]
+      ],
+      "rowsHindi": [
+        ["गठन", "1923, सी.आर. दास, मोतीलाल नेहरू, एन.सी. केलकर द्वारा"],
+        ["समर्थन", "कांग्रेस नेता और खिलाफत नेता (अली बंधु)"],
+        ["रणनीति", "परिषदों में प्रवेश कर उन्हें भीतर से निष्प्रभावी करना"],
+        ["उपलब्धि", "1923 में 42 सीटें जीतीं; मजबूत विपक्ष बने"],
+        ["सीमा", "सरकारी बहुमत से वास्तविक कानून रोकना संभव नहीं हुआ"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Swarajya Party founded in 1923 by C.R. Das and Motilal Nehru.",
+    "Also called Congress-Khilafat Swarajya Party due to support from Khilafat leaders.",
+    "Main slogan → 'Enter the councils to wreck the councils'.",
+    "Acted as opposition in legislative councils under Government of India Act, 1919."
+  ],
+  "prelimsTipsHindi": [
+    "स्वराज पार्टी 1923 में सी.आर. दास और मोतीलाल नेहरू द्वारा बनाई गई।",
+    "खिलाफत नेताओं के समर्थन के कारण इसे कांग्रेस-खिलाफत स्वराज्य पार्टी भी कहा गया।",
+    "मुख्य नारा → 'काउंसिल में प्रवेश करो, काउंसिल को ध्वस्त करो'।",
+    "1919 के भारत सरकार अधिनियम के तहत विधान परिषदों में विपक्ष बने।"
+  ],
+  "funFacts": [
+    "C.R. Das was known as 'Deshbandhu' and became the first President of the Swarajya Party.",
+    "Motilal Nehru’s entry into Swarajist politics prepared the ground for his son Jawaharlal’s later leadership.",
+    "The Swarajists’ obstructionist tactics forced the British to often dissolve councils."
+  ],
+  "funFactsHindi": [
+    "सी.आर. दास को 'देशबंधु' कहा जाता था और वे स्वराज्य पार्टी के पहले अध्यक्ष बने।",
+    "मोतीलाल नेहरू की स्वराजी राजनीति में भागीदारी ने उनके पुत्र जवाहरलाल के भावी नेतृत्व की नींव रखी।",
+    "स्वराजियों की अवरोधक रणनीति से ब्रिटिश कई बार परिषदों को भंग करने पर मजबूर हुए।"
+  ],
+  "mainsPoints": [
+    "The Swaraj Party represented a new phase of nationalist politics, keeping the movement alive inside legislatures.",
+    "It combined Congress and Khilafat leaders, showing temporary Hindu-Muslim cooperation.",
+    "While it exposed the hollowness of constitutional reforms, it could not achieve real legislative change due to official majority.",
+    "It ensured Congress remained politically active in the 1920s, bridging the gap between Non-Cooperation and Civil Disobedience."
+  ],
+  "mainsPointsHindi": [
+    "स्वराज पार्टी ने राष्ट्रवादी राजनीति का नया चरण प्रस्तुत किया और आंदोलन को परिषदों के भीतर जीवित रखा।",
+    "इसने कांग्रेस और खिलाफत नेताओं को जोड़ा, जिससे अस्थायी हिंदू-मुस्लिम सहयोग दिखा।",
+    "इसने संवैधानिक सुधारों की खोखलाहट को उजागर किया, पर सरकारी बहुमत के कारण वास्तविक बदलाव नहीं कर सका।",
+    "इसने 1920 के दशक में कांग्रेस को राजनीतिक रूप से सक्रिय बनाए रखा और असहयोग और सविनय अवज्ञा के बीच सेतु का काम किया।"
+  ]
+},
+{
+  "heading": "Achievements and Failures of the Swaraj Party (1923–1927)",
+  "headingHindi": "स्वराज पार्टी (1923–1927) की उपलब्धियाँ और असफलताएँ",
+  "highlight": "The Swaraj Party, founded in 1923 by C.R. Das and Motilal Nehru, played a crucial role in sustaining nationalist politics after the suspension of the Non-Cooperation Movement. Its achievements lay in exposing colonial rule and keeping Congress relevant inside legislatures, while its failures included inability to secure real reforms due to official majority, internal divisions, and the decline after C.R. Das’s death.",
+  "highlightHindi": "1923 में सी.आर. दास और मोतीलाल नेहरू द्वारा स्थापित स्वराज पार्टी ने असहयोग आंदोलन के निलंबन के बाद राष्ट्रवादी राजनीति को जीवित रखने में महत्वपूर्ण भूमिका निभाई। इसकी उपलब्धि औपनिवेशिक शासन की पोल खोलने और कांग्रेस को विधान परिषदों में प्रासंगिक बनाए रखने में थी, जबकि इसकी असफलता वास्तविक सुधार न ला पाने, आंतरिक मतभेद और सी.आर. दास की मृत्यु के बाद पतन में दिखी।",
+  "details": [
+    "Achievements:",
+    "• Won 42 seats in the Central Legislative Assembly in the 1923 elections, emerging as a strong opposition.",
+    "• Effectively exposed the weaknesses of the Montagu-Chelmsford Reforms (1919) by blocking budgets, rejecting proposals, and highlighting official dominance.",
+    "• Demonstrated unity between Congress and Khilafat leaders, showing temporary Hindu-Muslim cooperation.",
+    "• Kept the nationalist spirit alive during a lull in Gandhian mass movements.",
+    "• Leaders like Motilal Nehru and C.R. Das gained experience in parliamentary politics, preparing ground for future leadership.",
+    "• Popularized the slogan: 'Enter the councils to wreck the councils'.",
+    "Failures:",
+    "• Could not stop the passage of government bills due to official majority in councils.",
+    "• Limited to obstructionism; lacked power to introduce positive reforms.",
+    "• Internal divisions within the party weakened its impact; moderates and radicals differed on strategy.",
+    "• Death of C.R. Das in 1925 was a major blow; leadership weakened.",
+    "• By 1927, the party declined as Congress focus shifted back to mass movements (Civil Disobedience).",
+    "• The government skillfully neutralized Swarajists by co-opting moderates with minor concessions."
+  ],
+  "detailsHindi": [
+    "उपलब्धियाँ:",
+    "• 1923 के चुनावों में केंद्रीय विधान सभा में 42 सीटें जीतकर मजबूत विपक्ष बने।",
+    "• बजट रोककर, प्रस्ताव अस्वीकार कर और सरकारी प्रभुत्व उजागर कर मॉन्टेग-चेम्सफोर्ड सुधारों (1919) की कमजोरियाँ सामने लाईं।",
+    "• कांग्रेस और खिलाफत नेताओं को एक मंच पर लाकर अस्थायी हिंदू-मुस्लिम सहयोग दिखाया।",
+    "• गांधीवादी जन आंदोलनों की अनुपस्थिति में राष्ट्रवादी भावना को जीवित रखा।",
+    "• मोतीलाल नेहरू और सी.आर. दास जैसे नेताओं ने संसदीय राजनीति का अनुभव पाया, जिसने भविष्य के नेतृत्व की नींव रखी।",
+    "• नारा लोकप्रिय बनाया: 'काउंसिल में प्रवेश करो, काउंसिल को ध्वस्त करो'।",
+    "असफलताएँ:",
+    "• परिषदों में सरकारी बहुमत के कारण सरकारी बिल रोक नहीं पाए।",
+    "• केवल अवरोधक राजनीति तक सीमित रहे; सकारात्मक सुधार लाने में असमर्थ।",
+    "• पार्टी के भीतर मतभेदों ने इसकी ताकत घटाई; उदारवादी और उग्रवादी रणनीति पर बँटे।",
+    "• 1925 में सी.आर. दास की मृत्यु बड़ा झटका साबित हुई; नेतृत्व कमजोर हुआ।",
+    "• 1927 तक कांग्रेस का ध्यान पुनः जन आंदोलनों (सविनय अवज्ञा) पर गया तो पार्टी का पतन हुआ।",
+    "• सरकार ने मामूली रियायतें देकर उदारवादियों को अपने पक्ष में कर स्वराजियों को कमजोर किया।"
+  ],
+  "tables": [
+    {
+      "title": "Achievements vs Failures of Swaraj Party",
+      "titleHindi": "स्वराज पार्टी की उपलब्धियाँ बनाम असफलताएँ",
+      "columns": ["Aspect", "Achievements", "Failures"],
+      "columnsHindi": ["पहलू", "उपलब्धियाँ", "असफलताएँ"],
+      "rows": [
+        ["Legislative Role", "Strong opposition, exposed colonial reforms", "Could not stop bills due to official majority"],
+        ["Political Impact", "Kept Congress active inside legislatures", "Only obstruction, no constructive reforms"],
+        ["Leadership", "C.R. Das and Motilal Nehru provided dynamic leadership", "Declined after C.R. Das’s death in 1925"],
+        ["Unity", "Congress-Khilafat cooperation, temporary Hindu-Muslim unity", "Internal divisions weakened party"],
+        ["Long-term Impact", "Prepared ground for future leadership and debates", "Declined by 1927 as focus shifted to mass movements"]
+      ],
+      "rowsHindi": [
+        ["विधान भूमिका", "मजबूत विपक्ष बने, औपनिवेशिक सुधारों की पोल खोली", "सरकारी बहुमत से बिल रोक नहीं पाए"],
+        ["राजनीतिक प्रभाव", "कांग्रेस को परिषदों में सक्रिय रखा", "सिर्फ अवरोध, कोई रचनात्मक सुधार नहीं"],
+        ["नेतृत्व", "सी.आर. दास और मोतीलाल नेहरू ने नेतृत्व किया", "1925 में सी.आर. दास की मृत्यु के बाद पतन"],
+        ["एकता", "कांग्रेस-खिलाफत सहयोग, अस्थायी हिंदू-मुस्लिम एकता", "आंतरिक मतभेदों से पार्टी कमजोर"],
+        ["दीर्घकालिक प्रभाव", "भविष्य के नेतृत्व और बहसों की नींव रखी", "1927 तक जन आंदोलनों पर ध्यान जाने से पतन"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Swaraj Party founded in 1923 by C.R. Das (President) and Motilal Nehru (Secretary).",
+    "Slogan → 'Enter the councils to wreck the councils'.",
+    "C.R. Das’s death in 1925 weakened the party.",
+    "By 1927, Congress shifted focus to Civil Disobedience, causing decline of Swarajists."
+  ],
+  "prelimsTipsHindi": [
+    "स्वराज पार्टी 1923 में सी.आर. दास (अध्यक्ष) और मोतीलाल नेहरू (सचिव) ने बनाई।",
+    "नारा → 'काउंसिल में प्रवेश करो, काउंसिल को ध्वस्त करो'।",
+    "1925 में सी.आर. दास की मृत्यु से पार्टी कमजोर हुई।",
+    "1927 तक कांग्रेस का ध्यान सविनय अवज्ञा पर जाने से स्वराजियों का पतन हुआ।"
+  ],
+  "funFacts": [
+    "Motilal Nehru’s involvement in Swarajist politics laid the foundation for his son Jawaharlal’s prominence in the 1930s.",
+    "The Swarajists sometimes joined hands with independents and even moderates to oppose government budgets.",
+    "The British often dissolved legislatures when Swarajists created deadlocks by rejecting proposals."
+  ],
+  "funFactsHindi": [
+    "मोतीलाल नेहरू की स्वराजी राजनीति में भागीदारी ने उनके पुत्र जवाहरलाल की 1930 के दशक में प्रमुखता की नींव रखी।",
+    "स्वराजियों ने कभी-कभी स्वतंत्रों और उदारवादियों के साथ मिलकर सरकारी बजट का विरोध किया।",
+    "जब स्वराजियों ने प्रस्ताव खारिज कर गतिरोध पैदा किया तो ब्रिटिश कई बार परिषदों को भंग करने पर मजबूर हुए।"
+  ],
+  "mainsPoints": [
+    "The Swaraj Party sustained nationalist politics during a lull in mass movements.",
+    "Its achievements lay in exposing colonial governance and keeping Congress relevant.",
+    "Its failures reflected structural limits of council entry strategy and leadership setbacks.",
+    "The experience shaped future Congress strategies, balancing parliamentary and mass movements."
+  ],
+  "mainsPointsHindi": [
+    "स्वराज पार्टी ने जन आंदोलनों की अनुपस्थिति में राष्ट्रवादी राजनीति को जीवित रखा।",
+    "इसकी उपलब्धि औपनिवेशिक शासन की पोल खोलने और कांग्रेस को प्रासंगिक बनाए रखने में थी।",
+    "इसकी असफलता परिषदों की सीमाओं और नेतृत्व की कमजोरियों में दिखी।",
+    "इस अनुभव ने भविष्य की कांग्रेस रणनीतियों को आकार दिया, जिसमें संसदीय और जन आंदोलनों का संतुलन बना।"
+  ]
+},
+{
+  "heading": "Revolutionary Activity during the 1920s (Punjab–United Provinces–Bihar)",
+  "headingHindi": "1920 के दशक में क्रांतिकारी गतिविधियाँ (पंजाब–संयुक्त प्रांत–बिहार)",
+  "highlight": "During the 1920s, revolutionary activity revived in Punjab, United Provinces (UP), and Bihar. Influenced by the Russian Revolution and the failure of constitutional reforms, young nationalists formed secret societies and carried out political assassinations, attempted raids, and organized workers and peasants. Groups like the Hindustan Republican Association (HRA) and later Hindustan Socialist Republican Association (HSRA) emerged as major forces.",
+  "highlightHindi": "1920 के दशक में पंजाब, संयुक्त प्रांत (यूपी) और बिहार में क्रांतिकारी गतिविधियाँ पुनर्जीवित हुईं। रूसी क्रांति और संवैधानिक सुधारों की विफलता से प्रभावित होकर युवा राष्ट्रवादियों ने गुप्त समाज बनाए, राजनीतिक हत्याएँ कीं, डकैतियों का प्रयास किया और मजदूरों व किसानों को संगठित किया। हिंदुस्तान रिपब्लिकन एसोसिएशन (एचआरए) और बाद में हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (एचएसआरए) जैसी संस्थाएँ प्रमुख शक्ति के रूप में उभरीं।",
+  "details": [
+    "Background:",
+    "• After the withdrawal of the Non-Cooperation Movement (1922), disillusioned youth turned to revolutionary politics.",
+    "• Influence of the Russian Revolution (1917), Irish struggle, and socialist ideas was strong.",
+    "• Many felt Gandhian non-violence was ineffective against British repression.",
+    "Punjab:",
+    "• Leaders: Bhagat Singh, Sukhdev, Rajguru, Chandrashekhar Azad, Bhagwati Charan Vohra.",
+    "• Organizations: Naujawan Bharat Sabha (1926) and Hindustan Socialist Republican Association (HSRA, 1928).",
+    "• Activities: Political assassinations (Saunders, 1928), Lahore Conspiracy Case, Assembly Bomb Incident (1929).",
+    "United Provinces (UP):",
+    "• Base of Hindustan Republican Association (HRA) founded in 1924 by Sachindranath Sanyal, Jogesh Chatterjee, Ram Prasad Bismil, and Chandrashekhar Azad.",
+    "• Kakori Conspiracy (1925): HRA members looted a government train near Kakori to fund revolutionary activities. Leaders like Bismil, Ashfaqullah Khan, Roshan Singh, and Rajendra Lahiri executed.",
+    "• HRA later reorganized as HSRA with socialist ideology (1928).",
+    "Bihar:",
+    "• Revolutionary activities linked with HRA; Bihar was one of its centers.",
+    "• Local leaders like Yogendra Shukla and Baikunth Shukla provided shelter and support to revolutionaries.",
+    "• Bihar also contributed activists to Kakori Conspiracy and later HSRA activities.",
+    "Nature of Activities:",
+    "• Political assassinations of British officials and informers.",
+    "• Train dacoities to raise funds (Kakori, 1925).",
+    "• Use of socialist and Marxist ideas to inspire masses.",
+    "• Revolutionary literature circulated secretly to spread nationalism."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• असहयोग आंदोलन (1922) की वापसी के बाद निराश युवाओं ने क्रांतिकारी राजनीति का रास्ता अपनाया।",
+    "• रूसी क्रांति (1917), आयरिश संघर्ष और समाजवादी विचारों का गहरा प्रभाव था।",
+    "• कई युवाओं को लगा कि गांधीवादी अहिंसा ब्रिटिश दमन के सामने कमजोर है।",
+    "पंजाब:",
+    "• नेता: भगत सिंह, सुखदेव, राजगुरु, चंद्रशेखर आज़ाद, भगवती चरण वोहरा।",
+    "• संगठन: नौजवान भारत सभा (1926) और हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (HSRA, 1928)।",
+    "• गतिविधियाँ: राजनैतिक हत्याएँ (सॉन्डर्स, 1928), लाहौर षड्यंत्र केस, असेंबली बम कांड (1929)।",
+    "संयुक्त प्रांत (यूपी):",
+    "• आधार: हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA) – 1924 में सचिननाथ सान्याल, जोगेश चटर्जी, रामप्रसाद बिस्मिल और चंद्रशेखर आज़ाद ने बनाया।",
+    "• काकोरी कांड (1925): एचआरए सदस्यों ने काकोरी के पास सरकारी ट्रेन लूटी ताकि क्रांतिकारी गतिविधियों को वित्तपोषित किया जा सके। बिस्मिल, अशफाकुल्ला खान, रोशन सिंह और राजेंद्र लाहिड़ी को फाँसी दी गई।",
+    "• बाद में एचआरए को 1928 में समाजवादी विचारधारा के साथ एचएसआरए में बदला गया।",
+    "बिहार:",
+    "• क्रांतिकारी गतिविधियाँ एचआरए से जुड़ी थीं; बिहार इसके प्रमुख केंद्रों में से एक था।",
+    "• योगेंद्र शुक्ल और बैकुंठ शुक्ल जैसे स्थानीय नेताओं ने क्रांतिकारियों को सहयोग दिया।",
+    "• बिहार ने काकोरी कांड और बाद में एचएसआरए गतिविधियों में योगदान दिया।",
+    "गतिविधियों का स्वरूप:",
+    "• ब्रिटिश अधिकारियों और मुखबिरों की राजनीतिक हत्याएँ।",
+    "• धन जुटाने के लिए ट्रेन डकैतियाँ (काकोरी, 1925)।",
+    "• समाजवादी और मार्क्सवादी विचारों का उपयोग कर जनता को प्रेरित करना।",
+    "• क्रांतिकारी साहित्य का गुप्त प्रसार कर राष्ट्रवाद को बढ़ावा देना।"
+  ],
+  "tables": [
+    {
+      "title": "Key Revolutionary Activities in Punjab–UP–Bihar (1920s)",
+      "titleHindi": "पंजाब–यूपी–बिहार में प्रमुख क्रांतिकारी गतिविधियाँ (1920 का दशक)",
+      "columns": ["Year", "Event/Organization", "Region", "Leaders"],
+      "columnsHindi": ["वर्ष", "घटना/संगठन", "क्षेत्र", "नेता"],
+      "rows": [
+        ["1924", "Formation of HRA", "United Provinces", "Sachindranath Sanyal, Ram Prasad Bismil, Jogesh Chatterjee"],
+        ["1925", "Kakori Conspiracy", "UP–Bihar", "Bismil, Ashfaqullah Khan, Rajendra Lahiri, Roshan Singh"],
+        ["1926", "Naujawan Bharat Sabha", "Punjab", "Bhagat Singh"],
+        ["1928", "HSRA founded", "Punjab–UP", "Bhagat Singh, Azad, Sukhdev, Rajguru"],
+        ["1929", "Assembly Bomb Incident", "Delhi (linked to Punjab leaders)", "Bhagat Singh, B.K. Dutt"]
+      ],
+      "rowsHindi": [
+        ["1924", "एचआरए का गठन", "संयुक्त प्रांत", "सचिननाथ सान्याल, रामप्रसाद बिस्मिल, जोगेश चटर्जी"],
+        ["1925", "काकोरी कांड", "यूपी–बिहार", "बिस्मिल, अशफाकुल्ला खान, राजेंद्र लाहिड़ी, रोशन सिंह"],
+        ["1926", "नौजवान भारत सभा", "पंजाब", "भगत सिंह"],
+        ["1928", "एचएसआरए की स्थापना", "पंजाब–यूपी", "भगत सिंह, आज़ाद, सुखदेव, राजगुरु"],
+        ["1929", "असेंबली बम कांड", "दिल्ली (पंजाब नेताओं से जुड़ा)", "भगत सिंह, बी.के. दत्त"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Hindustan Republican Association (HRA) founded in 1924; later became HSRA in 1928.",
+    "Kakori Conspiracy (1925) → Ram Prasad Bismil, Ashfaqullah Khan, Rajendra Lahiri executed.",
+    "Bhagat Singh founded Naujawan Bharat Sabha in 1926 (Lahore)."
+  ],
+  "prelimsTipsHindi": [
+    "हिंदुस्तान रिपब्लिकन एसोसिएशन (एचआरए) 1924 में बनी; 1928 में एचएसआरए बनी।",
+    "काकोरी कांड (1925) → रामप्रसाद बिस्मिल, अशफाकुल्ला खान, राजेंद्र लाहिड़ी को फाँसी।",
+    "भगत सिंह ने 1926 में नौजवान भारत सभा (लाहौर) बनाई।"
+  ],
+  "funFacts": [
+    "The Kakori case created the first nationwide sensation about revolutionary activities in UP–Bihar.",
+    "Bhagat Singh read Marx, Lenin, and international revolutionary literature in Lahore Jail.",
+    "The HSRA changed its name from HRA to emphasize socialism as its guiding ideology."
+  ],
+  "funFactsHindi": [
+    "काकोरी केस ने यूपी–बिहार में क्रांतिकारी गतिविधियों को पहली बार राष्ट्रीय स्तर पर प्रसिद्ध किया।",
+    "भगत सिंह ने लाहौर जेल में मार्क्स, लेनिन और अंतर्राष्ट्रीय क्रांतिकारी साहित्य पढ़ा।",
+    "एचआरए ने अपना नाम बदलकर एचएसआरए रखा ताकि समाजवाद को मार्गदर्शक विचारधारा दिखा सके।"
+  ],
+  "mainsPoints": [
+    "Revolutionary activity during the 1920s reflected disillusionment with Gandhian methods after 1922.",
+    "Punjab and UP emerged as centers of organized revolutionary groups (HRA/HSRA).",
+    "These groups used socialist and Marxist ideas to inspire mass politics.",
+    "While repression limited their impact, their sacrifice inspired the youth and kept radical nationalism alive."
+  ],
+  "mainsPointsHindi": [
+    "1920 के दशक की क्रांतिकारी गतिविधियाँ 1922 के बाद गांधीवादी तरीकों से मोहभंग को दर्शाती हैं।",
+    "पंजाब और यूपी संगठित क्रांतिकारी समूहों (एचआरए/एचएसआरए) के केंद्र बने।",
+    "इन समूहों ने समाजवादी और मार्क्सवादी विचारों से जन राजनीति को प्रेरित किया।",
+    "हालाँकि दमन ने इनके प्रभाव को सीमित किया, लेकिन इनके बलिदान ने युवाओं को प्रेरित किया और उग्र राष्ट्रवाद को जीवित रखा।"
+  ]
+},
+{
+  "heading": "Revolutionary Activity during the 1920s in Bengal",
+  "headingHindi": "1920 के दशक में बंगाल में क्रांतिकारी गतिविधियाँ",
+  "highlight": "Bengal emerged as the most active center of revolutionary activity in the 1920s. Secret societies, student groups, and underground networks organized assassinations, raids, and armed resistance. The Anushilan Samiti and Jugantar continued to dominate, while young revolutionaries like Surya Sen and Jatin Das carried forward the radical tradition that inspired youth across India.",
+  "highlightHindi": "1920 के दशक में बंगाल क्रांतिकारी गतिविधियों का सबसे सक्रिय केंद्र बना। गुप्त समाजों, छात्र समूहों और भूमिगत नेटवर्क ने हत्याएँ, छापे और सशस्त्र प्रतिरोध संगठित किए। अनुशीलन समिति और युगांतर का प्रभुत्व रहा, जबकि सूर्य सेन और जतिन दास जैसे युवा क्रांतिकारियों ने उस उग्र परंपरा को आगे बढ़ाया जिसने पूरे भारत के युवाओं को प्रेरित किया।",
+  "details": [
+    "Background:",
+    "• Post Non-Cooperation, Bengal youth turned to armed struggle, disillusioned with non-violence.",
+    "• Anushilan Samiti and Jugantar, originally active since early 1900s, revived their activities.",
+    "Key Organizations:",
+    "• Jugantar Party: Led by leaders like Surya Sen (Chittagong), Masterda, and later Subhas Chandra Bose had links with student radicals.",
+    "• Anushilan Samiti: Continued secret revolutionary work, provided ideological and organizational backbone.",
+    "Major Activities:",
+    "• 1924–25: Attempts to reorganize Jugantar and Anushilan networks across Bengal.",
+    "• 1925: Bengal revolutionaries cooperated with HRA (UP–Bihar) in the Kakori Conspiracy.",
+    "• 1926–27: Numerous political dacoities (armed robberies) in Bengal to raise funds for revolutionary work.",
+    "• 1928: Bengal revolutionaries actively supported the protests against the Simon Commission.",
+    "• 1929: Attempted assassinations of British officials in Calcutta.",
+    "• 1930 (early seeds): Surya Sen and his associates began planning the Chittagong Armoury Raid (executed in 1930).",
+    "Key Leaders:",
+    "• Surya Sen (Masterda): Organized Chittagong revolutionaries.",
+    "• Jatin Das: Participated in HSRA activities, later died in Lahore Jail (1929) after 63-day hunger strike.",
+    "• Hemchandra Kanungo, Ganesh Ghosh, Anant Singh, Pritilata Waddedar (later 1930s).",
+    "Nature of Movement:",
+    "• Political assassinations, bomb-making, and armed robberies.",
+    "• Use of secret societies in Calcutta and Chittagong.",
+    "• Increasing influence of socialist and Marxist ideas.",
+    "• Student and youth participation was very high."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• असहयोग आंदोलन के बाद बंगाल के युवाओं ने सशस्त्र संघर्ष का रास्ता अपनाया और अहिंसा से मोहभंग हुआ।",
+    "• अनुशीलन समिति और युगांतर, जो 1900 के दशक से सक्रिय थे, ने अपनी गतिविधियाँ फिर से तेज़ कीं।",
+    "मुख्य संगठन:",
+    "• युगांतर पार्टी: नेताओं में सूर्य सेन (चित्तगाँव, मास्टरदा) प्रमुख; बाद में सुभाष चंद्र बोस का छात्र क्रांतिकारियों से संपर्क रहा।",
+    "• अनुशीलन समिति: गुप्त क्रांतिकारी कार्य जारी रखा; वैचारिक और संगठनात्मक आधार दिया।",
+    "मुख्य गतिविधियाँ:",
+    "• 1924–25: युगांतर और अनुशीलन नेटवर्क का पुनर्गठन।",
+    "• 1925: बंगाल क्रांतिकारियों ने यूपी–बिहार की एचआरए के साथ काकोरी कांड में सहयोग किया।",
+    "• 1926–27: बंगाल में धन जुटाने के लिए कई राजनीतिक डकैतियाँ।",
+    "• 1928: बंगाल क्रांतिकारियों ने साइमन कमीशन के विरोध में सक्रिय भागीदारी की।",
+    "• 1929: कलकत्ता में ब्रिटिश अधिकारियों पर हत्या के प्रयास।",
+    "• 1930 (बीज): सूर्य सेन और उनके साथियों ने चित्तगाँव शस्त्रागार कांड की योजना बनाई (1930 में सम्पन्न)।",
+    "मुख्य नेता:",
+    "• सूर्य सेन (मास्टरदा): चित्तगाँव क्रांतिकारियों का नेतृत्व।",
+    "• जतिन दास: एचएसआरए में सक्रिय; 1929 में 63 दिन की भूख हड़ताल के बाद लाहौर जेल में मृत्यु।",
+    "• हेमचंद्र कानूनगो, गणेश घोष, अनंत सिंह, प्रीतिलता वाडेदार (बाद में 1930 के दशक)।",
+    "आंदोलन का स्वरूप:",
+    "• राजनीतिक हत्याएँ, बम निर्माण और डकैतियाँ।",
+    "• कलकत्ता और चित्तगाँव में गुप्त समाजों का संचालन।",
+    "• समाजवादी और मार्क्सवादी विचारों का बढ़ता प्रभाव।",
+    "• छात्रों और युवाओं की भागीदारी बहुत अधिक थी।"
+  ],
+  "tables": [
+    {
+      "title": "Major Revolutionary Activities in Bengal (1920s)",
+      "titleHindi": "बंगाल में प्रमुख क्रांतिकारी गतिविधियाँ (1920 का दशक)",
+      "columns": ["Year", "Event/Activity", "Leaders/Organizations"],
+      "columnsHindi": ["वर्ष", "घटना/गतिविधि", "नेता/संगठन"],
+      "rows": [
+        ["1924–25", "Reorganization of Jugantar and Anushilan Samiti", "Hemchandra Kanungo, Ganesh Ghosh"],
+        ["1925", "Participation in Kakori Conspiracy", "Ram Prasad Bismil (HRA), Bengal contacts"],
+        ["1926–27", "Political dacoities in Bengal", "Jugantar revolutionaries"],
+        ["1928", "Simon Commission protests", "Bengal student and youth groups"],
+        ["1929", "Attempts to assassinate British officials in Calcutta", "Jugantar/Anushilan activists"]
+      ],
+      "rowsHindi": [
+        ["1924–25", "युगांतर और अनुशीलन समिति का पुनर्गठन", "हेमचंद्र कानूनगो, गणेश घोष"],
+        ["1925", "काकोरी कांड में सहयोग", "रामप्रसाद बिस्मिल (एचआरए), बंगाल संपर्क"],
+        ["1926–27", "बंगाल में राजनीतिक डकैतियाँ", "युगांतर क्रांतिकारी"],
+        ["1928", "साइमन कमीशन का विरोध", "बंगाल के छात्र और युवा समूह"],
+        ["1929", "कलकत्ता में ब्रिटिश अधिकारियों की हत्या का प्रयास", "युगांतर/अनुशीलन कार्यकर्ता"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Jugantar and Anushilan Samiti were key revolutionary groups in Bengal during the 1920s.",
+    "Surya Sen (Masterda) organized Chittagong revolutionaries, later famous for the 1930 Armoury Raid.",
+    "Jatin Das died in 1929 in Lahore Jail after a 63-day hunger strike."
+  ],
+  "prelimsTipsHindi": [
+    "युगांतर और अनुशीलन समिति 1920 के दशक में बंगाल के प्रमुख क्रांतिकारी संगठन थे।",
+    "सूर्य सेन (मास्टरदा) ने चित्तगाँव क्रांतिकारियों का संगठन किया, जो 1930 के शस्त्रागार कांड के लिए प्रसिद्ध हुए।",
+    "जतिन दास 1929 में लाहौर जेल में 63 दिन की भूख हड़ताल के बाद शहीद हुए।"
+  ],
+  "funFacts": [
+    "Surya Sen, a schoolteacher, was affectionately called 'Masterda' by his followers.",
+    "Jatin Das’s martyrdom in 1929 inspired nationwide protests and sympathy for revolutionaries.",
+    "Calcutta University became a hotbed of student radicalism during the 1920s."
+  ],
+  "funFactsHindi": [
+    "सूर्य सेन एक शिक्षक थे, जिन्हें अनुयायी प्यार से 'मास्टरदा' कहते थे।",
+    "जतिन दास की 1929 में शहादत ने देशव्यापी विरोध और क्रांतिकारियों के प्रति सहानुभूति जगाई।",
+    "कलकत्ता विश्वविद्यालय 1920 के दशक में छात्र उग्रवाद का केंद्र बन गया था।"
+  ],
+  "mainsPoints": [
+    "Bengal remained the heart of revolutionary nationalism in the 1920s, carrying forward the legacy of pre-1919 movements.",
+    "Jugantar and Anushilan Samiti provided organizational continuity to radical politics.",
+    "Surya Sen and Jatin Das symbolized youth radicalism and sacrifice.",
+    "Although limited in scope, Bengal’s revolutionary activities kept alive militant nationalism and inspired future resistance."
+  ],
+  "mainsPointsHindi": [
+    "1920 के दशक में बंगाल क्रांतिकारी राष्ट्रवाद का केंद्र बना रहा और 1919 से पहले के आंदोलनों की परंपरा को आगे बढ़ाया।",
+    "युगांतर और अनुशीलन समिति ने उग्र राजनीति को संगठनात्मक आधार दिया।",
+    "सूर्य सेन और जतिन दास ने युवा उग्रवाद और बलिदान का प्रतीक प्रस्तुत किया।",
+    "हालाँकि सीमित दायरे में, बंगाल की क्रांतिकारी गतिविधियों ने उग्र राष्ट्रवाद को जीवित रखा और भविष्य के प्रतिरोध को प्रेरित किया।"
+  ]
+},
+    ],
+    "Chapter 17: Struggle For Swaraj: 1928-1935": [
+      {
+  "heading": "Simon Commission Report (1927–1930)",
+  "headingHindi": "साइमन कमीशन रिपोर्ट (1927–1930)",
+  "highlight": "The Simon Commission, appointed in 1927, was boycotted by most Indian political parties because it had no Indian members. Despite opposition, the Commission submitted its report in 1930, recommending constitutional reforms. Its proposals were criticized by nationalists for being too conservative, but they became the basis for future constitutional developments.",
+  "highlightHindi": "1927 में नियुक्त साइमन कमीशन का लगभग सभी भारतीय दलों ने बहिष्कार किया क्योंकि इसमें कोई भी भारतीय सदस्य नहीं था। विरोध के बावजूद आयोग ने 1930 में अपनी रिपोर्ट प्रस्तुत की, जिसमें संवैधानिक सुधारों की सिफारिशें थीं। राष्ट्रवादियों ने इन्हें अत्यधिक रूढ़िवादी बताया, लेकिन ये भविष्य के संवैधानिक विकास का आधार बनीं।",
+  "details": [
+    "Background:",
+    "• The Government of India Act, 1919 had promised a review after 10 years.",
+    "• British government appointed the Simon Commission (1927) two years early, consisting of 7 members—all British MPs, chaired by Sir John Simon.",
+    "• Indian parties including Congress and Muslim League boycotted it; protests spread across India with the slogan 'Simon Go Back'.",
+    "Simon Commission Report (1930):",
+    "• Rejected the demand for Dominion Status.",
+    "• Recommended the abolition of dyarchy in provinces and introduction of provincial autonomy.",
+    "• Proposed that governors retain special powers (veto, emergency powers).",
+    "• Suggested extension of franchise (more people could vote).",
+    "• Supported separate communal electorates for minorities (Muslims, Sikhs, Christians).",
+    "• Suggested setting up of a Federal Assembly with provinces and princely states represented.",
+    "• No clear plan for central self-government; the center to remain under British control.",
+    "Views of Different Sections:",
+    "• Congress: Outright rejection; demanded Dominion Status and called report reactionary.",
+    "• Muslim League (Jinnah faction): Criticized for not safeguarding Muslim interests enough.",
+    "• Muslim League (Shafi faction): Welcomed it, as it continued separate electorates.",
+    "• Liberals: Accepted some recommendations but wanted more reforms.",
+    "• Princes: Interested in federation proposal but cautious about losing autonomy.",
+    "• Nationalists at large: Viewed it as another attempt to delay real self-government."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• भारत सरकार अधिनियम 1919 ने 10 वर्षों बाद समीक्षा का वादा किया था।",
+    "• ब्रिटिश सरकार ने 1927 में दो वर्ष पहले साइमन कमीशन नियुक्त किया, जिसमें 7 सदस्य—all ब्रिटिश सांसद, अध्यक्ष सर जॉन साइमन।",
+    "• कांग्रेस और मुस्लिम लीग सहित भारतीय दलों ने इसका बहिष्कार किया; पूरे भारत में 'साइमन गो बैक' का नारा गूँजा।",
+    "साइमन कमीशन रिपोर्ट (1930):",
+    "• डोमिनियन स्टेटस की माँग अस्वीकार।",
+    "• प्रांतों में द्वैध शासन समाप्त कर प्रांतीय स्वायत्तता की सिफारिश।",
+    "• गवर्नरों के विशेषाधिकार (वीटो, आपातकालीन अधिकार) बनाए रखने का सुझाव।",
+    "• मताधिकार का विस्तार (अधिक लोगों को वोट देने का अधिकार)।",
+    "• अल्पसंख्यकों (मुस्लिम, सिख, ईसाई) के लिए पृथक निर्वाचक मंडल का समर्थन।",
+    "• प्रांतों और रियासतों की भागीदारी के साथ एक संघीय विधानसभा का सुझाव।",
+    "• केंद्र में स्वशासन की कोई स्पष्ट योजना नहीं; केंद्र ब्रिटिश नियंत्रण में।",
+    "विभिन्न वर्गों के विचार:",
+    "• कांग्रेस: पूर्ण अस्वीकृति; डोमिनियन स्टेटस की माँग और रिपोर्ट को प्रतिक्रियावादी बताया।",
+    "• मुस्लिम लीग (जिन्ना गुट): आलोचना की कि मुस्लिम हितों की पर्याप्त रक्षा नहीं।",
+    "• मुस्लिम लीग (शफ़ी गुट): स्वागत किया क्योंकि इसने पृथक निर्वाचक मंडल को जारी रखा।",
+    "• उदारवादी: कुछ सिफारिशें स्वीकार कीं लेकिन और सुधारों की माँग की।",
+    "• रियासतें: संघीय प्रस्ताव में रुचि पर स्वायत्तता खोने से सावधान।",
+    "• राष्ट्रवादी आमतौर पर: इसे वास्तविक स्वशासन में विलंब का प्रयास मानते थे।"
+  ],
+  "tables": [
+    {
+      "title": "Simon Commission Recommendations",
+      "titleHindi": "साइमन कमीशन की सिफारिशें",
+      "columns": ["Aspect", "Recommendation"],
+      "columnsHindi": ["पहलू", "सिफारिश"],
+      "rows": [
+        ["Dyarchy", "Abolish dyarchy; grant provincial autonomy"],
+        ["Governors", "Retain special powers like veto, emergency powers"],
+        ["Franchise", "Extend voting rights to more people"],
+        ["Communal Representation", "Continue and expand separate electorates"],
+        ["Federal Assembly", "Proposed with provinces and princely states"],
+        ["Central Government", "No self-government; remain under British control"]
+      ],
+      "rowsHindi": [
+        ["द्वैध शासन", "द्वैध शासन समाप्त; प्रांतीय स्वायत्तता"],
+        ["गवर्नर", "वीटो, आपातकालीन अधिकार बनाए रखें"],
+        ["मताधिकार", "अधिक लोगों को मतदान अधिकार"],
+        ["साम्प्रदायिक प्रतिनिधित्व", "पृथक निर्वाचक मंडल जारी और विस्तारित"],
+        ["संघीय विधानसभा", "प्रांतों और रियासतों के साथ प्रस्तावित"],
+        ["केंद्रीय सरकार", "स्वशासन नहीं; ब्रिटिश नियंत्रण जारी"]
+      ]
+    },
+    {
+      "title": "Reactions to Simon Commission",
+      "titleHindi": "साइमन कमीशन पर प्रतिक्रियाएँ",
+      "columns": ["Group/Section", "View"],
+      "columnsHindi": ["समूह/वर्ग", "दृष्टिकोण"],
+      "rows": [
+        ["Congress", "Rejected; demanded Dominion Status"],
+        ["Muslim League (Jinnah)", "Criticized for not protecting Muslim rights enough"],
+        ["Muslim League (Shafi)", "Welcomed due to continuation of separate electorates"],
+        ["Liberals", "Partially accepted; wanted more reforms"],
+        ["Princes", "Interested in federation but cautious"],
+        ["Nationalists", "Viewed as delaying real self-rule"]
+      ],
+      "rowsHindi": [
+        ["कांग्रेस", "अस्वीकृत; डोमिनियन स्टेटस की माँग"],
+        ["मुस्लिम लीग (जिन्ना)", "मुस्लिम हितों की रक्षा पर्याप्त नहीं बताई"],
+        ["मुस्लिम लीग (शफ़ी)", "स्वागत किया क्योंकि पृथक निर्वाचक मंडल जारी रहा"],
+        ["उदारवादी", "आंशिक रूप से स्वीकार; अधिक सुधारों की माँग"],
+        ["रियासतें", "संघ में रुचि लेकिन सावधानी"],
+        ["राष्ट्रवादी", "इसे वास्तविक स्वशासन टालने का प्रयास माना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Simon Commission appointed in 1927; no Indian member.",
+    "'Simon Go Back' slogan raised during protests.",
+    "Report (1930) → recommended provincial autonomy but retained communal electorates.",
+    "Congress rejected it; Muslim League divided."
+  ],
+  "prelimsTipsHindi": [
+    "साइमन कमीशन 1927 में नियुक्त; कोई भारतीय सदस्य नहीं।",
+    "'साइमन गो बैक' नारा विरोध में गूँजा।",
+    "रिपोर्ट (1930) → प्रांतीय स्वायत्तता की सिफारिश पर साम्प्रदायिक निर्वाचन बनाए रखे।",
+    "कांग्रेस ने अस्वीकृत किया; मुस्लिम लीग बंटी।"
+  ],
+  "funFacts": [
+    "The Simon Commission protests saw Lala Lajpat Rai injured in a lathi charge at Lahore (1928), leading to his death.",
+    "This incident inspired Bhagat Singh and his associates to avenge Lajpat Rai by killing Saunders.",
+    "It was the first time the slogan 'Simon Go Back' became a nationwide cry."
+  ],
+  "funFactsHindi": [
+    "साइमन कमीशन विरोध में लाहौर (1928) में लाठीचार्ज में लाला लाजपत राय घायल हुए और उनकी मृत्यु हो गई।",
+    "इस घटना ने भगत सिंह और उनके साथियों को सॉन्डर्स की हत्या कर बदला लेने के लिए प्रेरित किया।",
+    "पहली बार 'साइमन गो बैक' नारा पूरे देश में गूँजा।"
+  ],
+  "mainsPoints": [
+    "The Simon Commission highlighted colonial disregard for Indian opinion by excluding Indians.",
+    "Its report was conservative, retaining British control while offering limited autonomy.",
+    "Different responses revealed divisions among Indian political groups (Congress vs. Muslim League factions).",
+    "The protests against the Commission radicalized politics, inspiring revolutionary activities and demands for complete independence."
+  ],
+  "mainsPointsHindi": [
+    "साइमन कमीशन ने भारतीय राय की अनदेखी दिखाई क्योंकि इसमें कोई भारतीय सदस्य नहीं था।",
+    "रिपोर्ट रूढ़िवादी थी; ब्रिटिश नियंत्रण बनाए रखते हुए सीमित स्वायत्तता दी।",
+    "विभिन्न प्रतिक्रियाओं ने भारतीय राजनीतिक दलों के मतभेद (कांग्रेस बनाम मुस्लिम लीग गुट) उजागर किए।",
+    "कमीशन के विरोध ने राजनीति को उग्र बनाया और पूर्ण स्वतंत्रता की माँग को प्रेरित किया।"
+  ]
+},
+{
+  "heading": "Nehru Report (1928)",
+  "headingHindi": "नेहरू रिपोर्ट (1928)",
+  "highlight": "The Nehru Report of 1928, drafted by Motilal Nehru, was the first Indian attempt at framing a constitutional scheme. It was prepared in response to the Simon Commission and represented a consensus among most Indian groups for Dominion Status. However, it failed to resolve the communal dilemma, leading to divisions between Hindus and Muslims.",
+  "highlightHindi": "1928 की नेहरू रिपोर्ट, मोतीलाल नेहरू द्वारा तैयार की गई, पहला भारतीय संवैधानिक खाका था। यह साइमन कमीशन के जवाब में बनी और अधिकांश भारतीय समूहों की डोमिनियन स्टेटस की सहमति का प्रतिनिधित्व करती थी। हालाँकि, यह सांप्रदायिक दुविधा को हल नहीं कर सकी, जिससे हिंदू-मुस्लिम मतभेद गहरे हुए।",
+  "details": [
+    "Background:",
+    "• In response to Simon Commission (1927) which excluded Indians, an All Parties Conference was convened in 1928.",
+    "• A committee chaired by Motilal Nehru, with members like Jawaharlal Nehru, Tej Bahadur Sapru, and Subhas Bose, drafted the report.",
+    "• It was the first major attempt by Indians to draft a constitutional framework.",
+    "Recommendations of Nehru Report:",
+    "• India to be given Dominion Status within the British Commonwealth.",
+    "• Parliamentary system with bi-cameral legislature at the center.",
+    "• Fundamental Rights guaranteed, including equality before law, freedom of expression, right to form associations.",
+    "• Universal adult suffrage proposed (though implementation was gradual).",
+    "• Provincial autonomy to replace dyarchy.",
+    "• No separate communal electorates, except for Muslims in provinces where they were a minority.",
+    "• Protection of minorities through reservation of seats where necessary.",
+    "Communal Dilemma:",
+    "• Congress leaders supported joint electorates to promote national unity.",
+    "• Muslim League (Jinnah’s faction) opposed report; demanded separate electorates and weightage.",
+    "• Jinnah’s '14 Points' (1929) outlined Muslim demands after rejection of Nehru Report.",
+    "• Hindu Mahasabha supported report as it opposed separate electorates.",
+    "• Failure to reconcile communal differences deepened Hindu-Muslim divide.",
+    "Impact:",
+    "• Marked a milestone as India’s first indigenous constitutional draft.",
+    "• Its rejection by key communities, especially Muslims, highlighted limits of national consensus.",
+    "• Laid foundation for later constitutional debates."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• साइमन कमीशन (1927) में भारतीयों को बाहर रखा गया था, इसके जवाब में 1928 में सर्वदलीय सम्मेलन बुलाया गया।",
+    "• मोतीलाल नेहरू की अध्यक्षता में समिति बनी; सदस्य: जवाहरलाल नेहरू, तेज बहादुर सप्रू, सुभाष बोस आदि।",
+    "• यह भारतीयों द्वारा पहला बड़ा संवैधानिक प्रारूप तैयार करने का प्रयास था।",
+    "नेहरू रिपोर्ट की सिफारिशें:",
+    "• भारत को ब्रिटिश कॉमनवेल्थ में डोमिनियन स्टेटस दिया जाए।",
+    "• केंद्र में द्विसदनीय विधानमंडल वाली संसदीय प्रणाली।",
+    "• मौलिक अधिकारों की गारंटी, जैसे विधि के समक्ष समानता, अभिव्यक्ति की स्वतंत्रता, संगठन बनाने का अधिकार।",
+    "• सार्वभौमिक वयस्क मताधिकार (क्रमिक रूप से लागू)।",
+    "• प्रांतीय स्वायत्तता; द्वैध शासन समाप्त।",
+    "• पृथक निर्वाचक मंडल नहीं, केवल उन प्रांतों में मुसलमानों के लिए जहाँ वे अल्पसंख्यक थे।",
+    "• अल्पसंख्यकों की सुरक्षा हेतु सीटों का आरक्षण।",
+    "सांप्रदायिक दुविधा:",
+    "• कांग्रेस नेताओं ने राष्ट्रीय एकता के लिए संयुक्त निर्वाचक मंडल का समर्थन किया।",
+    "• मुस्लिम लीग (जिन्ना गुट) ने रिपोर्ट का विरोध किया; पृथक निर्वाचक मंडल और वेटेज की माँग की।",
+    "• जिन्ना के '14 सूत्र' (1929) ने नेहरू रिपोर्ट की अस्वीकृति के बाद मुस्लिम माँगें प्रस्तुत कीं।",
+    "• हिंदू महासभा ने रिपोर्ट का समर्थन किया क्योंकि इसने पृथक निर्वाचक मंडल का विरोध किया।",
+    "• सांप्रदायिक मतभेदों को दूर न कर पाने से हिंदू-मुस्लिम विभाजन गहरा हुआ।",
+    "प्रभाव:",
+    "• भारत का पहला स्वदेशी संवैधानिक प्रारूप एक मील का पत्थर।",
+    "• खासकर मुस्लिमों द्वारा अस्वीकृति ने राष्ट्रीय सहमति की सीमाएँ उजागर कीं।",
+    "• भविष्य की संवैधानिक बहसों की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Key Recommendations of Nehru Report (1928)",
+      "titleHindi": "नेहरू रिपोर्ट (1928) की प्रमुख सिफारिशें",
+      "columns": ["Aspect", "Recommendation"],
+      "columnsHindi": ["पहलू", "सिफारिश"],
+      "rows": [
+        ["Status", "Dominion Status within British Commonwealth"],
+        ["Legislature", "Bicameral parliament at center"],
+        ["Fundamental Rights", "Guaranteed equality, freedom, association"],
+        ["Franchise", "Universal adult suffrage (gradual)"],
+        ["Provinces", "Provincial autonomy, end of dyarchy"],
+        ["Communal Representation", "Joint electorates; limited exceptions for Muslims"]
+      ],
+      "rowsHindi": [
+        ["स्थिति", "ब्रिटिश कॉमनवेल्थ में डोमिनियन स्टेटस"],
+        ["विधानमंडल", "केंद्र में द्विसदनीय संसद"],
+        ["मौलिक अधिकार", "समानता, स्वतंत्रता, संगठन की गारंटी"],
+        ["मताधिकार", "सार्वभौमिक वयस्क मताधिकार (क्रमिक)"],
+        ["प्रांत", "प्रांतीय स्वायत्तता, द्वैध शासन समाप्त"],
+        ["साम्प्रदायिक प्रतिनिधित्व", "संयुक्त निर्वाचक मंडल; मुसलमानों के लिए सीमित अपवाद"]
+      ]
+    },
+    {
+      "title": "Reactions to Nehru Report and the Communal Dilemma",
+      "titleHindi": "नेहरू रिपोर्ट पर प्रतिक्रियाएँ और सांप्रदायिक दुविधा",
+      "columns": ["Group/Section", "Reaction"],
+      "columnsHindi": ["समूह/वर्ग", "प्रतिक्रिया"],
+      "rows": [
+        ["Congress", "Supported; saw it as a common framework for Dominion Status"],
+        ["Muslim League (Jinnah)", "Opposed; demanded separate electorates, weightage → led to 14 Points"],
+        ["Hindu Mahasabha", "Supported; opposed separate electorates"],
+        ["Liberals", "Welcomed; wanted Dominion Status quickly implemented"],
+        ["Nationalists", "Mixed reaction; younger leaders like Jawaharlal wanted Complete Independence instead of Dominion Status"]
+      ],
+      "rowsHindi": [
+        ["कांग्रेस", "समर्थन; डोमिनियन स्टेटस के लिए साझा प्रारूप माना"],
+        ["मुस्लिम लीग (जिन्ना)", "विरोध; पृथक निर्वाचक मंडल और वेटेज की माँग → 14 सूत्र बने"],
+        ["हिंदू महासभा", "समर्थन; पृथक निर्वाचक मंडल का विरोध"],
+        ["उदारवादी", "स्वागत; डोमिनियन स्टेटस शीघ्र लागू करने की माँग"],
+        ["राष्ट्रवादी", "मिश्रित प्रतिक्रिया; जवाहरलाल जैसे युवाओं ने डोमिनियन की बजाय पूर्ण स्वतंत्रता की माँग की"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Nehru Report (1928) → Chaired by Motilal Nehru, first Indian constitutional draft.",
+    "Proposed Dominion Status, parliamentary system, fundamental rights.",
+    "Rejected separate electorates (except in limited cases).",
+    "Jinnah responded with 14 Points (1929)."
+  ],
+  "prelimsTipsHindi": [
+    "नेहरू रिपोर्ट (1928) → मोतीलाल नेहरू की अध्यक्षता में बनी, पहला भारतीय संवैधानिक प्रारूप।",
+    "डोमिनियन स्टेटस, संसदीय प्रणाली, मौलिक अधिकार प्रस्तावित।",
+    "पृथक निर्वाचक मंडल का विरोध (सीमित अपवाद)।",
+    "जिन्ना ने 14 सूत्र (1929) में इसका जवाब दिया।"
+  ],
+  "funFacts": [
+    "The committee drafting the Nehru Report met at the Nehru family residence in Allahabad, known as Anand Bhavan.",
+    "Jawaharlal Nehru opposed Dominion Status and demanded Complete Independence, marking the rise of younger radical leadership.",
+    "It was the first document in Indian history to guarantee a list of Fundamental Rights."
+  ],
+  "funFactsHindi": [
+    "नेहरू रिपोर्ट का मसौदा प्रयागराज स्थित नेहरू परिवार के घर आनंद भवन में तैयार हुआ।",
+    "जवाहरलाल नेहरू ने डोमिनियन स्टेटस का विरोध कर पूर्ण स्वतंत्रता की माँग की, जिससे युवा उग्र नेतृत्व का उदय हुआ।",
+    "यह भारतीय इतिहास का पहला दस्तावेज़ था जिसमें मौलिक अधिकारों की सूची दी गई।"
+  ],
+  "mainsPoints": [
+    "The Nehru Report marked India’s first attempt at framing a constitution by Indians themselves.",
+    "Its demand for Dominion Status reflected moderate consensus but alienated younger radicals who wanted Purna Swaraj.",
+    "Its rejection of separate electorates caused a rift with the Muslim League, leading to Jinnah’s 14 Points.",
+    "The communal dilemma exposed the challenges of forging a united nationalist front."
+  ],
+  "mainsPointsHindi": [
+    "नेहरू रिपोर्ट भारतीयों द्वारा तैयार पहला संवैधानिक प्रारूप था।",
+    "डोमिनियन स्टेटस की माँग ने उदारवादियों की सहमति दिखाई लेकिन पूर्ण स्वराज चाहने वाले युवाओं को अलग कर दिया।",
+    "पृथक निर्वाचक मंडल की अस्वीकृति ने मुस्लिम लीग से मतभेद पैदा किए, जिनसे जिन्ना के 14 सूत्र बने।",
+    "सांप्रदायिक दुविधा ने एकजुट राष्ट्रवादी मोर्चा बनाने की कठिनाइयों को उजागर किया।"
+  ]
+},
+{
+  "heading": "Jinnah’s Fourteen Points (1929)",
+  "headingHindi": "जिन्ना के चौदह सूत्र (1929)",
+  "highlight": "Jinnah’s Fourteen Points, presented in 1929, were a direct response to the Nehru Report (1928). They outlined the Muslim League’s demands to safeguard Muslim political rights. They became the basis of Muslim political strategy until the Pakistan Resolution (1940).",
+  "highlightHindi": "1929 में प्रस्तुत जिन्ना के चौदह सूत्र नेहरू रिपोर्ट (1928) का सीधा जवाब थे। इनमें मुस्लिम लीग की माँगें रखी गईं ताकि मुस्लिमों के राजनीतिक अधिकार सुरक्षित रहें। ये 1940 के पाकिस्तान प्रस्ताव तक मुस्लिम राजनीति की आधारशिला बने।",
+  "details": [
+    "Background:",
+    "• Nehru Report rejected separate electorates, leading to Muslim League opposition.",
+    "• Jinnah, trying to unite various Muslim factions, drafted the 'Fourteen Points' (March 1929).",
+    "• These became the League’s constitutional demands in negotiations with Congress and the British.",
+    "Key Points:",
+    "1. Federal Constitution with residuary powers vested in provinces.",
+    "2. Provincial autonomy guaranteed.",
+    "3. No constitutional amendment without consent of states/units.",
+    "4. All legislatures and elected bodies to have adequate Muslim representation without reducing majority in Muslim-majority provinces.",
+    "5. Adequate Muslim representation in all central and provincial legislatures.",
+    "6. Separate electorates to continue.",
+    "7. Territorial redistribution not to affect Muslim majority provinces (Punjab, Bengal, NWFP).",
+    "8. Religious freedom for all communities.",
+    "9. No law to be passed if it affects a community’s religion without its consent.",
+    "10. Sindh to be separated from Bombay Presidency.",
+    "11. Reforms in NWFP and Baluchistan same as other provinces.",
+    "12. Adequate share for Muslims in services and government employment.",
+    "13. Constitution to provide protection of Muslim culture, education, language, and religion.",
+    "14. One-third representation for Muslims in Central Legislature."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• नेहरू रिपोर्ट ने पृथक निर्वाचक मंडल अस्वीकार कर दिए, जिससे मुस्लिम लीग ने विरोध किया।",
+    "• जिन्ना ने विभिन्न मुस्लिम गुटों को एकजुट करने हेतु 'चौदह सूत्र' (मार्च 1929) तैयार किए।",
+    "• ये कांग्रेस और ब्रिटिश से वार्ताओं में लीग की संवैधानिक माँगें बने।",
+    "मुख्य सूत्र:",
+    "1. संघीय संविधान जिसमें अवशिष्ट शक्तियाँ प्रांतों में हों।",
+    "2. प्रांतीय स्वायत्तता सुनिश्चित।",
+    "3. बिना राज्यों/प्रांतों की सहमति संविधान संशोधन नहीं।",
+    "4. सभी विधानमंडलों में मुस्लिमों का पर्याप्त प्रतिनिधित्व; मुस्लिम-बहुल प्रांतों की बहुसंख्या कम न हो।",
+    "5. केंद्र और प्रांतों में मुस्लिमों का पर्याप्त प्रतिनिधित्व।",
+    "6. पृथक निर्वाचक मंडल जारी रहें।",
+    "7. क्षेत्रीय पुनर्गठन मुस्लिम बहुल प्रांतों (पंजाब, बंगाल, एनडब्ल्यूएफपी) को प्रभावित न करे।",
+    "8. सभी समुदायों को धार्मिक स्वतंत्रता।",
+    "9. किसी समुदाय के धर्म पर प्रभाव डालने वाला कोई कानून उसकी सहमति के बिना न बने।",
+    "10. सिंध को बंबई प्रेसीडेंसी से अलग किया जाए।",
+    "11. एनडब्ल्यूएफपी और बलूचिस्तान में अन्य प्रांतों जैसा सुधार।",
+    "12. सेवाओं और नौकरियों में मुस्लिमों को पर्याप्त हिस्सा।",
+    "13. संविधान में मुस्लिम संस्कृति, शिक्षा, भाषा और धर्म की रक्षा।",
+    "14. केंद्रीय विधानमंडल में मुस्लिमों का एक-तिहाई प्रतिनिधित्व।"
+  ],
+  "tables": [
+    {
+      "title": "Jinnah’s Fourteen Points (1929)",
+      "titleHindi": "जिन्ना के चौदह सूत्र (1929)",
+      "columns": ["No.", "Demand"],
+      "columnsHindi": ["क्रमांक", "माँग"],
+      "rows": [
+        ["1", "Federal constitution with provincial residuary powers"],
+        ["2", "Provincial autonomy"],
+        ["3", "No amendment without state consent"],
+        ["4", "Adequate Muslim representation in legislatures"],
+        ["5", "Muslim share in central/provincial legislatures"],
+        ["6", "Separate electorates"],
+        ["7", "No redrawing of provinces affecting Muslim majorities"],
+        ["8", "Religious freedom"],
+        ["9", "No law against a community’s religion without consent"],
+        ["10", "Sindh separated from Bombay Presidency"],
+        ["11", "Reforms in NWFP and Baluchistan"],
+        ["12", "Adequate Muslim share in services"],
+        ["13", "Protection of Muslim culture, education, language, religion"],
+        ["14", "One-third Muslim representation in Central Legislature"]
+      ],
+      "rowsHindi": [
+        ["1", "प्रांतीय अवशिष्ट शक्तियों वाला संघीय संविधान"],
+        ["2", "प्रांतीय स्वायत्तता"],
+        ["3", "बिना राज्यों की सहमति संविधान संशोधन नहीं"],
+        ["4", "विधानमंडलों में मुस्लिमों का पर्याप्त प्रतिनिधित्व"],
+        ["5", "केंद्र और प्रांतों में मुस्लिमों की हिस्सेदारी"],
+        ["6", "पृथक निर्वाचक मंडल"],
+        ["7", "मुस्लिम बहुल प्रांतों को प्रभावित करने वाला पुनर्गठन नहीं"],
+        ["8", "धार्मिक स्वतंत्रता"],
+        ["9", "किसी समुदाय के धर्म पर असर डालने वाला कानून उसकी सहमति के बिना नहीं"],
+        ["10", "सिंध को बंबई प्रेसीडेंसी से अलग करना"],
+        ["11", "एनडब्ल्यूएफपी और बलूचिस्तान में सुधार"],
+        ["12", "सेवाओं में मुस्लिमों की पर्याप्त हिस्सेदारी"],
+        ["13", "मुस्लिम संस्कृति, शिक्षा, भाषा, धर्म की रक्षा"],
+        ["14", "केंद्रीय विधानमंडल में मुस्लिमों का एक-तिहाई प्रतिनिधित्व"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Jinnah’s Fourteen Points (1929) → response to Nehru Report.",
+    "Key demand: continuation of separate electorates.",
+    "Called for one-third Muslim representation at center.",
+    "Demanded Sindh’s separation from Bombay Presidency."
+  ],
+  "prelimsTipsHindi": [
+    "जिन्ना के चौदह सूत्र (1929) → नेहरू रिपोर्ट का जवाब।",
+    "मुख्य माँग: पृथक निर्वाचक मंडल जारी रहें।",
+    "केंद्र में मुस्लिमों का एक-तिहाई प्रतिनिधित्व।",
+    "सिंध को बंबई प्रेसीडेंसी से अलग करने की माँग।"
+  ],
+  "funFacts": [
+    "The Fourteen Points became the 'charter of Muslim India' until the Lahore Resolution (1940).",
+    "Jinnah presented them to counterbalance the Nehru Report, strengthening his leadership in Muslim League.",
+    "They deepened the Hindu-Muslim divide in constitutional negotiations."
+  ],
+  "funFactsHindi": [
+    "चौदह सूत्र 1940 के लाहौर प्रस्ताव तक 'मुस्लिम भारत का चार्टर' बने रहे।",
+    "जिन्ना ने इन्हें नेहरू रिपोर्ट के जवाब में प्रस्तुत कर मुस्लिम लीग में अपना नेतृत्व मजबूत किया।",
+    "इनसे संवैधानिक वार्ताओं में हिंदू-मुस्लिम विभाजन और गहरा हुआ।"
+  ],
+  "mainsPoints": [
+    "The Fourteen Points represented the Muslim League’s response to exclusion in Nehru Report.",
+    "They ensured continuity of separate electorates and Muslim safeguards.",
+    "They marked a shift from cooperation to confrontation between Congress and League.",
+    "They laid the groundwork for the later demand for Pakistan."
+  ],
+  "mainsPointsHindi": [
+    "चौदह सूत्र मुस्लिम लीग की नेहरू रिपोर्ट में अस्वीकृति का जवाब थे।",
+    "इन्होंने पृथक निर्वाचक मंडल और मुस्लिम सुरक्षा सुनिश्चित की।",
+    "ये कांग्रेस और लीग के बीच सहयोग से टकराव की ओर बदलाव का प्रतीक बने।",
+    "इन्होंने आगे पाकिस्तान की माँग की नींव रखी।"
+  ]
+},
+{
+  "heading": "Civil Disobedience Movement: Significant Developments Before Launch",
+  "headingHindi": "सविनय अवज्ञा आंदोलन: शुरुआत से पहले के महत्वपूर्ण विकास",
+  "highlight": "Before the Civil Disobedience Movement (1930), a series of developments shaped Indian politics: the failure of constitutional reforms, rejection of the Simon Commission, Nehru Report (1928) and its rejection by Muslim League, Jinnah’s Fourteen Points (1929), and the Lahore Congress Session declaring Purna Swaraj. These events created the political climate for Gandhi to launch the movement.",
+  "highlightHindi": "सविनय अवज्ञा आंदोलन (1930) से पहले कई घटनाओं ने भारतीय राजनीति को आकार दिया: संवैधानिक सुधारों की विफलता, साइमन कमीशन का अस्वीकार, नेहरू रिपोर्ट (1928) और मुस्लिम लीग द्वारा उसका विरोध, जिन्ना के चौदह सूत्र (1929) तथा लाहौर कांग्रेस अधिवेशन में पूर्ण स्वराज की घोषणा। इन घटनाओं ने आंदोलन की पृष्ठभूमि तैयार की।",
+  "details": [
+    "Failure of Reforms:",
+    "• Montagu-Chelmsford Reforms (1919) and Government of India Act failed to satisfy national aspirations.",
+    "• Dyarchy at provincial level proved unworkable.",
+    "Simon Commission (1927):",
+    "• Appointed without Indian members → 'Simon Go Back' protests across India.",
+    "• Lala Lajpat Rai died after a lathi charge in Lahore (1928), inspiring revolutionaries.",
+    "Nehru Report (1928):",
+    "• Drafted by Motilal Nehru; demanded Dominion Status, parliamentary system, and fundamental rights.",
+    "• Rejected separate electorates (except limited Muslim safeguards).",
+    "• Congress accepted it but younger leaders (Jawaharlal Nehru, Subhas Bose) wanted Complete Independence.",
+    "Communal Dilemma and Jinnah’s Fourteen Points (1929):",
+    "• Muslim League rejected Nehru Report; Jinnah presented 14 Points demanding separate electorates, provincial autonomy, one-third Muslim representation at center.",
+    "• Widened Hindu–Muslim political divide.",
+    "Lahore Congress Session (December 1929):",
+    "• Presided by Jawaharlal Nehru.",
+    "• Declared Purna Swaraj (Complete Independence) as the Congress goal.",
+    "• Decided to launch Civil Disobedience under Gandhi’s leadership.",
+    "• January 26, 1930 observed as 'Independence Day' with pledge-taking ceremonies nationwide.",
+    "Gandhi’s Preparations:",
+    "• Gandhi consulted Congress leaders and formulated a list of 11 demands (economic and political) to be presented to Lord Irwin.",
+    "• Demands included abolition of salt tax, reduction of land revenue, release of political prisoners, and protection of Indian industry.",
+    "• Failure of negotiations with Viceroy → Gandhi prepared to launch mass Civil Disobedience."
+  ],
+  "detailsHindi": [
+    "सुधारों की विफलता:",
+    "• मॉन्टेग-चेम्सफोर्ड सुधार (1919) और भारत सरकार अधिनियम राष्ट्रीय आकांक्षाएँ पूरी करने में विफल रहे।",
+    "• प्रांतीय स्तर पर द्वैध शासन असफल सिद्ध हुआ।",
+    "साइमन कमीशन (1927):",
+    "• बिना किसी भारतीय सदस्य के नियुक्त → पूरे भारत में 'साइमन गो बैक' विरोध।",
+    "• लाहौर (1928) में लाठीचार्ज में लाला लाजपत राय की मृत्यु, जिसने क्रांतिकारियों को प्रेरित किया।",
+    "नेहरू रिपोर्ट (1928):",
+    "• मोतीलाल नेहरू द्वारा तैयार; डोमिनियन स्टेटस, संसदीय प्रणाली और मौलिक अधिकारों की माँग।",
+    "• पृथक निर्वाचक मंडल का विरोध (सीमित मुस्लिम सुरक्षा को छोड़कर)।",
+    "• कांग्रेस ने स्वीकार किया लेकिन जवाहरलाल नेहरू, सुभाष बोस जैसे युवा नेताओं ने पूर्ण स्वतंत्रता की माँग की।",
+    "सांप्रदायिक दुविधा और जिन्ना के चौदह सूत्र (1929):",
+    "• मुस्लिम लीग ने नेहरू रिपोर्ट अस्वीकार की; जिन्ना ने 14 सूत्र प्रस्तुत किए – पृथक निर्वाचक मंडल, प्रांतीय स्वायत्तता, केंद्र में एक-तिहाई मुस्लिम प्रतिनिधित्व।",
+    "• हिंदू–मुस्लिम राजनीतिक विभाजन गहरा हुआ।",
+    "लाहौर कांग्रेस अधिवेशन (दिसंबर 1929):",
+    "• अध्यक्षता: जवाहरलाल नेहरू।",
+    "• कांग्रेस ने पूर्ण स्वराज (Complete Independence) को लक्ष्य घोषित किया।",
+    "• गांधी के नेतृत्व में सविनय अवज्ञा आंदोलन शुरू करने का निर्णय।",
+    "• 26 जनवरी 1930 को 'स्वतंत्रता दिवस' मनाया गया, देशभर में प्रतिज्ञा समारोह।",
+    "गांधी की तैयारियाँ:",
+    "• गांधी ने कांग्रेस नेताओं से परामर्श कर 11 माँगों (आर्थिक और राजनीतिक) की सूची बनाई और लॉर्ड इरविन को भेजी।",
+    "• माँगें: नमक कर समाप्त, भू-राजस्व में कमी, राजनीतिक बंदियों की रिहाई, भारतीय उद्योग की सुरक्षा।",
+    "• वायसराय से वार्ता असफल रही → गांधी ने जन आंदोलन शुरू करने की तैयारी की।"
+  ],
+  "tables": [
+    {
+      "title": "Developments Before Civil Disobedience Movement",
+      "titleHindi": "सविनय अवज्ञा आंदोलन से पहले के विकास",
+      "columns": ["Year", "Event", "Significance"],
+      "columnsHindi": ["वर्ष", "घटना", "महत्व"],
+      "rows": [
+        ["1919", "Montagu-Chelmsford Reforms", "Failed to satisfy nationalist aspirations"],
+        ["1927", "Simon Commission appointed", "Boycotted; protests across India"],
+        ["1928", "Nehru Report drafted", "First Indian constitutional draft; demanded Dominion Status"],
+        ["1929", "Jinnah’s Fourteen Points", "Muslim League rejection; deepened communal divide"],
+        ["1929", "Lahore Session of Congress", "Purna Swaraj declared; decision for Civil Disobedience"],
+        ["1930 (Jan)", "Independence Day observed", "Nationwide pledge for complete independence"]
+      ],
+      "rowsHindi": [
+        ["1919", "मॉन्टेग-चेम्सफोर्ड सुधार", "राष्ट्रीय आकांक्षाएँ पूरी करने में विफल"],
+        ["1927", "साइमन कमीशन नियुक्त", "बहिष्कृत; पूरे भारत में विरोध"],
+        ["1928", "नेहरू रिपोर्ट तैयार", "पहला भारतीय संवैधानिक प्रारूप; डोमिनियन स्टेटस की माँग"],
+        ["1929", "जिन्ना के चौदह सूत्र", "मुस्लिम लीग का विरोध; सांप्रदायिक विभाजन गहरा"],
+        ["1929", "लाहौर कांग्रेस अधिवेशन", "पूर्ण स्वराज की घोषणा; सविनय अवज्ञा का निर्णय"],
+        ["1930 (जनवरी)", "स्वतंत्रता दिवस मनाया गया", "पूर्ण स्वतंत्रता की प्रतिज्ञा पूरे देश में"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Civil Disobedience Movement launched in 1930 after Gandhi’s 11 demands were rejected.",
+    "Lahore Session (1929) → Purna Swaraj declared.",
+    "January 26, 1930 observed as first Independence Day.",
+    "Jinnah’s Fourteen Points (1929) directly opposed Nehru Report."
+  ],
+  "prelimsTipsHindi": [
+    "सविनय अवज्ञा आंदोलन 1930 में गांधी की 11 माँगें अस्वीकार होने के बाद शुरू हुआ।",
+    "लाहौर अधिवेशन (1929) → पूर्ण स्वराज की घोषणा।",
+    "26 जनवरी 1930 को पहला स्वतंत्रता दिवस मनाया गया।",
+    "जिन्ना के चौदह सूत्र (1929) ने नेहरू रिपोर्ट का सीधा विरोध किया।"
+  ],
+  "funFacts": [
+    "The Congress adopted the tricolour flag (with spinning wheel at center) as the national flag during the Lahore Session (1929).",
+    "26 January was observed as Independence Day from 1930 onwards until it became Republic Day in 1950.",
+    "Jawaharlal Nehru, just 40 years old, presided over the historic Lahore Session."
+  ],
+  "funFactsHindi": [
+    "लाहौर अधिवेशन (1929) में कांग्रेस ने त्रिरंगा झंडा (चरखा सहित) को राष्ट्रीय ध्वज अपनाया।",
+    "26 जनवरी 1930 से स्वतंत्रता दिवस मनाया गया; 1950 से यही तिथि गणतंत्र दिवस बनी।",
+    "जवाहरलाल नेहरू मात्र 40 वर्ष की आयु में ऐतिहासिक लाहौर अधिवेशन के अध्यक्ष बने।"
+  ],
+  "mainsPoints": [
+    "The Civil Disobedience Movement was preceded by disillusionment with reforms and unity against Simon Commission.",
+    "The Nehru Report and Jinnah’s 14 Points highlighted the communal dilemma, weakening national consensus.",
+    "The Lahore Session of Congress (1929) was a turning point with Purna Swaraj declaration.",
+    "These developments laid the foundation for Gandhi’s Salt March and nationwide Civil Disobedience in 1930."
+  ],
+  "mainsPointsHindi": [
+    "सविनय अवज्ञा आंदोलन से पहले सुधारों से निराशा और साइमन कमीशन के खिलाफ एकजुटता रही।",
+    "नेहरू रिपोर्ट और जिन्ना के 14 सूत्रों ने सांप्रदायिक दुविधा को उजागर किया और राष्ट्रीय सहमति को कमजोर किया।",
+    "लाहौर कांग्रेस अधिवेशन (1929) पूर्ण स्वराज घोषणा के साथ एक मोड़ साबित हुआ।",
+    "इन घटनाओं ने गांधी के दांडी मार्च और 1930 में देशव्यापी सविनय अवज्ञा की नींव रखी।"
+  ]
+},
+{
+  "heading": "Gandhi’s 11 Demands and the Salt March (1930)",
+  "headingHindi": "गांधीजी की 11 माँगें और दांडी मार्च (1930)",
+  "highlight": "The Civil Disobedience Movement formally began with Gandhi’s 11 demands (January 1930) and the historic Salt March (March–April 1930). The demands covered economic relief, civil liberties, and social justice. When Viceroy Lord Irwin ignored them, Gandhi launched the Salt Satyagraha, making salt tax the symbol of colonial exploitation.",
+  "highlightHindi": "सविनय अवज्ञा आंदोलन की औपचारिक शुरुआत गांधीजी की 11 माँगों (जनवरी 1930) और ऐतिहासिक दांडी मार्च (मार्च–अप्रैल 1930) से हुई। माँगों में आर्थिक राहत, नागरिक स्वतंत्रता और सामाजिक न्याय शामिल थे। वायसराय लॉर्ड इरविन द्वारा इन्हें नज़रअंदाज़ करने पर गांधीजी ने नमक सत्याग्रह शुरू किया, जिसमें नमक कर को औपनिवेशिक शोषण का प्रतीक बनाया गया।",
+  "details": [
+    "Gandhi’s 11 Demands (January 1930):",
+    "1. Reduce expenditure on army and civil services.",
+    "2. Lower rupee-sterling exchange ratio.",
+    "3. Protect Indian textile industry from foreign competition.",
+    "4. Levy customs duty on foreign cloth.",
+    "5. Reduce land revenue by 50% and abolish zamindari system.",
+    "6. Abolish salt tax and government salt monopoly.",
+    "7. Reduce heavy military expenditure.",
+    "8. Release all political prisoners.",
+    "9. Accept postal, telegraph and railway reforms.",
+    "10. Introduce prohibition of liquor.",
+    "11. Reform currency and exchange system in favor of Indians.",
+    "Failure of Negotiations:",
+    "• Gandhi wrote to Viceroy Lord Irwin (31 January 1930) with the 11 demands.",
+    "• He gave an ultimatum of March 2, 1930 for acceptance.",
+    "• As demands were ignored, Congress authorized Gandhi to launch Civil Disobedience.",
+    "The Salt March (March–April 1930):",
+    "• Gandhi chose salt as the symbol of protest as it affected rich and poor alike.",
+    "• Started from Sabarmati Ashram (Ahmedabad) on March 12, 1930 with 78 followers.",
+    "• Walked about 240 miles in 24 days to reach Dandi on Gujarat coast.",
+    "• On April 6, 1930, Gandhi broke the salt law by making salt from sea water.",
+    "• Sparked mass civil disobedience across India—boycotts, refusal to pay taxes, defiance of forest and salt laws."
+  ],
+  "detailsHindi": [
+    "गांधीजी की 11 माँगें (जनवरी 1930):",
+    "1. सेना और सिविल सेवाओं पर खर्च कम किया जाए।",
+    "2. रुपये-स्टर्लिंग विनिमय अनुपात घटाया जाए।",
+    "3. भारतीय वस्त्र उद्योग को विदेशी प्रतिस्पर्धा से बचाया जाए।",
+    "4. विदेशी कपड़े पर आयात शुल्क लगाया जाए।",
+    "5. भू-राजस्व 50% कम किया जाए और जमींदारी प्रथा समाप्त हो।",
+    "6. नमक कर और सरकारी नमक एकाधिकार समाप्त किया जाए।",
+    "7. भारी सैन्य खर्च कम किया जाए।",
+    "8. सभी राजनीतिक कैदियों को रिहा किया जाए।",
+    "9. डाक, तार और रेलवे सुधार लागू हों।",
+    "10. शराब पर प्रतिबंध लगाया जाए।",
+    "11. मुद्रा और विनिमय प्रणाली भारतीय हित में सुधारी जाए।",
+    "वार्ता की विफलता:",
+    "• गांधीजी ने 31 जनवरी 1930 को वायसराय लॉर्ड इरविन को पत्र लिखकर 11 माँगें भेजीं।",
+    "• 2 मार्च 1930 तक का समय दिया।",
+    "• माँगें अस्वीकार होने पर कांग्रेस ने गांधी को आंदोलन शुरू करने का अधिकार दिया।",
+    "दांडी मार्च (मार्च–अप्रैल 1930):",
+    "• गांधीजी ने नमक को विरोध का प्रतीक चुना क्योंकि यह अमीर-गरीब सभी को प्रभावित करता था।",
+    "• 12 मार्च 1930 को साबरमती आश्रम (अहमदाबाद) से 78 साथियों के साथ शुरुआत।",
+    "• 24 दिनों में लगभग 240 मील की यात्रा कर गुजरात तट पर दांडी पहुँचे।",
+    "• 6 अप्रैल 1930 को समुद्री जल से नमक बनाकर नमक कानून तोड़ा।",
+    "• इससे पूरे भारत में जन सविनय अवज्ञा की लहर चली—बहिष्कार, कर न देना, वन और नमक कानून तोड़ना।"
+  ],
+  "tables": [
+    {
+      "title": "Gandhi’s 11 Demands",
+      "titleHindi": "गांधीजी की 11 माँगें",
+      "columns": ["No.", "Demand"],
+      "columnsHindi": ["क्रमांक", "माँग"],
+      "rows": [
+        ["1", "Reduce army & civil services expenditure"],
+        ["2", "Change rupee-sterling ratio"],
+        ["3", "Protect Indian textiles"],
+        ["4", "Custom duty on foreign cloth"],
+        ["5", "Reduce land revenue, abolish zamindari"],
+        ["6", "Abolish salt tax and monopoly"],
+        ["7", "Reduce military expenditure"],
+        ["8", "Release political prisoners"],
+        ["9", "Postal, telegraph, railway reforms"],
+        ["10", "Liquor prohibition"],
+        ["11", "Currency & exchange reforms"]
+      ],
+      "rowsHindi": [
+        ["1", "सेना और सिविल सेवाओं पर खर्च घटाना"],
+        ["2", "रुपया-स्टर्लिंग अनुपात बदलना"],
+        ["3", "भारतीय वस्त्र उद्योग की रक्षा"],
+        ["4", "विदेशी कपड़े पर आयात शुल्क"],
+        ["5", "भू-राजस्व कम करना, जमींदारी समाप्त"],
+        ["6", "नमक कर और एकाधिकार समाप्त"],
+        ["7", "सैन्य खर्च घटाना"],
+        ["8", "राजनीतिक बंदियों की रिहाई"],
+        ["9", "डाक, तार, रेलवे सुधार"],
+        ["10", "शराब पर प्रतिबंध"],
+        ["11", "मुद्रा और विनिमय सुधार"]
+      ]
+    },
+    {
+      "title": "Salt March (1930)",
+      "titleHindi": "दांडी मार्च (1930)",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Start", "12 March 1930, Sabarmati Ashram"],
+        ["Distance", "240 miles in 24 days"],
+        ["Followers", "78 satyagrahis initially"],
+        ["End", "6 April 1930, Gandhi broke salt law at Dandi"],
+        ["Impact", "Sparked nationwide Civil Disobedience"]
+      ],
+      "rowsHindi": [
+        ["प्रारंभ", "12 मार्च 1930, साबरमती आश्रम"],
+        ["दूरी", "240 मील, 24 दिन में"],
+        ["साथी", "78 सत्याग्रही"],
+        ["समाप्ति", "6 अप्रैल 1930, दांडी में नमक कानून तोड़ा"],
+        ["प्रभाव", "देशव्यापी सविनय अवज्ञा की शुरुआत"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Civil Disobedience Movement launched with Salt March (1930).",
+    "Gandhi’s 11 demands included abolition of salt tax and release of political prisoners.",
+    "Salt chosen as symbol because it affected all classes.",
+    "March: 12 March–6 April 1930, Sabarmati to Dandi."
+  ],
+  "prelimsTipsHindi": [
+    "सविनय अवज्ञा आंदोलन की शुरुआत दांडी मार्च (1930) से हुई।",
+    "गांधीजी की 11 माँगों में नमक कर समाप्ति और राजनीतिक बंदियों की रिहाई शामिल।",
+    "नमक इसलिए चुना क्योंकि यह सभी वर्गों को प्रभावित करता था।",
+    "मार्च: 12 मार्च–6 अप्रैल 1930, साबरमती से दांडी।"
+  ],
+  "funFacts": [
+    "The march gained worldwide attention, with The New York Times giving front-page coverage.",
+    "At each village, Gandhi addressed crowds, spreading awareness of swaraj.",
+    "The salt made at Dandi was auctioned publicly to defy British law."
+  ],
+  "funFactsHindi": [
+    "इस मार्च को विश्वभर में प्रसिद्धि मिली, न्यूयॉर्क टाइम्स ने इसे पहले पन्ने पर छापा।",
+    "हर गाँव में गांधीजी ने जनसभाएँ कर स्वराज का संदेश दिया।",
+    "दांडी में बने नमक की नीलामी की गई ताकि ब्रिटिश कानून को खुली चुनौती दी जा सके।"
+  ],
+  "mainsPoints": [
+    "The 11 demands reflected both economic grievances and political aspirations.",
+    "The Salt March converted elite political debates into a mass struggle.",
+    "Salt became a unifying symbol against British exploitation.",
+    "The march marked the true beginning of mass Civil Disobedience across India."
+  ],
+  "mainsPointsHindi": [
+    "11 माँगों ने आर्थिक शिकायतों और राजनीतिक आकांक्षाओं दोनों को प्रतिबिंबित किया।",
+    "दांडी मार्च ने अभिजात्य राजनीतिक बहस को जन संघर्ष में बदल दिया।",
+    "नमक ब्रिटिश शोषण के खिलाफ एकीकृत प्रतीक बना।",
+    "यह मार्च पूरे भारत में जन सविनय अवज्ञा की वास्तविक शुरुआत थी।"
+  ]
+},
+{
+  "heading": "Why Gandhi Chose Salt & Spread of Salt Law Disobedience (1930)",
+  "headingHindi": "गांधीजी ने नमक क्यों चुना और नमक कानून अवज्ञा का प्रसार (1930)",
+  "highlight": "Salt was chosen by Gandhi as the symbol of Civil Disobedience because it was a universal necessity, affected rich and poor alike, and exposed the unjust nature of colonial taxation. After Gandhi’s Dandi March, the Salt Law disobedience spread rapidly across India, drawing in peasants, women, students, and workers into mass struggle.",
+  "highlightHindi": "गांधीजी ने नमक को सविनय अवज्ञा का प्रतीक इसलिए चुना क्योंकि यह सार्वभौमिक आवश्यकता थी, अमीर-गरीब सभी को प्रभावित करता था और औपनिवेशिक कराधान की अन्यायपूर्ण प्रकृति उजागर करता था। दांडी मार्च के बाद नमक कानून की अवज्ञा तेजी से पूरे भारत में फैल गई और इसमें किसान, महिलाएँ, छात्र और मजदूर शामिल हुए।",
+  "details": [
+    "Why Salt was Chosen:",
+    "• Salt was a basic necessity of life, consumed by all classes of society.",
+    "• The British monopoly and heavy tax on salt hit the poorest hardest.",
+    "• It symbolized colonial exploitation in the most direct way.",
+    "• Salt law was easy to break → making and selling salt became a simple yet powerful act of defiance.",
+    "• Gandhi called salt tax 'the most inhuman poll tax on the poor'.",
+    "Spread of Salt Law Disobedience:",
+    "• After Gandhi broke the salt law at Dandi (6 April 1930), mass violations occurred across India.",
+    "• Coastal regions: People made salt illegally along coasts of Gujarat, Tamil Nadu, Andhra, Orissa, and Bengal.",
+    "• Inland areas: People sold contraband salt and boycotted government salt.",
+    "• Leaders like C. Rajagopalachari led the Vedaranyam Salt March (Tamil Nadu).",
+    "• In Malabar, K. Kelappan led a Salt Satyagraha at Payyanur.",
+    "• In Assam, students and women participated in salt satyagrahas.",
+    "• Women played a leading role—Sarojini Naidu accompanied Gandhi and women volunteers openly sold contraband salt.",
+    "• Peasants and tribals defied forest laws linked with salt laws and refused to pay taxes.",
+    "• The Salt Satyagraha quickly turned into a nationwide mass movement against British authority."
+  ],
+  "detailsHindi": [
+    "गांधीजी ने नमक क्यों चुना:",
+    "• नमक जीवन की मूलभूत आवश्यकता थी, समाज के हर वर्ग द्वारा उपभोग किया जाता था।",
+    "• नमक पर ब्रिटिश एकाधिकार और भारी कर गरीबों को सबसे अधिक प्रभावित करता था।",
+    "• यह औपनिवेशिक शोषण का सबसे प्रत्यक्ष प्रतीक था।",
+    "• नमक कानून तोड़ना आसान था → नमक बनाना और बेचना एक सरल किंतु प्रभावी अवज्ञा का कार्य था।",
+    "• गांधीजी ने नमक कर को 'गरीबों पर सबसे अमानवीय कर' कहा।",
+    "नमक कानून अवज्ञा का प्रसार:",
+    "• 6 अप्रैल 1930 को गांधीजी द्वारा दांडी में नमक कानून तोड़ने के बाद देशभर में सामूहिक अवज्ञा हुई।",
+    "• तटीय क्षेत्र: गुजरात, तमिलनाडु, आंध्र, उड़ीसा और बंगाल के तटों पर लोगों ने अवैध रूप से नमक बनाया।",
+    "• भीतरी क्षेत्र: लोगों ने अवैध नमक बेचा और सरकारी नमक का बहिष्कार किया।",
+    "• नेता: सी. राजगोपालाचारी ने वेदारण्यम नमक मार्च (तमिलनाडु) का नेतृत्व किया।",
+    "• मलाबार में के. केलप्पन ने पायन्नूर में नमक सत्याग्रह किया।",
+    "• असम में छात्र और महिलाएँ नमक सत्याग्रह में शामिल हुईं।",
+    "• महिलाओं ने अग्रणी भूमिका निभाई—सरोजिनी नायडू ने गांधी का साथ दिया और महिला कार्यकर्ताओं ने खुलेआम अवैध नमक बेचा।",
+    "• किसानों और आदिवासियों ने वन कानून तोड़े और कर चुकाने से इंकार किया।",
+    "• नमक सत्याग्रह तेजी से ब्रिटिश सत्ता के खिलाफ देशव्यापी जन आंदोलन बन गया।"
+  ],
+  "tables": [
+    {
+      "title": "Why Salt Became Symbol of Protest",
+      "titleHindi": "नमक विरोध का प्रतीक क्यों बना",
+      "columns": ["Reason", "Explanation"],
+      "columnsHindi": ["कारण", "व्याख्या"],
+      "rows": [
+        ["Universal necessity", "Consumed by all, rich and poor"],
+        ["British monopoly", "Heavy salt tax hurt the poor most"],
+        ["Symbolic value", "Showed everyday exploitation"],
+        ["Simplicity", "Easy to make and break law"],
+        ["Emotional appeal", "Linked to survival, resonated with masses"]
+      ],
+      "rowsHindi": [
+        ["सार्वभौमिक आवश्यकता", "अमीर-गरीब सभी द्वारा उपभोग"],
+        ["ब्रिटिश एकाधिकार", "भारी नमक कर ने गरीबों को सबसे अधिक प्रभावित किया"],
+        ["प्रतीकात्मक मूल्य", "प्रतिदिन के शोषण को दर्शाया"],
+        ["सरलता", "नमक बनाना और कानून तोड़ना आसान"],
+        ["भावनात्मक अपील", "जीवन से जुड़ा, जनता से गहराई से जुड़ा"]
+      ]
+    },
+    {
+      "title": "Spread of Salt Law Disobedience",
+      "titleHindi": "नमक कानून अवज्ञा का प्रसार",
+      "columns": ["Region", "Leader/Action"],
+      "columnsHindi": ["क्षेत्र", "नेता/कार्य"],
+      "rows": [
+        ["Gujarat", "Gandhi’s Dandi March (1930)"],
+        ["Tamil Nadu", "C. Rajagopalachari’s Vedaranyam Salt March"],
+        ["Malabar (Kerala)", "K. Kelappan’s Payyanur Satyagraha"],
+        ["Assam", "Students and women led salt satyagrahas"],
+        ["Bengal & Orissa", "Illegal salt manufacture and boycott of govt. salt"]
+      ],
+      "rowsHindi": [
+        ["गुजरात", "गांधीजी का दांडी मार्च (1930)"],
+        ["तमिलनाडु", "सी. राजगोपालाचारी का वेदारण्यम नमक मार्च"],
+        ["मलाबार (केरल)", "के. केलप्पन का पायन्नूर सत्याग्रह"],
+        ["असम", "छात्र और महिलाओं का नेतृत्व"],
+        ["बंगाल और उड़ीसा", "अवैध नमक निर्माण और सरकारी नमक का बहिष्कार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Salt chosen because it affected all classes and symbolized British exploitation.",
+    "Dandi March (1930) → triggered mass disobedience of salt laws across India.",
+    "C. Rajagopalachari led parallel salt march in Tamil Nadu.",
+    "K. Kelappan led salt satyagraha in Kerala."
+  ],
+  "prelimsTipsHindi": [
+    "नमक इसलिए चुना गया क्योंकि यह सभी वर्गों को प्रभावित करता था और ब्रिटिश शोषण का प्रतीक था।",
+    "दांडी मार्च (1930) → पूरे भारत में नमक कानून अवज्ञा की शुरुआत।",
+    "सी. राजगोपालाचारी ने तमिलनाडु में समानांतर नमक मार्च किया।",
+    "के. केलप्पन ने केरल में नमक सत्याग्रह का नेतृत्व किया।"
+  ],
+  "funFacts": [
+    "Foreign journalists widely covered the Salt March, making Gandhi a global icon of non-violent resistance.",
+    "In some regions, villagers made salt secretly at night to avoid police.",
+    "Women volunteers openly sold contraband salt in markets, defying colonial authority."
+  ],
+  "funFactsHindi": [
+    "विदेशी पत्रकारों ने नमक मार्च को व्यापक कवरेज दी, जिससे गांधीजी वैश्विक अहिंसक प्रतिरोध के प्रतीक बने।",
+    "कुछ क्षेत्रों में गाँव वालों ने पुलिस से बचने के लिए रात में गुप्त रूप से नमक बनाया।",
+    "महिला स्वयंसेविकाओं ने खुलेआम अवैध नमक बाजारों में बेचा और औपनिवेशिक सत्ता को चुनौती दी।"
+  ],
+  "mainsPoints": [
+    "Salt was chosen as it was a universal necessity and symbolized everyday exploitation.",
+    "Its simplicity made participation accessible to masses, including women and peasants.",
+    "The spread of salt satyagraha across regions transformed local grievances into a national struggle.",
+    "Salt disobedience turned Civil Disobedience into a mass movement against colonial authority."
+  ],
+  "mainsPointsHindi": [
+    "नमक इसलिए चुना गया क्योंकि यह सार्वभौमिक आवश्यकता था और प्रतिदिन के शोषण का प्रतीक था।",
+    "इसकी सरलता ने महिलाओं और किसानों सहित आम जनता की भागीदारी संभव की।",
+    "नमक सत्याग्रह का विभिन्न क्षेत्रों में प्रसार स्थानीय शिकायतों को राष्ट्रीय संघर्ष में बदल दिया।",
+    "नमक अवज्ञा ने सविनय अवज्ञा को औपनिवेशिक सत्ता के खिलाफ जन आंदोलन बना दिया।"
+  ]
+},
+{
+  "heading": "Nationwide Participation in the Civil Disobedience Movement (1930–34)",
+  "headingHindi": "सविनय अवज्ञा आंदोलन (1930–34) में राष्ट्रव्यापी भागीदारी",
+  "highlight": "The Civil Disobedience Movement (1930–34) became a true mass movement with participation from peasants, women, students, workers, tribals, and merchants. Different regions witnessed diverse forms of struggle, making it the broadest-based nationalist movement before independence.",
+  "highlightHindi": "सविनय अवज्ञा आंदोलन (1930–34) एक वास्तविक जन आंदोलन बना, जिसमें किसानों, महिलाओं, छात्रों, मजदूरों, आदिवासियों और व्यापारियों ने भाग लिया। विभिन्न क्षेत्रों में अलग-अलग रूपों में संघर्ष हुआ, जिससे यह स्वतंत्रता से पहले का सबसे व्यापक राष्ट्रवादी आंदोलन बन गया।",
+  "details": [
+    "Peasants:",
+    "• In Gujarat, Kheda and Bardoli peasants refused to pay land revenue.",
+    "• In U.P., peasants stopped paying taxes and boycotted government officials.",
+    "• In Andhra, forest satyagrahas and refusal to pay cesses were common.",
+    "Women:",
+    "• Large numbers of women came into public life for the first time.",
+    "• Sarojini Naidu, Kamaladevi Chattopadhyay, Avantikabai Gokhale, and Perin Captain played leading roles.",
+    "• Women made salt, picketed foreign cloth and liquor shops, and courted arrest.",
+    "Students and Youth:",
+    "• Boycotted schools and colleges run by government.",
+    "• Joined mass processions, distributed nationalist literature.",
+    "• Many young people joined revolutionary groups inspired by the movement.",
+    "Workers:",
+    "• Industrial workers in Sholapur (Maharashtra) went on strikes and clashed with police.",
+    "• In Bengal, Assam, and Bombay, mill workers joined hartals and boycotts.",
+    "• Railway workers in Lahore and Karachi participated in strikes.",
+    "Merchants and Traders:",
+    "• Boycotted foreign cloth and goods.",
+    "• Set up indigenous stores and promoted swadeshi products.",
+    "• Contributed funds to Congress and local satyagrahas.",
+    "Tribal Groups:",
+    "• Tribals in Maharashtra, Central Provinces, and Bihar defied forest laws.",
+    "• Practiced collective salt making and withheld forest dues.",
+    "Extent of Participation:",
+    "• Movement spread to almost every province: Bengal, Punjab, U.P., Bihar, Maharashtra, Tamil Nadu, Kerala, Assam.",
+    "• Participation varied by region, but salt law disobedience and no-tax campaigns united the struggle."
+  ],
+  "detailsHindi": [
+    "किसान:",
+    "• गुजरात के खेड़ा और बर्दोली में किसानों ने भू-राजस्व देना बंद कर दिया।",
+    "• उत्तर प्रदेश में किसानों ने कर न चुकाया और सरकारी अधिकारियों का बहिष्कार किया।",
+    "• आंध्र प्रदेश में वन सत्याग्रह और कर देने से इंकार आम था।",
+    "महिलाएँ:",
+    "• पहली बार बड़ी संख्या में महिलाएँ सार्वजनिक जीवन में आईं।",
+    "• सरोजिनी नायडू, कमलादेवी चट्टोपाध्याय, अवंतिकाबाई गोखले और पेरिन कैप्टन ने नेतृत्व किया।",
+    "• महिलाओं ने नमक बनाया, विदेशी कपड़े और शराब की दुकानों पर पिकेटिंग की और गिरफ्तारी दी।",
+    "छात्र और युवा:",
+    "• सरकारी स्कूल-कॉलेजों का बहिष्कार किया।",
+    "• जनसभाओं और जुलूसों में शामिल हुए, राष्ट्रीय साहित्य वितरित किया।",
+    "• कई युवा क्रांतिकारी संगठनों से जुड़े।",
+    "मजदूर:",
+    "• महाराष्ट्र के शोलापुर में औद्योगिक मजदूरों ने हड़ताल की और पुलिस से भिड़ गए।",
+    "• बंगाल, असम और बॉम्बे में मिल मजदूरों ने हड़ताल और बहिष्कार किया।",
+    "• लाहौर और कराची में रेलवे मजदूरों ने हड़ताल की।",
+    "व्यापारी और व्यापारी वर्ग:",
+    "• विदेशी कपड़े और सामान का बहिष्कार किया।",
+    "• स्वदेशी दुकानों की स्थापना की और भारतीय वस्तुओं को बढ़ावा दिया।",
+    "• कांग्रेस और स्थानीय सत्याग्रहों को धन दिया।",
+    "आदिवासी:",
+    "• महाराष्ट्र, मध्य प्रांत और बिहार के आदिवासियों ने वन कानून तोड़े।",
+    "• सामूहिक रूप से नमक बनाया और वन कर न दिया।",
+    "भागीदारी की व्यापकता:",
+    "• आंदोलन लगभग हर प्रांत में फैला: बंगाल, पंजाब, यूपी, बिहार, महाराष्ट्र, तमिलनाडु, केरल, असम।",
+    "• क्षेत्रीय रूप अलग थे लेकिन नमक कानून अवज्ञा और कर न देने के अभियान ने एकता दी।"
+  ],
+  "tables": [
+    {
+      "title": "Participation in Civil Disobedience Movement (1930–34)",
+      "titleHindi": "सविनय अवज्ञा आंदोलन (1930–34) में भागीदारी",
+      "columns": ["Group", "Form of Participation", "Key Regions/Leaders"],
+      "columnsHindi": ["समूह", "भागीदारी का रूप", "क्षेत्र/नेता"],
+      "rows": [
+        ["Peasants", "No-tax campaigns, forest satyagraha", "Gujarat (Bardoli), U.P., Andhra"],
+        ["Women", "Salt making, picketing, arrests", "Sarojini Naidu, Kamaladevi, Perin Captain"],
+        ["Students/Youth", "Boycott of schools, processions", "U.P., Bengal, Punjab"],
+        ["Workers", "Strikes, hartals, clashes with police", "Sholapur, Bombay, Bengal"],
+        ["Merchants/Traders", "Boycott of foreign goods, swadeshi promotion", "Bombay, Calcutta, Madras"],
+        ["Tribals", "Defied forest laws, made salt", "Maharashtra, Bihar, Central Provinces"]
+      ],
+      "rowsHindi": [
+        ["किसान", "कर न देना, वन सत्याग्रह", "गुजरात (बर्दोली), यूपी, आंध्र"],
+        ["महिलाएँ", "नमक बनाना, पिकेटिंग, गिरफ्तारी", "सरोजिनी नायडू, कमलादेवी, पेरिन कैप्टन"],
+        ["छात्र/युवा", "स्कूल बहिष्कार, जुलूस", "यूपी, बंगाल, पंजाब"],
+        ["मजदूर", "हड़ताल, हड़ताल, पुलिस से भिड़ंत", "शोलापुर, बॉम्बे, बंगाल"],
+        ["व्यापारी/व्यापारी वर्ग", "विदेशी वस्त्रों का बहिष्कार, स्वदेशी को बढ़ावा", "बॉम्बे, कलकत्ता, मद्रास"],
+        ["आदिवासी", "वन कानून तोड़े, नमक बनाया", "महाराष्ट्र, बिहार, मध्य प्रांत"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Women played a major role in Civil Disobedience (e.g., Sarojini Naidu at Dharasana Salt Works).",
+    "Sholapur workers’ strike (1930) was one of the most militant episodes.",
+    "Tribals and peasants linked local struggles (forest rights, tax refusal) with Civil Disobedience.",
+    "January 26 became Independence Day observance from 1930 onwards."
+  ],
+  "prelimsTipsHindi": [
+    "महिलाओं ने सविनय अवज्ञा में बड़ी भूमिका निभाई (जैसे धरसाना नमक कार्यवाही में सरोजिनी नायडू)।",
+    "शोलापुर मजदूरों की हड़ताल (1930) सबसे उग्र घटनाओं में से एक थी।",
+    "आदिवासियों और किसानों ने स्थानीय संघर्षों (वन अधिकार, कर न देना) को सविनय अवज्ञा से जोड़ा।",
+    "1930 से 26 जनवरी स्वतंत्रता दिवस के रूप में मनाया जाने लगा।"
+  ],
+  "funFacts": [
+    "In Sholapur, workers set up their own parallel administration briefly during the strikes.",
+    "Kamaladevi Chattopadhyay tried to sell contraband salt at the Bombay Stock Exchange to mock British laws.",
+    "Schoolgirls in Bengal and Assam secretly distributed Congress literature to villagers."
+  ],
+  "funFactsHindi": [
+    "शोलापुर में मजदूरों ने हड़ताल के दौरान संक्षिप्त समय के लिए समानांतर प्रशासन चलाया।",
+    "कमलादेवी चट्टोपाध्याय ने बॉम्बे स्टॉक एक्सचेंज में अवैध नमक बेचने का प्रयास किया ताकि ब्रिटिश कानून का मज़ाक उड़ाया जा सके।",
+    "बंगाल और असम की स्कूली छात्राओं ने गुप्त रूप से गाँवों में कांग्रेस साहित्य वितरित किया।"
+  ],
+  "mainsPoints": [
+    "Civil Disobedience transformed into a mass movement due to diverse participation from peasants, women, workers, and students.",
+    "The involvement of new social groups widened the nationalist base.",
+    "Women’s mass participation marked a turning point in freedom struggle.",
+    "Despite regional variations, salt law disobedience united Indians under a common symbol."
+  ],
+  "mainsPointsHindi": [
+    "किसानों, महिलाओं, मजदूरों और छात्रों की भागीदारी से सविनय अवज्ञा वास्तविक जन आंदोलन बना।",
+    "नए सामाजिक समूहों की भागीदारी ने राष्ट्रवादी आधार को व्यापक बनाया।",
+    "महिलाओं की व्यापक भागीदारी स्वतंत्रता संग्राम का महत्वपूर्ण मोड़ था।",
+    "क्षेत्रीय विविधताओं के बावजूद नमक कानून अवज्ञा ने भारतीयों को एक साझा प्रतीक के तहत एकजुट किया।"
+  ]
+},
+{
+  "heading": "British Repression, Gandhi’s Arrest & Dharasana Salt Works (1930)",
+  "headingHindi": "ब्रिटिश दमन, गांधीजी की गिरफ्तारी और धरसाना नमक सत्याग्रह (1930)",
+  "highlight": "After the Salt March, the British government responded with brutal repression. Gandhi was arrested in May 1930 before leading a raid on Dharasana Salt Works. His arrest triggered mass protests. The Dharasana Satyagraha, led by Abbas Tyabji and Sarojini Naidu, drew global attention due to its non-violent defiance and police brutality.",
+  "highlightHindi": "नमक मार्च के बाद ब्रिटिश सरकार ने कठोर दमन किया। गांधीजी को मई 1930 में धरसाना नमक कारखाने पर सत्याग्रह का नेतृत्व करने से पहले गिरफ्तार कर लिया गया। उनकी गिरफ्तारी से देशभर में आक्रोश फैला। अब्बास तैयबजी और सरोजिनी नायडू के नेतृत्व में हुआ धरसाना सत्याग्रह वैश्विक स्तर पर प्रसिद्ध हुआ क्योंकि इसमें अहिंसक अवज्ञा और पुलिस की बर्बरता उजागर हुई।",
+  "details": [
+    "British Repression:",
+    "• After Dandi March, mass arrests of Congress leaders and satyagrahis were carried out.",
+    "• Congress offices were raided, nationalist newspapers censored.",
+    "• Peaceful demonstrations were lathi-charged and fired upon.",
+    "Gandhi’s Arrest:",
+    "• Gandhi planned to raid the Dharasana Salt Works (Gujarat) in May 1930.",
+    "• On 5 May 1930, before the action, Gandhi was arrested by the British.",
+    "• This arrest triggered nationwide protests, hartals, and strikes.",
+    "Dharasana Salt Works Incident (May 1930):",
+    "• Leadership taken over by Abbas Tyabji (75-year-old veteran) → later arrested.",
+    "• Then Sarojini Naidu led thousands of satyagrahis to march towards Dharasana.",
+    "• Volunteers advanced in batches, were brutally beaten by police, but did not retaliate.",
+    "• Over 300 volunteers injured; many hospitalized.",
+    "• The event was reported internationally by American journalist Webb Miller, shocking world opinion.",
+    "• Dharasana Satyagraha exposed British brutality and highlighted India’s moral high ground.",
+    "Impact:",
+    "• Civil Disobedience gained massive sympathy worldwide.",
+    "• Strengthened the movement despite repression.",
+    "• Demonstrated power of non-violent resistance in shaming colonial rule."
+  ],
+  "detailsHindi": [
+    "ब्रिटिश दमन:",
+    "• दांडी मार्च के बाद कांग्रेस नेताओं और सत्याग्रहियों की व्यापक गिरफ्तारियाँ हुईं।",
+    "• कांग्रेस कार्यालयों पर छापे, राष्ट्रीय समाचारपत्रों पर सेंसर लगाया गया।",
+    "• शांतिपूर्ण प्रदर्शनों पर लाठीचार्ज और गोलीबारी की गई।",
+    "गांधीजी की गिरफ्तारी:",
+    "• गांधीजी ने मई 1930 में गुजरात के धरसाना नमक कारखाने पर सत्याग्रह की योजना बनाई।",
+    "• 5 मई 1930 को कार्रवाई से पहले ही ब्रिटिशों ने उन्हें गिरफ्तार कर लिया।",
+    "• उनकी गिरफ्तारी से पूरे देश में हड़तालें और विरोध प्रदर्शन हुए।",
+    "धरसाना नमक सत्याग्रह (मई 1930):",
+    "• नेतृत्व अब्बास तैयबजी (75 वर्षीय नेता) ने किया, बाद में उन्हें भी गिरफ्तार किया गया।",
+    "• इसके बाद सरोजिनी नायडू ने हजारों सत्याग्रहियों का नेतृत्व किया।",
+    "• स्वयंसेवक टुकड़ियों में आगे बढ़े, पुलिस ने बेरहमी से पीटा लेकिन उन्होंने प्रतिकार नहीं किया।",
+    "• 300 से अधिक सत्याग्रही घायल हुए; कई अस्पताल में भर्ती।",
+    "• अमेरिकी पत्रकार वेब मिलर ने घटना की रिपोर्टिंग की, जिससे विश्वभर में आक्रोश फैला।",
+    "• धरसाना सत्याग्रह ने ब्रिटिश क्रूरता उजागर की और भारत की नैतिक श्रेष्ठता को सामने रखा।",
+    "प्रभाव:",
+    "• सविनय अवज्ञा को विश्वभर में सहानुभूति मिली।",
+    "• दमन के बावजूद आंदोलन मजबूत हुआ।",
+    "• अहिंसक प्रतिरोध की शक्ति से औपनिवेशिक शासन को शर्मिंदा किया गया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Events: Gandhi’s Arrest and Dharasana Satyagraha",
+      "titleHindi": "मुख्य घटनाएँ: गांधीजी की गिरफ्तारी और धरसाना सत्याग्रह",
+      "columns": ["Date", "Event", "Significance"],
+      "columnsHindi": ["तिथि", "घटना", "महत्व"],
+      "rows": [
+        ["5 May 1930", "Gandhi arrested before Dharasana raid", "Triggered mass protests"],
+        ["May 1930", "Abbas Tyabji arrested", "Sarojini Naidu assumed leadership"],
+        ["May 1930", "Dharasana Salt Satyagraha", "Brutal police repression exposed"],
+        ["June 1930", "Global reports by Webb Miller", "International sympathy for India"]
+      ],
+      "rowsHindi": [
+        ["5 मई 1930", "गांधीजी गिरफ्तार, धरसाना कार्रवाई से पहले", "देशभर में विरोध फैला"],
+        ["मई 1930", "अब्बास तैयबजी गिरफ्तार", "सरोजिनी नायडू ने नेतृत्व संभाला"],
+        ["मई 1930", "धरसाना नमक सत्याग्रह", "ब्रिटिश दमन का खुलासा"],
+        ["जून 1930", "वेब मिलर की अंतरराष्ट्रीय रिपोर्टिंग", "भारत के लिए वैश्विक सहानुभूति"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Gandhi arrested on 5 May 1930 before Dharasana Salt Raid.",
+    "Dharasana Salt Works → led by Sarojini Naidu after Abbas Tyabji’s arrest.",
+    "American journalist Webb Miller’s reports exposed British brutality globally.",
+    "Over 300 satyagrahis injured, none retaliated."
+  ],
+  "prelimsTipsHindi": [
+    "गांधीजी 5 मई 1930 को धरसाना सत्याग्रह से पहले गिरफ्तार हुए।",
+    "धरसाना नमक कारखाने का नेतृत्व सरोजिनी नायडू ने किया (अब्बास तैयबजी की गिरफ्तारी के बाद)।",
+    "अमेरिकी पत्रकार वेब मिलर की रिपोर्टिंग ने ब्रिटिश क्रूरता को विश्वभर में उजागर किया।",
+    "300 से अधिक सत्याग्रही घायल हुए लेकिन किसी ने प्रतिकार नहीं किया।"
+  ],
+  "funFacts": [
+    "Sarojini Naidu advised satyagrahis to 'smile and receive the blows' at Dharasana.",
+    "Webb Miller’s report was published in over 1000 newspapers worldwide.",
+    "The Dharasana incident influenced later non-violent movements, including Martin Luther King Jr.’s campaigns."
+  ],
+  "funFactsHindi": [
+    "सरोजिनी नायडू ने सत्याग्रहियों से कहा—'मुस्कराइए और चोटें सहिए'।",
+    "वेब मिलर की रिपोर्ट 1000 से अधिक अखबारों में छपी।",
+    "धरसाना की घटना ने आगे के अहिंसक आंदोलनों को प्रेरित किया, जिनमें मार्टिन लूथर किंग जूनियर के आंदोलन भी शामिल हैं।"
+  ],
+  "mainsPoints": [
+    "Gandhi’s arrest demonstrated British fear of mass mobilization.",
+    "Dharasana Satyagraha became iconic for showcasing non-violent resistance against brutal repression.",
+    "International media coverage gave the Indian struggle global legitimacy.",
+    "Despite repression, the movement spread further and consolidated mass participation."
+  ],
+  "mainsPointsHindi": [
+    "गांधीजी की गिरफ्तारी ने ब्रिटिशों के जन-आंदोलन से डर को दिखाया।",
+    "धरसाना सत्याग्रह अहिंसक प्रतिरोध और ब्रिटिश क्रूरता का प्रतीक बना।",
+    "अंतरराष्ट्रीय मीडिया कवरेज ने भारतीय संघर्ष को वैश्विक मान्यता दिलाई।",
+    "दमन के बावजूद आंदोलन फैला और जन भागीदारी और मजबूत हुई।"
+  ]
+},
+{
+  "heading": "Gandhi-Irwin Pact (1931) and First Round Table Conference",
+  "headingHindi": "गांधी-इरविन समझौता (1931) और प्रथम गोलमेज सम्मेलन",
+  "highlight": "The Gandhi-Irwin Pact (March 1931) temporarily suspended the Civil Disobedience Movement. Gandhi agreed to attend the Second Round Table Conference in London. The First Round Table Conference (1930–31), held without Congress participation, discussed constitutional reforms but failed to achieve consensus.",
+  "highlightHindi": "गांधी-इरविन समझौते (मार्च 1931) ने सविनय अवज्ञा आंदोलन को अस्थायी रूप से रोक दिया। गांधीजी ने लंदन में द्वितीय गोलमेज सम्मेलन में भाग लेने पर सहमति दी। प्रथम गोलमेज सम्मेलन (1930–31), जिसमें कांग्रेस शामिल नहीं हुई, ने संवैधानिक सुधारों पर चर्चा की लेकिन सहमति नहीं बन पाई।",
+  "details": [
+    "First Round Table Conference (Nov 1930 – Jan 1931):",
+    "• Held in London at St. James Palace.",
+    "• Attended by 89 delegates → included Princes, British political leaders, Muslim League, Hindu Mahasabha, Liberals, Anglo-Indians, Christians, Sikhs, depressed classes, etc.",
+    "• Congress boycotted the conference as Civil Disobedience was ongoing.",
+    "• Discussed federal constitution, minority safeguards, and communal representation.",
+    "• Outcome: No agreement reached due to absence of Congress and lack of consensus among groups.",
+    "Gandhi-Irwin Pact (March 5, 1931):",
+    "• After prolonged negotiations, Viceroy Lord Irwin and Gandhi signed a pact.",
+    "Terms:",
+    "– Congress would suspend Civil Disobedience Movement and participate in Second Round Table Conference.",
+    "– Government agreed to release political prisoners (except those involved in violence).",
+    "– Right to make salt in coastal villages allowed.",
+    "– Confiscated properties of satyagrahis returned.",
+    "– Peaceful picketing of foreign cloth and liquor shops permitted.",
+    "• Significance:",
+    "– Seen as a political truce between Congress and British Government.",
+    "– Marked Gandhi’s first direct negotiation as equal with the British.",
+    "– Criticized by revolutionaries and leftists as a 'surrender pact'.",
+    "Impact:",
+    "• Congress agreed to attend Second Round Table Conference (1931).",
+    "• Many Congress leaders released from jail.",
+    "• However, repression resumed once Gandhi returned from London."
+  ],
+  "detailsHindi": [
+    "प्रथम गोलमेज सम्मेलन (नवंबर 1930 – जनवरी 1931):",
+    "• लंदन के सेंट जेम्स पैलेस में आयोजित।",
+    "• 89 प्रतिनिधि शामिल हुए → राजकुमार, ब्रिटिश नेता, मुस्लिम लीग, हिंदू महासभा, उदारवादी, एंग्लो-इंडियन, ईसाई, सिख, अस्पृश्य वर्ग आदि।",
+    "• कांग्रेस ने भाग नहीं लिया क्योंकि सविनय अवज्ञा आंदोलन चल रहा था।",
+    "• संघीय संविधान, अल्पसंख्यक सुरक्षा और सांप्रदायिक प्रतिनिधित्व पर चर्चा।",
+    "• परिणाम: कांग्रेस की अनुपस्थिति और समूहों के बीच असहमति के कारण कोई समझौता नहीं।",
+    "गांधी-इरविन समझौता (5 मार्च 1931):",
+    "• लंबे वार्तालाप के बाद वायसराय लॉर्ड इरविन और गांधीजी ने समझौता किया।",
+    "शर्तें:",
+    "– कांग्रेस सविनय अवज्ञा आंदोलन निलंबित करेगी और द्वितीय गोलमेज सम्मेलन में भाग लेगी।",
+    "– सरकार राजनीतिक कैदियों को रिहा करेगी (हिंसा से जुड़े मामलों को छोड़कर)।",
+    "– तटीय गाँवों में नमक बनाने का अधिकार दिया गया।",
+    "– सत्याग्रहियों की जब्त संपत्ति लौटाई गई।",
+    "– विदेशी कपड़े और शराब की दुकानों पर शांतिपूर्ण पिकेटिंग की अनुमति।",
+    "• महत्व:",
+    "– कांग्रेस और ब्रिटिश सरकार के बीच राजनीतिक युद्धविराम।",
+    "– गांधीजी की ब्रिटिशों के साथ समान स्तर पर पहली सीधी वार्ता।",
+    "– क्रांतिकारियों और वामपंथियों ने इसे 'समर्पण समझौता' कहा।",
+    "प्रभाव:",
+    "• कांग्रेस ने द्वितीय गोलमेज सम्मेलन (1931) में भाग लेने पर सहमति दी।",
+    "• कई कांग्रेस नेताओं को जेल से रिहा किया गया।",
+    "• गांधीजी के लंदन से लौटने के बाद दमन फिर शुरू हो गया।"
+  ],
+  "tables": [
+    {
+      "title": "First Round Table Conference (1930–31)",
+      "titleHindi": "प्रथम गोलमेज सम्मेलन (1930–31)",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Venue", "St. James Palace, London"],
+        ["Participants", "Princes, minority groups, British leaders; no Congress"],
+        ["Main Issues", "Federalism, minorities, communal representation"],
+        ["Outcome", "Failed due to absence of Congress"]
+      ],
+      "rowsHindi": [
+        ["स्थान", "सेंट जेम्स पैलेस, लंदन"],
+        ["प्रतिभागी", "राजकुमार, अल्पसंख्यक समूह, ब्रिटिश नेता; कांग्रेस अनुपस्थित"],
+        ["मुख्य विषय", "संघवाद, अल्पसंख्यक, सांप्रदायिक प्रतिनिधित्व"],
+        ["परिणाम", "कांग्रेस की अनुपस्थिति से विफल"]
+      ]
+    },
+    {
+      "title": "Gandhi-Irwin Pact (1931)",
+      "titleHindi": "गांधी-इरविन समझौता (1931)",
+      "columns": ["Clause", "Provision"],
+      "columnsHindi": ["धारा", "प्रावधान"],
+      "rows": [
+        ["1", "Congress suspends Civil Disobedience"],
+        ["2", "Political prisoners released (non-violent cases)"],
+        ["3", "Right to make salt in coastal villages"],
+        ["4", "Confiscated property of satyagrahis restored"],
+        ["5", "Peaceful picketing of foreign cloth & liquor shops allowed"]
+      ],
+      "rowsHindi": [
+        ["1", "कांग्रेस सविनय अवज्ञा आंदोलन निलंबित करेगी"],
+        ["2", "राजनीतिक कैदी रिहा (हिंसा से जुड़े मामलों को छोड़कर)"],
+        ["3", "तटीय गाँवों में नमक बनाने का अधिकार"],
+        ["4", "सत्याग्रहियों की जब्त संपत्ति लौटाई जाएगी"],
+        ["5", "विदेशी कपड़े और शराब की दुकानों पर शांतिपूर्ण पिकेटिंग की अनुमति"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "First Round Table Conference (1930–31) → Congress absent.",
+    "Gandhi-Irwin Pact signed on 5 March 1931.",
+    "Allowed making of salt by villagers, release of political prisoners.",
+    "Pact enabled Gandhi’s participation in Second Round Table Conference."
+  ],
+  "prelimsTipsHindi": [
+    "प्रथम गोलमेज सम्मेलन (1930–31) → कांग्रेस अनुपस्थित।",
+    "गांधी-इरविन समझौता 5 मार्च 1931 को हुआ।",
+    "तटीय गाँवों को नमक बनाने का अधिकार और राजनीतिक कैदियों की रिहाई।",
+    "समझौते से गांधीजी ने द्वितीय गोलमेज सम्मेलन में भाग लिया।"
+  ],
+  "funFacts": [
+    "Gandhi and Irwin had eight personal meetings in Delhi before signing the pact.",
+    "Many British conservatives criticized Irwin for negotiating with Gandhi as an equal.",
+    "The pact was seen by some Indians as a betrayal, as Bhagat Singh was not released despite popular demand."
+  ],
+  "funFactsHindi": [
+    "गांधीजी और इरविन ने समझौते से पहले दिल्ली में आठ बैठकें कीं।",
+    "कई ब्रिटिश नेताओं ने इरविन की आलोचना की कि उन्होंने गांधी से बराबरी पर बातचीत की।",
+    "भारतीयों ने आलोचना की कि लोकप्रिय मांग के बावजूद भगत सिंह को रिहा नहीं किया गया।"
+  ],
+  "mainsPoints": [
+    "The First Round Table Conference failed due to absence of Congress, highlighting its central role in Indian politics.",
+    "The Gandhi-Irwin Pact symbolized a temporary truce, showing Gandhi’s pragmatism.",
+    "The pact gave legitimacy to Congress as the main voice of Indian nationalism.",
+    "Criticized for compromises, but strategically it allowed Gandhi to place India’s case before the world in London."
+  ],
+  "mainsPointsHindi": [
+    "प्रथम गोलमेज सम्मेलन कांग्रेस की अनुपस्थिति से विफल हुआ, जिससे उसकी केंद्रीय भूमिका स्पष्ट हुई।",
+    "गांधी-इरविन समझौता अस्थायी युद्धविराम था, जिसने गांधीजी की व्यावहारिकता दिखाई।",
+    "समझौते ने कांग्रेस को भारतीय राष्ट्रवाद की मुख्य आवाज़ के रूप में वैधता दी।",
+    "इसे समझौते के लिए आलोचना मिली, लेकिन रणनीतिक रूप से गांधीजी ने भारत का मामला लंदन में प्रस्तुत किया।"
+  ]
+},
+{
+  "heading": "Second Round Table Conference (1931)",
+  "headingHindi": "द्वितीय गोलमेज सम्मेलन (1931)",
+  "highlight": "The Second Round Table Conference (September–December 1931) was attended by Gandhi as the sole representative of the Indian National Congress under the Gandhi-Irwin Pact. The conference failed due to irreconcilable differences over communal representation, federal structure, and minority safeguards.",
+  "highlightHindi": "द्वितीय गोलमेज सम्मेलन (सितंबर–दिसंबर 1931) में गांधीजी ने गांधी-इरविन समझौते के तहत भारतीय राष्ट्रीय कांग्रेस के एकमात्र प्रतिनिधि के रूप में भाग लिया। सम्मेलन सांप्रदायिक प्रतिनिधित्व, संघीय ढाँचे और अल्पसंख्यक सुरक्षा पर असहमति के कारण विफल रहा।",
+  "details": [
+    "Background:",
+    "• Convened in London between September–December 1931 at St. James Palace.",
+    "• Gandhi participated as the sole representative of Congress.",
+    "• Other participants included British leaders, Indian princes, Muslim League, Hindu Mahasabha, Sikhs, Christians, Anglo-Indians, and representatives of Depressed Classes.",
+    "Major Issues Discussed:",
+    "• Federal structure: debate on including princely states in a federation.",
+    "• Minority representation: Muslim League, Depressed Classes (Ambedkar), Sikhs, and others demanded separate electorates.",
+    "• Congress position: Gandhi opposed separate electorates, insisted on joint electorates with reserved seats if needed.",
+    "• Gandhi argued that Congress represented all Indians, while Ambedkar insisted on separate electorates for Depressed Classes.",
+    "Outcome:",
+    "• Conference ended in failure.",
+    "• No agreement on communal question and representation of minorities.",
+    "• British government used divisions among Indian groups to avoid major concessions.",
+    "• Gandhi returned disappointed and relaunched Civil Disobedience in early 1932."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• सितंबर–दिसंबर 1931 के बीच लंदन के सेंट जेम्स पैलेस में आयोजित।",
+    "• गांधीजी ने कांग्रेस के एकमात्र प्रतिनिधि के रूप में भाग लिया।",
+    "• अन्य प्रतिभागी: ब्रिटिश नेता, भारतीय रियासतों के राजकुमार, मुस्लिम लीग, हिंदू महासभा, सिख, ईसाई, एंग्लो-इंडियन और अस्पृश्य वर्ग के प्रतिनिधि।",
+    "मुख्य मुद्दे:",
+    "• संघीय ढाँचा: रियासतों को संघ में शामिल करने पर बहस।",
+    "• अल्पसंख्यक प्रतिनिधित्व: मुस्लिम लीग, अस्पृश्य वर्ग (अंबेडकर), सिख आदि ने पृथक निर्वाचक मंडल की माँग की।",
+    "• कांग्रेस का रुख: गांधीजी ने पृथक निर्वाचक मंडल का विरोध किया, यदि आवश्यक हो तो संयुक्त निर्वाचक मंडल में आरक्षित सीटों का समर्थन।",
+    "• गांधीजी ने कहा कांग्रेस सभी भारतीयों का प्रतिनिधित्व करती है, जबकि अंबेडकर ने अस्पृश्य वर्ग के लिए अलग निर्वाचक मंडल की माँग की।",
+    "परिणाम:",
+    "• सम्मेलन विफल रहा।",
+    "• सांप्रदायिक प्रश्न और अल्पसंख्यक प्रतिनिधित्व पर कोई समझौता नहीं हुआ।",
+    "• ब्रिटिश सरकार ने भारतीय समूहों के बीच विभाजन का लाभ उठाया और रियायतें देने से बची।",
+    "• गांधीजी निराश लौटे और 1932 की शुरुआत में सविनय अवज्ञा पुनः शुरू किया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of Second Round Table Conference",
+      "titleHindi": "द्वितीय गोलमेज सम्मेलन के मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Dates", "September–December 1931"],
+        ["Venue", "St. James Palace, London"],
+        ["Congress Representation", "M.K. Gandhi (sole representative)"],
+        ["Main Issues", "Federal structure, minority safeguards, communal representation"],
+        ["Outcome", "Failed due to communal disagreements; no settlement reached"]
+      ],
+      "rowsHindi": [
+        ["तिथि", "सितंबर–दिसंबर 1931"],
+        ["स्थान", "सेंट जेम्स पैलेस, लंदन"],
+        ["कांग्रेस प्रतिनिधित्व", "महात्मा गांधी (एकमात्र प्रतिनिधि)"],
+        ["मुख्य मुद्दे", "संघीय ढाँचा, अल्पसंख्यक सुरक्षा, सांप्रदायिक प्रतिनिधित्व"],
+        ["परिणाम", "सांप्रदायिक असहमति के कारण विफल; कोई समाधान नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Second Round Table Conference (1931) → Gandhi attended as sole Congress representative.",
+    "Main clash: Gandhi vs. Ambedkar over separate electorates for Depressed Classes.",
+    "Conference failed due to disagreements over minority representation.",
+    "Result: Gandhi relaunched Civil Disobedience in 1932."
+  ],
+  "prelimsTipsHindi": [
+    "द्वितीय गोलमेज सम्मेलन (1931) → गांधीजी ने कांग्रेस का प्रतिनिधित्व किया।",
+    "मुख्य टकराव: गांधीजी बनाम अंबेडकर (अस्पृश्य वर्ग के लिए पृथक निर्वाचक मंडल)।",
+    "सम्मेलन अल्पसंख्यक प्रतिनिधित्व पर असहमति के कारण विफल हुआ।",
+    "परिणाम: गांधीजी ने 1932 में सविनय अवज्ञा पुनः शुरू किया।"
+  ],
+  "funFacts": [
+    "Gandhi attended the London Conference dressed in his simple dhoti, shawl, and sandals, shocking British elites.",
+    "Winston Churchill mocked Gandhi as a 'half-naked fakir'.",
+    "Ambedkar’s strong advocacy for Depressed Classes at the conference shaped later debates leading to the Poona Pact (1932)."
+  ],
+  "funFactsHindi": [
+    "गांधीजी ने सम्मेलन में केवल धोती, चादर और चप्पल पहनकर भाग लिया, जिससे ब्रिटिश उच्च वर्ग हैरान हुआ।",
+    "विंस्टन चर्चिल ने गांधीजी को 'अधनंगा फकीर' कहकर मजाक उड़ाया।",
+    "अंबेडकर ने अस्पृश्य वर्गों के लिए अलग निर्वाचक मंडल की जोरदार वकालत की, जिसने आगे चलकर पूना समझौते (1932) की नींव रखी।"
+  ],
+  "mainsPoints": [
+    "The failure of the Second Round Table Conference highlighted irreconcilable differences over minority representation.",
+    "British strategy of 'divide and rule' succeeded in exploiting communal divisions.",
+    "The Gandhi–Ambedkar clash over separate electorates foreshadowed the Poona Pact (1932).",
+    "The failure pushed Gandhi to resume mass Civil Disobedience in 1932."
+  ],
+  "mainsPointsHindi": [
+    "द्वितीय गोलमेज सम्मेलन की विफलता ने अल्पसंख्यक प्रतिनिधित्व पर असहमतियों को उजागर किया।",
+    "ब्रिटिशों की 'फूट डालो और राज करो' नीति ने सांप्रदायिक विभाजन का लाभ उठाया।",
+    "गांधी–अंबेडकर टकराव ने पूना समझौते (1932) की पृष्ठभूमि तैयार की।",
+    "सम्मेलन की विफलता से गांधीजी ने 1932 में सविनय अवज्ञा पुनः शुरू किया।"
+  ]
+},
+{
+  "heading": "Communal Award (1932) and Poona Pact (1932)",
+  "headingHindi": "सांप्रदायिक पुरस्कार (1932) और पूना समझौता (1932)",
+  "highlight": "The Communal Award (1932) by British PM Ramsay MacDonald granted separate electorates to minorities, including Depressed Classes. Gandhi opposed this, fearing further division of Hindu society, and began a fast unto death in Yerwada Jail. Under pressure, Ambedkar and Gandhi signed the Poona Pact (1932), replacing separate electorates with reserved seats for Depressed Classes in joint electorates.",
+  "highlightHindi": "ब्रिटिश प्रधानमंत्री रैम्ज़े मैकडोनाल्ड द्वारा 1932 में दिया गया सांप्रदायिक पुरस्कार अल्पसंख्यकों, जिसमें अस्पृश्य वर्ग भी शामिल थे, को पृथक निर्वाचक मंडल प्रदान करता था। गांधीजी ने इसका विरोध किया और यरवदा जेल में आमरण अनशन शुरू किया। दबाव में, अंबेडकर और गांधी ने पूना समझौता (1932) किया, जिसमें पृथक निर्वाचक मंडल के स्थान पर संयुक्त निर्वाचक मंडल में अस्पृश्य वर्गों के लिए आरक्षित सीटें दी गईं।",
+  "details": [
+    "Communal Award (August 1932):",
+    "• Announced by British PM Ramsay MacDonald.",
+    "• Extended separate electorates to Muslims, Sikhs, Christians, Anglo-Indians, Europeans, and Depressed Classes.",
+    "• For Depressed Classes (later called Scheduled Castes), it meant they would elect their own representatives separately.",
+    "• Justification: safeguard political rights of minorities and oppressed communities.",
+    "• Congress opposed it, fearing it would fragment Indian society further.",
+    "Gandhi’s Response:",
+    "• Gandhi, in Yerwada Jail, opposed separate electorates for Depressed Classes.",
+    "• He argued it would permanently divide Hindu society.",
+    "• On 20 September 1932, Gandhi began a fast unto death against the Communal Award.",
+    "Poona Pact (24 September 1932):",
+    "• Signed between B.R. Ambedkar (Depressed Classes leader) and Gandhi (on behalf of Congress).",
+    "• Terms:",
+    "– Separate electorates for Depressed Classes replaced by reserved seats in joint electorates.",
+    "– Number of reserved seats for Depressed Classes in provincial legislatures increased from 71 (in Award) to 148.",
+    "– Adequate representation in public services promised.",
+    "– Special educational grants for Depressed Classes provided.",
+    "Significance:",
+    "• A compromise between protection of Dalit interests and Hindu unity.",
+    "• Strengthened Gandhi’s moral authority but caused resentment among some Dalit leaders.",
+    "• Marked the beginning of affirmative action policies for Scheduled Castes."
+  ],
+  "detailsHindi": [
+    "सांप्रदायिक पुरस्कार (अगस्त 1932):",
+    "• ब्रिटिश प्रधानमंत्री रैम्ज़े मैकडोनाल्ड द्वारा घोषित।",
+    "• मुसलमानों, सिखों, ईसाइयों, एंग्लो-इंडियनों, यूरोपीय और अस्पृश्य वर्गों को पृथक निर्वाचक मंडल दिए।",
+    "• अस्पृश्य वर्गों (बाद में अनुसूचित जाति) के लिए इसका अर्थ था कि वे अलग से अपने प्रतिनिधि चुनेंगे।",
+    "• औचित्य: अल्पसंख्यकों और शोषित वर्गों के राजनीतिक अधिकारों की रक्षा।",
+    "• कांग्रेस ने विरोध किया क्योंकि इससे भारतीय समाज और बँट जाएगा।",
+    "गांधीजी की प्रतिक्रिया:",
+    "• गांधीजी ने यरवदा जेल में अस्पृश्य वर्गों के लिए पृथक निर्वाचक मंडल का विरोध किया।",
+    "• उन्होंने कहा इससे हिंदू समाज स्थायी रूप से विभाजित हो जाएगा।",
+    "• 20 सितंबर 1932 को गांधीजी ने आमरण अनशन शुरू किया।",
+    "पूना समझौता (24 सितंबर 1932):",
+    "• बी.आर. अंबेडकर (अस्पृश्य वर्गों के नेता) और गांधीजी (कांग्रेस की ओर से) के बीच समझौता।",
+    "• शर्तें:",
+    "– अस्पृश्य वर्गों के लिए पृथक निर्वाचक मंडल की जगह संयुक्त निर्वाचक मंडल में आरक्षित सीटें।",
+    "– प्रांतीय विधानसभाओं में आरक्षित सीटें 71 (पुरस्कार में) से बढ़ाकर 148 की गईं।",
+    "– सरकारी सेवाओं में उचित प्रतिनिधित्व का आश्वासन।",
+    "– अस्पृश्य वर्गों के लिए विशेष शैक्षिक अनुदान।",
+    "महत्व:",
+    "• दलित हितों की सुरक्षा और हिंदू एकता के बीच समझौता।",
+    "• गांधीजी की नैतिक शक्ति बढ़ी, लेकिन कुछ दलित नेताओं में असंतोष रहा।",
+    "• अनुसूचित जातियों के लिए आरक्षण नीति की शुरुआत।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison: Communal Award vs. Poona Pact",
+      "titleHindi": "तुलना: सांप्रदायिक पुरस्कार बनाम पूना समझौता",
+      "columns": ["Aspect", "Communal Award (1932)", "Poona Pact (1932)"],
+      "columnsHindi": ["पहलू", "सांप्रदायिक पुरस्कार (1932)", "पूना समझौता (1932)"],
+      "rows": [
+        ["Representation for Depressed Classes", "Separate electorates", "Reserved seats in joint electorates"],
+        ["Seats in Provincial Legislatures", "71", "148"],
+        ["Role of Gandhi", "Opposed Award; fasted in protest", "Signed Pact with Ambedkar"],
+        ["Dalit Concerns", "Independent voice but isolation from Hindu society", "Greater representation but under joint system"],
+        ["Significance", "Furthered communal divisions", "Compromise between Dalit rights and Hindu unity"]
+      ],
+      "rowsHindi": [
+        ["अस्पृश्य वर्गों का प्रतिनिधित्व", "पृथक निर्वाचक मंडल", "संयुक्त निर्वाचक मंडल में आरक्षित सीटें"],
+        ["प्रांतीय विधानसभाओं में सीटें", "71", "148"],
+        ["गांधीजी की भूमिका", "पुरस्कार का विरोध; अनशन", "अंबेडकर के साथ समझौता"],
+        ["दलित चिंताएँ", "स्वतंत्र आवाज़ लेकिन हिंदू समाज से अलगाव", "अधिक प्रतिनिधित्व लेकिन संयुक्त प्रणाली में"],
+        ["महत्व", "सांप्रदायिक विभाजन बढ़ाया", "दलित अधिकार और हिंदू एकता के बीच समझौता"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Communal Award (1932) → announced by Ramsay MacDonald; gave separate electorates to Depressed Classes.",
+    "Gandhi opposed it and began a fast unto death in Yerwada Jail.",
+    "Poona Pact (1932) signed between Gandhi & Ambedkar; replaced separate electorates with reserved seats.",
+    "Reserved seats for Depressed Classes increased from 71 to 148."
+  ],
+  "prelimsTipsHindi": [
+    "सांप्रदायिक पुरस्कार (1932) → रैम्ज़े मैकडोनाल्ड द्वारा घोषित; अस्पृश्य वर्गों को पृथक निर्वाचक मंडल।",
+    "गांधीजी ने इसका विरोध किया और यरवदा जेल में आमरण अनशन किया।",
+    "पूना समझौता (1932) गांधीजी और अंबेडकर के बीच; पृथक निर्वाचक मंडल की जगह आरक्षित सीटें।",
+    "अस्पृश्य वर्गों के लिए सीटें 71 से बढ़ाकर 148 की गईं।"
+  ],
+  "funFacts": [
+    "Gandhi’s fast against the Communal Award generated massive public support across India.",
+    "Ambedkar initially resisted but agreed under social pressure and political calculations.",
+    "The Pact laid the foundation for future reservation policies in India."
+  ],
+  "funFactsHindi": [
+    "गांधीजी के आमरण अनशन से पूरे भारत में भारी जनसमर्थन जुटा।",
+    "अंबेडकर ने शुरू में विरोध किया लेकिन सामाजिक दबाव और राजनीतिक कारणों से सहमति दी।",
+    "इस समझौते ने भारत में भविष्य की आरक्षण नीति की नींव रखी।"
+  ],
+  "mainsPoints": [
+    "The Communal Award deepened communal divisions by extending separate electorates.",
+    "Gandhi’s fast highlighted his moral authority but also exposed tensions with Dalit leadership.",
+    "The Poona Pact balanced Hindu unity with political safeguards for Depressed Classes.",
+    "It laid the groundwork for affirmative action policies in independent India."
+  ],
+  "mainsPointsHindi": [
+    "सांप्रदायिक पुरस्कार ने पृथक निर्वाचक मंडल बढ़ाकर सांप्रदायिक विभाजन गहरा किया।",
+    "गांधीजी के अनशन ने उनकी नैतिक शक्ति को बढ़ाया लेकिन दलित नेतृत्व से तनाव उजागर किया।",
+    "पूना समझौते ने हिंदू एकता और अस्पृश्य वर्गों की राजनीतिक सुरक्षा के बीच संतुलन बनाया।",
+    "इसने स्वतंत्र भारत में आरक्षण नीति की नींव रखी।"
+  ]
+},
+{
+  "heading": "Third Round Table Conference (1932) and Outcome",
+  "headingHindi": "तृतीय गोलमेज सम्मेलन (1932) और परिणाम",
+  "highlight": "The Third Round Table Conference (November–December 1932) was held in London with limited Indian participation. The Congress boycotted it as the Civil Disobedience Movement had been revived. The conference failed to achieve consensus but its proceedings paved the way for the Government of India Act, 1935.",
+  "highlightHindi": "तृतीय गोलमेज सम्मेलन (नवंबर–दिसंबर 1932) लंदन में सीमित भारतीय भागीदारी के साथ हुआ। कांग्रेस ने इसे बहिष्कृत किया क्योंकि सविनय अवज्ञा आंदोलन पुनः शुरू हो चुका था। सम्मेलन में सहमति नहीं बनी लेकिन इसकी कार्यवाही ने भारत सरकार अधिनियम 1935 का मार्ग प्रशस्त किया।",
+  "details": [
+    "Background:",
+    "• Convened in London in November–December 1932.",
+    "• Aim: to finalize constitutional reforms for India.",
+    "Participation:",
+    "• Only 46 delegates attended.",
+    "• Indian National Congress boycotted the session.",
+    "• Attended mainly by loyalists: representatives of princely states, Muslim League, Hindu Mahasabha, Anglo-Indians, and depressed classes.",
+    "• British political parties (Labour, Conservative, Liberal) also participated.",
+    "Proceedings:",
+    "• Discussions centered on federal structure, provincial autonomy, and minority representation.",
+    "• Princes showed willingness to join federation under certain safeguards.",
+    "• No consensus due to absence of Congress and continued communal disagreements.",
+    "Outcome:",
+    "• Conference ended without concrete results.",
+    "• British government decided to unilaterally draft a constitutional framework.",
+    "• Led to the publication of a White Paper (1933) on constitutional reforms.",
+    "• Recommendations of all three Round Table Conferences ultimately incorporated into the Government of India Act, 1935."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• नवंबर–दिसंबर 1932 में लंदन में आयोजित।",
+    "• उद्देश्य: भारत के लिए संवैधानिक सुधारों को अंतिम रूप देना।",
+    "भागीदारी:",
+    "• केवल 46 प्रतिनिधियों ने भाग लिया।",
+    "• भारतीय राष्ट्रीय कांग्रेस ने बहिष्कार किया।",
+    "• मुख्यतः वफादार गुट शामिल हुए: रियासतों के प्रतिनिधि, मुस्लिम लीग, हिंदू महासभा, एंग्लो-इंडियन और अस्पृश्य वर्ग।",
+    "• ब्रिटिश राजनीतिक दल (लेबर, कंजर्वेटिव, लिबरल) भी शामिल हुए।",
+    "कार्यवाही:",
+    "• चर्चा के विषय: संघीय ढाँचा, प्रांतीय स्वायत्तता, अल्पसंख्यक प्रतिनिधित्व।",
+    "• राजाओं ने कुछ शर्तों पर संघ में शामिल होने की इच्छा जताई।",
+    "• कांग्रेस की अनुपस्थिति और सांप्रदायिक मतभेदों के कारण कोई सहमति नहीं बनी।",
+    "परिणाम:",
+    "• सम्मेलन बिना किसी ठोस परिणाम के समाप्त हुआ।",
+    "• ब्रिटिश सरकार ने एकतरफा संवैधानिक ढाँचा तैयार करने का निर्णय लिया।",
+    "• 1933 में श्वेत पत्र (White Paper) प्रकाशित किया गया।",
+    "• तीनों गोलमेज सम्मेलनों की सिफारिशें अंततः भारत सरकार अधिनियम 1935 में शामिल हुईं।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Three Round Table Conferences",
+      "titleHindi": "तीनों गोलमेज सम्मेलनों की तुलना",
+      "columns": ["Conference", "Year", "Congress Role", "Outcome"],
+      "columnsHindi": ["सम्मेलन", "वर्ष", "कांग्रेस की भूमिका", "परिणाम"],
+      "rows": [
+        ["First", "1930–31", "Boycotted", "Failed due to absence of Congress"],
+        ["Second", "1931", "Gandhi attended as sole representative", "Failed over communal representation"],
+        ["Third", "1932", "Boycotted", "Led to White Paper → Government of India Act 1935"]
+      ],
+      "rowsHindi": [
+        ["प्रथम", "1930–31", "बहिष्कार", "कांग्रेस की अनुपस्थिति से विफल"],
+        ["द्वितीय", "1931", "गांधीजी ने प्रतिनिधित्व किया", "सांप्रदायिक प्रतिनिधित्व पर विफल"],
+        ["तृतीय", "1932", "बहिष्कार", "श्वेत पत्र प्रकाशित → भारत सरकार अधिनियम 1935"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Third Round Table Conference held in 1932 → Congress boycotted.",
+    "Only 46 delegates participated, mainly loyalists and minorities.",
+    "Outcome: White Paper (1933) → basis for Government of India Act, 1935.",
+    "Princes showed willingness to join federation with safeguards."
+  ],
+  "prelimsTipsHindi": [
+    "तृतीय गोलमेज सम्मेलन 1932 में हुआ → कांग्रेस ने बहिष्कार किया।",
+    "केवल 46 प्रतिनिधि शामिल हुए, मुख्यतः वफादार और अल्पसंख्यक।",
+    "परिणाम: 1933 श्वेत पत्र → भारत सरकार अधिनियम 1935 का आधार।",
+    "राजाओं ने कुछ शर्तों पर संघ में शामिल होने की इच्छा जताई।"
+  ],
+  "funFacts": [
+    "The Third Round Table Conference was the least attended of the three.",
+    "Even British press considered it a failure due to absence of Congress.",
+    "It directly paved the way for the Government of India Act, 1935—the longest Act passed by British Parliament for India."
+  ],
+  "funFactsHindi": [
+    "तृतीय गोलमेज सम्मेलन तीनों में सबसे कम प्रतिनिधियों वाला था।",
+    "ब्रिटिश प्रेस ने भी इसे कांग्रेस की अनुपस्थिति के कारण विफल बताया।",
+    "इसने सीधे भारत सरकार अधिनियम 1935 का मार्ग प्रशस्त किया—जो ब्रिटिश संसद द्वारा पारित सबसे लंबा अधिनियम था।"
+  ],
+  "mainsPoints": [
+    "The Third Round Table Conference highlighted the futility of negotiations without Congress participation.",
+    "It showed the deepening communal divisions and fragmentation of Indian politics.",
+    "Despite failure, it led to the 1933 White Paper and the Government of India Act, 1935.",
+    "The conferences as a whole revealed British strategy of delaying real transfer of power."
+  ],
+  "mainsPointsHindi": [
+    "तृतीय गोलमेज सम्मेलन ने कांग्रेस की भागीदारी के बिना वार्ताओं की निरर्थकता को दिखाया।",
+    "इससे भारतीय राजनीति में सांप्रदायिक विभाजन और विखंडन स्पष्ट हुआ।",
+    "असफलता के बावजूद इससे 1933 श्वेत पत्र और भारत सरकार अधिनियम 1935 बना।",
+    "सम्मेलनों ने दिखाया कि ब्रिटिश वास्तविक सत्ता हस्तांतरण को टालना चाहते थे।"
+  ]
+},
+{
+  "heading": "Government of India Act, 1935",
+  "headingHindi": "भारत सरकार अधिनियम, 1935",
+  "highlight": "The Government of India Act, 1935 was the longest act passed by the British Parliament for India. It introduced provincial autonomy and proposed an all-India federation, but kept central powers firmly in British hands. Though a landmark in constitutional development, it was criticized for failing to grant real self-government.",
+  "highlightHindi": "भारत सरकार अधिनियम, 1935 ब्रिटिश संसद द्वारा भारत के लिए पारित सबसे लंबा अधिनियम था। इसने प्रांतीय स्वायत्तता दी और अखिल भारतीय संघ का प्रस्ताव रखा, लेकिन केंद्र की शक्तियाँ ब्रिटिश सरकार के अधीन रहीं। यह संवैधानिक विकास में मील का पत्थर था, लेकिन वास्तविक स्वशासन न देने के कारण इसकी आलोचना हुई।",
+  "details": [
+    "Background:",
+    "• Based on Simon Commission (1927), Round Table Conferences (1930–32), and White Paper (1933).",
+    "• Received royal assent on 24 July 1935; came into effect in 1937.",
+    "Key Features:",
+    "1. All-India Federation:",
+    "• Federation to include provinces and princely states (voluntary for states).",
+    "• Did not materialize as princes did not join.",
+    "2. Provincial Autonomy:",
+    "• Dyarchy at provincial level abolished.",
+    "• Provinces given autonomy with responsible governments (ministries responsible to legislatures).",
+    "• Governors retained special powers and discretionary authority.",
+    "3. Dyarchy at Centre:",
+    "• Introduced at central level → subjects divided into reserved (defense, foreign affairs) and transferred (others).",
+    "• Viceroy controlled reserved subjects.",
+    "4. Federal Legislature:",
+    "• Bicameral: Council of States & Federal Assembly.",
+    "• Separate electorates extended to depressed classes, women, labor, and business groups.",
+    "5. Federal Court:",
+    "• Established in 1937 at Delhi → precursor of Supreme Court of India.",
+    "6. Other Features:",
+    "• Burma separated from India.",
+    "• Sindh separated from Bombay.",
+    "• Orissa separated from Bihar.",
+    "• Reserve Bank of India established in 1935.",
+    "• Provincial legislatures enlarged; 10% of Indian population enfranchised.",
+    "Critical Evaluation:",
+    "• Positives:",
+    "– Provincial autonomy allowed Indian ministers to form governments (Congress formed ministries in 1937).",
+    "– Federal Court and RBI laid foundations of modern institutions.",
+    "• Negatives:",
+    "– Central government still dominated by Viceroy and British officials.",
+    "– Dyarchy at centre failed; federation never materialized.",
+    "– Separate electorates deepened communal divisions.",
+    "– Limited franchise excluded the majority of population.",
+    "– Seen as a strategy to divide and delay real independence."
+  ],
+  "detailsHindi": [
+    "पृष्ठभूमि:",
+    "• साइमन आयोग (1927), गोलमेज सम्मेलन (1930–32) और 1933 श्वेत पत्र पर आधारित।",
+    "• 24 जुलाई 1935 को पारित; 1937 से लागू।",
+    "मुख्य विशेषताएँ:",
+    "1. अखिल भारतीय संघ:",
+    "• प्रांतों और रियासतों को शामिल करने का प्रस्ताव (रियासतों के लिए स्वैच्छिक)।",
+    "• रियासतों के न जुड़ने से संघ अस्तित्व में नहीं आया।",
+    "2. प्रांतीय स्वायत्तता:",
+    "• प्रांतीय स्तर पर द्वैध शासन समाप्त।",
+    "• प्रांतों में जिम्मेदार सरकारें बनीं (विधानसभाओं के प्रति उत्तरदायी)।",
+    "• गवर्नरों को विशेष और विवेकाधिकार शक्तियाँ मिलीं।",
+    "3. केंद्र में द्वैध शासन:",
+    "• विषय विभाजित: सुरक्षित (रक्षा, विदेश नीति) और हस्तांतरित।",
+    "• वायसराय ने सुरक्षित विषय अपने पास रखे।",
+    "4. संघीय विधानमंडल:",
+    "• द्विसदनीय: राज्यों की परिषद और संघीय सभा।",
+    "• पृथक निर्वाचक मंडल अस्पृश्य वर्गों, महिलाओं, मजदूरों और व्यापारियों तक विस्तारित।",
+    "5. संघीय न्यायालय:",
+    "• 1937 में दिल्ली में स्थापित → भारत के सर्वोच्च न्यायालय का पूर्ववर्ती।",
+    "6. अन्य विशेषताएँ:",
+    "• बर्मा को भारत से अलग किया गया।",
+    "• सिंध को बॉम्बे से अलग किया गया।",
+    "• उड़ीसा को बिहार से अलग किया गया।",
+    "• 1935 में भारतीय रिजर्व बैंक स्थापित।",
+    "• प्रांतीय विधानसभाएँ विस्तारित; केवल 10% जनसंख्या को मताधिकार।",
+    "आलोचनात्मक मूल्यांकन:",
+    "• सकारात्मक:",
+    "– प्रांतीय स्वायत्तता से भारतीय मंत्रिमंडल बने (1937 में कांग्रेस मंत्रिमंडल)।",
+    "– संघीय न्यायालय और आरबीआई ने आधुनिक संस्थानों की नींव रखी।",
+    "• नकारात्मक:",
+    "– केंद्र अब भी वायसराय और ब्रिटिश अधिकारियों के अधीन।",
+    "– केंद्र में द्वैध शासन विफल; संघ अस्तित्व में नहीं आया।",
+    "– पृथक निर्वाचक मंडल ने सांप्रदायिक विभाजन को गहरा किया।",
+    "– सीमित मताधिकार ने अधिकांश जनता को बाहर रखा।",
+    "– इसे स्वतंत्रता को टालने और विभाजन की नीति माना गया।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of Government of India Act, 1935",
+      "titleHindi": "भारत सरकार अधिनियम 1935 की प्रमुख विशेषताएँ",
+      "columns": ["Feature", "Provision"],
+      "columnsHindi": ["विशेषता", "प्रावधान"],
+      "rows": [
+        ["Provincial Autonomy", "Dyarchy abolished in provinces, responsible government introduced"],
+        ["Central Dyarchy", "Viceroy controlled defense & foreign affairs"],
+        ["Federation", "Proposed with provinces + princely states, never implemented"],
+        ["Federal Court", "Established in 1937, based in Delhi"],
+        ["Other Changes", "Burma separated, RBI established, Sindh & Orissa created"]
+      ],
+      "rowsHindi": [
+        ["प्रांतीय स्वायत्तता", "प्रांतों में द्वैध शासन समाप्त, जिम्मेदार सरकारें बनीं"],
+        ["केंद्र में द्वैध शासन", "वायसराय ने रक्षा और विदेश नीति अपने पास रखी"],
+        ["संघ", "प्रांतों + रियासतों के साथ प्रस्तावित, लागू नहीं हुआ"],
+        ["संघीय न्यायालय", "1937 में दिल्ली में स्थापित"],
+        ["अन्य परिवर्तन", "बर्मा अलग, आरबीआई स्थापित, सिंध व उड़ीसा बने"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Government of India Act, 1935 → longest act passed by British Parliament for India.",
+    "Introduced provincial autonomy and proposed all-India federation.",
+    "Established Federal Court (1937) and Reserve Bank of India (1935).",
+    "Burma separated from India under this Act."
+  ],
+  "prelimsTipsHindi": [
+    "भारत सरकार अधिनियम 1935 → भारत के लिए ब्रिटिश संसद का सबसे लंबा अधिनियम।",
+    "प्रांतीय स्वायत्तता दी और अखिल भारतीय संघ का प्रस्ताव रखा।",
+    "संघीय न्यायालय (1937) और भारतीय रिजर्व बैंक (1935) की स्थापना।",
+    "बर्मा को भारत से अलग किया गया।"
+  ],
+  "funFacts": [
+    "It was the longest act ever passed by the British Parliament until then (321 sections, 10 schedules).",
+    "The act indirectly introduced federalism in India though federation never materialized.",
+    "The Reserve Bank of India started operations on 1 April 1935 under this Act."
+  ],
+  "funFactsHindi": [
+    "यह उस समय तक ब्रिटिश संसद द्वारा पारित सबसे लंबा अधिनियम था (321 धाराएँ, 10 अनुसूचियाँ)।",
+    "अधिनियम ने अप्रत्यक्ष रूप से भारत में संघवाद की नींव रखी, हालांकि संघ लागू नहीं हुआ।",
+    "भारतीय रिजर्व बैंक ने 1 अप्रैल 1935 को इसी अधिनियम के तहत कार्य शुरू किया।"
+  ],
+  "mainsPoints": [
+    "The 1935 Act marked the most comprehensive attempt at constitutional reforms before independence.",
+    "It introduced provincial autonomy but kept real central power with the British.",
+    "Failure of federation and extension of separate electorates revealed British divide-and-rule policy.",
+    "It laid institutional foundations (RBI, Federal Court, provincial governments) later carried into independent India."
+  ],
+  "mainsPointsHindi": [
+    "1935 का अधिनियम स्वतंत्रता से पहले का सबसे व्यापक संवैधानिक सुधार प्रयास था।",
+    "इसने प्रांतीय स्वायत्तता दी लेकिन केंद्र की वास्तविक शक्ति ब्रिटिशों के पास रही।",
+    "संघ की विफलता और पृथक निर्वाचक मंडलों ने ब्रिटिश 'फूट डालो और राज करो' नीति को उजागर किया।",
+    "इसने आधुनिक संस्थानों (आरबीआई, संघीय न्यायालय, प्रांतीय सरकारें) की नींव रखी जिन्हें स्वतंत्र भारत ने अपनाया।"
+  ]
+},
+    ],
+    "Chapter 18: Period from 1935-42": [
+      {
+  "heading": "Period from 1935–42: First Stage Debate, Second Stage Debate, and Struggle–Truce–Struggle",
+  "headingHindi": "1935–42 का काल: प्रथम चरण की बहस, द्वितीय चरण की बहस और संघर्ष–विराम–संघर्ष",
+  "highlight": "The period from 1935–42 was marked by intense debates within the Congress about strategy after the Government of India Act, 1935. Leaders differed on whether to accept provincial ministries, cooperate with the British, or continue confrontation. The phase came to be known as 'struggle–truce–struggle', reflecting alternating strategies of confrontation and compromise.",
+  "highlightHindi": "1935–42 का काल भारत सरकार अधिनियम 1935 के बाद कांग्रेस के भीतर रणनीति को लेकर गहन बहसों का काल था। नेता इस पर विभाजित थे कि प्रांतीय मंत्रिमंडल स्वीकार करें, ब्रिटिशों के साथ सहयोग करें या टकराव जारी रखें। यह दौर 'संघर्ष–विराम–संघर्ष' के रूप में जाना गया, जो टकराव और समझौते की वैकल्पिक रणनीतियों को दर्शाता है।",
+  "details": [
+    "## First Stage Debate (1935–37):",
+    "• After the Government of India Act, 1935, a debate arose in Congress whether to contest elections and form ministries under a limited constitution.",
+    "• 'Pro-changers' like Nehru initially opposed participation, calling it a trap to strengthen colonial rule.",
+    "• 'Pragmatists' like Rajendra Prasad, Sardar Patel, and Rajagopalachari supported contesting elections to use provincial power as a platform for mass mobilization.",
+    "• Gandhi advised contesting elections as a tactical step.",
+    "• Outcome: Congress decided to participate in 1937 provincial elections.",
+    "## Second Stage Debate (1937–39):",
+    "• Congress swept elections in 1937 and formed ministries in 7 provinces.",
+    "• Ministries introduced progressive reforms: abolition of untouchability, expansion of education, tenancy rights, pro-labour measures, reduction of land revenue in some regions.",
+    "• Internal debate: Nehru and Subhas Bose wanted to use power more radically for mass mobilization, while conservatives like Patel emphasized administration.",
+    "• Subhas Bose resigned as Congress President in 1939 over differences (Tripuri Crisis).",
+    "## Struggle–Truce–Struggle (1939–42):",
+    "• World War II began in 1939; British unilaterally involved India without consulting Indians.",
+    "• Congress ministries resigned in protest (1939).",
+    "• Initial phase (1939): Congress demanded declaration of war aims and promise of independence → denied by British.",
+    "• Truce phase (1939–40): Gandhi pursued limited negotiations; hoped British would offer concessions.",
+    "• Struggle phase (1940–42): Failure of Cripps Mission (1942) and British intransigence led to launch of Quit India Movement (1942).",
+    "• Hence the description: 'Struggle (till 1935) – Truce (1937–39 ministries) – Struggle (1939–42 leading to Quit India)'."
+  ],
+  "detailsHindi": [
+    "## प्रथम चरण की बहस (1935–37):",
+    "• भारत सरकार अधिनियम 1935 के बाद कांग्रेस में यह बहस शुरू हुई कि चुनाव लड़े जाएँ या नहीं।",
+    "• 'प्रो-चेंजर' जैसे नेहरू ने शुरू में भागीदारी का विरोध किया, इसे औपनिवेशिक शासन को मजबूत करने का जाल कहा।",
+    "• 'व्यावहारिक' नेता जैसे राजेंद्र प्रसाद, पटेल और राजगोपालाचारी ने चुनाव लड़ने का समर्थन किया ताकि प्रांतीय सत्ता को जनसंघर्ष के मंच के रूप में इस्तेमाल किया जा सके।",
+    "• गांधीजी ने चुनाव में भागीदारी को सामरिक कदम बताया।",
+    "• परिणाम: कांग्रेस ने 1937 प्रांतीय चुनावों में भाग लिया।",
+    "## द्वितीय चरण की बहस (1937–39):",
+    "• 1937 के चुनावों में कांग्रेस ने जीत हासिल की और 7 प्रांतों में मंत्रिमंडल बनाए।",
+    "• सुधार: अस्पृश्यता उन्मूलन, शिक्षा का विस्तार, काश्तकार अधिकार, श्रमिक हित, भूमि राजस्व में कमी।",
+    "• आंतरिक बहस: नेहरू और सुभाष बोस सत्ता का अधिक उग्र उपयोग चाहते थे, जबकि पटेल जैसे नेता प्रशासन पर केंद्रित रहे।",
+    "• 1939 में मतभेदों के चलते सुभाष बोस ने कांग्रेस अध्यक्ष पद से इस्तीफा दिया (त्रिपुरी संकट)।",
+    "## संघर्ष–विराम–संघर्ष (1939–42):",
+    "• द्वितीय विश्व युद्ध 1939 में शुरू हुआ; ब्रिटिशों ने भारत को बिना पूछे युद्ध में शामिल कर लिया।",
+    "• कांग्रेस मंत्रिमंडलों ने विरोध में इस्तीफा दे दिया (1939)।",
+    "• पहला चरण (1939): कांग्रेस ने स्वतंत्रता का वादा और युद्ध के उद्देश्य स्पष्ट करने की माँग की → ब्रिटिशों ने अस्वीकार किया।",
+    "• विराम चरण (1939–40): गांधीजी ने सीमित वार्ता की और उम्मीद की कि ब्रिटिश रियायत देंगे।",
+    "• संघर्ष चरण (1940–42): क्रिप्स मिशन (1942) की विफलता और ब्रिटिश हठ ने भारत छोड़ो आंदोलन (1942) का मार्ग प्रशस्त किया।",
+    "• इसलिए इसे कहा गया: 'संघर्ष (1935 तक) – विराम (1937–39 मंत्रिमंडल) – संघर्ष (1939–42 भारत छोड़ो तक)'।"
+  ],
+  "tables": [
+    {
+      "title": "Congress Strategy, 1935–42",
+      "titleHindi": "कांग्रेस की रणनीति, 1935–42",
+      "columns": ["Phase", "Years", "Strategy", "Outcome"],
+      "columnsHindi": ["चरण", "वर्ष", "रणनीति", "परिणाम"],
+      "rows": [
+        ["First Stage Debate", "1935–37", "Debate on elections; Congress decided to contest", "Congress prepared for elections"],
+        ["Second Stage Debate", "1937–39", "Congress ministries formed; reforms introduced", "Tripuri Crisis; Bose resigned"],
+        ["Struggle–Truce–Struggle", "1939–42", "War participation opposed; ministries resigned; Quit India later", "Congress moved towards mass struggle"]
+      ],
+      "rowsHindi": [
+        ["प्रथम चरण की बहस", "1935–37", "चुनाव पर बहस; कांग्रेस ने भाग लेने का निर्णय किया", "कांग्रेस ने चुनाव की तैयारी की"],
+        ["द्वितीय चरण की बहस", "1937–39", "कांग्रेस मंत्रिमंडल बने; सुधार लागू", "त्रिपुरी संकट; बोस ने इस्तीफा दिया"],
+        ["संघर्ष–विराम–संघर्ष", "1939–42", "युद्ध में भागीदारी का विरोध; मंत्रिमंडल त्यागपत्र; आगे भारत छोड़ो आंदोलन", "कांग्रेस जन-संघर्ष की ओर बढ़ी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Congress won 1937 provincial elections and formed ministries in 7 provinces.",
+    "Tripuri Crisis (1939) → Subhas Bose resigned as Congress President.",
+    "Congress ministries resigned in 1939 when India was dragged into World War II.",
+    "Period described as 'Struggle–Truce–Struggle'."
+  ],
+  "prelimsTipsHindi": [
+    "कांग्रेस ने 1937 के प्रांतीय चुनाव जीते और 7 प्रांतों में मंत्रिमंडल बनाए।",
+    "त्रिपुरी संकट (1939) → सुभाष बोस ने कांग्रेस अध्यक्ष पद छोड़ा।",
+    "1939 में द्वितीय विश्व युद्ध में भारत को जबरन शामिल करने पर कांग्रेस मंत्रिमंडल ने इस्तीफा दिया।",
+    "इस दौर को 'संघर्ष–विराम–संघर्ष' कहा गया।"
+  ],
+  "funFacts": [
+    "The 1937 elections under the 1935 Act were the first time Congress exercised real administrative power.",
+    "Subhas Bose defeated Gandhi’s candidate Pattabhi Sitaramayya in 1939 Congress elections but still had to resign.",
+    "The phrase 'Struggle–Truce–Struggle' was used by historians to capture the oscillation in Congress strategy."
+  ],
+  "funFactsHindi": [
+    "1935 अधिनियम के तहत 1937 चुनावों में पहली बार कांग्रेस ने प्रशासनिक सत्ता संभाली।",
+    "1939 में सुभाष बोस ने कांग्रेस चुनाव में गांधीजी के उम्मीदवार पट्टाभि सीतारमैया को हराया, फिर भी उन्हें इस्तीफा देना पड़ा।",
+    "'संघर्ष–विराम–संघर्ष' वाक्यांश इतिहासकारों ने कांग्रेस की रणनीति की उतार-चढ़ाव को दर्शाने के लिए दिया।"
+  ],
+  "mainsPoints": [
+    "The period 1935–42 highlighted deep divisions in Congress strategy between radicals and moderates.",
+    "Provincial ministries (1937–39) showed both the potential and limits of working within colonial framework.",
+    "Resignation of ministries in 1939 reflected Congress commitment to independence over collaboration.",
+    "The cycle of struggle–truce–struggle prepared the ground for the Quit India Movement of 1942."
+  ],
+  "mainsPointsHindi": [
+    "1935–42 का काल कांग्रेस की रणनीति में उग्र और मध्यमपंथी नेताओं के बीच गहरे मतभेदों को दर्शाता है।",
+    "प्रांतीय मंत्रिमंडल (1937–39) ने औपनिवेशिक ढाँचे के भीतर काम करने की संभावनाएँ और सीमाएँ दोनों दिखाईं।",
+    "1939 में मंत्रिमंडलों का इस्तीफा स्वतंत्रता के प्रति कांग्रेस की प्रतिबद्धता का प्रतीक था।",
+    "संघर्ष–विराम–संघर्ष का चक्र 1942 के भारत छोड़ो आंदोलन की पृष्ठभूमि बना।"
+  ]
+},
+{
+  "heading": "1937 Elections and Formation of Congress Ministries",
+  "headingHindi": "1937 के चुनाव और कांग्रेस मंत्रिमंडलों का गठन",
+  "highlight": "The 1937 provincial elections, held under the Government of India Act, 1935, marked the first large-scale electoral test for Indian nationalists. The Congress contested on a strong anti-colonial manifesto and emerged victorious in most provinces, forming ministries in 7 provinces by 1937.",
+  "highlightHindi": "1937 के प्रांतीय चुनाव, जो भारत सरकार अधिनियम 1935 के तहत हुए, भारतीय राष्ट्रवादियों की पहली बड़ी चुनावी परीक्षा थे। कांग्रेस ने औपनिवेशिक विरोधी घोषणापत्र पर चुनाव लड़ा और अधिकांश प्रांतों में विजयी होकर 7 प्रांतों में मंत्रिमंडल बनाए।",
+  "details": [
+    "## Congress Manifesto for Election (1936):",
+    "• Declared opposition to the Government of India Act, 1935 but decided to contest elections tactically.",
+    "• Demanded release of political prisoners and repeal of repressive laws.",
+    "• Promised reduction of land revenue and rent, relief to peasants, better conditions for workers.",
+    "• Commitment to civil liberties, removal of untouchability, and promotion of education.",
+    "• Stressed constructive programme as advocated by Gandhi.",
+    "## Congress’ Performance in 1937 Elections:",
+    "• Elections held in 11 provinces.",
+    "• Congress contested 716 out of 1,585 total seats and won 715 seats.",
+    "• Emerged as majority in 6 provinces: Madras, Bombay, Central Provinces, United Provinces, Bihar, Orissa.",
+    "• Became largest party in NWFP (North-West Frontier Province) and Assam.",
+    "• Muslim League performed poorly, winning only 108 out of 485 Muslim seats.",
+    "## Formation of Congress Ministries:",
+    "• Initially hesitant to form ministries under 1935 Act (due to Governor’s overriding powers).",
+    "• After assurance from the Viceroy that Governors would not misuse special powers, Congress ministries were formed in July 1937.",
+    "• Congress ministries were formed in 7 provinces: Madras, Bombay, Central Provinces, United Provinces, Bihar, Orissa, NWFP.",
+    "• In Assam, Congress supported a coalition ministry.",
+    "• Congress ministries undertook reforms in education, agrarian relief, labor welfare, prohibition, and removal of untouchability."
+  ],
+  "detailsHindi": [
+    "## कांग्रेस का घोषणापत्र (1936):",
+    "• भारत सरकार अधिनियम 1935 का विरोध किया, लेकिन सामरिक कारणों से चुनाव लड़ने का निर्णय लिया।",
+    "• राजनीतिक कैदियों की रिहाई और दमनकारी कानूनों की समाप्ति की माँग।",
+    "• भूमि राजस्व और किराए में कमी, किसानों को राहत, श्रमिकों की स्थिति सुधारने का वादा।",
+    "• नागरिक स्वतंत्रता, अस्पृश्यता उन्मूलन और शिक्षा के प्रचार का संकल्प।",
+    "• गांधीजी के रचनात्मक कार्यक्रम पर बल।",
+    "## 1937 चुनावों में कांग्रेस का प्रदर्शन:",
+    "• चुनाव 11 प्रांतों में हुए।",
+    "• कुल 1,585 सीटों में से कांग्रेस ने 716 पर उम्मीदवार खड़े किए और 715 जीते।",
+    "• 6 प्रांतों में बहुमत: मद्रास, बॉम्बे, मध्य प्रांत, संयुक्त प्रांत, बिहार, उड़ीसा।",
+    "• एनडब्ल्यूएफपी (उत्तर-पश्चिम सीमांत प्रांत) और असम में सबसे बड़ी पार्टी बनी।",
+    "• मुस्लिम लीग का प्रदर्शन कमजोर रहा, 485 मुस्लिम सीटों में से केवल 108 सीटें जीतीं।",
+    "## कांग्रेस मंत्रिमंडलों का गठन:",
+    "• शुरुआत में कांग्रेस मंत्रिमंडल बनाने से हिचक रही थी (गवर्नरों की विशेष शक्तियों के कारण)।",
+    "• वायसराय से आश्वासन मिलने के बाद जुलाई 1937 में कांग्रेस मंत्रिमंडल बने।",
+    "• कांग्रेस मंत्रिमंडल 7 प्रांतों में बने: मद्रास, बॉम्बे, मध्य प्रांत, संयुक्त प्रांत, बिहार, उड़ीसा, एनडब्ल्यूएफपी।",
+    "• असम में कांग्रेस ने गठबंधन मंत्रिमंडल को समर्थन दिया।",
+    "• कांग्रेस मंत्रिमंडलों ने शिक्षा, कृषक राहत, श्रमिक कल्याण, निषेधाज्ञा और अस्पृश्यता उन्मूलन के क्षेत्र में सुधार किए।"
+  ],
+  "tables": [
+    {
+      "title": "Congress Performance in 1937 Elections",
+      "titleHindi": "1937 चुनावों में कांग्रेस का प्रदर्शन",
+      "columns": ["Province", "Result"],
+      "columnsHindi": ["प्रांत", "परिणाम"],
+      "rows": [
+        ["Madras", "Congress majority"],
+        ["Bombay", "Congress majority"],
+        ["Central Provinces", "Congress majority"],
+        ["United Provinces", "Congress majority"],
+        ["Bihar", "Congress majority"],
+        ["Orissa", "Congress majority"],
+        ["NWFP", "Largest party, ministry formed"],
+        ["Assam", "Supported coalition"]
+      ],
+      "rowsHindi": [
+        ["मद्रास", "कांग्रेस बहुमत"],
+        ["बॉम्बे", "कांग्रेस बहुमत"],
+        ["मध्य प्रांत", "कांग्रेस बहुमत"],
+        ["संयुक्त प्रांत", "कांग्रेस बहुमत"],
+        ["बिहार", "कांग्रेस बहुमत"],
+        ["उड़ीसा", "कांग्रेस बहुमत"],
+        ["एनडब्ल्यूएफपी", "सबसे बड़ी पार्टी, मंत्रिमंडल बना"],
+        ["असम", "गठबंधन को समर्थन"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "1937 elections held under Government of India Act, 1935.",
+    "Congress won absolute majority in 6 provinces, ministries in 7.",
+    "Muslim League performed poorly; did not form government anywhere.",
+    "Congress ministries formed in July 1937 after initial hesitation."
+  ],
+  "prelimsTipsHindi": [
+    "1937 के चुनाव भारत सरकार अधिनियम 1935 के तहत हुए।",
+    "कांग्रेस ने 6 प्रांतों में बहुमत पाया और 7 में मंत्रिमंडल बनाए।",
+    "मुस्लिम लीग का प्रदर्शन कमजोर रहा; किसी भी प्रांत में सरकार नहीं बनी।",
+    "प्रारंभिक हिचक के बाद जुलाई 1937 में कांग्रेस मंत्रिमंडल बने।"
+  ],
+  "funFacts": [
+    "These were the first elections in India where Congress formed popular ministries.",
+    "The ministries lasted until 1939 when they resigned in protest against India’s forced participation in WWII.",
+    "In Madras, C. Rajagopalachari introduced prohibition of liquor."
+  ],
+  "funFactsHindi": [
+    "ये भारत में पहले चुनाव थे जिनमें कांग्रेस ने लोकप्रिय मंत्रिमंडल बनाए।",
+    "ये मंत्रिमंडल 1939 तक चले जब द्वितीय विश्व युद्ध में भारत की जबरन भागीदारी के विरोध में इस्तीफा दे दिया।",
+    "मद्रास में सी. राजगोपालाचारी ने शराबबंदी लागू की।"
+  ],
+  "mainsPoints": [
+    "1937 elections marked the entry of Congress into actual governance.",
+    "Congress ministries showcased administrative capability and implemented reforms.",
+    "Failure of Muslim League foreshadowed communal tensions and led to its reorganization.",
+    "Resignation of ministries in 1939 was a strong nationalist protest against colonial war policy."
+  ],
+  "mainsPointsHindi": [
+    "1937 के चुनावों से कांग्रेस वास्तविक शासन में आई।",
+    "कांग्रेस मंत्रिमंडलों ने प्रशासनिक क्षमता दिखाई और सुधार लागू किए।",
+    "मुस्लिम लीग की विफलता ने सांप्रदायिक तनाव की पृष्ठभूमि तैयार की और इसके पुनर्गठन को जन्म दिया।",
+    "1939 में मंत्रिमंडलों का इस्तीफा औपनिवेशिक युद्ध नीति के खिलाफ प्रबल राष्ट्रवादी विरोध था।"
+  ]
+},
+{
+  "heading": "Work Under Congress Ministries (1937–1939)",
+  "headingHindi": "कांग्रेस मंत्रिमंडलों का कार्य (1937–1939)",
+  "highlight": "The Congress ministries (1937–1939) introduced significant reforms in education, agrarian relief, labor welfare, prohibition, and social justice. Despite limitations due to Governor’s powers, they demonstrated administrative capability and increased people’s faith in Congress as a governing body.",
+  "highlightHindi": "कांग्रेस मंत्रिमंडलों (1937–1939) ने शिक्षा, कृषक राहत, श्रमिक कल्याण, शराबबंदी और सामाजिक न्याय में महत्वपूर्ण सुधार किए। गवर्नरों की शक्तियों की सीमाओं के बावजूद, उन्होंने प्रशासनिक क्षमता दिखाई और कांग्रेस के प्रति जनता का विश्वास बढ़ाया।",
+  "details": [
+    "## Agrarian Reforms:",
+    "• Reduced land revenue and rent in several provinces (e.g., U.P., Bihar).",
+    "• Laws for tenancy rights and protection of peasants from eviction.",
+    "• Debt relief legislation introduced in provinces like Madras and Bombay.",
+    "## Labor Reforms:",
+    "• Improved working conditions in factories and mines.",
+    "• Recognition of trade unions and minimum wage laws in some provinces.",
+    "• Regulation of working hours and introduction of welfare schemes.",
+    "## Education:",
+    "• Expansion of primary and secondary education.",
+    "• Free and compulsory primary education introduced in some provinces.",
+    "• Special emphasis on vernacular and technical education.",
+    "• Support for National Education and Hindi promotion.",
+    "## Social Reforms:",
+    "• Campaigns against untouchability; temple entry allowed in some places.",
+    "• Welfare programmes for Harijans and backward classes.",
+    "• Women’s empowerment promoted through education and participation.",
+    "## Prohibition and Public Health:",
+    "• Madras (C. Rajagopalachari) introduced prohibition of liquor.",
+    "• Health measures to tackle epidemics and improve sanitation.",
+    "## Political and Civil Liberties:",
+    "• Release of many political prisoners.",
+    "• Relaxation of press restrictions.",
+    "• Encouragement of local self-government institutions.",
+    "## Limitations:",
+    "• Governors retained veto and overriding powers under the 1935 Act.",
+    "• Financial constraints limited scope of reforms.",
+    "• Some radical leaders criticized Congress ministries for being too cautious.",
+    "## Significance:",
+    "• Demonstrated Congress’ capacity to govern responsibly.",
+    "• Created a base of support among peasants, workers, and lower classes.",
+    "• Experience of governance helped Congress prepare for post-independence administration."
+  ],
+  "detailsHindi": [
+    "## कृषि सुधार:",
+    "• कई प्रांतों (जैसे यूपी, बिहार) में भूमि राजस्व और किराया घटाया।",
+    "• काश्तकारी अधिकार और किसानों को बेदखली से बचाने के लिए कानून।",
+    "• मद्रास और बॉम्बे जैसे प्रांतों में ऋण मुक्ति कानून।",
+    "## श्रम सुधार:",
+    "• कारखानों और खदानों में काम करने की स्थितियों में सुधार।",
+    "• कुछ प्रांतों में ट्रेड यूनियनों की मान्यता और न्यूनतम वेतन कानून।",
+    "• काम के घंटे सीमित किए और कल्याण योजनाएँ शुरू कीं।",
+    "## शिक्षा:",
+    "• प्राथमिक और माध्यमिक शिक्षा का विस्तार।",
+    "• कुछ प्रांतों में निःशुल्क और अनिवार्य प्राथमिक शिक्षा।",
+    "• मातृभाषा और तकनीकी शिक्षा पर विशेष बल।",
+    "• राष्ट्रीय शिक्षा और हिंदी के प्रचार को बढ़ावा।",
+    "## सामाजिक सुधार:",
+    "• अस्पृश्यता के खिलाफ अभियान; कुछ जगहों पर मंदिर प्रवेश की अनुमति।",
+    "• हरिजन और पिछड़े वर्गों के लिए कल्याण कार्यक्रम।",
+    "• महिलाओं को शिक्षा और भागीदारी के माध्यम से सशक्त किया।",
+    "## शराबबंदी और सार्वजनिक स्वास्थ्य:",
+    "• मद्रास (सी. राजगोपालाचारी) ने शराबबंदी लागू की।",
+    "• महामारी से निपटने और स्वच्छता सुधारने के लिए स्वास्थ्य उपाय।",
+    "## राजनीतिक और नागरिक स्वतंत्रता:",
+    "• कई राजनीतिक कैदियों को रिहा किया।",
+    "• प्रेस पर से प्रतिबंधों को ढीला किया।",
+    "• स्थानीय स्वशासन संस्थाओं को प्रोत्साहित किया।",
+    "## सीमाएँ:",
+    "• 1935 अधिनियम के तहत गवर्नरों के पास वीटो और विशेष शक्तियाँ रहीं।",
+    "• आर्थिक सीमाओं ने सुधारों का दायरा घटाया।",
+    "• कुछ उग्र नेताओं ने कांग्रेस मंत्रिमंडलों को बहुत सावधान बताया।",
+    "## महत्व:",
+    "• कांग्रेस ने जिम्मेदार शासन चलाने की क्षमता दिखाई।",
+    "• किसानों, मजदूरों और निचले वर्गों में समर्थन आधार मजबूत किया।",
+    "• शासन का अनुभव कांग्रेस को स्वतंत्रता के बाद प्रशासन के लिए तैयार करने में सहायक हुआ।"
+  ],
+  "tables": [
+    {
+      "title": "Key Reforms by Congress Ministries (1937–39)",
+      "titleHindi": "कांग्रेस मंत्रिमंडलों के प्रमुख सुधार (1937–39)",
+      "columns": ["Sector", "Reforms"],
+      "columnsHindi": ["क्षेत्र", "सुधार"],
+      "rows": [
+        ["Agriculture", "Rent reduction, tenancy protection, debt relief laws"],
+        ["Labor", "Recognition of unions, working hours regulated, welfare schemes"],
+        ["Education", "Free & compulsory primary education, promotion of Hindi & technical studies"],
+        ["Social", "Campaigns against untouchability, welfare for Harijans, women’s empowerment"],
+        ["Health & Prohibition", "Liquor prohibition in Madras, sanitation & epidemic control measures"],
+        ["Civil Liberties", "Political prisoners released, press restrictions relaxed"]
+      ],
+      "rowsHindi": [
+        ["कृषि", "किराया घटाना, काश्तकारी संरक्षण, ऋण मुक्ति कानून"],
+        ["श्रम", "यूनियनों की मान्यता, कार्य समय नियंत्रित, कल्याण योजनाएँ"],
+        ["शिक्षा", "निःशुल्क व अनिवार्य प्राथमिक शिक्षा, हिंदी और तकनीकी शिक्षा का प्रचार"],
+        ["सामाजिक", "अस्पृश्यता विरोध, हरिजनों के लिए कल्याण, महिला सशक्तिकरण"],
+        ["स्वास्थ्य व शराबबंदी", "मद्रास में शराबबंदी, स्वच्छता व महामारी नियंत्रण"],
+        ["नागरिक स्वतंत्रता", "राजनीतिक कैदियों की रिहाई, प्रेस पर प्रतिबंध ढीले"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Madras ministry under C. Rajagopalachari introduced prohibition of liquor.",
+    "UP and Bihar reduced land revenue and granted tenancy protection.",
+    "Congress ministries lasted till 1939; resigned after WWII outbreak.",
+    "1935 Act limited Congress ministries due to Governor’s special powers."
+  ],
+  "prelimsTipsHindi": [
+    "मद्रास में सी. राजगोपालाचारी ने शराबबंदी लागू की।",
+    "यूपी और बिहार में भूमि राजस्व घटाया गया और काश्तकारी अधिकार दिए गए।",
+    "कांग्रेस मंत्रिमंडल 1939 तक रहे; द्वितीय विश्व युद्ध शुरू होने पर इस्तीफा दिया।",
+    "1935 अधिनियम ने गवर्नरों को विशेष शक्तियाँ देकर कांग्रेस मंत्रिमंडलों को सीमित किया।"
+  ],
+  "funFacts": [
+    "In Madras, prohibition caused large protests from liquor sellers but was popular among rural poor.",
+    "In UP, Govind Ballabh Pant pushed strong tenancy reforms, winning peasant support.",
+    "These ministries gave Congress practical experience in running governance before independence."
+  ],
+  "funFactsHindi": [
+    "मद्रास में शराबबंदी से शराब विक्रेताओं ने विरोध किया लेकिन ग्रामीण गरीबों में लोकप्रिय रही।",
+    "यूपी में गोविंद बल्लभ पंत ने काश्तकारी सुधार लागू किए, जिससे किसानों का समर्थन मिला।",
+    "इन मंत्रिमंडलों ने स्वतंत्रता से पहले कांग्रेस को शासन चलाने का व्यावहारिक अनुभव दिया।"
+  ],
+  "mainsPoints": [
+    "Congress ministries showed that nationalist leadership could handle governance responsibly.",
+    "They implemented reforms benefiting peasants, workers, Harijans, and women, strengthening social base.",
+    "However, limited by Governor’s overriding powers and financial constraints, reforms remained partial.",
+    "The resignation of ministries in 1939 elevated their nationalist image as defenders of independence."
+  ],
+  "mainsPointsHindi": [
+    "कांग्रेस मंत्रिमंडलों ने दिखाया कि राष्ट्रवादी नेतृत्व जिम्मेदार शासन कर सकता है।",
+    "किसानों, मजदूरों, हरिजनों और महिलाओं के लिए सुधारों ने सामाजिक आधार को मजबूत किया।",
+    "गवर्नरों की शक्तियों और आर्थिक सीमाओं ने सुधारों को अधूरा रखा।",
+    "1939 में मंत्रिमंडलों के इस्तीफे ने उन्हें स्वतंत्रता रक्षकों के रूप में ऊँचा दर्जा दिलाया।"
+  ]
+},
+{
+  "heading": "Nationalist Response in the Wake of World War II (1939–1942)",
+  "headingHindi": "द्वितीय विश्व युद्ध के दौरान राष्ट्रवादी प्रतिक्रिया (1939–1942)",
+  "highlight": "World War II exposed deep divisions within Indian nationalism. Gandhi emphasized non-violent opposition and demanded independence before cooperation, while Subhas Chandra Bose advocated militant struggle and sought to use the war to launch an armed revolt with international support.",
+  "highlightHindi": "द्वितीय विश्व युद्ध ने भारतीय राष्ट्रवाद के भीतर गहरे मतभेद उजागर किए। गांधीजी ने अहिंसक विरोध पर जोर दिया और सहयोग से पहले स्वतंत्रता की माँग की, जबकि सुभाष चंद्र बोस ने सशस्त्र संघर्ष की वकालत की और युद्ध का उपयोग अंतर्राष्ट्रीय सहयोग से सशस्त्र विद्रोह के लिए करना चाहा।",
+  "details": [
+    "## Background:",
+    "• On 3 September 1939, Viceroy Linlithgow declared India at war without consulting Indian leaders.",
+    "• Congress protested this unilateral decision.",
+    "• In October 1939, Congress ministries resigned from 7 provinces in protest.",
+    "## Gandhi’s Views:",
+    "• Gandhi emphasized India’s moral right to independence.",
+    "• Stated that India could not support Britain’s war effort without a clear promise of freedom.",
+    "• Advocated non-violent resistance (satyagraha) as the only legitimate response.",
+    "• Initially restrained mass struggle but encouraged 'Individual Satyagraha' (1940–41) to express opposition.",
+    "• Saw the war as an opportunity for British to show sincerity towards democracy by granting Indian independence.",
+    "## Subhas Chandra Bose’s Views:",
+    "• Considered the war a golden opportunity to weaken Britain and launch a national revolt.",
+    "• Advocated immediate mass struggle and militant action.",
+    "• Resigned from Congress presidency (1939 Tripuri Crisis) and formed Forward Bloc.",
+    "• During war, escaped house arrest in 1941, went abroad, and organized the Indian National Army (INA) with Axis support.",
+    "• His motto: 'Enemy’s enemy is our friend'—alliance with Germany, later Japan, to fight British rule.",
+    "## Broader Nationalist Response:",
+    "• Congress: Demanded declaration of war aims, independence, and inclusion of Indians in decision-making.",
+    "• Muslim League: Supported British war effort, expecting political concessions, strengthening its bargaining power.",
+    "• The divergence between Gandhi’s non-violent satyagraha and Bose’s militant path reflected broader debates in nationalist strategy."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि:",
+    "• 3 सितंबर 1939 को वायसराय लिंलिथगो ने भारत को बिना परामर्श युद्ध में झोंक दिया।",
+    "• कांग्रेस ने इसका विरोध किया।",
+    "• अक्टूबर 1939 में कांग्रेस मंत्रिमंडलों ने 7 प्रांतों से इस्तीफा दे दिया।",
+    "## गांधीजी के विचार:",
+    "• गांधीजी ने कहा कि भारत का नैतिक अधिकार स्वतंत्रता है।",
+    "• ब्रिटेन के युद्ध प्रयासों का सहयोग तभी संभव जब स्वतंत्रता का स्पष्ट वादा किया जाए।",
+    "• अहिंसक प्रतिरोध (सत्याग्रह) को एकमात्र वैध प्रतिक्रिया माना।",
+    "• शुरू में जन-आंदोलन को रोका, लेकिन 'व्यक्तिगत सत्याग्रह' (1940–41) शुरू किया।",
+    "• युद्ध को ब्रिटेन के लिए लोकतंत्र के प्रति ईमानदारी दिखाने का अवसर बताया।",
+    "## सुभाष चंद्र बोस के विचार:",
+    "• युद्ध को ब्रिटेन को कमजोर करने और राष्ट्रीय विद्रोह का अवसर माना।",
+    "• तत्काल जन-आंदोलन और सशस्त्र कार्रवाई की वकालत की।",
+    "• 1939 त्रिपुरी संकट में कांग्रेस अध्यक्ष पद से इस्तीफा दिया और फॉरवर्ड ब्लॉक बनाया।",
+    "• युद्ध के दौरान 1941 में नजरबंदी से भागकर विदेश गए और अक्ष शक्तियों की मदद से भारतीय राष्ट्रीय सेना (आईएनए) संगठित की।",
+    "• उनका नारा: 'शत्रु का शत्रु हमारा मित्र'—जर्मनी और बाद में जापान से गठबंधन कर ब्रिटिश शासन से लड़ना।",
+    "## व्यापक राष्ट्रवादी प्रतिक्रिया:",
+    "• कांग्रेस: युद्ध के उद्देश्य स्पष्ट करने, स्वतंत्रता देने और निर्णय-प्रक्रिया में भारतीयों की भागीदारी की माँग।",
+    "• मुस्लिम लीग: ब्रिटिश युद्ध प्रयास का समर्थन किया और राजनीतिक रियायतों की उम्मीद से अपनी स्थिति मजबूत की।",
+    "• गांधीजी के अहिंसक सत्याग्रह और बोस के सशस्त्र मार्ग में अंतर व्यापक राष्ट्रवादी रणनीति की बहस को दर्शाता है।"
+  ],
+  "tables": [
+    {
+      "title": "Contrasting Views: Gandhi vs. Bose during WWII",
+      "titleHindi": "द्वितीय विश्व युद्ध में गांधी बनाम बोस के विचार",
+      "columns": ["Leader", "Strategy", "Approach to WWII"],
+      "columnsHindi": ["नेता", "रणनीति", "द्वितीय विश्व युद्ध के प्रति दृष्टिकोण"],
+      "rows": [
+        ["Gandhi", "Non-violent satyagraha", "Support Britain only if independence promised"],
+        ["Subhas Bose", "Militant struggle, armed revolt", "Use war to ally with Axis powers to defeat Britain"]
+      ],
+      "rowsHindi": [
+        ["गांधीजी", "अहिंसक सत्याग्रह", "स्वतंत्रता का वादा मिलने पर ही ब्रिटेन का सहयोग"],
+        ["सुभाष बोस", "सशस्त्र संघर्ष, विद्रोह", "युद्ध का उपयोग अक्ष शक्तियों से सहयोग लेकर ब्रिटेन को हराने के लिए"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "1939: Congress ministries resigned after WWII declaration.",
+    "Gandhi: Opposed war participation without independence → Individual Satyagraha (1940).",
+    "Bose: Advocated militant struggle, later formed INA with Axis powers.",
+    "Muslim League supported British war effort, gaining political concessions."
+  ],
+  "prelimsTipsHindi": [
+    "1939: द्वितीय विश्व युद्ध की घोषणा पर कांग्रेस मंत्रिमंडलों ने इस्तीफा दिया।",
+    "गांधीजी: स्वतंत्रता के बिना युद्ध सहयोग का विरोध → व्यक्तिगत सत्याग्रह (1940)।",
+    "बोस: सशस्त्र संघर्ष की वकालत, बाद में अक्ष शक्तियों की मदद से आईएनए बनाई।",
+    "मुस्लिम लीग ने ब्रिटिश युद्ध प्रयास का समर्थन किया और राजनीतिक लाभ पाया।"
+  ],
+  "funFacts": [
+    "Bose escaped from house arrest in Calcutta in 1941 disguised as a Pathan before reaching Germany.",
+    "Gandhi described WWII as a 'clash between imperialists' but still sought India’s moral stance.",
+    "The Congress resignation of ministries in 1939 was celebrated by Muslim League as 'Deliverance Day'."
+  ],
+  "funFactsHindi": [
+    "बोस 1941 में कलकत्ता से नजरबंदी से पठान के वेश में भागकर जर्मनी पहुँचे।",
+    "गांधीजी ने द्वितीय विश्व युद्ध को 'साम्राज्यवादियों के बीच संघर्ष' कहा लेकिन भारत की नैतिक स्थिति पर जोर दिया।",
+    "1939 में कांग्रेस मंत्रिमंडलों के इस्तीफे को मुस्लिम लीग ने 'मुक्ति दिवस' के रूप में मनाया।"
+  ],
+  "mainsPoints": [
+    "WWII created a critical divide between moderates (seeking negotiation) and radicals (seeking armed struggle).",
+    "Gandhi’s insistence on non-violence contrasted with Bose’s advocacy of militarism.",
+    "The resignation of Congress ministries highlighted Congress’ unwillingness to support imperial wars without independence.",
+    "The nationalist response during WWII shaped the path towards Quit India (1942) and INA’s role in independence struggle."
+  ],
+  "mainsPointsHindi": [
+    "द्वितीय विश्व युद्ध ने मध्यमार्गी (वार्ता चाहने वाले) और उग्रपंथी (सशस्त्र संघर्ष चाहने वाले) राष्ट्रवादियों में गहरी खाई बना दी।",
+    "गांधीजी का अहिंसा पर जोर बोस की सैन्यवाद की वकालत से अलग था।",
+    "कांग्रेस मंत्रिमंडलों का इस्तीफा दिखाता है कि स्वतंत्रता के बिना औपनिवेशिक युद्धों का समर्थन नहीं होगा।",
+    "युद्ध के दौरान की राष्ट्रवादी प्रतिक्रिया ने भारत छोड़ो आंदोलन (1942) और आईएनए की भूमिका की पृष्ठभूमि बनाई।"
+  ]
+},
+{
+  "heading": "Haripura Session of Congress (1938) and Tripuri Crisis (1939)",
+  "headingHindi": "कांग्रेस का हरिपुरा अधिवेशन (1938) और त्रिपुरी संकट (1939)",
+  "highlight": "The Haripura Session (1938) under Subhas Chandra Bose highlighted progressive economic and social planning, but his radical leadership clashed with conservatives. The Tripuri Session (1939) exposed this rift, with Bose re-elected against Gandhi’s wishes, leading to deep divisions and Bose’s eventual resignation.",
+  "highlightHindi": "सुभाष चंद्र बोस की अध्यक्षता में हरिपुरा अधिवेशन (1938) ने प्रगतिशील आर्थिक और सामाजिक योजनाओं को उजागर किया, लेकिन उनकी उग्र नेतृत्व शैली से रूढ़िवादी नेताओं में टकराव हुआ। त्रिपुरी अधिवेशन (1939) में यह मतभेद खुलकर सामने आया, जब बोस गांधीजी की इच्छा के विरुद्ध पुनः निर्वाचित हुए, जिससे गहरे विभाजन हुए और अंततः बोस ने इस्तीफा दिया।",
+  "details": [
+    "## Haripura Session of Congress (1938):",
+    "• Held in Haripura, Gujarat; presided over by Subhas Chandra Bose.",
+    "• Bose emphasized socialist ideals, large-scale industrialization, and strong central planning for India’s economic reconstruction.",
+    "• Stressed unity of workers and peasants, and proposed National Planning Committee (later set up under Nehru).",
+    "• Advocated strengthening Congress organization to prepare for mass struggle.",
+    "• Reflected growing leftist influence in Congress.",
+    "## Tripuri Crisis (1939):",
+    "• Congress session held at Tripuri, near Jabalpur.",
+    "• Bose stood for re-election as Congress President; Gandhi supported Pattabhi Sitaramayya.",
+    "• Despite Gandhi’s disapproval, Bose was re-elected (1939).",
+    "• However, Gandhian leaders (Patel, Rajendra Prasad, Rajagopalachari) refused to cooperate under Bose’s leadership.",
+    "• Bose was forced to resign due to lack of working majority.",
+    "• He later formed the Forward Bloc (1939) to mobilize left-wing forces within Congress.",
+    "## Significance:",
+    "• Haripura showed Congress’ radical potential for economic and social transformation.",
+    "• Tripuri Crisis highlighted Gandhian dominance and Congress’ inability to reconcile ideological differences.",
+    "• Bose’s exit marked a split between radical and moderate-nationalist strategies during WWII."
+  ],
+  "detailsHindi": [
+    "## कांग्रेस का हरिपुरा अधिवेशन (1938):",
+    "• हरिपुरा, गुजरात में आयोजित; अध्यक्षता सुभाष चंद्र बोस ने की।",
+    "• बोस ने समाजवादी आदर्शों, व्यापक औद्योगीकरण और भारत के आर्थिक पुनर्निर्माण हेतु केंद्रीकृत योजना पर जोर दिया।",
+    "• मजदूरों और किसानों की एकता पर बल दिया और राष्ट्रीय योजना समिति (बाद में नेहरू की अध्यक्षता में बनी) का प्रस्ताव रखा।",
+    "• जन-संघर्ष की तैयारी हेतु कांग्रेस संगठन को मजबूत करने की बात कही।",
+    "• कांग्रेस में वामपंथी प्रभाव बढ़ने का संकेत मिला।",
+    "## त्रिपुरी संकट (1939):",
+    "• जबलपुर के पास त्रिपुरी में अधिवेशन आयोजित।",
+    "• बोस ने कांग्रेस अध्यक्ष पद के लिए पुनः चुनाव लड़ा; गांधीजी ने पट्टाभि सीतारमैया का समर्थन किया।",
+    "• गांधीजी की असहमति के बावजूद बोस पुनः निर्वाचित हुए (1939)।",
+    "• परंतु गांधीयन नेता (पटेल, राजेंद्र प्रसाद, राजगोपालाचारी) बोस के नेतृत्व में सहयोग को तैयार नहीं हुए।",
+    "• कार्यकारी बहुमत न होने से बोस को इस्तीफा देना पड़ा।",
+    "• बाद में उन्होंने कांग्रेस के भीतर वामपंथी शक्तियों को संगठित करने के लिए फॉरवर्ड ब्लॉक (1939) बनाया।",
+    "## महत्व:",
+    "• हरिपुरा ने कांग्रेस के आर्थिक व सामाजिक परिवर्तन की उग्र संभावनाएँ दिखाईं।",
+    "• त्रिपुरी संकट ने गांधीजी की प्रभुत्व और कांग्रेस की वैचारिक मतभेदों को दूर न कर पाने की स्थिति उजागर की।",
+    "• बोस का बाहर जाना द्वितीय विश्व युद्ध काल में उग्र और मध्यम राष्ट्रवादी रणनीतियों के बीच विभाजन का प्रतीक बना।"
+  ],
+  "tables": [
+    {
+      "title": "Haripura vs. Tripuri Sessions of Congress",
+      "titleHindi": "कांग्रेस के हरिपुरा बनाम त्रिपुरी अधिवेशन",
+      "columns": ["Session", "Year", "Leader", "Main Outcome"],
+      "columnsHindi": ["अधिवेशन", "वर्ष", "नेता", "मुख्य परिणाम"],
+      "rows": [
+        ["Haripura", "1938", "Subhas Chandra Bose", "Emphasis on socialist ideals, planning, workers-peasants unity"],
+        ["Tripuri", "1939", "Subhas Chandra Bose (re-elected)", "Clash with Gandhi; Bose resigned; later formed Forward Bloc"]
+      ],
+      "rowsHindi": [
+        ["हरिपुरा", "1938", "सुभाष चंद्र बोस", "समाजवादी आदर्श, योजना, मजदूर-किसान एकता पर जोर"],
+        ["त्रिपुरी", "1939", "सुभाष चंद्र बोस (पुनः निर्वाचित)", "गांधीजी से टकराव; बोस ने इस्तीफा दिया; बाद में फॉरवर्ड ब्लॉक बनाया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Haripura Session (1938) → Bose as President, emphasis on socialist planning.",
+    "Tripuri Crisis (1939) → Bose re-elected against Gandhi’s wishes but forced to resign.",
+    "Forward Bloc founded by Subhas Chandra Bose in 1939 after Tripuri crisis."
+  ],
+  "prelimsTipsHindi": [
+    "हरिपुरा अधिवेशन (1938) → बोस अध्यक्ष, समाजवादी योजना पर जोर।",
+    "त्रिपुरी संकट (1939) → गांधीजी की इच्छा के विरुद्ध बोस पुनः निर्वाचित, लेकिन इस्तीफा दिया।",
+    "त्रिपुरी संकट के बाद 1939 में बोस ने फॉरवर्ड ब्लॉक की स्थापना की।"
+  ],
+  "funFacts": [
+    "At Haripura, Bose’s presidential address was drafted by Nehru but delivered in Bose’s charismatic style.",
+    "Gandhi called Bose’s re-election in 1939 his 'personal defeat'.",
+    "Bose’s Forward Bloc later became a platform for radical nationalists and leftists."
+  ],
+  "funFactsHindi": [
+    "हरिपुरा में बोस का अध्यक्षीय भाषण नेहरू ने तैयार किया था लेकिन बोस ने अपने करिश्माई अंदाज़ में दिया।",
+    "गांधीजी ने 1939 में बोस के पुनर्निर्वाचन को अपनी 'व्यक्तिगत हार' कहा।",
+    "बाद में बोस का फॉरवर्ड ब्लॉक उग्र राष्ट्रवादियों और वामपंथियों का मंच बना।"
+  ],
+  "mainsPoints": [
+    "Haripura session represented the rise of socialist and radical thought within Congress.",
+    "Tripuri crisis reflected the organizational dominance of Gandhi and the limits of radicalism within Congress structure.",
+    "Bose’s exit deepened ideological divide in Indian nationalism on how to fight colonialism during WWII.",
+    "The episodes showed Congress’ inability to reconcile diverse visions of nationalism under one umbrella."
+  ],
+  "mainsPointsHindi": [
+    "हरिपुरा अधिवेशन कांग्रेस में समाजवादी और उग्र विचारों के उदय का प्रतीक था।",
+    "त्रिपुरी संकट ने गांधीजी की संगठनात्मक प्रभुत्व और कांग्रेस संरचना में उग्र विचारों की सीमा दिखाई।",
+    "बोस का बाहर जाना द्वितीय विश्व युद्ध के दौरान औपनिवेशिक संघर्ष पर राष्ट्रवादी वैचारिक विभाजन को गहरा करता है।",
+    "इन घटनाओं ने दिखाया कि कांग्रेस एक ही छतरी के नीचे विविध राष्ट्रवादी दृष्टिकोणों को समेट नहीं पा रही थी।"
+  ]
+},
+{
+  "heading": "Bose’s Resignation, Post-Tripuri Developments, and INC’s Stand on World War II",
+  "headingHindi": "बोस का इस्तीफा, त्रिपुरी के बाद की घटनाएँ और द्वितीय विश्व युद्ध पर कांग्रेस का रुख",
+  "highlight": "After the Tripuri crisis (1939), Subhas Chandra Bose resigned due to opposition from Gandhian leaders. He later founded the Forward Bloc to consolidate left forces. Meanwhile, the outbreak of World War II forced the Congress to clarify its position: it refused to support Britain without a promise of Indian independence, leading to the resignation of Congress ministries in 1939.",
+  "highlightHindi": "त्रिपुरी संकट (1939) के बाद सुभाष चंद्र बोस ने गांधीय नेताओं के विरोध के कारण इस्तीफा दे दिया। बाद में उन्होंने वामपंथी शक्तियों को संगठित करने हेतु फॉरवर्ड ब्लॉक की स्थापना की। इसी बीच द्वितीय विश्व युद्ध के प्रारंभ ने कांग्रेस को अपना रुख स्पष्ट करने पर मजबूर किया: स्वतंत्रता का वादा किए बिना उसने ब्रिटेन का समर्थन करने से इनकार किया और 1939 में कांग्रेस मंत्रिमंडलों ने इस्तीफा दे दिया।",
+  "details": [
+    "## Bose’s Resignation:",
+    "• After winning the 1939 Tripuri session presidential election against Gandhi’s candidate, Bose faced strong resistance from Gandhian leaders (Patel, Rajendra Prasad, Rajagopalachari).",
+    "• Unable to work with the Congress Working Committee dominated by Gandhi’s supporters, Bose resigned in April 1939.",
+    "• He later formed the Forward Bloc (May 1939) to bring together left-wing forces within Congress.",
+    "## Post-Tripuri Developments:",
+    "• Forward Bloc promoted socialist policies, peasant-worker mobilization, and radical struggle against colonialism.",
+    "• Congress leadership under Gandhi focused on maintaining unity and preparing for constitutional negotiations.",
+    "• Subhas Bose was later placed under house arrest (1940) and eventually escaped to organize the Indian National Army abroad.",
+    "## INC’s Stand on World War II:",
+    "• On 3 September 1939, Viceroy Linlithgow declared India at war without consulting Indian leaders.",
+    "• Congress objected to unilateral decision and demanded a statement of war aims and a clear promise of independence.",
+    "• British refusal led to resignation of Congress ministries in October 1939.",
+    "• Gandhi opposed violent methods and proposed limited protest (Individual Satyagraha, 1940).",
+    "• Nehru saw the war as a fight against fascism but insisted that India must be free before participating.",
+    "• Muslim League, unlike Congress, supported the British war effort, expecting political concessions (later leading to 'Deliverance Day' celebrations in 1939).",
+    "## Significance:",
+    "• Bose’s resignation highlighted ideological fractures within Congress.",
+    "• Congress’ stand on WWII demonstrated its unwillingness to support imperial wars without independence.",
+    "• This phase laid the foundation for the Quit India Movement (1942) and Bose’s INA struggle from abroad."
+  ],
+  "detailsHindi": [
+    "## बोस का इस्तीफा:",
+    "• 1939 के त्रिपुरी अधिवेशन में गांधीजी के उम्मीदवार को हराने के बाद बोस को गांधीय नेताओं (पटेल, राजेंद्र प्रसाद, राजगोपालाचारी) का कड़ा विरोध झेलना पड़ा।",
+    "• कांग्रेस कार्यसमिति, जो गांधी समर्थकों के नियंत्रण में थी, के साथ काम न कर पाने के कारण बोस ने अप्रैल 1939 में इस्तीफा दे दिया।",
+    "• मई 1939 में उन्होंने कांग्रेस के भीतर वामपंथी शक्तियों को संगठित करने हेतु फॉरवर्ड ब्लॉक बनाया।",
+    "## त्रिपुरी के बाद की घटनाएँ:",
+    "• फॉरवर्ड ब्लॉक ने समाजवादी नीतियों, किसान-मजदूर संगठन और औपनिवेशिक शासन के खिलाफ उग्र संघर्ष को बढ़ावा दिया।",
+    "• गांधीजी के नेतृत्व में कांग्रेस ने एकता बनाए रखने और संवैधानिक वार्ताओं की तैयारी पर ध्यान दिया।",
+    "• बाद में बोस को नजरबंद किया गया (1940), लेकिन वे भागकर विदेश में भारतीय राष्ट्रीय सेना संगठित करने पहुँचे।",
+    "## द्वितीय विश्व युद्ध पर कांग्रेस का रुख:",
+    "• 3 सितंबर 1939 को वायसराय लिंलिथगो ने बिना परामर्श भारत को युद्ध में झोंक दिया।",
+    "• कांग्रेस ने इस एकतरफा निर्णय का विरोध किया और युद्ध के उद्देश्य तथा स्वतंत्रता का स्पष्ट वादा माँगा।",
+    "• ब्रिटिश अस्वीकार के बाद अक्टूबर 1939 में कांग्रेस मंत्रिमंडलों ने इस्तीफा दे दिया।",
+    "• गांधीजी ने हिंसक मार्ग का विरोध किया और सीमित विरोध (व्यक्तिगत सत्याग्रह, 1940) प्रस्तावित किया।",
+    "• नेहरू ने युद्ध को फासीवाद के खिलाफ संघर्ष माना, लेकिन सहयोग से पहले स्वतंत्रता की शर्त रखी।",
+    "• कांग्रेस के विपरीत मुस्लिम लीग ने ब्रिटिश युद्ध प्रयास का समर्थन किया और राजनीतिक रियायतों की उम्मीद की (1939 में 'मुक्ति दिवस' मनाया)।",
+    "## महत्व:",
+    "• बोस का इस्तीफा कांग्रेस के भीतर वैचारिक विभाजन को दर्शाता है।",
+    "• द्वितीय विश्व युद्ध पर कांग्रेस का रुख यह दिखाता है कि वह स्वतंत्रता के बिना साम्राज्यवादी युद्धों का समर्थन नहीं करेगी।",
+    "• इस दौर ने 1942 के भारत छोड़ो आंदोलन और बोस के विदेश से आईएनए संघर्ष की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "INC’s Response to World War II vs. Bose’s Approach",
+      "titleHindi": "द्वितीय विश्व युद्ध पर कांग्रेस का रुख बनाम बोस का दृष्टिकोण",
+      "columns": ["Leader/Body", "Approach"],
+      "columnsHindi": ["नेता/संस्था", "दृष्टिकोण"],
+      "rows": [
+        ["INC (1939)", "Refused support without independence; ministries resigned"],
+        ["Gandhi", "Non-violent opposition; Individual Satyagraha (1940)"],
+        ["Nehru", "Against fascism but demanded freedom before support"],
+        ["Bose", "Advocated militant struggle; sought Axis support abroad"],
+        ["Muslim League", "Supported British war effort; expected concessions"]
+      ],
+      "rowsHindi": [
+        ["कांग्रेस (1939)", "स्वतंत्रता के बिना समर्थन नहीं; मंत्रिमंडल इस्तीफा"],
+        ["गांधीजी", "अहिंसक विरोध; व्यक्तिगत सत्याग्रह (1940)"],
+        ["नेहरू", "फासीवाद विरोधी, लेकिन सहयोग से पहले स्वतंत्रता की माँग"],
+        ["बोस", "सशस्त्र संघर्ष के पक्षधर; विदेश में अक्ष शक्तियों से सहयोग लिया"],
+        ["मुस्लिम लीग", "ब्रिटिश युद्ध प्रयास का समर्थन; रियायतों की उम्मीद"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Bose resigned as Congress President in April 1939 after Tripuri crisis.",
+    "Forward Bloc founded in May 1939.",
+    "Congress ministries resigned in October 1939 after WWII outbreak.",
+    "Muslim League celebrated 'Deliverance Day' in Dec 1939 after Congress resignations."
+  ],
+  "prelimsTipsHindi": [
+    "बोस ने अप्रैल 1939 में त्रिपुरी संकट के बाद कांग्रेस अध्यक्ष पद छोड़ा।",
+    "मई 1939 में फॉरवर्ड ब्लॉक की स्थापना की।",
+    "द्वितीय विश्व युद्ध शुरू होने पर अक्टूबर 1939 में कांग्रेस मंत्रिमंडलों ने इस्तीफा दिया।",
+    "कांग्रेस इस्तीफों के बाद दिसंबर 1939 में मुस्लिम लीग ने 'मुक्ति दिवस' मनाया।"
+  ],
+  "funFacts": [
+    "Bose escaped house arrest in 1941 disguised as a Pathan, later reaching Germany and Japan.",
+    "Congress’ resignation of ministries gave Muslim League a chance to expand its influence.",
+    "Gandhi described WWII as a 'clash of civilizations' but insisted on India’s freedom first."
+  ],
+  "funFactsHindi": [
+    "बोस 1941 में पठान के वेश में नजरबंदी से भागकर जर्मनी और फिर जापान पहुँचे।",
+    "कांग्रेस के इस्तीफों ने मुस्लिम लीग को प्रभाव बढ़ाने का अवसर दिया।",
+    "गांधीजी ने द्वितीय विश्व युद्ध को 'सभ्यताओं का संघर्ष' कहा, लेकिन भारत की स्वतंत्रता को प्राथमिक शर्त माना।"
+  ],
+  "mainsPoints": [
+    "Bose’s resignation exposed deep ideological rifts within Congress between radicals and Gandhian moderates.",
+    "INC’s stance on WWII marked its refusal to collaborate in imperial wars without independence.",
+    "The resignation of Congress ministries in 1939 shifted political momentum towards Muslim League.",
+    "This period prepared the ground for two parallel paths: Gandhi’s Quit India Movement and Bose’s INA struggle."
+  ],
+  "mainsPointsHindi": [
+    "बोस का इस्तीफा कांग्रेस में उग्रपंथियों और गांधीय मध्यमपंथियों के बीच गहरे वैचारिक मतभेदों को उजागर करता है।",
+    "द्वितीय विश्व युद्ध पर कांग्रेस का रुख साम्राज्यवादी युद्धों में स्वतंत्रता के बिना सहयोग से इनकार का प्रतीक था।",
+    "1939 में कांग्रेस मंत्रिमंडलों के इस्तीफे ने राजनीतिक गति मुस्लिम लीग की ओर मोड़ दी।",
+    "इस दौर ने दो समानांतर मार्ग तैयार किए: गांधीजी का भारत छोड़ो आंदोलन और बोस का आईएनए संघर्ष।"
+  ]
+},
+{
+  "heading": "August Offer (1940) and Nationalist Response",
+  "headingHindi": "अगस्त प्रस्ताव (1940) और राष्ट्रवादी प्रतिक्रिया",
+  "highlight": "The August Offer of 1940 was Britain’s attempt to secure Indian support in World War II by promising post-war dominion status and expansion of councils. However, Congress rejected it as inadequate, demanding complete independence, while the Muslim League welcomed it as recognition of minority rights.",
+  "highlightHindi": "1940 का अगस्त प्रस्ताव ब्रिटेन का द्वितीय विश्व युद्ध में भारतीय समर्थन पाने का प्रयास था, जिसमें युद्ध के बाद डोमिनियन स्टेटस और परिषदों के विस्तार का वादा किया गया। लेकिन कांग्रेस ने इसे अपर्याप्त मानकर अस्वीकार कर दिया और पूर्ण स्वतंत्रता की माँग की, जबकि मुस्लिम लीग ने इसे अल्पसंख्यक अधिकारों की मान्यता के रूप में स्वीकार किया।",
+  "details": [
+    "## Background:",
+    "• WWII intensified by 1940; Britain needed India’s cooperation.",
+    "• Lord Linlithgow (Viceroy) announced the August Offer on 8 August 1940.",
+    "## Main Provisions of August Offer:",
+    "• Promise of Dominion Status for India after the war.",
+    "• Expansion of Viceroy’s Executive Council to include more Indians.",
+    "• War Advisory Council to include Indian representatives.",
+    "• Assurance that no new constitution would be framed without the consent of minorities.",
+    "## Nationalist Response:",
+    "## Congress:",
+    "– Rejected the offer as vague and inadequate.",
+    "– Gandhi: Called it 'a post-dated cheque on a crashing bank'.",
+    "– Continued demand for complete independence before supporting war efforts.",
+    "## Muslim League:",
+    "– Welcomed the offer as it recognized minorities' veto in constitutional matters.",
+    "– Saw it as strengthening its bargaining power.",
+    "## Other Groups:",
+    "– Hindu Mahasabha supported British war effort.",
+    "– Liberals accepted the offer as a step forward.",
+    "## Significance:",
+    "• Marked the first official recognition of minorities' consent as essential in constitutional reform.",
+    "• Deepened Congress–League divide.",
+    "• Led to launch of Gandhi’s Individual Satyagraha (October 1940) as a limited movement against British war policy."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि:",
+    "• 1940 तक द्वितीय विश्व युद्ध तेज हो गया और ब्रिटेन को भारत का सहयोग चाहिए था।",
+    "• 8 अगस्त 1940 को वायसराय लिंलिथगो ने अगस्त प्रस्ताव की घोषणा की।",
+    "## अगस्त प्रस्ताव के मुख्य प्रावधान:",
+    "• युद्ध के बाद भारत को डोमिनियन स्टेटस देने का वादा।",
+    "• वायसराय की कार्यकारी परिषद का विस्तार, अधिक भारतीय सदस्य शामिल।",
+    "• भारतीय प्रतिनिधियों वाली युद्ध सलाहकार परिषद का गठन।",
+    "• आश्वासन कि अल्पसंख्यकों की सहमति के बिना नया संविधान नहीं बनेगा।",
+    "## राष्ट्रवादी प्रतिक्रिया:",
+    "## कांग्रेस:",
+    "– प्रस्ताव को अस्पष्ट और अपर्याप्त कहकर अस्वीकार किया।",
+    "– गांधीजी: इसे 'डूबते बैंक पर पोस्ट-डेटेड चेक' कहा।",
+    "– स्वतंत्रता की माँग दोहराई और युद्ध सहयोग से पहले उसे शर्त बनाया।",
+    "## मुस्लिम लीग:",
+    "– प्रस्ताव का स्वागत किया क्योंकि इसमें अल्पसंख्यकों की सहमति को मान्यता दी गई।",
+    "– अपनी राजनीतिक स्थिति मजबूत समझी।",
+    "## अन्य समूह:",
+    "– हिन्दू महासभा ने ब्रिटिश युद्ध प्रयास का समर्थन किया।",
+    "– उदारवादियों ने इसे एक प्रगतिशील कदम माना।",
+    "## महत्व:",
+    "• पहली बार अल्पसंख्यकों की सहमति को संवैधानिक सुधारों के लिए अनिवार्य माना गया।",
+    "• कांग्रेस–लीग का विभाजन और गहरा हुआ।",
+    "• इसके परिणामस्वरूप गांधीजी ने व्यक्तिगत सत्याग्रह (अक्टूबर 1940) शुरू किया।"
+  ],
+  "tables": [
+    {
+      "title": "August Offer 1940: Provisions and Reactions",
+      "titleHindi": "अगस्त प्रस्ताव 1940: प्रावधान और प्रतिक्रियाएँ",
+      "columns": ["Aspect", "Provision/Response"],
+      "columnsHindi": ["पहलू", "प्रावधान/प्रतिक्रिया"],
+      "rows": [
+        ["Political Promise", "Dominion Status after WWII"],
+        ["Council Expansion", "More Indians in Viceroy’s Executive Council"],
+        ["Minorities", "Assurance of veto in constitutional reforms"],
+        ["Congress Response", "Rejected as vague; Gandhi’s 'post-dated cheque' remark"],
+        ["Muslim League Response", "Welcomed; strengthened demand for minority rights"],
+        ["Outcome", "Triggered Individual Satyagraha (1940)"]
+      ],
+      "rowsHindi": [
+        ["राजनीतिक वादा", "युद्ध के बाद डोमिनियन स्टेटस"],
+        ["परिषद विस्तार", "वायसराय की कार्यकारी परिषद में अधिक भारतीय"],
+        ["अल्पसंख्यक", "संवैधानिक सुधारों में वीटो की गारंटी"],
+        ["कांग्रेस प्रतिक्रिया", "अस्पष्ट कहकर अस्वीकार; गांधीजी का 'पोस्ट-डेटेड चेक' कथन"],
+        ["मुस्लिम लीग प्रतिक्रिया", "स्वागत; अल्पसंख्यक अधिकारों की माँग मजबूत"],
+        ["परिणाम", "व्यक्तिगत सत्याग्रह (1940) की शुरुआत"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "August Offer announced on 8 August 1940 by Lord Linlithgow.",
+    "Promised Dominion Status after WWII; minorities’ consent essential for constitution.",
+    "Gandhi’s reaction: 'a post-dated cheque on a crashing bank'.",
+    "Congress rejected; Muslim League welcomed."
+  ],
+  "prelimsTipsHindi": [
+    "अगस्त प्रस्ताव 8 अगस्त 1940 को वायसराय लिंलिथगो ने घोषित किया।",
+    "युद्ध के बाद डोमिनियन स्टेटस का वादा; संविधान में अल्पसंख्यकों की सहमति अनिवार्य।",
+    "गांधीजी की टिप्पणी: 'डूबते बैंक पर पोस्ट-डेटेड चेक'।",
+    "कांग्रेस ने अस्वीकार किया; मुस्लिम लीग ने स्वागत किया।"
+  ],
+  "funFacts": [
+    "August Offer was the first time Britain mentioned Dominion Status after the war, but India had already moved to demand full independence.",
+    "Muslim League celebrated the offer as a diplomatic win, calling it a recognition of 'Two-Nation Theory' indirectly.",
+    "It pushed Gandhi to shift from waiting mode to launching Individual Satyagraha in 1940."
+  ],
+  "funFactsHindi": [
+    "अगस्त प्रस्ताव में पहली बार ब्रिटेन ने युद्ध के बाद डोमिनियन स्टेटस का उल्लेख किया, लेकिन भारत पूर्ण स्वतंत्रता की ओर बढ़ चुका था।",
+    "मुस्लिम लीग ने इसे कूटनीतिक जीत माना और 'दो राष्ट्र सिद्धांत' की अप्रत्यक्ष मान्यता समझा।",
+    "इसीने गांधीजी को प्रतीक्षा से सक्रिय होकर 1940 में व्यक्तिगत सत्याग्रह शुरू करने को प्रेरित किया।"
+  ],
+  "mainsPoints": [
+    "August Offer was Britain’s attempt to secure Indian cooperation during WWII without granting real freedom.",
+    "Congress’ rejection marked its uncompromising demand for independence.",
+    "Muslim League’s acceptance highlighted deepening communal divisions.",
+    "It set the stage for Gandhi’s Individual Satyagraha (1940) and further constitutional deadlocks."
+  ],
+  "mainsPointsHindi": [
+    "अगस्त प्रस्ताव द्वितीय विश्व युद्ध में भारत का सहयोग पाने के लिए ब्रिटेन का प्रयास था, जिसमें वास्तविक स्वतंत्रता नहीं दी गई।",
+    "कांग्रेस का अस्वीकार पूर्ण स्वतंत्रता की उसकी अडिग माँग को दर्शाता है।",
+    "मुस्लिम लीग का स्वागत सांप्रदायिक विभाजन की गहराई को दिखाता है।",
+    "इसने गांधीजी के व्यक्तिगत सत्याग्रह (1940) और आगे की संवैधानिक गतिरोध की पृष्ठभूमि बनाई।"
+  ]
+},
+{
+  "heading": "Individual Satyagraha (1940–41)",
+  "headingHindi": "व्यक्तिगत सत्याग्रह (1940–41)",
+  "highlight": "The Individual Satyagraha was launched by Gandhi in October 1940 as a limited movement to affirm Indians’ right to free speech and oppose India’s forced participation in World War II. Unlike mass movements, it was designed as a symbolic protest, starting with Vinoba Bhave and later Jawaharlal Nehru.",
+  "highlightHindi": "व्यक्तिगत सत्याग्रह गांधीजी ने अक्टूबर 1940 में शुरू किया। इसका उद्देश्य भारतीयों के स्वतंत्र भाषण के अधिकार को स्थापित करना और द्वितीय विश्व युद्ध में भारत की जबरन भागीदारी का विरोध करना था। यह जन-आंदोलन नहीं बल्कि प्रतीकात्मक विरोध था, जिसकी शुरुआत विनोबा भावे और बाद में नेहरू ने की।",
+  "details": [
+    "## Background:",
+    "• Launched after the failure of the August Offer (1940).",
+    "• Gandhi rejected immediate mass struggle fearing repression and communal tensions.",
+    "• Chose limited, symbolic protests to demonstrate opposition to British war policy.",
+    "## Objectives:",
+    "• Affirm Indians’ right to free expression against unjust war involvement.",
+    "• Show non-violent defiance while avoiding violent repression.",
+    "• Keep the spirit of resistance alive until conditions were ripe for a mass movement.",
+    "## Course of the Movement:",
+    "• Launched on 17 October 1940.",
+    "• First satyagrahi: Vinoba Bhave.",
+    "• Second satyagrahi: Jawaharlal Nehru.",
+    "• Other prominent satyagrahis: Brahma Datt, Achyut Patwardhan, Jayaprakash Narayan, Ram Manohar Lohia.",
+    "• Each satyagrahi would speak publicly against war, court arrest, and be replaced by another.",
+    "• By May 1941, around 25,000 satyagrahis had been arrested.",
+    "## Features:",
+    "• Unlike Non-Cooperation or Civil Disobedience, it was not a mass movement.",
+    "• Focused on symbolic, disciplined, non-violent protest.",
+    "• Allowed Congress to maintain political initiative without risking full-scale repression.",
+    "## Outcome:",
+    "• Did not force major British concessions.",
+    "• Kept nationalist movement alive during wartime.",
+    "• Demonstrated Gandhi’s cautious approach, preparing ground for Quit India Movement (1942)."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि:",
+    "• अगस्त प्रस्ताव (1940) की विफलता के बाद शुरू हुआ।",
+    "• गांधीजी ने दमन और सांप्रदायिक तनाव के डर से तत्काल जन-आंदोलन को टाल दिया।",
+    "• सीमित और प्रतीकात्मक विरोध चुना ताकि ब्रिटिश युद्ध नीति के खिलाफ असहमति दिखाई जा सके।",
+    "## उद्देश्य:",
+    "• अन्यायपूर्ण युद्ध भागीदारी के खिलाफ भारतीयों के स्वतंत्र अभिव्यक्ति अधिकार को स्थापित करना।",
+    "• अहिंसक अवज्ञा दिखाना, हिंसक दमन से बचना।",
+    "• जन-आंदोलन की तैयारी तक प्रतिरोध की भावना को जीवित रखना।",
+    "## आंदोलन की प्रगति:",
+    "• 17 अक्टूबर 1940 को शुरू हुआ।",
+    "• प्रथम सत्याग्रही: विनोबा भावे।",
+    "• द्वितीय सत्याग्रही: जवाहरलाल नेहरू।",
+    "• अन्य प्रमुख सत्याग्रही: ब्रह्मा दत्त, अच्युत पटवर्धन, जयप्रकाश नारायण, राम मनोहर लोहिया।",
+    "• प्रत्येक सत्याग्रही सार्वजनिक रूप से युद्ध के खिलाफ भाषण देता, गिरफ्तारी देता और फिर नया सत्याग्रही उसकी जगह लेता।",
+    "• मई 1941 तक लगभग 25,000 सत्याग्रही गिरफ्तार हुए।",
+    "## विशेषताएँ:",
+    "• असहयोग या सविनय अवज्ञा की तरह यह जन-आंदोलन नहीं था।",
+    "• प्रतीकात्मक, अनुशासित और अहिंसक विरोध पर आधारित।",
+    "• कांग्रेस ने पूर्ण दमन का खतरा लिए बिना राजनीतिक पहल बनाए रखी।",
+    "## परिणाम:",
+    "• ब्रिटिशों से बड़े वादे नहीं मिले।",
+    "• युद्धकाल में राष्ट्रवादी आंदोलन को जीवित रखा।",
+    "• गांधीजी की सावधानीपूर्ण रणनीति को दिखाया, जिसने भारत छोड़ो आंदोलन (1942) की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Key Facts: Individual Satyagraha (1940–41)",
+      "titleHindi": "मुख्य तथ्य: व्यक्तिगत सत्याग्रह (1940–41)",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Launch Date", "17 October 1940"],
+        ["First Satyagrahi", "Vinoba Bhave"],
+        ["Second Satyagrahi", "Jawaharlal Nehru"],
+        ["Method", "Symbolic public speeches against war → arrest"],
+        ["Arrests", "Around 25,000 by May 1941"],
+        ["Outcome", "Kept nationalist momentum; prepared ground for Quit India"]
+      ],
+      "rowsHindi": [
+        ["प्रारंभ तिथि", "17 अक्टूबर 1940"],
+        ["प्रथम सत्याग्रही", "विनोबा भावे"],
+        ["द्वितीय सत्याग्रही", "जवाहरलाल नेहरू"],
+        ["विधि", "युद्ध विरोधी सार्वजनिक भाषण → गिरफ्तारी"],
+        ["गिरफ्तारी", "मई 1941 तक लगभग 25,000"],
+        ["परिणाम", "राष्ट्रवादी गति जीवित रखी; भारत छोड़ो की नींव रखी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Launched: 17 October 1940.",
+    "First Satyagrahi: Vinoba Bhave.",
+    "Second Satyagrahi: Jawaharlal Nehru.",
+    "About 25,000 arrested by 1941.",
+    "Symbolic protest → led to Quit India Movement (1942)."
+  ],
+  "prelimsTipsHindi": [
+    "प्रारंभ: 17 अक्टूबर 1940।",
+    "प्रथम सत्याग्रही: विनोबा भावे।",
+    "द्वितीय सत्याग्रही: जवाहरलाल नेहरू।",
+    "1941 तक लगभग 25,000 गिरफ्तार।",
+    "प्रतीकात्मक विरोध → भारत छोड़ो आंदोलन (1942) की पृष्ठभूमि।"
+  ],
+  "funFacts": [
+    "Gandhi chose Vinoba Bhave as the first satyagrahi to emphasize moral purity over political stature.",
+    "Unlike earlier mass movements, this was designed to avoid large-scale repression.",
+    "It was one of the smallest in scale but strategically vital in keeping the freedom struggle alive during WWII."
+  ],
+  "funFactsHindi": [
+    "गांधीजी ने पहले सत्याग्रही के रूप में विनोबा भावे को चुना ताकि नैतिक शुद्धता को राजनीतिक कद से ऊपर रखा जा सके।",
+    "पहले के जन-आंदोलनों के विपरीत, इसे बड़े पैमाने पर दमन से बचाने के लिए डिज़ाइन किया गया था।",
+    "यह आकार में छोटा था लेकिन द्वितीय विश्व युद्ध के दौरान स्वतंत्रता संघर्ष को जीवित रखने में रणनीतिक रूप से महत्वपूर्ण था।"
+  ],
+  "mainsPoints": [
+    "Individual Satyagraha was a tactical protest against British war policy without launching a mass struggle.",
+    "It allowed Congress to demonstrate nationalist resistance while avoiding mass repression.",
+    "It symbolized India’s right to freedom of speech and self-determination.",
+    "Though limited in scale, it sustained nationalist momentum leading to the Quit India Movement (1942)."
+  ],
+  "mainsPointsHindi": [
+    "व्यक्तिगत सत्याग्रह ब्रिटिश युद्ध नीति के खिलाफ सामरिक विरोध था, जन-आंदोलन शुरू किए बिना।",
+    "इससे कांग्रेस को जनदमन से बचते हुए राष्ट्रवादी प्रतिरोध दिखाने का अवसर मिला।",
+    "यह स्वतंत्र अभिव्यक्ति और आत्मनिर्णय के भारत के अधिकार का प्रतीक था।",
+    "हालाँकि यह सीमित पैमाने पर था, लेकिन इसने भारत छोड़ो आंदोलन (1942) की ओर गति बनाए रखी।"
+  ]
+},
+{
+  "heading": "Cripps Mission (1942): Proposals, Response, and Failure",
+  "headingHindi": "क्रिप्स मिशन (1942): प्रस्ताव, प्रतिक्रिया और विफलता",
+  "highlight": "The Cripps Mission of March 1942 was Britain’s last attempt to secure Indian cooperation in World War II by promising Dominion Status after the war and a new Constituent Assembly. While initially seen as a breakthrough, it was rejected by all major political groups, leading to its failure.",
+  "highlightHindi": "मार्च 1942 का क्रिप्स मिशन द्वितीय विश्व युद्ध में भारतीय सहयोग पाने का ब्रिटेन का अंतिम प्रयास था। इसमें युद्ध के बाद डोमिनियन स्टेटस और नई संविधान सभा का वादा किया गया। इसे शुरुआत में महत्वपूर्ण माना गया, लेकिन सभी प्रमुख राजनीतिक दलों ने इसे अस्वीकार कर दिया और यह विफल हो गया।",
+  "details": [
+    "## Background:",
+    "• Japan’s entry into WWII (1941) and fall of Rangoon (1942) increased British urgency for Indian support.",
+    "• Sir Stafford Cripps, a Labour Party leader, was sent to India in March 1942 to negotiate with Indian leaders.",
+    "## Main Proposals of Cripps Mission:",
+    "• Dominion Status to India after WWII.",
+    "• A Constituent Assembly to frame the new Constitution, elected partly by provincial assemblies and partly nominated by princes.",
+    "• Provinces had the right to not join the Union and form separate Constitutions → implied possible partition.",
+    "• Defence would remain under British control during the war.",
+    "• Indians to be immediately taken into Viceroy’s Executive Council.",
+    "## Nationalist Response:",
+    "## Congress:",
+    "– Rejected proposals; Nehru and Gandhi opposed provision allowing provinces to secede (seen as partition).",
+    "– Gandhi called it 'a post-dated cheque on a failing bank' (similar to August Offer).",
+    "– Demanded immediate transfer of power, not post-war promises.",
+    "## Muslim League:",
+    "– Opposed as it did not guarantee Pakistan.",
+    "– Wanted explicit recognition of 'Two-Nation Theory'.",
+    "## Hindu Mahasabha:",
+    "– Opposed idea of provinces opting out; feared disintegration of India.",
+    "• Princes:",
+    "– Welcomed, as it gave them option to remain outside Indian Union.",
+    "• Liberals:",
+    "– Accepted in principle but disappointed at vague timelines.",
+    "## Reasons for Failure:",
+    "• No immediate transfer of power → only post-war promise.",
+    "• 'Right of provinces to secede' alienated Congress.",
+    "• Absence of explicit Pakistan guarantee alienated Muslim League.",
+    "• Defence under British control during war seen as unacceptable.",
+    "• British Government unwilling to concede real authority.",
+    "## Significance:",
+    "• Failure convinced Gandhi that further negotiations were useless.",
+    "• Set stage for the Quit India Movement (August 1942)."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि:",
+    "• जापान के युद्ध में प्रवेश (1941) और रंगून के पतन (1942) से ब्रिटेन पर भारतीय समर्थन की आवश्यकता बढ़ी।",
+    "• मार्च 1942 में लेबर पार्टी नेता सर स्टैफर्ड क्रिप्स को भारतीय नेताओं से वार्ता हेतु भेजा गया।",
+    "## क्रिप्स मिशन के मुख्य प्रस्ताव:",
+    "• युद्ध के बाद भारत को डोमिनियन स्टेटस।",
+    "• नई संविधान सभा का गठन, प्रांतीय विधानसभाओं द्वारा आंशिक चुनाव और रियासतों द्वारा नामांकन।",
+    "• प्रांतों को संघ में शामिल न होने और अलग संविधान बनाने का अधिकार → विभाजन की संभावना।",
+    "• युद्धकाल में रक्षा ब्रिटिश नियंत्रण में रहेगी।",
+    "• वायसराय की कार्यकारी परिषद में तुरंत भारतीयों को शामिल किया जाएगा।",
+    "राष्ट्रवादी प्रतिक्रिया:",
+    "## कांग्रेस:",
+    "– प्रस्ताव अस्वीकार; नेहरू और गांधी ने प्रांतों को अलग होने के अधिकार का विरोध किया।",
+    "– गांधीजी: इसे 'डूबते बैंक पर पोस्ट-डेटेड चेक' कहा (अगस्त प्रस्ताव जैसा)।",
+    "– तत्काल सत्ता हस्तांतरण की माँग की।",
+    "## मुस्लिम लीग:",
+    "– विरोध किया क्योंकि पाकिस्तान की गारंटी नहीं थी।",
+    "– 'दो राष्ट्र सिद्धांत' की स्पष्ट मान्यता चाही।",
+    "• हिन्दू महासभा:",
+    "– प्रांतों को अलग होने की अनुमति का विरोध किया; भारत के विघटन का डर।",
+    "## रियासतें:",
+    "– स्वागत किया, क्योंकि उन्हें संघ से बाहर रहने का विकल्प मिला।",
+    "• उदारवादी:",
+    "– सिद्धांततः स्वीकार, लेकिन समयसीमा स्पष्ट न होने से निराश।",
+    "## विफलता के कारण:",
+    "• तत्काल सत्ता हस्तांतरण का अभाव → केवल युद्धोत्तर वादा।",
+    "• 'प्रांतों को अलग होने का अधिकार' → कांग्रेस को अस्वीकार्य।",
+    "• पाकिस्तान की स्पष्ट गारंटी का अभाव → मुस्लिम लीग को अस्वीकार्य।",
+    "• युद्धकाल में रक्षा पर ब्रिटिश नियंत्रण अस्वीकार्य।",
+    "• ब्रिटिश सरकार वास्तविक सत्ता देने को तैयार नहीं थी।",
+    "## महत्व:",
+    "• विफलता ने गांधीजी को आश्वस्त किया कि अब वार्ता बेकार है।",
+    "• भारत छोड़ो आंदोलन (अगस्त 1942) की पृष्ठभूमि बनी।"
+  ],
+  "tables": [
+    {
+      "title": "Cripps Mission 1942: Proposals and Responses",
+      "titleHindi": "क्रिप्स मिशन 1942: प्रस्ताव और प्रतिक्रियाएँ",
+      "columns": ["Proposal", "Response"],
+      "columnsHindi": ["प्रस्ताव", "प्रतिक्रिया"],
+      "rows": [
+        ["Dominion Status after WWII", "Congress: Wanted immediate independence"],
+        ["Constituent Assembly", "Accepted in principle but not immediate"],
+        ["Right of Provinces to Secede", "Congress opposed; Muslim League wanted Pakistan explicitly"],
+        ["Defence under British control", "Rejected by Congress"],
+        ["Inclusion of Indians in Viceroy’s Council", "Seen as token concession"]
+      ],
+      "rowsHindi": [
+        ["युद्ध के बाद डोमिनियन स्टेटस", "कांग्रेस: तत्काल स्वतंत्रता चाहती थी"],
+        ["संविधान सभा", "सिद्धांततः स्वीकार, परंतु तत्काल नहीं"],
+        ["प्रांतों को अलग होने का अधिकार", "कांग्रेस विरोधी; मुस्लिम लीग पाकिस्तान की स्पष्ट माँग"],
+        ["रक्षा ब्रिटिश नियंत्रण में", "कांग्रेस ने अस्वीकार किया"],
+        ["वायसराय की परिषद में भारतीय शामिल", "केवल प्रतीकात्मक रियायत मानी गई"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Cripps Mission sent in March 1942 under Sir Stafford Cripps.",
+    "Promised Dominion Status and a Constituent Assembly after WWII.",
+    "Allowed provinces to opt out of Union → implied partition.",
+    "Rejected by both Congress (no immediate independence) and Muslim League (no Pakistan guarantee)."
+  ],
+  "prelimsTipsHindi": [
+    "क्रिप्स मिशन मार्च 1942 में सर स्टैफर्ड क्रिप्स के नेतृत्व में भेजा गया।",
+    "युद्ध के बाद डोमिनियन स्टेटस और संविधान सभा का वादा।",
+    "प्रांतों को संघ से बाहर रहने का अधिकार → विभाजन की संभावना।",
+    "कांग्रेस (तत्काल स्वतंत्रता नहीं) और मुस्लिम लीग (पाकिस्तान की गारंटी नहीं) दोनों ने अस्वीकार किया।"
+  ],
+  "funFacts": [
+    "Cripps was considered a friend of India and came with liberal intentions, but his hands were tied by Churchill’s government.",
+    "Gandhi famously dismissed the proposals as another 'post-dated cheque'.",
+    "Failure of the mission directly triggered Quit India Movement in August 1942."
+  ],
+  "funFactsHindi": [
+    "क्रिप्स को भारत का मित्र माना जाता था और वे उदार भावनाओं से आए थे, लेकिन चर्चिल सरकार ने उन्हें सीमित कर दिया।",
+    "गांधीजी ने इसे प्रसिद्ध रूप से 'डूबते बैंक पर पोस्ट-डेटेड चेक' कहा।",
+    "मिशन की विफलता ने सीधे भारत छोड़ो आंदोलन (अगस्त 1942) को जन्म दिया।"
+  ],
+  "mainsPoints": [
+    "Cripps Mission was Britain’s last attempt to win Indian cooperation in WWII.",
+    "Its failure highlighted irreconcilable differences between Congress and Muslim League.",
+    "Provisions for provincial secession laid seeds for partition.",
+    "Marked the final breakdown of negotiations and prepared ground for Quit India Movement (1942)."
+  ],
+  "mainsPointsHindi": [
+    "क्रिप्स मिशन द्वितीय विश्व युद्ध में भारतीय सहयोग पाने का ब्रिटेन का अंतिम प्रयास था।",
+    "इसकी विफलता ने कांग्रेस और मुस्लिम लीग के बीच असमझौता मतभेदों को उजागर किया।",
+    "प्रांतों के अलग होने का प्रावधान विभाजन की नींव बना।",
+    "इसने वार्ताओं का अंतिम टूटना दिखाया और भारत छोड़ो आंदोलन (1942) की पृष्ठभूमि बनाई।"
+  ]
+},
+    ],
+    "Chapter 19: Period from 1942-47": [
+      {
+  "heading": "Quit India Movement (1942)",
+  "headingHindi": "भारत छोड़ो आंदोलन (1942)",
+  "highlight": "The Quit India Movement was launched by Gandhi and the Congress in August 1942 after the failure of the Cripps Mission. It was a mass struggle demanding immediate British withdrawal from India, with Gandhi’s slogan 'Do or Die'.",
+  "highlightHindi": "भारत छोड़ो आंदोलन अगस्त 1942 में गांधीजी और कांग्रेस द्वारा क्रिप्स मिशन की विफलता के बाद शुरू किया गया। यह एक जन-संघर्ष था जिसमें तत्काल ब्रिटिश प्रस्थान की माँग की गई और गांधीजी ने 'करो या मरो' का नारा दिया।",
+  "details": [
+    "## Background",
+    "• Cripps Mission (1942) failed as its proposals were rejected by both Congress and Muslim League.",
+    "• Japanese victories in Southeast Asia raised fears of invasion of India.",
+    "• Popular discontent due to war-time shortages, rising prices, and repressive policies.",
+    "• Gandhi concluded that further negotiations with the British were futile.",
+    "• The Congress Working Committee met at Wardha (July 1942) and passed the Quit India resolution.",
+    "• The All India Congress Committee ratified the resolution at Bombay on 8 August 1942 under Gandhi’s leadership.",
+    "• Gandhi gave the famous call of 'Do or Die'.",
+    "## Gandhi’s General Instructions to Different Sections",
+    "• Students: To leave schools and colleges and join the movement.",
+    "• Peasants: To refuse to pay land revenue.",
+    "• Soldiers: Not to fire on Indians but to refuse obedience to repressive orders.",
+    "• Government servants: To openly declare allegiance to Congress and not to resign immediately but work as patriots within the system.",
+    "• Princes: To support the people’s movement and accept democratic reforms.",
+    "• People in general: To continue with non-violent struggle in all circumstances.",
+    "## Reasons that Led to Quit India Movement",
+    "• Failure of Cripps Mission and British refusal to concede immediate independence.",
+    "• Growing anger over economic hardships: inflation, shortage of food, and war-time controls.",
+    "• Japanese advancement in Asia created urgency for ending colonial rule in India.",
+    "• Disillusionment with British promises and policies.",
+    "• Growing impatience among masses and pressure on Congress leadership to act decisively."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• क्रिप्स मिशन (1942) विफल रहा क्योंकि इसके प्रस्तावों को कांग्रेस और मुस्लिम लीग दोनों ने अस्वीकार किया।",
+    "• दक्षिण-पूर्व एशिया में जापान की जीतों से भारत पर आक्रमण का भय बढ़ा।",
+    "• युद्धकालीन कमी, महँगाई और दमनकारी नीतियों से जन-असंतोष बढ़ा।",
+    "• गांधीजी ने निष्कर्ष निकाला कि ब्रिटिशों से आगे वार्ता बेकार है।",
+    "• जुलाई 1942 में वर्धा में कांग्रेस कार्यसमिति ने भारत छोड़ो प्रस्ताव पारित किया।",
+    "• 8 अगस्त 1942 को बंबई में अखिल भारतीय कांग्रेस समिति ने गांधीजी के नेतृत्व में प्रस्ताव को मंजूरी दी।",
+    "• गांधीजी ने 'करो या मरो' का नारा दिया।",
+    "## गांधीजी के विभिन्न वर्गों को निर्देश",
+    "• विद्यार्थी: स्कूल और कॉलेज छोड़कर आंदोलन से जुड़ें।",
+    "• किसान: लगान देने से इनकार करें।",
+    "• सैनिक: भारतीयों पर गोली न चलाएँ और दमनकारी आदेशों का पालन न करें।",
+    "• सरकारी कर्मचारी: खुले तौर पर कांग्रेस के प्रति निष्ठा जताएँ; तुरंत इस्तीफा न दें, बल्कि व्यवस्था के भीतर देशभक्त बनकर काम करें।",
+    "• राजा-महाराजा: जन-आंदोलन का समर्थन करें और लोकतांत्रिक सुधार स्वीकार करें।",
+    "• आम जनता: हर परिस्थिति में अहिंसक संघर्ष जारी रखें।",
+    "## आंदोलन के पीछे कारण",
+    "• क्रिप्स मिशन की विफलता और ब्रिटिशों द्वारा तत्काल स्वतंत्रता देने से इनकार।",
+    "• आर्थिक कठिनाइयों पर जन-क्रोध: महँगाई, खाद्य संकट और युद्धकालीन नियंत्रण।",
+    "• एशिया में जापानी प्रगति ने भारत में औपनिवेशिक शासन समाप्त करने की तात्कालिकता पैदा की।",
+    "• ब्रिटिश वादों और नीतियों से मोहभंग।",
+    "• जन-सामान्य में अधीरता और कांग्रेस नेतृत्व पर निर्णायक कदम उठाने का दबाव।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of Quit India Movement (1942)",
+      "titleHindi": "भारत छोड़ो आंदोलन (1942) के मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Launch", "8 August 1942, Bombay session of AICC"],
+        ["Leader", "Mahatma Gandhi ('Do or Die')"],
+        ["Nature", "Mass movement with instructions for all sections of society"],
+        ["Immediate Cause", "Failure of Cripps Mission and WWII crisis"],
+        ["Strategy", "Non-violent struggle but decentralized and spontaneous action"]
+      ],
+      "rowsHindi": [
+        ["शुरुआत", "8 अगस्त 1942, बंबई में अखिल भारतीय कांग्रेस समिति का अधिवेशन"],
+        ["नेतृत्व", "महात्मा गांधी ('करो या मरो')"],
+        ["स्वरूप", "समाज के सभी वर्गों के लिए निर्देशों सहित जन-आंदोलन"],
+        ["तत्काल कारण", "क्रिप्स मिशन की विफलता और द्वितीय विश्व युद्ध का संकट"],
+        ["रणनीति", "अहिंसक संघर्ष लेकिन विकेंद्रीकृत और स्वतःस्फूर्त कार्रवाई"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Quit India Movement launched on 8 August 1942 at Bombay.",
+    "Gandhi’s slogan: 'Do or Die'.",
+    "Movement followed the failure of Cripps Mission (1942).",
+    "Students, peasants, soldiers, princes, and government servants were given separate instructions."
+  ],
+  "prelimsTipsHindi": [
+    "भारत छोड़ो आंदोलन 8 अगस्त 1942 को बंबई में शुरू हुआ।",
+    "गांधीजी का नारा: 'करो या मरो'।",
+    "यह आंदोलन क्रिप्स मिशन (1942) की विफलता के बाद हुआ।",
+    "विद्यार्थी, किसान, सैनिक, राजा-महाराजा और सरकारी कर्मचारियों को अलग-अलग निर्देश दिए गए।"
+  ],
+  "funFacts": [
+    "The Quit India resolution was passed at the Gowalia Tank Maidan in Bombay, now known as 'August Kranti Maidan'.",
+    "Gandhi insisted on absolute non-violence, but the movement turned partly violent due to spontaneous mass upsurge.",
+    "Within 24 hours of launch, most Congress leaders were arrested, leaving the movement leaderless but highly decentralized."
+  ],
+  "funFactsHindi": [
+    "भारत छोड़ो प्रस्ताव बंबई के गोवालिया टैंक मैदान में पारित हुआ, जिसे आज 'अगस्त क्रांति मैदान' कहते हैं।",
+    "गांधीजी ने पूर्ण अहिंसा पर जोर दिया, लेकिन जन-उभार के कारण आंदोलन आंशिक रूप से हिंसक हो गया।",
+    "शुरुआत के 24 घंटे में ही अधिकांश कांग्रेस नेता गिरफ्तार कर लिए गए, जिससे आंदोलन नेता-विहीन लेकिन विकेंद्रीकृत हो गया।"
+  ],
+  "mainsPoints": [
+    "The Quit India Movement represented the final mass upsurge against British rule.",
+    "Gandhi’s clear call of 'Do or Die' gave the movement revolutionary character.",
+    "British repression was swift, but the decentralized nature made the movement spread widely.",
+    "It marked the political determination that independence could no longer be delayed."
+  ],
+  "mainsPointsHindi": [
+    "भारत छोड़ो आंदोलन ब्रिटिश शासन के खिलाफ अंतिम जन-उभार था।",
+    "'करो या मरो' का गांधीजी का आह्वान आंदोलन को क्रांतिकारी स्वरूप देता है।",
+    "ब्रिटिश दमन तीव्र था, लेकिन विकेंद्रीकृत स्वरूप ने आंदोलन को व्यापक बनाया।",
+    "यह राजनीतिक संकल्प का प्रतीक था कि अब स्वतंत्रता और विलंबित नहीं हो सकती।"
+  ]
+},
+{
+  "heading": "Quit India Movement (1942–44): Course and Suppression",
+  "headingHindi": "भारत छोड़ो आंदोलन (1942–44): क्रम और दमन",
+  "highlight": "The Quit India Movement began on 9 August 1942 with the arrest of national leaders, leading to a spontaneous mass uprising. Despite brutal repression, strikes, protests, and underground activities continued until 1944, keeping the demand for independence alive.",
+  "highlightHindi": "भारत छोड़ो आंदोलन 9 अगस्त 1942 को राष्ट्रीय नेताओं की गिरफ्तारी से शुरू हुआ, जिसने स्वतःस्फूर्त जन-उभार को जन्म दिया। कड़े दमन के बावजूद 1944 तक हड़तालें, प्रदर्शन और भूमिगत गतिविधियाँ चलती रहीं और स्वतंत्रता की माँग जीवित रही।",
+  "details": [
+    "## Immediate Suppression",
+    "• On 9 August 1942, within 24 hours of the Quit India resolution, Gandhi, Nehru, Patel, and other Congress leaders were arrested.",
+    "• Congress was declared an unlawful organization.",
+    "• This left the movement leaderless, turning it into a spontaneous and decentralized uprising.",
+    "## Course of the Movement",
+    "• Strikes and demonstrations erupted across cities and towns.",
+    "• Students boycotted classes, hoisted tricolour flags, and clashed with police.",
+    "• Workers organized strikes in mills, factories, and railways.",
+    "• Peasants in rural areas attacked police stations, revenue offices, and symbols of colonial authority.",
+    "• Parallel governments were set up in some districts: Satara (Maharashtra), Ballia (U.P.), and Tamluk (Bengal).",
+    "• Underground networks led by leaders like Aruna Asaf Ali, Usha Mehta, Jayaprakash Narayan, and Ram Manohar Lohia spread nationalist propaganda, circulated bulletins, and ran secret radio stations.",
+    "## British Repression",
+    "• Military and police used brutal force: mass arrests, public floggings, shootings.",
+    "• Around 10,000 people killed in police firing.",
+    "• 60,000+ imprisoned, including women and students.",
+    "• Collective fines imposed on villages; aerial machine-gunning used in some areas.",
+    "## Decline",
+    "• By mid-1943, the open phase of the movement declined due to severe repression.",
+    "• Underground resistance continued until 1944 but weakened gradually.",
+    "• Despite suppression, it showed the depth of nationalist resolve.",
+    "## Significance",
+    "• Last and most widespread mass movement before independence.",
+    "• Demonstrated unity of students, workers, peasants, and underground leaders.",
+    "• Shook the foundations of British rule, making post-war independence inevitable."
+  ],
+  "detailsHindi": [
+    "## तत्काल दमन",
+    "• 9 अगस्त 1942 को, भारत छोड़ो प्रस्ताव के 24 घंटे के भीतर, गांधी, नेहरू, पटेल और अन्य कांग्रेस नेताओं को गिरफ्तार कर लिया गया।",
+    "• कांग्रेस को अवैध संगठन घोषित कर दिया गया।",
+    "• आंदोलन नेता-विहीन होकर स्वतःस्फूर्त और विकेंद्रीकृत जन-उभार बन गया।",
+    "## आंदोलन की प्रगति",
+    "• शहरों और कस्बों में हड़तालें और प्रदर्शन हुए।",
+    "• विद्यार्थियों ने कक्षाएँ छोड़ीं, तिरंगा फहराया और पुलिस से भिड़े।",
+    "• मजदूरों ने मिलों, कारखानों और रेलों में हड़ताल की।",
+    "• ग्रामीण क्षेत्रों में किसानों ने थानों, लगान कार्यालयों और औपनिवेशिक सत्ता के प्रतीकों पर हमले किए।",
+    "• कुछ जिलों में समानांतर सरकारें बनीं: सतारा (महाराष्ट्र), बलिया (यूपी), और तमलुक (बंगाल)।",
+    "• अरुणा आसफ़ अली, उषा मेहता, जयप्रकाश नारायण और राम मनोहर लोहिया जैसे नेताओं ने भूमिगत नेटवर्क से प्रचार चलाया, बुलेटिन वितरित किए और गुप्त रेडियो स्टेशन चलाए।",
+    "## ब्रिटिश दमन",
+    "• सेना और पुलिस ने क्रूरतापूर्वक बल प्रयोग किया: सामूहिक गिरफ्तारियाँ, सार्वजनिक कोड़े, गोलीबारी।",
+    "• लगभग 10,000 लोग पुलिस गोलीबारी में मारे गए।",
+    "• 60,000+ गिरफ्तार, जिनमें महिलाएँ और छात्र भी शामिल।",
+    "• गाँवों पर सामूहिक जुर्माने लगाए गए; कुछ जगह हवाई मशीनगन का इस्तेमाल हुआ।",
+    "## पतन",
+    "• 1943 के मध्य तक तीव्र दमन से आंदोलन का खुला चरण कमजोर पड़ गया।",
+    "• 1944 तक भूमिगत प्रतिरोध जारी रहा लेकिन धीरे-धीरे कमजोर हुआ।",
+    "• दमन के बावजूद, इसने राष्ट्रवादी संकल्प की गहराई दिखाई।",
+    "## महत्व",
+    "• स्वतंत्रता से पहले का अंतिम और सबसे व्यापक जन-आंदोलन।",
+    "• विद्यार्थियों, मजदूरों, किसानों और भूमिगत नेताओं की एकता का प्रदर्शन।",
+    "• ब्रिटिश शासन की नींव हिल गई और स्वतंत्रता युद्धोत्तर काल में अपरिहार्य हो गई।"
+  ],
+  "tables": [
+    {
+      "title": "Quit India Movement: Course and Suppression",
+      "titleHindi": "भारत छोड़ो आंदोलन: क्रम और दमन",
+      "columns": ["Phase", "Key Developments"],
+      "columnsHindi": ["चरण", "मुख्य घटनाएँ"],
+      "rows": [
+        ["Launch (Aug 1942)", "Congress leaders arrested; movement turned leaderless and spontaneous"],
+        ["Mass Uprising", "Strikes, protests, student boycotts, rural revolts, parallel governments"],
+        ["Underground Phase", "Secret radio, pamphlets, leaders like Aruna Asaf Ali, Usha Mehta active"],
+        ["Repression", "10,000 killed, 60,000+ jailed, aerial machine-gunning, fines"],
+        ["Decline (1943–44)", "Suppressed by British; underground resistance till 1944"]
+      ],
+      "rowsHindi": [
+        ["शुरुआत (अगस्त 1942)", "कांग्रेस नेताओं की गिरफ्तारी; आंदोलन स्वतःस्फूर्त और विकेंद्रीकृत हुआ"],
+        ["जन-उभार", "हड़तालें, प्रदर्शन, छात्र बहिष्कार, ग्रामीण विद्रोह, समानांतर सरकारें"],
+        ["भूमिगत चरण", "गुप्त रेडियो, पर्चे, अरुणा आसफ़ अली और उषा मेहता जैसे नेता सक्रिय"],
+        ["दमन", "10,000 मरे, 60,000+ गिरफ्तार, हवाई मशीनगन, जुर्माने"],
+        ["पतन (1943–44)", "ब्रिटिशों द्वारा दबा दिया गया; 1944 तक भूमिगत प्रतिरोध"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Quit India launched on 9 August 1942 → leaders arrested within 24 hours.",
+    "Parallel governments: Satara (Maharashtra), Ballia (UP), Tamluk (Bengal).",
+    "Usha Mehta operated a secret radio during the movement.",
+    "Around 10,000 killed and 60,000+ arrested."
+  ],
+  "prelimsTipsHindi": [
+    "भारत छोड़ो आंदोलन 9 अगस्त 1942 को शुरू हुआ → 24 घंटे में नेता गिरफ्तार।",
+    "समानांतर सरकारें: सतारा (महाराष्ट्र), बलिया (यूपी), तमलुक (बंगाल)।",
+    "उषा मेहता ने गुप्त रेडियो चलाया।",
+    "लगभग 10,000 मरे और 60,000+ गिरफ्तार।"
+  ],
+  "funFacts": [
+    "The tricolour hoisted by Aruna Asaf Ali at Gowalia Tank Maidan became an iconic symbol of defiance.",
+    "Usha Mehta’s secret radio broadcast messages starting with 'Congress Radio calling…' to inspire people.",
+    "The British used even fighter planes and machine guns to suppress rural revolts."
+  ],
+  "funFactsHindi": [
+    "अरुणा आसफ़ अली द्वारा गोवालिया टैंक मैदान में फहराया गया तिरंगा विद्रोह का प्रतीक बना।",
+    "उषा मेहता के गुप्त रेडियो ने 'कांग्रेस रेडियो कॉलिंग…' संदेशों से जनता को प्रेरित किया।",
+    "ग्रामीण विद्रोहों को दबाने के लिए ब्रिटिशों ने लड़ाकू विमान और मशीनगन तक का इस्तेमाल किया।"
+  ],
+  "mainsPoints": [
+    "Quit India Movement was unique for its spontaneity and decentralization after Congress leaders’ arrest.",
+    "It saw participation across students, workers, peasants, and underground activists.",
+    "British repression was brutal, showing colonial desperation.",
+    "Although suppressed, it signaled that British rule could not continue post-war."
+  ],
+  "mainsPointsHindi": [
+    "भारत छोड़ो आंदोलन नेताओं की गिरफ्तारी के बाद स्वतःस्फूर्त और विकेंद्रीकृत स्वरूप के कारण अनोखा था।",
+    "इसमें छात्रों, मजदूरों, किसानों और भूमिगत कार्यकर्ताओं की भागीदारी रही।",
+    "ब्रिटिश दमन अत्यंत क्रूर था, जिसने औपनिवेशिक शासन की हताशा दिखाई।",
+    "दमन के बावजूद यह स्पष्ट संकेत था कि युद्धोत्तर काल में ब्रिटिश शासन जारी नहीं रह सकता।"
+  ]
+},
+{
+  "heading": "Quit India Movement (1942): Significance and Legacy",
+  "headingHindi": "भारत छोड़ो आंदोलन (1942): महत्व और विरासत",
+  "highlight": "The Quit India Movement was the last great mass struggle under Gandhi’s leadership. Though brutally suppressed, it marked the point of no return for British rule in India and inspired a new phase of nationalist determination.",
+  "highlightHindi": "भारत छोड़ो आंदोलन गांधीजी के नेतृत्व में अंतिम बड़ा जन-संघर्ष था। भले ही इसे क्रूरता से दबा दिया गया, लेकिन इसने भारत में ब्रिटिश शासन के लिए वापसी का मार्ग बंद कर दिया और राष्ट्रवादी संकल्प के नए चरण को प्रेरित किया।",
+  "details": [
+    "## Political Significance",
+    "• Marked the final nationwide upsurge against British rule before independence.",
+    "• Demonstrated that Indians would settle for nothing less than complete independence.",
+    "• Decentralized nature showed that the freedom struggle no longer depended only on Congress leadership.",
+    "• British realized that their rule could not be sustained after the war.",
+    "## Social and Mass Mobilization",
+    "• Students, peasants, workers, women, and underground activists participated in large numbers.",
+    "• Women like Aruna Asaf Ali, Usha Mehta, and Sucheta Kripalani emerged as key leaders.",
+    "• Spread nationalism into villages and small towns beyond elite circles.",
+    "## International Impact",
+    "• British repression weakened their moral legitimacy while fighting for democracy in WWII.",
+    "• Global pressure grew against colonial rule as India’s independence demand gained international attention.",
+    "## Legacy",
+    "• Though suppressed, the movement created a psychological shift – independence was now seen as imminent.",
+    "• Inspired underground revolutionary activities, secret radios, and parallel governments.",
+    "• Strengthened youth and leftist participation in politics.",
+    "• Directly paved the way for post-war negotiations, INA trials, and eventual independence in 1947."
+  ],
+  "detailsHindi": [
+    "## राजनीतिक महत्व",
+    "• स्वतंत्रता से पहले का अंतिम सर्वव्यापी जन-उभार।",
+    "• दिखाया कि भारतीय अब पूर्ण स्वतंत्रता से कम पर समझौता नहीं करेंगे।",
+    "• विकेंद्रीकृत स्वरूप ने दिखाया कि आंदोलन केवल कांग्रेस नेतृत्व पर निर्भर नहीं था।",
+    "• ब्रिटिश समझ गए कि युद्ध के बाद उनका शासन टिक नहीं पाएगा।",
+    "## सामाजिक और जन-सक्रियता",
+    "• छात्रों, किसानों, मजदूरों, महिलाओं और भूमिगत कार्यकर्ताओं ने बड़े पैमाने पर भाग लिया।",
+    "• अरुणा आसफ़ अली, उषा मेहता और सुचेता कृपलानी जैसी महिलाएँ अग्रणी बनीं।",
+    "• राष्ट्रवाद गाँवों और कस्बों तक पहुँचा, अभिजात वर्ग से परे फैला।",
+    "## अंतर्राष्ट्रीय प्रभाव",
+    "• ब्रिटिश दमन ने उनकी नैतिक वैधता कमजोर की जबकि वे द्वितीय विश्व युद्ध में लोकतंत्र के लिए लड़ रहे थे।",
+    "• भारत की स्वतंत्रता की माँग को अंतर्राष्ट्रीय स्तर पर ध्यान और समर्थन मिला।",
+    "## विरासत",
+    "• दमन के बावजूद, आंदोलन ने मनोवैज्ञानिक बदलाव पैदा किया – स्वतंत्रता अब निकट मानी जाने लगी।",
+    "• भूमिगत क्रांतिकारी गतिविधियों, गुप्त रेडियो और समानांतर सरकारों को प्रेरित किया।",
+    "• राजनीति में युवाओं और वामपंथी शक्तियों की भागीदारी मजबूत हुई।",
+    "• सीधे तौर पर युद्धोत्तर वार्ताओं, आईएनए ट्रायल्स और अंततः 1947 की स्वतंत्रता का मार्ग प्रशस्त किया।"
+  ],
+  "tables": [
+    {
+      "title": "Significance of Quit India Movement",
+      "titleHindi": "भारत छोड़ो आंदोलन का महत्व",
+      "columns": ["Dimension", "Impact"],
+      "columnsHindi": ["पहलू", "प्रभाव"],
+      "rows": [
+        ["Political", "Final mass upsurge; British realized independence unavoidable"],
+        ["Social", "Widespread participation of students, peasants, women, workers"],
+        ["International", "Exposed hypocrisy of British fighting fascism while denying India’s freedom"],
+        ["Legacy", "Prepared ground for 1947 independence; strengthened resolve of Indians"]
+      ],
+      "rowsHindi": [
+        ["राजनीतिक", "अंतिम जन-उभार; ब्रिटिश समझ गए कि स्वतंत्रता अपरिहार्य है"],
+        ["सामाजिक", "छात्रों, किसानों, महिलाओं, मजदूरों की व्यापक भागीदारी"],
+        ["अंतर्राष्ट्रीय", "ब्रिटिशों की ढोंग उजागर – फासीवाद से लड़ते हुए भारत को स्वतंत्रता से वंचित करना"],
+        ["विरासत", "1947 की स्वतंत्रता की पृष्ठभूमि; भारतीयों के संकल्प को मजबूत किया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Quit India Movement → 8 August 1942, Bombay (Gowalia Tank/August Kranti Maidan).",
+    "Slogan: 'Do or Die'.",
+    "Parallel Governments: Satara, Ballia, Tamluk.",
+    "Women leaders: Aruna Asaf Ali, Usha Mehta, Sucheta Kripalani."
+  ],
+  "prelimsTipsHindi": [
+    "भारत छोड़ो आंदोलन → 8 अगस्त 1942, बंबई (गोवालिया टैंक/अगस्त क्रांति मैदान)।",
+    "नारा: 'करो या मरो'।",
+    "समानांतर सरकारें: सतारा, बलिया, तमलुक।",
+    "महिला नेता: अरुणा आसफ़ अली, उषा मेहता, सुचेता कृपलानी।"
+  ],
+  "funFacts": [
+    "The British jailed nearly the entire Congress leadership, yet the movement continued spontaneously.",
+    "August Kranti Maidan in Mumbai remains a symbol of India’s freedom struggle.",
+    "Secret 'Congress Radio' broadcast during the movement inspired masses with updates."
+  ],
+  "funFactsHindi": [
+    "ब्रिटिशों ने लगभग पूरे कांग्रेस नेतृत्व को जेल में डाल दिया, फिर भी आंदोलन स्वतःस्फूर्त जारी रहा।",
+    "मुंबई का अगस्त क्रांति मैदान आज भी भारत के स्वतंत्रता संग्राम का प्रतीक है।",
+    "आंदोलन के दौरान गुप्त 'कांग्रेस रेडियो' ने जनता को संदेशों से प्रेरित किया।"
+  ],
+  "mainsPoints": [
+    "Quit India Movement was the final and decisive mass struggle that shook British rule.",
+    "It broadened the social base of nationalism to students, peasants, and women in large numbers.",
+    "Its suppression revealed British desperation and loss of legitimacy.",
+    "Though not successful in immediate terms, it sealed the fate of British colonialism in India."
+  ],
+  "mainsPointsHindi": [
+    "भारत छोड़ो आंदोलन अंतिम और निर्णायक जन-संघर्ष था जिसने ब्रिटिश शासन को हिला दिया।",
+    "इसने राष्ट्रवाद का सामाजिक आधार व्यापक बनाया – छात्रों, किसानों और महिलाओं की बड़ी भागीदारी।",
+    "इसका दमन ब्रिटिशों की हताशा और वैधता खोने का प्रतीक था।",
+    "यद्यपि यह तत्काल सफल नहीं हुआ, लेकिन इसने भारत में ब्रिटिश औपनिवेशिक शासन की समाप्ति सुनिश्चित कर दी।"
+  ]
+},
+{
+  "heading": "Key Events before Quit India Movement (1940–42)",
+  "headingHindi": "भारत छोड़ो आंदोलन से पूर्व की प्रमुख घटनाएँ (1940–42)",
+  "highlight": "The Quit India Movement of 1942 did not arise suddenly; it was preceded by a series of political failures and wartime crises, including the August Offer (1940), Individual Satyagraha (1940–41), and the failed Cripps Mission (1942).",
+  "highlightHindi": "भारत छोड़ो आंदोलन 1942 अचानक शुरू नहीं हुआ; इसके पहले कई राजनीतिक विफलताएँ और युद्धकालीन संकट हुए, जैसे अगस्त प्रस्ताव (1940), व्यक्तिगत सत्याग्रह (1940–41), और असफल क्रिप्स मिशन (1942)।",
+  "details": [
+    "## August Offer (1940)",
+    "• Announced by Viceroy Lord Linlithgow on 8 August 1940.",
+    "• Promised Dominion Status after the war and expansion of councils.",
+    "• Gave minorities the right to veto constitutional changes.",
+    "• Congress rejected it; Gandhi called it 'a post-dated cheque on a crashing bank'.",
+    "• Muslim League welcomed it as recognition of minority rights.",
+    "## Individual Satyagraha (1940–41)",
+    "• Launched by Gandhi in October 1940 as a limited, symbolic protest.",
+    "• Objective: Affirm Indians’ right to oppose India’s forced participation in WWII.",
+    "• First satyagrahi: Vinoba Bhave (October 1940).",
+    "• Second satyagrahi: Jawaharlal Nehru.",
+    "• Around 25,000 arrested by May 1941.",
+    "• Demonstrated controlled resistance while avoiding mass repression.",
+    "## Cripps Mission (1942)",
+    "• Sent under Sir Stafford Cripps in March 1942.",
+    "• Promised Dominion Status after WWII and a Constituent Assembly.",
+    "• Allowed provinces to opt out of the Union → implied partition.",
+    "• Congress rejected due to no immediate transfer of power.",
+    "• Muslim League opposed as Pakistan demand not accepted.",
+    "• Gandhi again dismissed it as 'a post-dated cheque on a failing bank'.",
+    "## Impact of WWII",
+    "• War-time shortages, inflation, and repression increased popular discontent.",
+    "• Japanese victories in Southeast Asia and threat to India created urgency.",
+    "• These crises convinced Gandhi and Congress that only a decisive mass struggle could end colonial rule."
+  ],
+  "detailsHindi": [
+    "## अगस्त प्रस्ताव (1940)",
+    "• 8 अगस्त 1940 को वायसराय लिंलिथगो ने घोषणा की।",
+    "• युद्ध के बाद डोमिनियन स्टेटस और परिषदों के विस्तार का वादा।",
+    "• अल्पसंख्यकों को संवैधानिक परिवर्तनों पर वीटो का अधिकार दिया।",
+    "• कांग्रेस ने अस्वीकार किया; गांधीजी ने कहा 'डूबते बैंक पर पोस्ट-डेटेड चेक'।",
+    "• मुस्लिम लीग ने इसे अल्पसंख्यक अधिकारों की मान्यता मानकर स्वागत किया।",
+    "## व्यक्तिगत सत्याग्रह (1940–41)",
+    "• गांधीजी ने अक्टूबर 1940 में सीमित, प्रतीकात्मक विरोध के रूप में शुरू किया।",
+    "• उद्देश्य: भारत की युद्ध में जबरन भागीदारी का विरोध और अभिव्यक्ति की स्वतंत्रता की पुष्टि।",
+    "• प्रथम सत्याग्रही: विनोबा भावे (अक्टूबर 1940)।",
+    "• द्वितीय सत्याग्रही: जवाहरलाल नेहरू।",
+    "• मई 1941 तक लगभग 25,000 गिरफ्तार।",
+    "• नियंत्रित प्रतिरोध दिखाया गया, जन-दमन से बचा गया।",
+    "## क्रिप्स मिशन (1942)",
+    "• मार्च 1942 में सर स्टैफर्ड क्रिप्स के नेतृत्व में भेजा गया।",
+    "• युद्ध के बाद डोमिनियन स्टेटस और संविधान सभा का वादा।",
+    "• प्रांतों को संघ से बाहर रहने का अधिकार → विभाजन की संभावना।",
+    "• कांग्रेस ने तत्काल सत्ता हस्तांतरण के अभाव में अस्वीकार किया।",
+    "• मुस्लिम लीग ने पाकिस्तान की गारंटी न मिलने पर विरोध किया।",
+    "• गांधीजी: 'डूबते बैंक पर पोस्ट-डेटेड चेक'।",
+    "## द्वितीय विश्व युद्ध का प्रभाव",
+    "• युद्धकालीन कमी, महँगाई और दमन से जन-असंतोष बढ़ा।",
+    "• दक्षिण-पूर्व एशिया में जापानी जीत और भारत पर खतरे ने स्थिति को गंभीर बनाया।",
+    "• इन संकटों ने गांधीजी और कांग्रेस को विश्वास दिलाया कि निर्णायक जन-संघर्ष ही औपनिवेशिक शासन समाप्त कर सकता है।"
+  ],
+  "tables": [
+    {
+      "title": "Key Events Leading to Quit India Movement",
+      "titleHindi": "भारत छोड़ो आंदोलन की पृष्ठभूमि में प्रमुख घटनाएँ",
+      "columns": ["Event", "Year", "Significance"],
+      "columnsHindi": ["घटना", "वर्ष", "महत्व"],
+      "rows": [
+        ["August Offer", "1940", "Dominion Status promised but rejected by Congress"],
+        ["Individual Satyagraha", "1940–41", "Symbolic protest; kept nationalist spirit alive"],
+        ["Cripps Mission", "1942", "Failed negotiations; no immediate independence"],
+        ["WWII Crisis", "1939–42", "Shortages, repression, and Japanese threat created urgency"]
+      ],
+      "rowsHindi": [
+        ["अगस्त प्रस्ताव", "1940", "डोमिनियन स्टेटस का वादा, कांग्रेस ने अस्वीकार किया"],
+        ["व्यक्तिगत सत्याग्रह", "1940–41", "प्रतीकात्मक विरोध; राष्ट्रवादी भावना जीवित रखी"],
+        ["क्रिप्स मिशन", "1942", "वार्ता विफल; तत्काल स्वतंत्रता नहीं मिली"],
+        ["द्वितीय विश्व युद्ध संकट", "1939–42", "कमी, दमन और जापानी खतरे ने तात्कालिकता पैदा की"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "August Offer (1940) → Gandhi called it 'post-dated cheque on a crashing bank'.",
+    "First Individual Satyagrahi: Vinoba Bhave (Oct 1940).",
+    "Cripps Mission (1942) → Provinces allowed to opt out of Union → implied partition.",
+    "Failure of Cripps Mission directly led to Quit India Movement."
+  ],
+  "prelimsTipsHindi": [
+    "अगस्त प्रस्ताव (1940) → गांधीजी ने कहा 'डूबते बैंक पर पोस्ट-डेटेड चेक'।",
+    "प्रथम व्यक्तिगत सत्याग्रही: विनोबा भावे (अक्टूबर 1940)।",
+    "क्रिप्स मिशन (1942) → प्रांतों को संघ से बाहर रहने का अधिकार → विभाजन की संभावना।",
+    "क्रिप्स मिशन की विफलता सीधे भारत छोड़ो आंदोलन की ओर ले गई।"
+  ],
+  "funFacts": [
+    "Both August Offer (1940) and Cripps Mission (1942) were dismissed by Gandhi with the same metaphor of a 'post-dated cheque'.",
+    "The secret Congress Radio (1940–41) inspired people during Individual Satyagraha and later became crucial in Quit India Movement."
+  ],
+  "funFactsHindi": [
+    "गांधीजी ने अगस्त प्रस्ताव (1940) और क्रिप्स मिशन (1942) दोनों को 'पोस्ट-डेटेड चेक' की उपमा दी।",
+    "कांग्रेस रेडियो (1940–41) ने व्यक्तिगत सत्याग्रह के दौरान लोगों को प्रेरित किया और बाद में भारत छोड़ो आंदोलन में महत्वपूर्ण बना।"
+  ],
+  "mainsPoints": [
+    "Quit India Movement was preceded by political failures (August Offer, Cripps Mission) and symbolic protests (Individual Satyagraha).",
+    "WWII created economic hardships and Japanese threat, adding urgency.",
+    "Together these events convinced Congress that only a mass struggle could achieve independence."
+  ],
+  "mainsPointsHindi": [
+    "भारत छोड़ो आंदोलन से पहले राजनीतिक विफलताएँ (अगस्त प्रस्ताव, क्रिप्स मिशन) और प्रतीकात्मक विरोध (व्यक्तिगत सत्याग्रह) हुए।",
+    "द्वितीय विश्व युद्ध ने आर्थिक कठिनाइयाँ और जापानी खतरे पैदा किए।",
+    "इन सबने कांग्रेस को विश्वास दिलाया कि स्वतंत्रता के लिए निर्णायक जन-संघर्ष ही आवश्यक है।"
+  ]
+},
+{
+  "heading": "Parallel Governments during Quit India Movement (1942–44)",
+  "headingHindi": "भारत छोड़ो आंदोलन (1942–44) के दौरान समानांतर सरकारें",
+  "highlight": "During the Quit India Movement, several districts established parallel governments that challenged British authority, the most notable being in Satara (Maharashtra), Ballia (U.P.), and Tamluk (Bengal). They symbolized the people’s resolve for self-rule.",
+  "highlightHindi": "भारत छोड़ो आंदोलन के दौरान कई जिलों में समानांतर सरकारें बनीं, जिनमें प्रमुख थीं सतारा (महाराष्ट्र), बलिया (यूपी) और तमलुक (बंगाल)। ये जनता के स्वराज के संकल्प का प्रतीक थीं।",
+  "details": [
+    "## Satara (Maharashtra)",
+    "• Known as 'Prati Sarkar' (Provisional Government).",
+    "• Led by Nana Patil and his associates.",
+    "• Controlled areas around Satara from 1943 to 1946.",
+    "• Functioned like a people’s government: collected taxes, ran courts, punished oppressive landlords and officials.",
+    "• Even organized armed resistance against British troops.",
+    "## Ballia (Uttar Pradesh)",
+    "• Parallel Government formed in August 1942 under Chittu Pandey, popularly called 'Sher-e-Ballia'.",
+    "• Took control of local administration after British officers fled.",
+    "• Released political prisoners and set up local rule for a few days.",
+    "• Suppressed quickly by British reinforcements, but became legendary for its courage.",
+    "## Tamluk (Bengal)",
+    "• 'Tamluk National Government' established in December 1942.",
+    "• Led by Satish Samanta and others.",
+    "• Organized relief work, cyclone rehabilitation, supply of food, and parallel justice system.",
+    "• Ran effectively for nearly two years, until 1944 when it was voluntarily dissolved on Gandhi’s advice.",
+    "## Significance",
+    "• Reflected mass confidence and organizational ability of common people.",
+    "• Showed readiness to govern themselves without British support.",
+    "• Though localized, they kept the spirit of independence alive until 1947."
+  ],
+  "detailsHindi": [
+    "## सतारा (महाराष्ट्र)",
+    "• 'प्रतिसरकार' (अस्थायी सरकार) के नाम से प्रसिद्ध।",
+    "• नाना पाटिल और उनके साथियों के नेतृत्व में।",
+    "• 1943 से 1946 तक सतारा क्षेत्र पर नियंत्रण।",
+    "• जनता की सरकार की तरह कार्य किया: कर संग्रह, अदालतें चलाना, शोषक जमींदारों व अधिकारियों को दंडित करना।",
+    "• ब्रिटिश सेना के खिलाफ सशस्त्र प्रतिरोध भी आयोजित किया।",
+    "## बलिया (उत्तर प्रदेश)",
+    "• अगस्त 1942 में चित्तू पांडेय ('शेर-ए-बलिया') के नेतृत्व में समानांतर सरकार बनी।",
+    "• ब्रिटिश अधिकारियों के भाग जाने के बाद प्रशासन का नियंत्रण अपने हाथ में लिया।",
+    "• राजनीतिक कैदियों को रिहा किया और कुछ दिनों तक स्थानीय शासन चलाया।",
+    "• ब्रिटिश सैनिकों ने जल्दी ही दबा दिया, लेकिन यह साहसिक प्रतीक बन गया।",
+    "## तमलुक (बंगाल)",
+    "• दिसंबर 1942 में 'तमलुक राष्ट्रीय सरकार' बनी।",
+    "• सतीश सामंत और अन्य नेताओं के नेतृत्व में।",
+    "• राहत कार्य, चक्रवात पीड़ितों की मदद, खाद्य आपूर्ति और न्याय प्रणाली का संचालन किया।",
+    "• लगभग दो वर्षों तक प्रभावी रही; 1944 में गांधीजी की सलाह पर स्वेच्छा से भंग कर दी गई।",
+    "## महत्व",
+    "• जनता के आत्मविश्वास और संगठनात्मक क्षमता को दर्शाया।",
+    "• दिखाया कि भारतीय बिना ब्रिटिश शासन के स्वयं शासन चलाने के लिए तैयार थे।",
+    "• स्थानीय स्तर पर सीमित होने के बावजूद, इन्होंने स्वतंत्रता की भावना को 1947 तक जीवित रखा।"
+  ],
+  "tables": [
+    {
+      "title": "Major Parallel Governments during Quit India Movement",
+      "titleHindi": "भारत छोड़ो आंदोलन के दौरान प्रमुख समानांतर सरकारें",
+      "columns": ["Place", "Leader(s)", "Duration", "Key Features"],
+      "columnsHindi": ["स्थान", "नेता", "अवधि", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["Satara (Maharashtra)", "Nana Patil", "1943–46", "Tax collection, justice system, armed resistance"],
+        ["Ballia (U.P.)", "Chittu Pandey", "August 1942 (few days)", "Released prisoners, local administration"],
+        ["Tamluk (Bengal)", "Satish Samanta", "1942–44", "Relief work, cyclone aid, justice system, voluntary dissolution"]
+      ],
+      "rowsHindi": [
+        ["सतारा (महाराष्ट्र)", "नाना पाटिल", "1943–46", "कर संग्रह, न्याय प्रणाली, सशस्त्र प्रतिरोध"],
+        ["बलिया (यूपी)", "चित्तू पांडेय", "अगस्त 1942 (कुछ दिन)", "कैदियों की रिहाई, स्थानीय प्रशासन"],
+        ["तमलुक (बंगाल)", "सतीश सामंत", "1942–44", "राहत कार्य, चक्रवात सहायता, न्याय प्रणाली, स्वेच्छा से भंग"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Satara Prati Sarkar (1943–46) led by Nana Patil.",
+    "Ballia Government (Aug 1942) led by Chittu Pandey, lasted a few days.",
+    "Tamluk National Government (1942–44) led by Satish Samanta, dissolved in 1944 on Gandhi’s advice."
+  ],
+  "prelimsTipsHindi": [
+    "सतारा प्रतिसरकार (1943–46) नाना पाटिल के नेतृत्व में।",
+    "बलिया सरकार (अगस्त 1942) चित्तू पांडेय के नेतृत्व में, कुछ दिन चली।",
+    "तमलुक राष्ट्रीय सरकार (1942–44) सतीश सामंत के नेतृत्व में, 1944 में गांधीजी की सलाह पर भंग।"
+  ],
+  "funFacts": [
+    "Satara’s 'Prati Sarkar' collected taxes more effectively than the British in some areas.",
+    "Chittu Pandey of Ballia was so popular that the British called him 'the lion of Ballia'.",
+    "Tamluk National Government ran a parallel administration for nearly two years, the longest of its kind."
+  ],
+  "funFactsHindi": [
+    "सतारा की 'प्रतिसरकार' ने कुछ क्षेत्रों में ब्रिटिशों से अधिक प्रभावी कर वसूली की।",
+    "बलिया के चित्तू पांडेय इतने लोकप्रिय थे कि ब्रिटिश उन्हें 'शेर-ए-बलिया' कहते थे।",
+    "तमलुक राष्ट्रीय सरकार लगभग दो वर्षों तक समानांतर प्रशासन चलाने वाली सबसे लंबी अवधि की सरकार थी।"
+  ],
+  "mainsPoints": [
+    "Parallel governments reflected the ability of Indians to self-govern in the absence of colonial authority.",
+    "They combined political defiance with social welfare measures like relief and justice.",
+    "Though localized and short-lived, they demonstrated the collapse of British legitimacy.",
+    "They kept the flame of nationalism burning until independence in 1947."
+  ],
+  "mainsPointsHindi": [
+    "समानांतर सरकारों ने औपनिवेशिक सत्ता की अनुपस्थिति में भारतीयों की स्वशासन क्षमता को दिखाया।",
+    "इनमें राजनीतिक अवज्ञा के साथ-साथ राहत और न्याय जैसी सामाजिक सेवाएँ भी शामिल थीं।",
+    "यद्यपि स्थानीय और अल्पकालिक थीं, लेकिन इन्होंने ब्रिटिश वैधता के पतन को दर्शाया।",
+    "1947 तक इन्होंने राष्ट्रवाद की ज्वाला जीवित रखी।"
+  ]
+},
+{
+  "heading": "Rajagopalachari Formula (1944)",
+  "headingHindi": "राजगोपालाचारी सूत्र (1944)",
+  "highlight": "The Rajagopalachari Formula was an attempt to bridge the gap between Congress and the Muslim League by proposing the right of Muslim-majority provinces to decide on separation after independence. It marked the first concrete proposal for partition within Congress circles.",
+  "highlightHindi": "राजगोपालाचारी सूत्र कांग्रेस और मुस्लिम लीग के बीच की खाई पाटने का प्रयास था, जिसमें स्वतंत्रता के बाद मुस्लिम बहुल प्रांतों को अलग होने का अधिकार देने का प्रस्ताव था। यह कांग्रेस में विभाजन के लिए पहला ठोस प्रस्ताव था।",
+  "details": [
+    "## Reason for the Setup of the Rajagopalachari Formula",
+    "• Failure of Cripps Mission (1942) and Quit India Movement repression created political deadlock.",
+    "• Need for Hindu–Muslim unity before independence negotiations.",
+    "• C. Rajagopalachari, a senior Congress leader, believed some compromise with Muslim League was necessary to avoid further division and bloodshed.",
+    "• Gandhi and Jinnah held talks in 1944 (Gandhi–Jinnah talks), with this formula as the basis.",
+    "## Main Provisions of the Formula",
+    "• Muslim League to support independence if Congress accepted right of Muslim-majority provinces (North-West and East India) to decide on separation after independence.",
+    "• A plebiscite of all adult citizens in Muslim-majority districts would determine separation.",
+    "• Freedom to all parties to propagate their views before the plebiscite.",
+    "• If partition was accepted, mutual agreements would be made for defense, communications, and commerce.",
+    "• Full religious freedom guaranteed in both parts.",
+    "## Jinnah’s Objections to the Formula",
+    "• Did not give immediate recognition of Pakistan; only conditional plebiscite after independence.",
+    "• Jinnah wanted Muslim League to be recognized as the sole representative of Muslims.",
+    "• Feared plebiscite could be influenced by Congress propaganda before voting.",
+    "• Rejected the idea of any Union even in interim arrangements.",
+    "## Other Objections",
+    "• Many Congress leaders opposed it as acceptance of partition in principle.",
+    "• Hindu Mahasabha strongly criticized it, calling it a surrender to separatism.",
+    "• Sikh leaders opposed as Punjab’s division threatened their community’s interests.",
+    "• British remained non-committal, as the formula lacked consensus."
+  ],
+  "detailsHindi": [
+    "## राजगोपालाचारी सूत्र के गठन के कारण",
+    "• क्रिप्स मिशन (1942) की विफलता और भारत छोड़ो आंदोलन के दमन से राजनीतिक गतिरोध पैदा हुआ।",
+    "• स्वतंत्रता वार्ता से पहले हिंदू–मुस्लिम एकता की आवश्यकता।",
+    "• वरिष्ठ कांग्रेसी नेता सी. राजगोपालाचारी मानते थे कि आगे के विभाजन और रक्तपात से बचने के लिए मुस्लिम लीग से समझौता आवश्यक है।",
+    "• 1944 में गांधी और जिन्ना के बीच हुई वार्ता (गांधी–जिन्ना वार्ता) का आधार यही सूत्र था।",
+    "## सूत्र के मुख्य प्रावधान",
+    "• कांग्रेस यह मान ले कि स्वतंत्रता के बाद मुस्लिम बहुल प्रांत (उत्तर-पश्चिम और पूर्वी भारत) अलग होने का निर्णय कर सकते हैं।",
+    "• मुस्लिम बहुल जिलों में वयस्क नागरिकों का जनमत-संग्रह किया जाएगा।",
+    "• जनमत-संग्रह से पहले सभी दलों को अपने विचार रखने की स्वतंत्रता होगी।",
+    "• विभाजन स्वीकार होने पर रक्षा, संचार और वाणिज्य पर आपसी समझौते होंगे।",
+    "• दोनों हिस्सों में पूर्ण धार्मिक स्वतंत्रता की गारंटी।",
+    "## जिन्ना की आपत्तियाँ",
+    "• पाकिस्तान की तत्काल मान्यता नहीं दी गई; केवल स्वतंत्रता के बाद सशर्त जनमत-संग्रह।",
+    "• जिन्ना चाहते थे कि मुस्लिम लीग को मुसलमानों का एकमात्र प्रतिनिधि माना जाए।",
+    "• डर था कि जनमत-संग्रह में कांग्रेस प्रचार का प्रभाव पड़ेगा।",
+    "• किसी भी संघीय व्यवस्था को अस्वीकार किया।",
+    "## अन्य आपत्तियाँ",
+    "• कई कांग्रेसी नेताओं ने इसे विभाजन की स्वीकृति माना और विरोध किया।",
+    "• हिंदू महासभा ने इसे पृथकतावाद के सामने आत्मसमर्पण कहा।",
+    "• सिख नेताओं ने पंजाब के विभाजन से अपने हितों को खतरा बताया।",
+    "• ब्रिटिश उदासीन रहे क्योंकि सूत्र पर सहमति नहीं बनी।"
+  ],
+  "tables": [
+    {
+      "title": "Rajagopalachari Formula: Key Aspects and Reactions",
+      "titleHindi": "राजगोपालाचारी सूत्र: मुख्य पहलू और प्रतिक्रियाएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Objective", "Bridge gap between Congress and Muslim League"],
+        ["Main Provision", "Right of Muslim-majority provinces to separate after plebiscite"],
+        ["Congress Response", "Mixed; some saw it as implicit acceptance of partition"],
+        ["Muslim League Response", "Rejected; demanded immediate Pakistan and League’s recognition"],
+        ["Other Opposition", "Hindu Mahasabha, Sikhs, several Congress leaders"],
+        ["British Response", "Non-committal; no consensus achieved"]
+      ],
+      "rowsHindi": [
+        ["उद्देश्य", "कांग्रेस और मुस्लिम लीग के बीच खाई पाटना"],
+        ["मुख्य प्रावधान", "मुस्लिम बहुल प्रांतों को जनमत-संग्रह के बाद अलग होने का अधिकार"],
+        ["कांग्रेस की प्रतिक्रिया", "मिश्रित; कुछ नेताओं ने इसे विभाजन की अप्रत्यक्ष स्वीकृति माना"],
+        ["मुस्लिम लीग की प्रतिक्रिया", "अस्वीकृत; तत्काल पाकिस्तान और मुस्लिम लीग की मान्यता की माँग"],
+        ["अन्य विरोध", "हिंदू महासभा, सिख, कई कांग्रेसी नेता"],
+        ["ब्रिटिश प्रतिक्रिया", "उदासीन; सहमति नहीं बनी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Rajagopalachari Formula (1944) → first Congress-linked acceptance of possible partition.",
+    "Proposed plebiscite in Muslim-majority areas after independence.",
+    "Rejected by Jinnah as it did not provide immediate Pakistan.",
+    "Criticized by Hindu Mahasabha, Sikhs, and many Congress leaders."
+  ],
+  "prelimsTipsHindi": [
+    "राजगोपालाचारी सूत्र (1944) → कांग्रेस की ओर से विभाजन की पहली अप्रत्यक्ष स्वीकृति।",
+    "स्वतंत्रता के बाद मुस्लिम बहुल क्षेत्रों में जनमत-संग्रह का प्रस्ताव।",
+    "जिन्ना ने अस्वीकार किया क्योंकि तत्काल पाकिस्तान की गारंटी नहीं थी।",
+    "हिंदू महासभा, सिखों और कई कांग्रेसी नेताओं ने आलोचना की।"
+  ],
+  "funFacts": [
+    "Rajagopalachari was the only Congress leader to publicly advocate a compromise on partition at that time.",
+    "The Gandhi–Jinnah talks of 1944, based on this formula, ended in failure but highlighted growing communal divide."
+  ],
+  "funFactsHindi": [
+    "राजगोपालाचारी उस समय विभाजन पर समझौते की सार्वजनिक वकालत करने वाले एकमात्र कांग्रेसी नेता थे।",
+    "1944 की गांधी–जिन्ना वार्ता, जो इस सूत्र पर आधारित थी, विफल रही लेकिन बढ़ती साम्प्रदायिक खाई को उजागर किया।"
+  ],
+  "mainsPoints": [
+    "Rajagopalachari Formula was the first concrete proposal within Congress circles accepting the possibility of partition.",
+    "It reflected the desperation to secure Hindu–Muslim unity before independence.",
+    "Jinnah’s rejection showed the rigidity of Muslim League’s demand for Pakistan.",
+    "The failure deepened communal tensions and foreshadowed partition."
+  ],
+  "mainsPointsHindi": [
+    "राजगोपालाचारी सूत्र कांग्रेस में विभाजन की संभावना की पहली ठोस स्वीकृति था।",
+    "इससे स्वतंत्रता से पहले हिंदू–मुस्लिम एकता के लिए हताशा झलकती है।",
+    "जिन्ना का अस्वीकार मुस्लिम लीग की पाकिस्तान की माँग की कठोरता को दर्शाता है।",
+    "विफलता ने साम्प्रदायिक तनाव बढ़ाया और विभाजन की नींव रखी।"
+  ]
+},
+{
+  "heading": "Wavell Plan, Simla Conference (1945) and Desai–Liaquat Pact (1945)",
+  "headingHindi": "वेवेल योजना, शिमला सम्मेलन (1945) और देसाई–लियाकत समझौता (1945)",
+  "highlight": "The Wavell Plan of 1945 and the Simla Conference attempted to resolve India’s political deadlock by offering parity to Congress and the Muslim League. The Desai–Liaquat Pact reflected informal efforts to reach a compromise. Their failure deepened communal divisions and set the stage for the 1946 elections.",
+  "highlightHindi": "1945 की वेवेल योजना और शिमला सम्मेलन ने कांग्रेस और मुस्लिम लीग को समान प्रतिनिधित्व देकर राजनीतिक गतिरोध सुलझाने का प्रयास किया। देसाई–लियाकत समझौता भी समझौते का अनौपचारिक प्रयास था। इनकी विफलता ने साम्प्रदायिक विभाजन को गहरा किया और 1946 के चुनाव की पृष्ठभूमि बनाई।",
+  "details": [
+    "## Background",
+    "• After WWII, British sought Indian cooperation for post-war settlement.",
+    "• Lord Wavell, the Viceroy, proposed a plan to break the Congress–League deadlock.",
+    "• Simla Conference (June–July 1945) was called to discuss the plan.",
+    "## Wavell Plan (June 1945)",
+    "• Proposed reconstitution of Viceroy’s Executive Council.",
+    "• Equal representation for 'caste Hindus' and Muslims.",
+    "• All members (except Viceroy and Commander-in-Chief) to be Indians.",
+    "• Separate representation for minorities (Muslims, Sikhs, Scheduled Castes, Christians).",
+    "• Governor-General would retain veto powers.",
+    "## Simla Conference (June–July 1945)",
+    "• Attended by Congress, Muslim League, Sikhs, Scheduled Castes, Anglo-Indians, and others.",
+    "• Deadlock: Muslim League insisted it alone represented Muslims.",
+    "• Congress rejected League’s monopoly, claiming it too represented Muslims.",
+    "• Conference ended in failure, widening communal rift.",
+    "## Desai–Liaquat Pact (1945)",
+    "• Informal pact between Bhulabhai Desai (Congress) and Liaquat Ali Khan (Muslim League).",
+    "• Proposed coalition government at the Centre with equal representation from Congress and League.",
+    "• Reflected desire to end political stalemate.",
+    "• Never implemented due to opposition from Gandhi, Jinnah, and other leaders.",
+    "## Response to the Wavell Plan",
+    "• Congress: Accepted the idea of Indianization of Council but rejected parity with Muslims, viewing it as undemocratic.",
+    "• Muslim League: Welcomed parity, but rejected plan because Congress refused to recognize League as sole Muslim representative.",
+    "• Sikhs: Opposed, as their share was minimal in Punjab.",
+    "• Scheduled Castes: Ambedkar opposed the plan, demanding separate representation.",
+    "• British: Saw it as a failed experiment; prepared for new constitutional scheme.",
+    "## Result",
+    "• Wavell Plan and Simla Conference failed to achieve consensus.",
+    "• Desai–Liaquat Pact remained only a private understanding, never gaining formal approval.",
+    "• The failure highlighted irreconcilable differences between Congress and Muslim League.",
+    "• Deepened communal divide and prepared ground for 1946 elections and the Cabinet Mission Plan."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• द्वितीय विश्व युद्ध के बाद ब्रिटिशों ने भारत से सहयोग माँगा।",
+    "• वायसराय लॉर्ड वेवेल ने कांग्रेस–मुस्लिम लीग गतिरोध तोड़ने की योजना दी।",
+    "• जून–जुलाई 1945 में शिमला सम्मेलन इसी योजना पर चर्चा के लिए बुलाया गया।",
+    "## वेवेल योजना (जून 1945)",
+    "• वायसराय की कार्यकारी परिषद का पुनर्गठन प्रस्तावित।",
+    "• 'जाति हिंदू' और मुसलमानों को समान प्रतिनिधित्व।",
+    "• वायसराय और सेनाप्रमुख को छोड़कर सभी सदस्य भारतीय।",
+    "• अल्पसंख्यकों (मुस्लिम, सिख, अनुसूचित जाति, ईसाई) को अलग प्रतिनिधित्व।",
+    "• गवर्नर-जनरल के पास वीटो अधिकार सुरक्षित।",
+    "## शिमला सम्मेलन (जून–जुलाई 1945)",
+    "• कांग्रेस, मुस्लिम लीग, सिख, अनुसूचित जाति, एंग्लो-इंडियन आदि शामिल हुए।",
+    "• गतिरोध: मुस्लिम लीग ने केवल स्वयं को मुसलमानों का प्रतिनिधि माना।",
+    "• कांग्रेस ने लीग के इस एकाधिकार को अस्वीकार किया।",
+    "• सम्मेलन विफल रहा और साम्प्रदायिक दरार गहरी हुई।",
+    "## देसाई–लियाकत समझौता (1945)",
+    "• भुलाभाई देसाई (कांग्रेस) और लियाकत अली खान (मुस्लिम लीग) के बीच अनौपचारिक समझ।",
+    "• प्रस्ताव: केंद्र में गठबंधन सरकार, कांग्रेस और लीग को समान प्रतिनिधित्व।",
+    "• राजनीतिक गतिरोध तोड़ने की इच्छा।",
+    "• गांधी, जिन्ना और अन्य नेताओं के विरोध के कारण लागू नहीं हुआ।",
+    "## वेवेल योजना पर प्रतिक्रिया",
+    "• कांग्रेस: परिषद में भारतीयकरण को स्वीकार किया लेकिन मुसलमानों के साथ समानता (Parity) को अलोकतांत्रिक कहकर अस्वीकार किया।",
+    "• मुस्लिम लीग: समानता का स्वागत किया लेकिन योजना अस्वीकार की क्योंकि कांग्रेस ने उसे मुसलमानों का एकमात्र प्रतिनिधि नहीं माना।",
+    "• सिख: विरोध किया क्योंकि पंजाब में उनका हिस्सा बहुत कम था।",
+    "• अनुसूचित जाति: डॉ. अंबेडकर ने अलग प्रतिनिधित्व की माँग की।",
+    "• ब्रिटिश: इसे विफल प्रयोग मानकर नए संवैधानिक ढाँचे की तैयारी करने लगे।",
+    "## परिणाम",
+    "• वेवेल योजना और शिमला सम्मेलन सहमति पाने में विफल रहे।",
+    "• देसाई–लियाकत समझौता केवल निजी समझ तक ही सीमित रहा।",
+    "• विफलता ने कांग्रेस और मुस्लिम लीग के बीच असमाध्य मतभेदों को उजागर किया।",
+    "• साम्प्रदायिक खाई और गहरी हुई और 1946 के चुनाव तथा कैबिनेट मिशन की पृष्ठभूमि बनी।"
+  ],
+  "tables": [
+    {
+      "title": "Wavell Plan, Simla Conference, and Desai–Liaquat Pact",
+      "titleHindi": "वेवेल योजना, शिमला सम्मेलन और देसाई–लियाकत समझौता",
+      "columns": ["Event", "Year", "Key Features", "Response/Outcome"],
+      "columnsHindi": ["घटना", "वर्ष", "मुख्य विशेषताएँ", "प्रतिक्रिया/परिणाम"],
+      "rows": [
+        ["Wavell Plan", "1945", "Parity for Hindus & Muslims; Indianization of Council", "Congress opposed parity, League rejected Congress role; failed"],
+        ["Simla Conference", "1945", "All-party meeting to discuss Wavell Plan", "Deadlock over Muslim representation; failed"],
+        ["Desai–Liaquat Pact", "1945", "Proposed coalition govt with equal Congress–League representation", "Opposed by Gandhi, Jinnah, and others; not implemented"]
+      ],
+      "rowsHindi": [
+        ["वेवेल योजना", "1945", "हिंदू–मुस्लिम समानता; परिषद का भारतीयकरण", "कांग्रेस ने समानता का विरोध, लीग ने अस्वीकार किया; विफल"],
+        ["शिमला सम्मेलन", "1945", "वेवेल योजना पर सभी दलों की बैठक", "मुस्लिम प्रतिनिधित्व पर गतिरोध; विफल"],
+        ["देसाई–लियाकत समझौता", "1945", "समान कांग्रेस–लीग प्रतिनिधित्व वाली गठबंधन सरकार का प्रस्ताव", "गांधी, जिन्ना और अन्य नेताओं के विरोध से लागू नहीं हुआ"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Wavell Plan (1945) → Equal representation to caste Hindus and Muslims.",
+    "Simla Conference (1945) → Failed due to League–Congress deadlock over Muslim representation.",
+    "Desai–Liaquat Pact (1945) → Informal Congress–League coalition proposal; never implemented.",
+    "Result → Deepened communal divide, paved way for 1946 elections & Cabinet Mission."
+  ],
+  "prelimsTipsHindi": [
+    "वेवेल योजना (1945) → जाति हिंदू और मुसलमानों को समान प्रतिनिधित्व।",
+    "शिमला सम्मेलन (1945) → मुस्लिम प्रतिनिधित्व पर गतिरोध से असफल।",
+    "देसाई–लियाकत समझौता (1945) → कांग्रेस–लीग गठबंधन का अनौपचारिक प्रस्ताव; लागू नहीं हुआ।",
+    "परिणाम → साम्प्रदायिक खाई गहरी हुई, 1946 चुनाव और कैबिनेट मिशन की भूमिका बनी।"
+  ],
+  "funFacts": [
+    "The Simla Conference was the first time Indian leaders, not the British, dominated the negotiations table.",
+    "Jinnah used the Simla deadlock to strengthen the Muslim League’s claim as the sole voice of Muslims.",
+    "The Desai–Liaquat Pact was kept secret from top Congress leaders like Nehru until after it collapsed."
+  ],
+  "funFactsHindi": [
+    "शिमला सम्मेलन पहली बार था जब वार्ता की मेज पर भारतीय नेता प्रमुख थे, न कि ब्रिटिश।",
+    "जिन्ना ने शिमला गतिरोध का उपयोग मुस्लिम लीग को मुसलमानों की एकमात्र आवाज़ साबित करने के लिए किया।",
+    "देसाई–लियाकत समझौता इतना गोपनीय था कि नेहरू जैसे शीर्ष कांग्रेसी नेताओं को बाद में इसकी जानकारी मिली।"
+  ],
+  "mainsPoints": [
+    "The Wavell Plan tried to offer parity between Hindus and Muslims but failed due to League’s insistence on monopoly and Congress opposition.",
+    "The Simla Conference showed that no consensus could be reached on Muslim representation.",
+    "The Desai–Liaquat Pact reflected grassroots attempts at compromise but lacked organizational and leadership support.",
+    "The failure of these initiatives widened communal divides and set the stage for partition politics."
+  ],
+  "mainsPointsHindi": [
+    "वेवेल योजना ने हिंदू–मुस्लिम समानता का प्रयास किया, लेकिन लीग के एकाधिकार पर जोर और कांग्रेस के विरोध के कारण विफल रही।",
+    "शिमला सम्मेलन ने दिखाया कि मुस्लिम प्रतिनिधित्व पर कोई सहमति संभव नहीं थी।",
+    "देसाई–लियाकत समझौता समझौते का प्रयास था, परंतु संगठनात्मक और नेतृत्व समर्थन के अभाव में विफल रहा।",
+    "इन पहलों की विफलता ने साम्प्रदायिक दरार को गहरा किया और विभाजन की राजनीति की नींव रखी।"
+  ]
+},
+{
+  "heading": "Indian National Army (INA) / Azad Hind Fauj (1942–45)",
+  "headingHindi": "भारतीय राष्ट्रीय सेना (INA) / आज़ाद हिंद फौज (1942–45)",
+  "highlight": "The INA, revived by Subhas Chandra Bose, represented armed resistance to British colonialism. Though its military campaign in Burma failed, its trials and the mass agitation they triggered shook British confidence and hastened independence.",
+  "highlightHindi": "सुभाष चंद्र बोस द्वारा पुनर्जीवित INA ब्रिटिश औपनिवेशिक शासन के खिलाफ सशस्त्र प्रतिरोध का प्रतीक बनी। बर्मा अभियान असफल होने के बावजूद, ट्रायल्स और उनके बाद हुए जनआंदोलन ने ब्रिटिश शासन को हिला दिया और स्वतंत्रता को तेज किया।",
+  "details": [
+    "## Formation of INA",
+    "• Originated in 1942 under Mohan Singh with Japanese support, comprising Indian POWs captured in Malaya and Singapore.",
+    "• Initially collapsed due to differences with Japanese command.",
+    "• Revived in 1943 when Subhas Chandra Bose arrived from Germany via submarine, taking leadership in Singapore.",
+    "• Bose proclaimed the 'Provisional Government of Azad Hind' in October 1943, recognized by Axis powers including Japan, Germany, and Italy.",
+    "• Azad Hind had its own currency, postage stamps, and even diplomatic missions, symbolizing sovereignty.",
+    "## Actions of INA",
+    "• INA fought alongside Japanese forces in Burma during 1943–44.",
+    "• INA’s 'First Division' advanced up to Indian territory during the Imphal–Kohima campaign (1944).",
+    "• Azad Hind Fauj hoisted the tricolor at Moirang (Manipur) in April 1944 — the first time Indian flag was raised on Indian soil by an independent force.",
+    "• INA had specialized regiments, including the 'Rani Jhansi Regiment' — an all-women combat unit led by Captain Lakshmi Sahgal.",
+    "• INA also ran hospitals, training camps, and welfare programs for soldiers and civilians in Southeast Asia.",
+    "• Japanese defeat and poor logistics led to INA’s retreat in 1945; many soldiers surrendered to the British.",
+    "## INA Trials (Red Fort Trials)",
+    "• British tried INA officers for treason, murder, and torture at Red Fort (Nov 1945 onwards).",
+    "• First trial involved Shah Nawaz Khan, P.K. Sehgal, and Gurbaksh Singh Dhillon.",
+    "• Jawaharlal Nehru, Bhulabhai Desai, Tej Bahadur Sapru, and Asaf Ali were among the defense lawyers.",
+    "• Massive public support across India cut across Congress, Muslim League, Communists, and Hindu Mahasabha lines.",
+    "• The trials became a rallying point for national unity against British rule.",
+    "## Impact of INA Agitation",
+    "• Triggered widespread protests, hartals, student demonstrations, and worker strikes in late 1945–46.",
+    "• The unity of Congress and Muslim League in supporting INA men showed the depth of nationalist sentiment.",
+    "• Inspired the 1946 Royal Indian Navy (RIN) Mutiny in Bombay and other centers.",
+    "• Demonstrated that loyalty of Indian armed forces could not be guaranteed.",
+    "• British realized they could no longer rule India by military force alone, hastening independence.",
+    "• Netaji Subhas Bose’s charisma made INA a powerful nationalist symbol, immortalized in slogans like 'Delhi Chalo' and 'Jai Hind'."
+  ],
+  "detailsHindi": [
+    "## INA का गठन",
+    "• 1942 में मोहन सिंह ने जापानी सहयोग से मलेशिया और सिंगापुर में पकड़े गए भारतीय युद्धबंदियों से INA बनाई।",
+    "• जापानियों से मतभेद के कारण यह प्रारंभ में विफल हो गई।",
+    "• 1943 में सुभाष चंद्र बोस जर्मनी से पनडुब्बी के माध्यम से पहुँचे और सिंगापुर में INA का नेतृत्व संभाला।",
+    "• अक्टूबर 1943 में बोस ने 'आज़ाद हिंद सरकार' की घोषणा की, जिसे जापान, जर्मनी और इटली ने मान्यता दी।",
+    "• आज़ाद हिंद सरकार ने अपनी मुद्रा, डाक टिकट और दूतावास भी जारी किए।",
+    "## INA की कार्रवाइयाँ",
+    "• INA ने 1943–44 में जापानियों के साथ बर्मा में लड़ाई लड़ी।",
+    "• 1944 के इंफाल–कोहिमा अभियान में INA की 'प्रथम डिवीजन' भारतीय क्षेत्र तक पहुँची।",
+    "• अप्रैल 1944 में मणिपुर के मोइरांग में INA ने पहली बार स्वतंत्र भारतीय ध्वज फहराया।",
+    "• INA की 'रानी झांसी रेजिमेंट' (पूरी तरह महिला इकाई) कैप्टन लक्ष्मी सहगल के नेतृत्व में बनी।",
+    "• INA ने अस्पताल, प्रशिक्षण शिविर और नागरिकों के लिए कल्याणकारी कार्यक्रम चलाए।",
+    "• जापान की हार और आपूर्ति की कमी के कारण 1945 में INA पीछे हटी और कई सैनिक ब्रिटिशों द्वारा गिरफ्तार कर लिए गए।",
+    "## INA ट्रायल्स (लाल किला ट्रायल्स)",
+    "• ब्रिटिशों ने INA अधिकारियों पर राजद्रोह, हत्या और यातना के आरोप लगाए (नवंबर 1945 से)।",
+    "• पहले मुकदमे में शाहनवाज़ खान, पी.के. सहगल और गुरबख्श सिंह ढिल्लों शामिल थे।",
+    "• बचाव पक्ष में जवाहरलाल नेहरू, भुलाभाई देसाई, तेज बहादुर सप्रू और आसफ अली जैसे वकील थे।",
+    "• ट्रायल्स ने सर्वदलीय और सर्वसमुदायिक समर्थन प्राप्त किया।",
+    "• ये मुकदमे राष्ट्रीय एकता का प्रतीक बन गए।",
+    "## INA आंदोलन का प्रभाव",
+    "• 1945–46 में व्यापक प्रदर्शन, हड़तालें और छात्र आंदोलनों की लहर उठी।",
+    "• कांग्रेस और मुस्लिम लीग दोनों का INA समर्थन गहरे राष्ट्रवाद को दर्शाता था।",
+    "• 1946 में बॉम्बे नौसेना विद्रोह (RIN Mutiny) को प्रेरित किया।",
+    "• ब्रिटिश समझ गए कि भारतीय सेनाओं की निष्ठा पर अब भरोसा नहीं किया जा सकता।",
+    "• ब्रिटिशों को अहसास हुआ कि वे अब भारत को केवल सैन्य बल से नहीं चला सकते।",
+    "• नेताजी सुभाष बोस की करिश्माई नेतृत्व और 'दिल्ली चलो', 'जय हिंद' जैसे नारे INA को अमर राष्ट्रीय प्रतीक बना गए।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of INA",
+      "titleHindi": "INA के प्रमुख पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Formation", "1942 by Mohan Singh, revived by Subhas Bose in 1943"],
+        ["Provisional Govt", "Azad Hind declared in Singapore (Oct 1943)"],
+        ["Women’s Role", "Rani Jhansi Regiment led by Capt. Lakshmi Sahgal"],
+        ["Military Campaigns", "Burma front; hoisted tricolor at Moirang (1944); failed at Imphal–Kohima"],
+        ["INA Trials", "Red Fort trials of Shah Nawaz, Sehgal, Dhillon (1945–46)"],
+        ["Impact", "Mass protests, unity across communities, inspired 1946 Naval Mutiny, weakened British rule"]
+      ],
+      "rowsHindi": [
+        ["गठन", "1942 मोहन सिंह द्वारा, 1943 में सुभाष बोस ने पुनर्गठन किया"],
+        ["अस्थायी सरकार", "अक्टूबर 1943 में सिंगापुर से 'आज़ाद हिंद' की घोषणा"],
+        ["महिलाओं की भूमिका", "कैप्टन लक्ष्मी सहगल के नेतृत्व में रानी झांसी रेजिमेंट"],
+        ["सैन्य अभियान", "बर्मा मोर्चा; मोइरांग (1944) में तिरंगा फहराया; इंफाल–कोहिमा में असफल"],
+        ["INA ट्रायल्स", "लाल किला ट्रायल्स: शाहनवाज़, सहगल, ढिल्लों (1945–46)"],
+        ["प्रभाव", "जन-आंदोलन, सर्वसमुदायिक एकता, 1946 नौसेना विद्रोह की प्रेरणा, ब्रिटिश शासन कमजोर"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "INA revived by Subhas Bose in 1943 after collapse of Mohan Singh’s INA (1942).",
+    "Azad Hind Government established in Singapore (Oct 1943).",
+    "Rani Jhansi Regiment was the first all-women combat unit in modern India.",
+    "INA hoisted the tricolor at Moirang (Manipur) in April 1944.",
+    "INA Trials at Red Fort (1945–46) united Indians across communal and political lines."
+  ],
+  "prelimsTipsHindi": [
+    "INA को 1943 में सुभाष बोस ने पुनर्जीवित किया; 1942 में मोहन सिंह की INA पहले विफल हो चुकी थी।",
+    "अक्टूबर 1943 में सिंगापुर में आज़ाद हिंद सरकार बनी।",
+    "रानी झांसी रेजिमेंट आधुनिक भारत की पहली महिला युद्ध इकाई थी।",
+    "INA ने अप्रैल 1944 में मणिपुर के मोइरांग में तिरंगा फहराया।",
+    "लाल किला ट्रायल्स (1945–46) ने भारतीयों को सांप्रदायिक और राजनीतिक सीमाओं से परे एकजुट किया।"
+  ],
+  "funFacts": [
+    "Netaji Subhas Bose traveled from Germany to Japan in a German and later Japanese submarine — one of the most daring wartime journeys.",
+    "The INA’s 'Jai Hind' slogan later became India’s national salutation.",
+    "INA soldiers were given military ranks and medals; Bose even instituted a gallantry award called 'Sher-e-Hind'."
+  ],
+  "funFactsHindi": [
+    "नेताजी सुभाष बोस जर्मनी से जापान पनडुब्बियों में सफर करके पहुँचे — यह युद्धकाल का सबसे साहसी सफर माना जाता है।",
+    "'जय हिंद' INA का नारा था, जो बाद में भारत का राष्ट्रीय अभिवादन बना।",
+    "INA सैनिकों को सैन्य पदक और उपाधियाँ दी गईं; बोस ने 'शेर-ए-हिंद' नामक वीरता पुरस्कार भी शुरू किया।"
+  ],
+  "mainsPoints": [
+    "INA under Subhas Bose represented militarized nationalism and direct armed resistance to British rule.",
+    "Its campaigns, though unsuccessful militarily, symbolized Indian resolve for freedom.",
+    "The INA trials became a powerful mobilizing force, uniting Indians across political and communal divides.",
+    "The agitation around INA demonstrated the fragility of British control and accelerated decolonization."
+  ],
+  "mainsPointsHindi": [
+    "सुभाष बोस के नेतृत्व में INA ने सैन्यीकृत राष्ट्रवाद और ब्रिटिश शासन के खिलाफ प्रत्यक्ष सशस्त्र प्रतिरोध का प्रतीक पेश किया।",
+    "इसके सैन्य अभियान असफल रहे, परंतु स्वतंत्रता की भारतीय संकल्पना का प्रतीक बने।",
+    "INA ट्रायल्स राष्ट्रीय एकता का केंद्र बने और राजनीतिक–साम्प्रदायिक सीमाओं को पार किया।",
+    "INA आंदोलन ने ब्रिटिश नियंत्रण की कमजोरी उजागर की और स्वतंत्रता की प्रक्रिया को तेज किया।"
+  ]
+},
+{
+  "heading": "Elections of 1945–46 in Central and Provincial Assemblies",
+  "headingHindi": "केंद्रीय और प्रांतीय विधानसभाओं के चुनाव (1945–46)",
+  "highlight": "The 1945–46 elections were the last under British rule. They revealed the depth of communal polarization: Congress emerged as the representative of all Indians except Muslims, while the Muslim League swept Muslim seats, strengthening its demand for Pakistan.",
+  "highlightHindi": "1945–46 के चुनाव ब्रिटिश शासन के तहत अंतिम चुनाव थे। इनसे साम्प्रदायिक ध्रुवीकरण स्पष्ट हुआ: कांग्रेस मुसलमानों को छोड़कर सभी भारतीयों की प्रतिनिधि बनी, जबकि मुस्लिम लीग ने मुस्लिम सीटों पर भारी जीत हासिल कर पाकिस्तान की माँग को मजबूत किया।",
+  "details": [
+    "## Background",
+    "• Elections were held under the Government of India Act 1935.",
+    "• Aim: To form the Central Legislative Assembly and Provincial Assemblies.",
+    "• These elections were crucial for determining the strength of Indian political parties before transfer of power.",
+    "## Central Assembly Elections (1945)",
+    "• Congress won 57 out of 102 general seats.",
+    "• Muslim League secured all 30 Muslim seats in the Central Assembly.",
+    "• Demonstrated Muslim League’s claim to be the sole representative of Indian Muslims.",
+    "## Provincial Assembly Elections (1946)",
+    "• Total of 1585 seats across provinces.",
+    "• Congress won 923 seats (including most general and many Scheduled Caste seats).",
+    "• Muslim League won 425 seats, sweeping almost all Muslim-reserved constituencies (except NWFP where Congress won some).",
+    "• Other groups (Akalis, Scheduled Castes Federation, Unionists, Communists, etc.) won limited seats.",
+    "## Significance",
+    "• Congress established itself as the party of Hindus, Scheduled Castes, and minorities (except most Muslims).",
+    "• Muslim League emerged as the undisputed representative of Muslims, securing legitimacy for its demand for Pakistan.",
+    "• Results deepened communal division, showing no single party represented all Indians.",
+    "• Strengthened Congress and League’s positions in negotiations with the British (Cabinet Mission, 1946)."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• चुनाव 1935 के भारत सरकार अधिनियम के तहत हुए।",
+    "• उद्देश्य: केंद्रीय विधान सभा और प्रांतीय विधानसभाओं का गठन।",
+    "• ये चुनाव सत्ता हस्तांतरण से पहले भारतीय दलों की ताकत दिखाने के लिए अहम थे।",
+    "## केंद्रीय विधानसभा चुनाव (1945)",
+    "• कांग्रेस ने 102 सामान्य सीटों में से 57 जीतीं।",
+    "• मुस्लिम लीग ने सभी 30 मुस्लिम सीटें जीत लीं।",
+    "• इससे मुस्लिम लीग की यह स्थिति मजबूत हुई कि वह भारतीय मुसलमानों की एकमात्र प्रतिनिधि है।",
+    "## प्रांतीय विधानसभा चुनाव (1946)",
+    "• कुल 1585 सीटों पर चुनाव हुए।",
+    "• कांग्रेस ने 923 सीटें जीतीं (अधिकांश सामान्य व कई अनुसूचित जाति सीटें)।",
+    "• मुस्लिम लीग ने 425 सीटें जीतीं, लगभग सभी मुस्लिम आरक्षित निर्वाचन क्षेत्रों में (सिवाय NWFP जहाँ कांग्रेस जीती)।",
+    "• अन्य दलों (अकाली, अनुसूचित जाति महासंघ, यूनियनिस्ट, कम्युनिस्ट आदि) को सीमित सफलता मिली।",
+    "## महत्व",
+    "• कांग्रेस हिंदुओं, अनुसूचित जातियों और अन्य अल्पसंख्यकों (अधिकांश मुसलमानों को छोड़कर) की प्रतिनिधि बनी।",
+    "• मुस्लिम लीग मुसलमानों की निर्विवाद प्रतिनिधि बनी और पाकिस्तान की माँग को वैधता मिली।",
+    "• परिणामों ने साम्प्रदायिक विभाजन को और गहरा किया और दिखाया कि कोई दल पूरे भारत का प्रतिनिधि नहीं है।",
+    "• इनसे ब्रिटिशों के साथ वार्ता (कैबिनेट मिशन, 1946) में कांग्रेस और लीग की स्थिति मजबूत हुई।"
+  ],
+  "tables": [
+    {
+      "title": "Results of 1945–46 Elections",
+      "titleHindi": "1945–46 के चुनाव परिणाम",
+      "columns": ["Body", "Congress", "Muslim League", "Others"],
+      "columnsHindi": ["संस्था", "कांग्रेस", "मुस्लिम लीग", "अन्य"],
+      "rows": [
+        ["Central Assembly (1945)", "57 seats", "30 seats (all Muslim)", "15"],
+        ["Provincial Assemblies (1946)", "923 seats", "425 seats", "237"]
+      ],
+      "rowsHindi": [
+        ["केंद्रीय विधानसभा (1945)", "57 सीटें", "30 सीटें (सभी मुस्लिम)", "15"],
+        ["प्रांतीय विधानसभा (1946)", "923 सीटें", "425 सीटें", "237"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Elections held under 1935 Act → last under British rule.",
+    "Congress won majority of general seats, League swept Muslim seats.",
+    "Congress = national representative (except Muslims), League = Muslim representative.",
+    "Results laid ground for Cabinet Mission (1946) and eventual partition."
+  ],
+  "prelimsTipsHindi": [
+    "1935 अधिनियम के तहत चुनाव → ब्रिटिश शासन के अंतिम चुनाव।",
+    "कांग्रेस ने सामान्य सीटें जीतीं, लीग ने मुस्लिम सीटों पर कब्ज़ा किया।",
+    "कांग्रेस = राष्ट्रीय प्रतिनिधि (मुसलमानों को छोड़कर), लीग = मुसलमानों की प्रतिनिधि।",
+    "परिणामों ने 1946 के कैबिनेट मिशन और विभाजन की भूमिका तय की।"
+  ],
+  "funFacts": [
+    "The elections were the first major political test after WWII.",
+    "Jawaharlal Nehru campaigned extensively, projecting Congress as the voice of a united India.",
+    "For the first time, Muslim League used the slogan 'Pakistan ka matlab kya? La ilaha illallah' widely in campaigns."
+  ],
+  "funFactsHindi": [
+    "ये चुनाव द्वितीय विश्व युद्ध के बाद पहली बड़ी राजनीतिक परीक्षा थे।",
+    "जवाहरलाल नेहरू ने व्यापक प्रचार किया और कांग्रेस को एकजुट भारत की आवाज़ बताया।",
+    "पहली बार मुस्लिम लीग ने 'पाकिस्तान का मतलब क्या? ला इलाहा इल्लल्लाह' नारा व्यापक रूप से इस्तेमाल किया।"
+  ],
+  "mainsPoints": [
+    "The 1945–46 elections were decisive in showing the communal polarization of Indian politics.",
+    "Congress secured dominance in general constituencies, but League’s sweep in Muslim seats legitimized its Pakistan demand.",
+    "Results revealed no single party represented all Indians, complicating British negotiations.",
+    "They prepared ground for Cabinet Mission Plan and partition politics."
+  ],
+  "mainsPointsHindi": [
+    "1945–46 के चुनावों ने भारतीय राजनीति में साम्प्रदायिक ध्रुवीकरण को निर्णायक रूप से दिखा दिया।",
+    "कांग्रेस ने सामान्य निर्वाचन क्षेत्रों में वर्चस्व कायम किया, लेकिन मुस्लिम लीग की जीत ने पाकिस्तान की माँग को वैधता दी।",
+    "परिणामों ने स्पष्ट किया कि कोई दल पूरे भारत का प्रतिनिधि नहीं है, जिससे ब्रिटिश वार्ता कठिन हुई।",
+    "इन चुनावों ने कैबिनेट मिशन योजना और विभाजन की राजनीति की भूमिका तय की।"
+  ]
+},
+{
+  "heading": "Popular Upsurges (1945–46)",
+  "headingHindi": "जनप्रिय उभार (1945–46)",
+  "highlight": "The period 1945–46 witnessed intense popular agitations triggered by INA trials, harsh sentences, and the Naval Ratings’ strike in Bombay. These events reflected mass anger against British rule and growing unity across communities.",
+  "highlightHindi": "1945–46 का समय INA ट्रायल्स, कठोर सजाओं और बॉम्बे में नौसेना रेटिंग्स की हड़ताल से उपजे जन-आंदोलनों का गवाह बना। इन घटनाओं ने ब्रिटिश शासन के खिलाफ जनाक्रोश और सामुदायिक एकता को दर्शाया।",
+  "details": [
+    "## November 21, 1945 – Calcutta Agitation",
+    "• Trigger: Protests erupted against the INA trials at the Red Fort.",
+    "• Students and workers led huge demonstrations in Calcutta.",
+    "• Police firing led to casualties, further inflaming nationalist sentiments.",
+    "## February 11, 1946 – Rashid Ali Sentencing Protest",
+    "• INA officer Captain Rashid Ali was sentenced to 7 years imprisonment.",
+    "• In Calcutta, massive student-led protests broke out.",
+    "• Crowds clashed with police, leading to deaths and injuries.",
+    "• Demonstrated growing sympathy for INA heroes across India.",
+    "## February 18, 1946 – Bombay Naval Ratings’ Strike",
+    "• About 20,000 ratings (sailors) of the Royal Indian Navy mutinied in Bombay.",
+    "• Cause: Poor service conditions, racial discrimination, and inspired by INA trials.",
+    "• Ratings took control of ships, hoisted tricolor, Congress, Communist and Muslim League flags.",
+    "• The revolt spread to Karachi, Madras, and Calcutta.",
+    "• 78 ships, 20 shore establishments, and 20,000 sailors were involved.",
+    "• Strikes and demonstrations in solidarity occurred across cities, supported by workers and students.",
+    "• Though suppressed by British with political leaders urging restraint, it revealed fragility of British control.",
+    "## Significance",
+    "• These upsurges reflected mass anger against colonial rule and sympathy for INA men.",
+    "• The naval mutiny shook British confidence in the loyalty of Indian armed forces.",
+    "• Convinced the British that India was becoming ungovernable, accelerating independence."
+  ],
+  "detailsHindi": [
+    "## 21 नवंबर 1945 – कलकत्ता आंदोलन",
+    "• लाल किला में चल रहे INA ट्रायल्स के विरोध में आंदोलन शुरू हुआ।",
+    "• छात्रों और मजदूरों ने विशाल प्रदर्शन किए।",
+    "• पुलिस फायरिंग में हताहत हुए, जिससे राष्ट्रवादी भावना और प्रज्वलित हुई।",
+    "## 11 फरवरी 1946 – राशिद अली सजा का विरोध",
+    "• INA अधिकारी कैप्टन राशिद अली को 7 वर्ष की कैद की सजा सुनाई गई।",
+    "• कलकत्ता में छात्रों के नेतृत्व में बड़े प्रदर्शन हुए।",
+    "• पुलिस से झड़प में कई मौतें और घायल हुए।",
+    "• INA नायकों के प्रति देशव्यापी सहानुभूति का प्रतीक।",
+    "## 18 फरवरी 1946 – बॉम्बे नौसेना रेटिंग्स की हड़ताल",
+    "• रॉयल इंडियन नेवी के लगभग 20,000 नाविकों ने बॉम्बे में विद्रोह किया।",
+    "• कारण: खराब सेवा शर्तें, नस्लीय भेदभाव और INA ट्रायल्स से मिली प्रेरणा।",
+    "• नाविकों ने जहाजों पर कब्ज़ा किया और तिरंगा, कांग्रेस, कम्युनिस्ट और मुस्लिम लीग के झंडे फहराए।",
+    "• विद्रोह कराची, मद्रास और कलकत्ता तक फैल गया।",
+    "• 78 जहाज, 20 तटीय ठिकाने और 20,000 नाविक शामिल हुए।",
+    "• मजदूरों और छात्रों ने देशभर में हड़ताल और प्रदर्शन किए।",
+    "• ब्रिटिश दमन और नेताओं की संयम की अपील से दबा दिया गया, लेकिन ब्रिटिश नियंत्रण की कमजोरी उजागर हुई।",
+    "## महत्व",
+    "• इन आंदोलनों ने औपनिवेशिक शासन के खिलाफ जनाक्रोश और INA सैनिकों के प्रति सहानुभूति को दिखाया।",
+    "• नौसेना विद्रोह ने भारतीय सशस्त्र बलों की निष्ठा पर ब्रिटिश विश्वास को हिला दिया।",
+    "• ब्रिटिशों को विश्वास हो गया कि भारत पर शासन असंभव हो रहा है, जिससे स्वतंत्रता की प्रक्रिया तेज हुई।"
+  ],
+  "tables": [
+    {
+      "title": "Popular Upsurges of 1945–46",
+      "titleHindi": "1945–46 के जन-उभार",
+      "columns": ["Date", "Event", "Key Features"],
+      "columnsHindi": ["तिथि", "घटना", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["21 Nov 1945", "Calcutta protests against INA trials", "Student-worker protests, police firing"],
+        ["11 Feb 1946", "Protests over Capt. Rashid Ali’s sentence", "Mass demonstrations in Calcutta, casualties"],
+        ["18 Feb 1946", "Bombay Naval Ratings’ Strike", "20,000 sailors, 78 ships, spread to Karachi, Madras, Calcutta"]
+      ],
+      "rowsHindi": [
+        ["21 नव 1945", "INA ट्रायल्स के खिलाफ कलकत्ता आंदोलन", "छात्र–मजदूर प्रदर्शन, पुलिस फायरिंग"],
+        ["11 फर 1946", "कैप्टन राशिद अली की सजा का विरोध", "कलकत्ता में विशाल प्रदर्शन, हताहत"],
+        ["18 फर 1946", "बॉम्बे नौसेना रेटिंग्स की हड़ताल", "20,000 नाविक, 78 जहाज, कराची–मद्रास–कलकत्ता तक फैला"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "INA trials triggered mass protests in Calcutta (Nov 1945).",
+    "Protest against Rashid Ali’s sentence (Feb 1946) showed rising INA sympathy.",
+    "Bombay Naval Mutiny (Feb 1946) → 20,000 sailors, 78 ships, spread to other ports.",
+    "Significance: British realized Indian armed forces’ loyalty was shaky."
+  ],
+  "prelimsTipsHindi": [
+    "INA ट्रायल्स ने कलकत्ता में बड़े आंदोलन को जन्म दिया (नव 1945)।",
+    "राशिद अली की सजा के खिलाफ आंदोलन (फर 1946) ने INA के प्रति बढ़ती सहानुभूति दिखाई।",
+    "बॉम्बे नौसेना विद्रोह (फर 1946) → 20,000 नाविक, 78 जहाज, अन्य बंदरगाहों तक फैला।",
+    "महत्व: ब्रिटिशों को भारतीय सेनाओं की निष्ठा पर संदेह हुआ।"
+  ],
+  "funFacts": [
+    "During the naval mutiny, sailors raised tricolor alongside Congress, League, and Communist flags — a rare moment of unity.",
+    "The mutiny spread so fast that even British officers feared losing control of Bombay.",
+    "Despite political leaders’ calls for restraint, public sentiment strongly supported the sailors."
+  ],
+  "funFactsHindi": [
+    "नौसेना विद्रोह के दौरान नाविकों ने तिरंगे के साथ कांग्रेस, लीग और कम्युनिस्ट झंडे फहराए — एक दुर्लभ एकता का क्षण।",
+    "विद्रोह इतनी तेजी से फैला कि ब्रिटिश अधिकारियों को बॉम्बे पर नियंत्रण खोने का डर हुआ।",
+    "राजनीतिक नेताओं की संयम की अपील के बावजूद जनता का मनोबल नाविकों के पक्ष में था।"
+  ],
+  "mainsPoints": [
+    "Popular upsurges of 1945–46 reflected widespread nationalist anger and sympathy for INA men.",
+    "The naval mutiny was significant as it directly involved the armed forces, undermining British confidence.",
+    "Unity across communities and classes in these protests foreshadowed the urgency of independence.",
+    "These events convinced the British that India could not be governed without major political concessions."
+  ],
+  "mainsPointsHindi": [
+    "1945–46 के जन-उभारों ने व्यापक राष्ट्रवादी आक्रोश और INA सैनिकों के प्रति सहानुभूति को दर्शाया।",
+    "नौसेना विद्रोह महत्वपूर्ण था क्योंकि इसमें सीधे सशस्त्र बल शामिल हुए, जिससे ब्रिटिश विश्वास डगमगाया।",
+    "इन आंदोलनों में समुदायों और वर्गों की एकता ने स्वतंत्रता की अनिवार्यता को रेखांकित किया।",
+    "इन घटनाओं से ब्रिटिशों को विश्वास हो गया कि बिना बड़े राजनीतिक समझौते के भारत पर शासन असंभव है।"
+  ]
+},
+{
+  "heading": "Peasant Movements during 1945",
+  "headingHindi": "1945 के दौरान किसान आंदोलन",
+  "highlight": "In 1945, peasant movements across India intensified against oppressive landlords, high rents, and colonial exploitation. These localized struggles were linked to wider nationalist currents and often inspired by leftist and kisan organizations.",
+  "highlightHindi": "1945 में भारतभर में किसान आंदोलन जमींदारों के शोषण, ऊँचे लगान और औपनिवेशिक शोषण के खिलाफ तेज हुए। ये स्थानीय संघर्ष व्यापक राष्ट्रीय आंदोलनों से जुड़े और प्रायः वामपंथी तथा किसान संगठनों से प्रेरित थे।",
+  "details": [
+    "## Background",
+    "• The end of WWII brought food shortages, rising prices, and agrarian distress.",
+    "• Peasants suffered from high rents, illegal exactions by landlords, and scarcity of essential commodities.",
+    "• Growth of kisan sabhas and leftist organizations gave peasants a political platform.",
+    "## Major Movements",
+    "• **Telangana Movement (Hyderabad State):**",
+    "   – Started in 1944–45 under Andhra Mahasabha and Communist Party influence.",
+    "   – Peasants fought against feudal landlords (deshmukhs) and Nizam’s oppressive rule.",
+    "   – Demands: abolition of forced labor (vethi), reduction of rents, redistribution of land.",
+    "• **Bengal Tebhaga Movement (1945–46):**",
+    "   – Led by Bengal Kisan Sabha (CPI-affiliated).",
+    "   – Sharecroppers (bargadars) demanded two-thirds (tebhaga) of the produce instead of half.",
+    "   – Women actively participated; cultural mobilization through songs, dramas.",
+    "• **Travancore (Kerala):**",
+    "   – Peasants and agricultural laborers agitated against bonded labor and high rents.",
+    "• **Other Regions:**",
+    "   – Bihar: movements against zamindari oppression under Kisan Sabha influence.",
+    "   – Punjab: smaller struggles linked with Kirti Kisan movements.",
+    "## Features",
+    "• Peasant movements increasingly linked with nationalist struggles (INA agitation, naval mutiny).",
+    "• Strong influence of Communist Party and All India Kisan Sabha.",
+    "• Participation of women and laborers widened social base.",
+    "## Significance",
+    "• Highlighted agrarian crisis in late colonial India.",
+    "• Pressured Congress and nationalist leadership to address peasant issues.",
+    "• Strengthened radical and leftist forces within freedom struggle.",
+    "• Tebhaga and Telangana struggles continued beyond 1945 into post-independence years."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• द्वितीय विश्व युद्ध के अंत में खाद्य संकट, महँगाई और कृषि संकट गहरा गया।",
+    "• किसानों पर ऊँचे लगान, अवैध वसूली और आवश्यक वस्तुओं की कमी का बोझ था।",
+    "• किसान सभाओं और वामपंथी संगठनों ने किसानों को राजनीतिक मंच दिया।",
+    "## प्रमुख आंदोलन",
+    "• **तेलंगाना आंदोलन (हैदराबाद राज्य):**",
+    "   – 1944–45 में आंध्र महासभा और कम्युनिस्ट पार्टी के नेतृत्व में शुरू।",
+    "   – किसानों ने जमींदारों (देशमुखों) और निज़ाम के दमन के खिलाफ संघर्ष किया।",
+    "   – माँगें: बेगार प्रथा का अंत, लगान में कमी, भूमि का पुनर्वितरण।",
+    "• **बंगाल तेभगा आंदोलन (1945–46):**",
+    "   – बंगाल किसान सभा (कम्युनिस्ट पार्टी से संबद्ध) के नेतृत्व में।",
+    "   – बटाईदारों (बर्गादार) ने आधे के बजाय दो-तिहाई (तेभगा) उत्पादन की माँग की।",
+    "   – महिलाओं की सक्रिय भागीदारी; गीतों और नाटकों के माध्यम से सांस्कृतिक जागरण।",
+    "• **त्रावणकोर (केरल):**",
+    "   – किसानों और खेतिहर मजदूरों ने बंधुआ मजदूरी और ऊँचे लगान के खिलाफ आंदोलन किया।",
+    "• **अन्य क्षेत्र:**",
+    "   – बिहार: किसान सभा के प्रभाव में जमींदारी शोषण के खिलाफ आंदोलन।",
+    "   – पंजाब: किरती किसान आंदोलनों से जुड़े छोटे संघर्ष।",
+    "## विशेषताएँ",
+    "• किसान आंदोलन INA आंदोलन और नौसेना विद्रोह जैसे राष्ट्रीय संघर्षों से जुड़े।",
+    "• कम्युनिस्ट पार्टी और अखिल भारतीय किसान सभा का प्रभाव बढ़ा।",
+    "• महिलाओं और मजदूरों की भागीदारी से सामाजिक आधार विस्तृत हुआ।",
+    "## महत्व",
+    "• देर औपनिवेशिक भारत में कृषि संकट को उजागर किया।",
+    "• कांग्रेस और राष्ट्रवादी नेतृत्व पर किसान मुद्दों को सुलझाने का दबाव डाला।",
+    "• स्वतंत्रता संग्राम में वामपंथी शक्तियों को मजबूत किया।",
+    "• तेभगा और तेलंगाना संघर्ष 1945 से आगे स्वतंत्रता के बाद भी जारी रहे।"
+  ],
+  "tables": [
+    {
+      "title": "Major Peasant Movements of 1945",
+      "titleHindi": "1945 के प्रमुख किसान आंदोलन",
+      "columns": ["Region", "Movement", "Leaders/Organizations", "Demands"],
+      "columnsHindi": ["क्षेत्र", "आंदोलन", "नेता/संगठन", "माँगें"],
+      "rows": [
+        ["Hyderabad", "Telangana Movement", "Andhra Mahasabha, CPI", "End forced labor, reduce rent, land redistribution"],
+        ["Bengal", "Tebhaga Movement", "Bengal Kisan Sabha, CPI", "Two-thirds share for sharecroppers"],
+        ["Travancore", "Agrarian Struggles", "Local peasant unions", "End bonded labor, reduce rent"],
+        ["Bihar", "Kisan Sabha struggles", "All India Kisan Sabha", "End zamindari oppression"],
+        ["Punjab", "Kirti Kisan struggles", "Kirti Kisan groups", "Peasant rights, anti-feudal demands"]
+      ],
+      "rowsHindi": [
+        ["हैदराबाद", "तेलंगाना आंदोलन", "आंध्र महासभा, CPI", "बेगार का अंत, लगान में कमी, भूमि पुनर्वितरण"],
+        ["बंगाल", "तेभगा आंदोलन", "बंगाल किसान सभा, CPI", "बटाईदारों को दो-तिहाई उत्पादन"],
+        ["त्रावणकोर", "कृषक संघर्ष", "स्थानीय किसान यूनियन", "बंधुआ मजदूरी का अंत, लगान में कमी"],
+        ["बिहार", "किसान सभा आंदोलन", "अखिल भारतीय किसान सभा", "जमींदारी शोषण का अंत"],
+        ["पंजाब", "किरती किसान आंदोलन", "किरती किसान समूह", "किसानों के अधिकार, सामंती विरोध"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Telangana Movement (1944–45) → against Nizam’s rule, led by CPI.",
+    "Tebhaga Movement (1945–46) → sharecroppers demanded 2/3rd share instead of half.",
+    "Travancore, Bihar, Punjab → local struggles against feudal oppression.",
+    "Linked with CPI and All India Kisan Sabha."
+  ],
+  "prelimsTipsHindi": [
+    "तेलंगाना आंदोलन (1944–45) → निज़ाम शासन के खिलाफ, CPI के नेतृत्व में।",
+    "तेभगा आंदोलन (1945–46) → बटाईदारों ने आधे के बजाय दो-तिहाई उत्पादन की माँग की।",
+    "त्रावणकोर, बिहार, पंजाब → सामंती शोषण के खिलाफ स्थानीय संघर्ष।",
+    "CPI और अखिल भारतीय किसान सभा से जुड़े।"
+  ],
+  "funFacts": [
+    "Women in Tebhaga movement carried red flags and fought shoulder to shoulder with men.",
+    "The Telangana struggle created its own village-level governance structures in liberated areas.",
+    "Peasant songs and theatre became tools of political mobilization in Bengal and Andhra."
+  ],
+  "funFactsHindi": [
+    "तेभगा आंदोलन में महिलाएँ लाल झंडा लेकर पुरुषों के साथ कंधे से कंधा मिलाकर लड़ीं।",
+    "तेलंगाना संघर्ष में मुक्त गाँवों में अपनी प्रशासनिक संरचना बनाई गई।",
+    "बंगाल और आंध्र में किसान गीत और नाटक राजनीतिक जागरण के साधन बने।"
+  ],
+  "mainsPoints": [
+    "Peasant movements in 1945 exposed agrarian distress and strengthened grassroots resistance to colonialism.",
+    "They linked local struggles with national and international contexts (CPI, Kisan Sabha influence).",
+    "Participation of women and laborers widened the scope of freedom struggle.",
+    "Tebhaga and Telangana continued into post-independence, shaping agrarian reforms."
+  ],
+  "mainsPointsHindi": [
+    "1945 के किसान आंदोलनों ने कृषि संकट को उजागर किया और औपनिवेशिक शासन के खिलाफ जमीनी प्रतिरोध को मजबूत किया।",
+    "ये स्थानीय संघर्ष राष्ट्रीय और अंतरराष्ट्रीय संदर्भों (CPI, किसान सभा) से जुड़े।",
+    "महिलाओं और मजदूरों की भागीदारी से स्वतंत्रता संग्राम का दायरा बढ़ा।",
+    "तेभगा और तेलंगाना संघर्ष स्वतंत्रता के बाद भी जारी रहे और भूमि सुधारों को आकार दिया।"
+  ]
+},
+{
+  "heading": "Cabinet Mission Plan (1946)",
+  "headingHindi": "कैबिनेट मिशन योजना (1946)",
+  "highlight": "The Cabinet Mission Plan of 1946 was the British government’s last major effort to unite India before independence. It proposed a Union of India with limited powers, grouping of provinces, and a Constituent Assembly to frame the Constitution. However, conflicting interpretations and communal divisions led to its eventual failure.",
+  "highlightHindi": "कैबिनेट मिशन योजना (1946) ब्रिटिश सरकार का भारत को स्वतंत्रता से पहले एकजुट रखने का अंतिम बड़ा प्रयास था। इसमें सीमित शक्तियों वाले भारतीय संघ, प्रांतों के समूह और संविधान सभा का प्रस्ताव था। परंतु भिन्न व्याख्याओं और साम्प्रदायिक विभाजनों के कारण यह अंततः विफल हो गई।",
+  "details": [
+    "## Background",
+    "• British sent a mission of three Cabinet members (Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander) in March 1946.",
+    "• Aim: To discuss India’s independence, set up a Constitution-making body, and resolve Congress–League deadlock.",
+    "• Followed 1945–46 elections where Congress dominated general seats and Muslim League swept Muslim seats.",
+    "## Major Provisions of Cabinet Mission Plan",
+    "• India to remain united as a Union of India.",
+    "• Union to control only defence, foreign affairs, and communications; all other powers to rest with provinces.",
+    "• Provinces to be grouped into three sections:",
+    "   – Group A: Hindu-majority provinces (Madras, Bombay, UP, Bihar, Central Provinces, Orissa).",
+    "   – Group B: Muslim-majority provinces in the Northwest (Punjab, NWFP, Sindh, Baluchistan).",
+    "   – Group C: Bengal and Assam.",
+    "• Each group could frame its own constitution, in addition to Union and provincial constitutions.",
+    "• Constituent Assembly: 389 members (292 from provinces, 93 from princely states, 4 from chief commissioners’ provinces).",
+    "• Interim Government at the Centre to be formed with members from major political parties.",
+    "## Different Interpretations of the Grouping Clause",
+    "• Congress: Grouping should be optional; provinces free to decide whether to join.",
+    "• Muslim League: Grouping was compulsory and ensured creation of Pakistan-like arrangements.",
+    "• British: Initially supported League’s view, which led to conflict.",
+    "## Why did the British decide to transfer power?",
+    "• Post-WWII Britain was financially and militarily weakened.",
+    "• INA trials and Naval Mutiny (1946) shook loyalty of Indian armed forces.",
+    "• Mass upsurges (strikes, peasant revolts, communal tensions) showed India was becoming ungovernable.",
+    "• Pressure from US and international opinion for decolonization.",
+    "• Growing realization that maintaining control over India was impossible.",
+    "## Objections, Acceptance, and Rejection",
+    "• Congress: Accepted Constituent Assembly and Union but rejected compulsory grouping of provinces.",
+    "• Muslim League: Initially accepted (June 1946), as grouping gave them Pakistan in practice. Later withdrew (July 1946) after Congress opposed grouping and Jawaharlal Nehru’s statement favoring a strong Centre.",
+    "• Hindu Mahasabha: Opposed the plan as it weakened central authority and encouraged communal division.",
+    "• Sikhs: Opposed Group B (Punjab) fearing Muslim domination.",
+    "• Princely States: Hesitant, but accepted representation in Constituent Assembly.",
+    "## Result",
+    "• Interim Government formed under Jawaharlal Nehru in September 1946.",
+    "• Muslim League refused to participate and launched 'Direct Action Day' (August 16, 1946), leading to communal riots.",
+    "• Failure of the Plan set the stage for partition and Mountbatten Plan (1947)."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• मार्च 1946 में ब्रिटिशों ने तीन कैबिनेट मंत्रियों (लॉर्ड पेथिक-लॉरेंस, स्टैफर्ड क्रिप्स, ए.वी. अलेक्जेंडर) को भारत भेजा।",
+    "• उद्देश्य: भारत की स्वतंत्रता पर चर्चा, संविधान सभा का गठन और कांग्रेस–लीग गतिरोध का समाधान।",
+    "• 1945–46 चुनावों में कांग्रेस ने सामान्य सीटों पर और मुस्लिम लीग ने मुस्लिम सीटों पर जीत हासिल की थी।",
+    "## कैबिनेट मिशन योजना के मुख्य प्रावधान",
+    "• भारत को 'भारतीय संघ' के रूप में एकजुट रखा जाएगा।",
+    "• संघ केवल रक्षा, विदेश नीति और संचार पर अधिकार रखेगा; शेष अधिकार प्रांतों को।",
+    "• प्रांत तीन समूहों में बाँटे जाएंगे:",
+    "   – समूह A: हिंदू-बहुल प्रांत (मद्रास, बॉम्बे, यूपी, बिहार, मध्य प्रांत, उड़ीसा)।",
+    "   – समूह B: मुस्लिम-बहुल प्रांत (पंजाब, NWFP, सिंध, बलूचिस्तान)।",
+    "   – समूह C: बंगाल और असम।",
+    "• प्रत्येक समूह अपनी संविधान सभा बना सकेगा।",
+    "• संविधान सभा: 389 सदस्य (292 प्रांतों से, 93 रियासतों से, 4 चीफ कमिश्नर प्रांतों से)।",
+    "• केंद्र में अंतरिम सरकार गठित होगी।",
+    "## समूहबद्धता (Grouping Clause) की भिन्न व्याख्याएँ",
+    "• कांग्रेस: समूहबद्धता वैकल्पिक होनी चाहिए।",
+    "• मुस्लिम लीग: समूहबद्धता अनिवार्य है और पाकिस्तान जैसी व्यवस्था सुनिश्चित करेगी।",
+    "• ब्रिटिश: लीग का पक्ष लिया, जिससे विवाद बढ़ा।",
+    "## ब्रिटिशों ने सत्ता हस्तांतरण का निर्णय क्यों किया?",
+    "• WWII के बाद ब्रिटेन आर्थिक और सैन्य रूप से कमजोर था।",
+    "• INA ट्रायल्स और नौसेना विद्रोह (1946) ने भारतीय सेनाओं की निष्ठा पर संदेह पैदा किया।",
+    "• जन-आंदोलन (हड़तालें, किसान विद्रोह, साम्प्रदायिक तनाव) से भारत अराजक हो रहा था।",
+    "• अमेरिका और अंतरराष्ट्रीय दबाव डिकोलोनाइजेशन के पक्ष में था।",
+    "• यह स्पष्ट हो गया कि भारत पर शासन करना असंभव हो गया है।",
+    "## आपत्तियाँ, स्वीकृति और अस्वीकृति",
+    "• कांग्रेस: संविधान सभा और संघ को स्वीकार किया लेकिन अनिवार्य समूहबद्धता को अस्वीकार किया।",
+    "• मुस्लिम लीग: प्रारंभ में स्वीकार किया (जून 1946), बाद में कांग्रेस के विरोध और नेहरू के मजबूत केंद्र वाले बयान के बाद वापस लिया।",
+    "• हिंदू महासभा: इसका विरोध किया क्योंकि इससे केंद्रीय सत्ता कमजोर होती और साम्प्रदायिक विभाजन बढ़ता।",
+    "• सिख: पंजाब के समूह B का विरोध किया क्योंकि मुस्लिम प्रभुत्व का भय था।",
+    "• रियासतें: अनिच्छुक थीं, लेकिन संविधान सभा में प्रतिनिधित्व स्वीकार किया।",
+    "## परिणाम",
+    "• सितंबर 1946 में नेहरू के नेतृत्व में अंतरिम सरकार बनी।",
+    "• मुस्लिम लीग ने भाग नहीं लिया और 'डायरेक्ट एक्शन डे' (16 अगस्त 1946) शुरू किया, जिससे सांप्रदायिक दंगे भड़के।",
+    "• योजना की विफलता ने विभाजन और माउंटबेटन योजना (1947) की नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Cabinet Mission Plan: Key Features and Responses",
+      "titleHindi": "कैबिनेट मिशन योजना: मुख्य बिंदु और प्रतिक्रियाएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Union Powers", "Defence, Foreign Affairs, Communications"],
+        ["Provincial Powers", "All other subjects"],
+        ["Grouping", "Three groups (A: Hindu-majority, B: NW Muslim provinces, C: Bengal & Assam)"],
+        ["Constituent Assembly", "389 members; provinces + princely states"],
+        ["Congress Response", "Accepted Union, rejected compulsory grouping"],
+        ["Muslim League Response", "Initially accepted, later withdrew; demanded Pakistan"],
+        ["Result", "Interim Govt formed; communal riots; Plan failed"]
+      ],
+      "rowsHindi": [
+        ["संघ की शक्तियाँ", "रक्षा, विदेश नीति, संचार"],
+        ["प्रांतीय शक्तियाँ", "अन्य सभी विषय"],
+        ["समूहबद्धता", "तीन समूह (A: हिंदू-बहुल, B: उत्तर-पश्चिम मुस्लिम प्रांत, C: बंगाल–असम)"],
+        ["संविधान सभा", "389 सदस्य; प्रांत + रियासतें"],
+        ["कांग्रेस प्रतिक्रिया", "संघ स्वीकार, अनिवार्य समूहबद्धता अस्वीकार"],
+        ["मुस्लिम लीग प्रतिक्रिया", "प्रारंभ में स्वीकृति, बाद में वापसी; पाकिस्तान की माँग"],
+        ["परिणाम", "अंतरिम सरकार बनी; साम्प्रदायिक दंगे; योजना विफल"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Cabinet Mission (1946) → Pethick-Lawrence, Cripps, A.V. Alexander.",
+    "Proposed Union with limited powers + groupings of provinces.",
+    "Congress opposed compulsory grouping, League initially accepted then withdrew.",
+    "Failure → Direct Action Day (16 Aug 1946), partition momentum."
+  ],
+  "prelimsTipsHindi": [
+    "कैबिनेट मिशन (1946) → पेथिक-लॉरेंस, क्रिप्स, ए.वी. अलेक्जेंडर।",
+    "सीमित शक्तियों वाला संघ + प्रांतों का समूह प्रस्तावित।",
+    "कांग्रेस ने अनिवार्य समूहबद्धता का विरोध किया, लीग ने पहले स्वीकार फिर वापसी की।",
+    "विफलता → डायरेक्ट एक्शन डे (16 अगस्त 1946), विभाजन की ओर बढ़त।"
+  ],
+  "funFacts": [
+    "Cabinet Mission was the last serious British attempt to keep India united.",
+    "Despite deep divisions, both Nehru and Jinnah initially engaged seriously with the plan.",
+    "The term 'grouping clause' became one of the most debated constitutional phrases in late colonial India."
+  ],
+  "funFactsHindi": [
+    "कैबिनेट मिशन भारत को एकजुट रखने का ब्रिटिशों का अंतिम गंभीर प्रयास था।",
+    "गहरे मतभेदों के बावजूद नेहरू और जिन्ना ने प्रारंभ में योजना पर गंभीरता से विचार किया।",
+    "'समूहबद्धता धारा' औपनिवेशिक भारत में सबसे अधिक विवादित संवैधानिक शब्द बन गया।"
+  ],
+  "mainsPoints": [
+    "Cabinet Mission Plan sought to balance unity with provincial autonomy but failed due to conflicting interpretations of grouping.",
+    "Congress and League’s positions hardened, widening communal divide.",
+    "British decision to transfer power reflected weakening empire and inability to govern India.",
+    "Failure of the Plan directly led to Direct Action Day and communal riots, pushing India towards partition."
+  ],
+  "mainsPointsHindi": [
+    "कैबिनेट मिशन योजना ने एकता और प्रांतीय स्वायत्तता का संतुलन बनाने की कोशिश की, लेकिन समूहबद्धता की अलग-अलग व्याख्याओं से विफल रही।",
+    "कांग्रेस और लीग की स्थितियाँ कठोर हो गईं, साम्प्रदायिक दरार गहरी हुई।",
+    "सत्ता हस्तांतरण का ब्रिटिश निर्णय कमजोर होते साम्राज्य और भारत पर शासन असंभव होने को दर्शाता था।",
+    "योजना की विफलता सीधे डायरेक्ट एक्शन डे और साम्प्रदायिक दंगों का कारण बनी और भारत विभाजन की ओर बढ़ा।"
+  ]
+},
+{
+  "heading": "Direct Action Day and Communal Riots (1946)",
+  "headingHindi": "डायरेक्ट एक्शन डे और साम्प्रदायिक दंगे (1946)",
+  "highlight": "On 16 August 1946, the Muslim League called for 'Direct Action Day' to demand Pakistan after the failure of the Cabinet Mission Plan. The day led to horrific communal riots, especially in Calcutta, deepening Hindu–Muslim divide and pushing India closer to partition.",
+  "highlightHindi": "16 अगस्त 1946 को मुस्लिम लीग ने कैबिनेट मिशन योजना की विफलता के बाद पाकिस्तान की माँग के समर्थन में 'डायरेक्ट एक्शन डे' बुलाया। यह दिन विशेष रूप से कलकत्ता में भयानक साम्प्रदायिक दंगों में बदल गया, जिसने हिंदू–मुस्लिम विभाजन को गहरा किया और भारत को विभाजन के करीब ला दिया।",
+  "details": [
+    "## Background",
+    "• Cabinet Mission Plan failed due to differences between Congress and Muslim League over grouping of provinces.",
+    "• On July 29, 1946, Muslim League withdrew acceptance of the Plan and demanded Pakistan.",
+    "• League Council declared 16 August 1946 as 'Direct Action Day' to show Muslim determination.",
+    "## Events of Direct Action Day (16 August 1946)",
+    "• League organized mass rallies and strikes, especially in Calcutta.",
+    "• Muslim League flags and slogans for Pakistan were raised.",
+    "• Processions turned violent; clashes broke out between Hindus and Muslims.",
+    "• Calcutta witnessed the worst communal riots in modern Indian history — 'Great Calcutta Killing'.",
+    "• Violence spread to Noakhali, Bihar, Punjab, and other regions over the next months.",
+    "## Scale of Violence",
+    "• In Calcutta, 4,000+ people killed and over 1,00,000 rendered homeless within 72 hours.",
+    "• Riots soon spread to Noakhali (East Bengal), where thousands were killed, and later to Bihar where Hindus retaliated.",
+    "• Punjab also witnessed increasing communal polarization, especially around Lahore.",
+    "## Response",
+    "• Congress strongly condemned the League’s call and the violence.",
+    "• British authorities failed to control violence effectively, reflecting breakdown of colonial administration.",
+    "• Gandhi personally toured Noakhali in 1946–47 to restore peace and communal harmony.",
+    "## Significance",
+    "• Demonstrated the intensity of communal passions unleashed by League’s demand for Pakistan.",
+    "• Widened the Hindu–Muslim divide, making partition inevitable.",
+    "• Convinced Congress leaders that unity with League was impossible under one government.",
+    "• British increasingly saw partition as the only workable solution."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• कांग्रेस और मुस्लिम लीग के बीच प्रांतों की समूहबद्धता पर मतभेद के कारण कैबिनेट मिशन योजना विफल हुई।",
+    "• 29 जुलाई 1946 को मुस्लिम लीग ने योजना से अपनी स्वीकृति वापस ले ली और पाकिस्तान की माँग दोहराई।",
+    "• लीग काउंसिल ने 16 अगस्त 1946 को 'डायरेक्ट एक्शन डे' घोषित किया।",
+    "## डायरेक्ट एक्शन डे (16 अगस्त 1946) की घटनाएँ",
+    "• लीग ने विशेष रूप से कलकत्ता में विशाल रैलियाँ और हड़तालें कीं।",
+    "• पाकिस्तान के समर्थन में नारे और झंडे लगाए गए।",
+    "• जुलूस हिंसक हो गए; हिंदू और मुसलमानों के बीच झड़पें हुईं।",
+    "• कलकत्ता में आधुनिक भारतीय इतिहास का सबसे भीषण साम्प्रदायिक दंगा हुआ — 'ग्रेट कलकत्ता किलिंग'।",
+    "• हिंसा नोआखली, बिहार, पंजाब और अन्य क्षेत्रों तक फैल गई।",
+    "## हिंसा का पैमाना",
+    "• कलकत्ता में 72 घंटों में 4,000+ मौतें और 1 लाख से अधिक लोग बेघर।",
+    "• नोआखली (पूर्वी बंगाल) में हजारों लोग मारे गए, बाद में बिहार में हिंदुओं ने प्रतिशोध लिया।",
+    "• पंजाब, विशेषकर लाहौर में साम्प्रदायिक ध्रुवीकरण बढ़ा।",
+    "## प्रतिक्रिया",
+    "• कांग्रेस ने लीग के आह्वान और हिंसा की निंदा की।",
+    "• ब्रिटिश प्रशासन हिंसा को नियंत्रित करने में असफल रहा।",
+    "• गांधीजी ने 1946–47 में नोआखली का दौरा कर शांति और सांप्रदायिक सौहार्द स्थापित करने का प्रयास किया।",
+    "## महत्व",
+    "• लीग की पाकिस्तान की माँग से उत्पन्न साम्प्रदायिक उन्माद की तीव्रता सामने आई।",
+    "• हिंदू–मुस्लिम विभाजन और गहरा हुआ, जिससे विभाजन अपरिहार्य बन गया।",
+    "• कांग्रेस को विश्वास हो गया कि लीग के साथ एक सरकार संभव नहीं।",
+    "• ब्रिटिशों ने भी विभाजन को एकमात्र समाधान मानना शुरू किया।"
+  ],
+  "tables": [
+    {
+      "title": "Major Communal Riots during 1946",
+      "titleHindi": "1946 के प्रमुख साम्प्रदायिक दंगे",
+      "columns": ["Region", "Date", "Casualties", "Notes"],
+      "columnsHindi": ["क्षेत्र", "तिथि", "हताहत", "टिप्पणी"],
+      "rows": [
+        ["Calcutta", "16–19 Aug 1946", "4000+ deaths", "Great Calcutta Killing after Direct Action Day"],
+        ["Noakhali (East Bengal)", "Oct 1946", "Thousands", "Targeted violence against Hindus"],
+        ["Bihar", "Oct–Nov 1946", "Thousands", "Hindu retaliation against Muslims"],
+        ["Punjab", "Late 1946–47", "Thousands", "Communal polarization before Partition violence"]
+      ],
+      "rowsHindi": [
+        ["कलकत्ता", "16–19 अगस्त 1946", "4000+ मौतें", "डायरेक्ट एक्शन डे के बाद 'ग्रेट कलकत्ता किलिंग'"],
+        ["नोआखली (पूर्वी बंगाल)", "अक्टूबर 1946", "हजारों", "हिंदुओं के खिलाफ हिंसा"],
+        ["बिहार", "अक्टूबर–नवंबर 1946", "हजारों", "मुसलमानों के खिलाफ हिंदू प्रतिशोध"],
+        ["पंजाब", "1946–47 के अंत", "हजारों", "विभाजन से पहले साम्प्रदायिक ध्रुवीकरण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Direct Action Day → 16 August 1946.",
+    "Great Calcutta Killing: 4000+ deaths in 72 hours.",
+    "Riots spread to Noakhali (Oct 1946) and Bihar.",
+    "Significance: Made Partition inevitable."
+  ],
+  "prelimsTipsHindi": [
+    "डायरेक्ट एक्शन डे → 16 अगस्त 1946।",
+    "ग्रेट कलकत्ता किलिंग: 72 घंटों में 4000+ मौतें।",
+    "दंगे नोआखली (अक्टूबर 1946) और बिहार तक फैले।",
+    "महत्व: विभाजन अपरिहार्य बना।"
+  ],
+  "funFacts": [
+    "The League described Direct Action Day as peaceful, but it quickly spiraled into bloodshed.",
+    "Calcutta was chosen as the main protest site due to its large Muslim population and political importance.",
+    "Gandhi’s tour of Noakhali after the riots is remembered as one of his greatest humanitarian efforts."
+  ],
+  "funFactsHindi": [
+    "लीग ने डायरेक्ट एक्शन डे को शांतिपूर्ण बताया था, लेकिन यह हिंसा में बदल गया।",
+    "कलकत्ता को मुख्य विरोध स्थल इसलिए चुना गया क्योंकि यहाँ बड़ी मुस्लिम आबादी और राजनीतिक महत्व था।",
+    "नोआखली दंगों के बाद गांधीजी का दौरा उनके महान मानवीय प्रयासों में गिना जाता है।"
+  ],
+  "mainsPoints": [
+    "Direct Action Day marked the collapse of Congress–League cooperation after Cabinet Mission Plan.",
+    "Violence deepened communal divide and convinced many that Partition was inevitable.",
+    "British inability to control riots showed the weakening of colonial administration.",
+    "Set stage for Mountbatten Plan and eventual division of India in 1947."
+  ],
+  "mainsPointsHindi": [
+    "डायरेक्ट एक्शन डे ने कैबिनेट मिशन योजना के बाद कांग्रेस–लीग सहयोग की विफलता को दर्शाया।",
+    "हिंसा ने साम्प्रदायिक विभाजन को गहरा किया और विभाजन को अपरिहार्य बना दिया।",
+    "दंगों को नियंत्रित करने में ब्रिटिश विफलता ने औपनिवेशिक प्रशासन की कमजोरी को उजागर किया।",
+    "इसने माउंटबेटन योजना और 1947 में भारत विभाजन की नींव रखी।"
+  ]
+},
+{
+  "heading": "Interim Government of India (1946–47)",
+  "headingHindi": "भारत की अंतरिम सरकार (1946–47)",
+  "highlight": "The Interim Government, formed on 2 September 1946, functioned till 15 August 1947 as a transitional authority. It was headed by Jawaharlal Nehru and included members from Congress, Muslim League (later), and other communities. It laid the groundwork for independent India’s governance.",
+  "highlightHindi": "2 सितंबर 1946 को बनी अंतरिम सरकार 15 अगस्त 1947 तक संक्रमणकालीन प्रशासन के रूप में कार्यरत रही। इसका नेतृत्व जवाहरलाल नेहरू ने किया और इसमें कांग्रेस, मुस्लिम लीग (बाद में) तथा अन्य समुदायों के सदस्य शामिल हुए। इसने स्वतंत्र भारत की शासन व्यवस्था की नींव रखी।",
+  "details": [
+    "## Background",
+    "• Formed under Cabinet Mission Plan as a step towards transfer of power.",
+    "• Initially included only Congress members; Muslim League joined later (October 1946) after initially boycotting.",
+    "• Functioned like a Council of Ministers under the Viceroy, but with real authority gradually shifting to Indian leaders.",
+    "## Head and Key Ministers (Congress Nominees – Sept 1946)",
+    "• Jawaharlal Nehru – Vice President of Executive Council, External Affairs and Commonwealth Relations.",
+    "• Vallabhbhai Patel – Home, Information and Broadcasting.",
+    "• Rajendra Prasad – Food and Agriculture.",
+    "• C. Rajagopalachari – Education and Arts.",
+    "• Jagjivan Ram – Labour.",
+    "• Asaf Ali – Railways and Transport.",
+    "• John Mathai – Industries and Supplies.",
+    "• Syed Ali Zaheer – Communications.",
+    "• Sarat Chandra Bose – Works, Mines and Power (later resigned).",
+    "## Later Inductions",
+    "• Muslim League (joined October 1946):",
+    "   – Liaquat Ali Khan – Finance.",
+    "   – Ghazanfar Ali Khan – Health.",
+    "   – Abdur Rab Nishtar – Posts and Air.",
+    "   – Jogendra Nath Mandal (Scheduled Caste leader, supported by League) – Law.",
+    "• Others:",
+    "   – Baldev Singh (Akali leader) – Defence.",
+    "   – C.H. Bhabha (Parsi) – Commerce.",
+    "## Significance",
+    "• First all-Indian government with real powers, though under Viceroy’s oversight.",
+    "• Introduced collective responsibility and cabinet-style functioning.",
+    "• Reflected communal divisions, as League obstructed Congress in many decisions.",
+    "• Served as India’s transitional government until independence on 15 August 1947."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• कैबिनेट मिशन योजना के तहत सत्ता हस्तांतरण की दिशा में एक कदम।",
+    "• प्रारंभ में केवल कांग्रेस सदस्य शामिल हुए; मुस्लिम लीग ने बहिष्कार किया लेकिन अक्टूबर 1946 में जुड़ी।",
+    "• वायसराय के अधीन एक मंत्रीपरिषद की तरह कार्यरत रही, लेकिन वास्तविक शक्तियाँ धीरे-धीरे भारतीय नेताओं को मिलीं।",
+    "## प्रमुख मंत्री (कांग्रेस – सितंबर 1946)",
+    "• जवाहरलाल नेहरू – कार्यकारी परिषद के उपाध्यक्ष, विदेश और राष्ट्रमंडल संबंध।",
+    "• वल्लभभाई पटेल – गृह, सूचना और प्रसारण।",
+    "• राजेंद्र प्रसाद – खाद्य और कृषि।",
+    "• सी. राजगोपालाचारी – शिक्षा और कला।",
+    "• जगजीवन राम – श्रम।",
+    "• आसफ अली – रेल और परिवहन।",
+    "• जॉन मथाई – उद्योग और आपूर्ति।",
+    "• सैयद अली ज़हीर – संचार।",
+    "• शरत चंद्र बोस – कार्य, खान और ऊर्जा (बाद में इस्तीफा)।",
+    "## बाद में शामिल",
+    "• मुस्लिम लीग (अक्टूबर 1946 में जुड़ी):",
+    "   – लियाकत अली खान – वित्त।",
+    "   – ग़ज़नफर अली खान – स्वास्थ्य।",
+    "   – अब्दुर रब निश्तर – डाक और वायु।",
+    "   – जोगेंद्र नाथ मंडल (अनुसूचित जाति नेता, लीग समर्थित) – कानून।",
+    "• अन्य:",
+    "   – बलदेव सिंह (अकाली नेता) – रक्षा।",
+    "   – सी.एच. भाभा (पारसी) – वाणिज्य।",
+    "## महत्व",
+    "• भारत की पहली वास्तविक शक्तियों वाली सरकार, हालांकि वायसराय की देखरेख में।",
+    "• सामूहिक जिम्मेदारी और कैबिनेट प्रणाली की शुरुआत।",
+    "• साम्प्रदायिक विभाजन परिलक्षित हुए, लीग ने कई निर्णयों में कांग्रेस का विरोध किया।",
+    "• 15 अगस्त 1947 को स्वतंत्रता तक संक्रमणकालीन सरकार के रूप में कार्यरत रही।"
+  ],
+  "tables": [
+    {
+      "title": "Ministers of Interim Government (1946–47)",
+      "titleHindi": "अंतरिम सरकार के मंत्री (1946–47)",
+      "columns": ["Minister", "Portfolio", "Party/Community"],
+      "columnsHindi": ["मंत्री", "विभाग", "दल/समुदाय"],
+      "rows": [
+        ["Jawaharlal Nehru", "External Affairs & Commonwealth", "Congress"],
+        ["Vallabhbhai Patel", "Home, Information & Broadcasting", "Congress"],
+        ["Rajendra Prasad", "Food & Agriculture", "Congress"],
+        ["C. Rajagopalachari", "Education & Arts", "Congress"],
+        ["Jagjivan Ram", "Labour", "Congress"],
+        ["Asaf Ali", "Railways & Transport", "Congress"],
+        ["John Mathai", "Industries & Supplies", "Congress"],
+        ["Syed Ali Zaheer", "Communications", "Congress"],
+        ["Sarat Chandra Bose", "Works, Mines & Power", "Congress (Resigned)"],
+        ["Liaquat Ali Khan", "Finance", "Muslim League"],
+        ["Ghazanfar Ali Khan", "Health", "Muslim League"],
+        ["Abdur Rab Nishtar", "Posts & Air", "Muslim League"],
+        ["Jogendra Nath Mandal", "Law", "Scheduled Caste (League nominee)"],
+        ["Baldev Singh", "Defence", "Akali (Sikh)"],
+        ["C.H. Bhabha", "Commerce", "Parsi"]
+      ],
+      "rowsHindi": [
+        ["जवाहरलाल नेहरू", "विदेश और राष्ट्रमंडल", "कांग्रेस"],
+        ["वल्लभभाई पटेल", "गृह, सूचना और प्रसारण", "कांग्रेस"],
+        ["राजेंद्र प्रसाद", "खाद्य और कृषि", "कांग्रेस"],
+        ["सी. राजगोपालाचारी", "शिक्षा और कला", "कांग्रेस"],
+        ["जगजीवन राम", "श्रम", "कांग्रेस"],
+        ["आसफ अली", "रेल और परिवहन", "कांग्रेस"],
+        ["जॉन मथाई", "उद्योग और आपूर्ति", "कांग्रेस"],
+        ["सैयद अली ज़हीर", "संचार", "कांग्रेस"],
+        ["शरत चंद्र बोस", "कार्य, खान और ऊर्जा", "कांग्रेस (इस्तीफा)"],
+        ["लियाकत अली खान", "वित्त", "मुस्लिम लीग"],
+        ["ग़ज़नफर अली खान", "स्वास्थ्य", "मुस्लिम लीग"],
+        ["अब्दुर रब निश्तर", "डाक और वायु", "मुस्लिम लीग"],
+        ["जोगेंद्र नाथ मंडल", "कानून", "अनुसूचित जाति (लीग समर्थित)"],
+        ["बलदेव सिंह", "रक्षा", "अकाली (सिख)"],
+        ["सी.एच. भाभा", "वाणिज्य", "पारसी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Interim Government formed on 2 Sept 1946 under Cabinet Mission Plan.",
+    "Jawaharlal Nehru = Vice President & External Affairs.",
+    "Liaquat Ali Khan (League) = Finance Minister.",
+    "Baldev Singh = Defence; C.H. Bhabha = Commerce.",
+    "Functioned till Independence (15 Aug 1947)."
+  ],
+  "prelimsTipsHindi": [
+    "अंतरिम सरकार 2 सितंबर 1946 को कैबिनेट मिशन योजना के तहत बनी।",
+    "जवाहरलाल नेहरू = उपाध्यक्ष और विदेश विभाग।",
+    "लियाकत अली खान (लीग) = वित्त मंत्री।",
+    "बलदेव सिंह = रक्षा; सी.एच. भाभा = वाणिज्य।",
+    "15 अगस्त 1947 तक कार्यरत रही।"
+  ],
+  "funFacts": [
+    "The Interim Government was the first Indian cabinet to run External Affairs, Defence, and Finance.",
+    "It functioned from the Council Chamber, which later became the Cabinet Room of independent India.",
+    "Tensions between Congress and League ministers often paralyzed its working."
+  ],
+  "funFactsHindi": [
+    "अंतरिम सरकार पहली भारतीय कैबिनेट थी जिसने विदेश, रक्षा और वित्त विभाग संभाले।",
+    "यह 'काउंसिल चैंबर' से संचालित हुई, जो बाद में स्वतंत्र भारत का कैबिनेट रूम बना।",
+    "कांग्रेस और लीग मंत्रियों के बीच टकराव ने अक्सर कामकाज को बाधित किया।"
+  ],
+  "mainsPoints": [
+    "Interim Government marked India’s first experiment with cabinet governance under Indian leaders.",
+    "It revealed deep communal rifts as Congress and League ministers clashed over policies.",
+    "Despite challenges, it laid institutional groundwork for independent India’s governance.",
+    "Its functioning till Aug 1947 symbolized the transition from colonial to sovereign authority."
+  ],
+  "mainsPointsHindi": [
+    "अंतरिम सरकार भारतीय नेताओं के अधीन कैबिनेट शासन का पहला प्रयोग थी।",
+    "कांग्रेस और लीग मंत्रियों के बीच टकराव ने साम्प्रदायिक दरार को उजागर किया।",
+    "चुनौतियों के बावजूद इसने स्वतंत्र भारत की शासन संस्थाओं की नींव रखी।",
+    "अगस्त 1947 तक इसका संचालन औपनिवेशिक से संप्रभु सत्ता की ओर संक्रमण का प्रतीक था।"
+  ]
+},
+{
+  "heading": "Constituent Assembly of India",
+  "headingHindi": "भारतीय संविधान सभा",
+  "highlight": "The Constituent Assembly, set up under the Cabinet Mission Plan, was responsible for framing the Constitution of independent India. It held its first session on 9 December 1946 and adopted the Constitution on 26 November 1949.",
+  "highlightHindi": "कैबिनेट मिशन योजना के तहत गठित संविधान सभा स्वतंत्र भारत का संविधान बनाने के लिए जिम्मेदार थी। इसका पहला अधिवेशन 9 दिसंबर 1946 को हुआ और 26 नवंबर 1949 को संविधान को अपनाया गया।",
+  "details": [
+    "## Background",
+    "• Constituent Assembly was part of Cabinet Mission Plan (1946).",
+    "• Members indirectly elected by provincial assemblies, princely states nominated representatives.",
+    "• Total membership: 389 (292 provinces, 93 princely states, 4 chief commissioners’ provinces).",
+    "• After partition (1947), strength reduced to 299 members.",
+    "## First Session (9 December 1946)",
+    "• Presided by Dr. Sachidanand Sinha as temporary chairman.",
+    "• Dr. Rajendra Prasad elected as permanent President (11 December 1946).",
+    "• H.C. Mukherjee elected Vice-President.",
+    "• B.N. Rau appointed as Constitutional Advisor.",
+    "## Committees",
+    "• Drafting Committee (Chairman – Dr. B.R. Ambedkar).",
+    "• Union Powers Committee – Jawaharlal Nehru.",
+    "• Union Constitution Committee – Jawaharlal Nehru.",
+    "• Provincial Constitution Committee – Sardar Patel.",
+    "• Fundamental Rights, Minorities, Tribal Areas Committees – chaired by different leaders.",
+    "## Working",
+    "• Total sittings: 11 sessions over 2 years, 11 months, 18 days.",
+    "• 114 days spent on discussion of the Draft Constitution alone.",
+    "• Adopted the Objective Resolution (Nehru, Jan 22, 1947), which became the Preamble.",
+    "• Adopted Constitution on 26 November 1949, enforced on 26 January 1950.",
+    "## Significance",
+    "• Reflected democratic, secular, and federal aspirations of Indian people.",
+    "• Included debates on rights, language, minorities, and governance system.",
+    "• Provided the institutional foundation of independent India."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• संविधान सभा कैबिनेट मिशन योजना (1946) का हिस्सा थी।",
+    "• सदस्य प्रांतीय विधानसभाओं द्वारा अप्रत्यक्ष रूप से चुने गए, रियासतों ने नामित सदस्य भेजे।",
+    "• कुल सदस्य: 389 (292 प्रांतों से, 93 रियासतों से, 4 चीफ कमिश्नर प्रांतों से)।",
+    "• विभाजन (1947) के बाद सदस्य संख्या घटकर 299 रह गई।",
+    "## पहला अधिवेशन (9 दिसंबर 1946)",
+    "• अस्थायी अध्यक्ष: डॉ. सच्चिदानंद सिन्हा।",
+    "• स्थायी अध्यक्ष: डॉ. राजेंद्र प्रसाद (11 दिसंबर 1946)।",
+    "• उपाध्यक्ष: एच.सी. मुखर्जी।",
+    "• संवैधानिक सलाहकार: बी.एन. राव।",
+    "## समितियाँ",
+    "• प्रारूप समिति (अध्यक्ष – डॉ. भीमराव अंबेडकर)।",
+    "• संघ शक्तियाँ समिति – जवाहरलाल नेहरू।",
+    "• संघ संविधान समिति – जवाहरलाल नेहरू।",
+    "• प्रांतीय संविधान समिति – सरदार पटेल।",
+    "• मौलिक अधिकार, अल्पसंख्यक, आदिवासी क्षेत्र समितियाँ – विभिन्न नेताओं की अध्यक्षता में।",
+    "## कार्यप्रणाली",
+    "• कुल 11 सत्र, 2 वर्ष 11 माह 18 दिन तक चला।",
+    "• केवल प्रारूप संविधान पर 114 दिन चर्चा हुई।",
+    "• 22 जनवरी 1947 को नेहरू द्वारा प्रस्तुत उद्देशिका प्रस्ताव (Objective Resolution) बाद में प्रास्तावना बना।",
+    "• 26 नवंबर 1949 को संविधान स्वीकार किया गया और 26 जनवरी 1950 से लागू हुआ।",
+    "## महत्व",
+    "• भारतीय जनता की लोकतांत्रिक, धर्मनिरपेक्ष और संघीय आकांक्षाओं को दर्शाया।",
+    "• इसमें अधिकारों, भाषा, अल्पसंख्यकों और शासन प्रणाली पर बहस हुई।",
+    "• स्वतंत्र भारत की संस्थागत नींव रखी।"
+  ],
+  "tables": [
+    {
+      "title": "Constituent Assembly: Key Facts",
+      "titleHindi": "संविधान सभा: प्रमुख तथ्य",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Total Members (1946)", "389"],
+        ["Members after Partition", "299"],
+        ["First Meeting", "9 December 1946"],
+        ["President", "Dr. Rajendra Prasad"],
+        ["Drafting Committee Chairman", "Dr. B.R. Ambedkar"],
+        ["Adopted Constitution", "26 November 1949"],
+        ["Enforced", "26 January 1950"]
+      ],
+      "rowsHindi": [
+        ["कुल सदस्य (1946)", "389"],
+        ["विभाजन के बाद सदस्य", "299"],
+        ["पहली बैठक", "9 दिसंबर 1946"],
+        ["अध्यक्ष", "डॉ. राजेंद्र प्रसाद"],
+        ["प्रारूप समिति अध्यक्ष", "डॉ. भीमराव अंबेडकर"],
+        ["संविधान अंगीकृत", "26 नवंबर 1949"],
+        ["लागू", "26 जनवरी 1950"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Constituent Assembly first met on 9 Dec 1946.",
+    "Temporary Chairman → Sachidanand Sinha; President → Rajendra Prasad.",
+    "Drafting Committee chairman → B.R. Ambedkar.",
+    "Objective Resolution (Nehru, Jan 1947) became Preamble.",
+    "Constitution adopted → 26 Nov 1949; came into force → 26 Jan 1950."
+  ],
+  "prelimsTipsHindi": [
+    "संविधान सभा की पहली बैठक 9 दिसंबर 1946 को हुई।",
+    "अस्थायी अध्यक्ष → सच्चिदानंद सिन्हा; अध्यक्ष → डॉ. राजेंद्र प्रसाद।",
+    "प्रारूप समिति अध्यक्ष → डॉ. भीमराव अंबेडकर।",
+    "उद्देशिका प्रस्ताव (नेहरू, 1947) → प्रास्तावना बना।",
+    "संविधान अंगीकृत → 26 नवम्बर 1949; लागू → 26 जनवरी 1950।"
+  ],
+  "funFacts": [
+    "The Constituent Assembly took almost 3 years to draft the Constitution.",
+    "Total expenditure was about ₹64 lakh.",
+    "Every clause was debated in detail, showcasing India’s democratic spirit before independence."
+  ],
+  "funFactsHindi": [
+    "संविधान सभा ने संविधान बनाने में लगभग 3 साल लिए।",
+    "कुल खर्च लगभग ₹64 लाख हुआ।",
+    "हर अनुच्छेद पर विस्तार से बहस हुई, जिससे स्वतंत्रता से पहले ही भारत की लोकतांत्रिक भावना झलकती है।"
+  ],
+  "mainsPoints": [
+    "The Constituent Assembly symbolized India’s transition from colonial rule to democracy.",
+    "It provided a forum where issues of unity, diversity, and justice were debated.",
+    "Despite differences, it achieved consensus on a democratic and federal Constitution.",
+    "Its legacy continues as the foundation of India’s parliamentary democracy."
+  ],
+  "mainsPointsHindi": [
+    "संविधान सभा ने भारत के औपनिवेशिक शासन से लोकतंत्र में परिवर्तन का प्रतीक प्रस्तुत किया।",
+    "यह एक मंच था जहाँ एकता, विविधता और न्याय के मुद्दों पर बहस हुई।",
+    "मतभेदों के बावजूद इसने लोकतांत्रिक और संघीय संविधान पर सहमति बनाई।",
+    "इसकी विरासत आज भी भारत की संसदीय लोकतंत्र की नींव है।"
+  ]
+},
+{
+  "heading": "Attlee’s Statement (20 February 1947), Independence and Partition",
+  "headingHindi": "एटली का वक्तव्य (20 फरवरी 1947), स्वतंत्रता और विभाजन",
+  "highlight": "On 20 February 1947, British PM Clement Attlee declared that British rule in India would end by June 1948. This statement acknowledged the inevitability of independence but left open the question of unity, paving the way for partition.",
+  "highlightHindi": "20 फरवरी 1947 को ब्रिटिश प्रधानमंत्री क्लेमेंट एटली ने घोषणा की कि जून 1948 तक भारत में ब्रिटिश शासन समाप्त हो जाएगा। इसने स्वतंत्रता की अनिवार्यता स्वीकार की लेकिन एकता का प्रश्न अनसुलझा छोड़ा, जिससे विभाजन का मार्ग प्रशस्त हुआ।",
+  "details": [
+    "## Attlee’s Statement (20 February 1947)",
+    "• Declared British intention to transfer power to responsible Indian hands by June 1948.",
+    "• Provided option: if Indian leaders failed to agree on a constitution, power would be transferred to more than one central authority → implied possibility of partition.",
+    "• Announced the appointment of a new Viceroy, Lord Mountbatten, to oversee transition.",
+    "## Reactions to Attlee’s Statement",
+    "• Congress:",
+    "   – Welcomed decision on independence, but opposed partition possibility.",
+    "   – Demanded transfer of power to a single central government.",
+    "• Muslim League:",
+    "   – Interpreted it as recognition of Pakistan demand.",
+    "   – Declared its readiness to accept partition if Congress did not concede Muslim claims.",
+    "• Hindu Mahasabha & Sikhs:",
+    "   – Opposed partition fearing loss of unity and minority security.",
+    "• General Indian public:",
+    "   – Welcomed final assurance of independence after years of struggle.",
+    "## Independence and Partition (1947)",
+    "• Mountbatten Plan (3 June 1947) finalized the partition of India.",
+    "• Partition to create two dominions: India and Pakistan.",
+    "• Indian Independence Act passed on 18 July 1947 by British Parliament.",
+    "• Partition led to communal violence, mass migrations, and human tragedy.",
+    "• India became independent on 15 August 1947 with Jawaharlal Nehru as first PM.",
+    "• Pakistan created with Muhammad Ali Jinnah as Governor-General."
+  ],
+  "detailsHindi": [
+    "## एटली का वक्तव्य (20 फरवरी 1947)",
+    "• घोषणा की गई कि जून 1948 तक भारत में सत्ता जिम्मेदार भारतीय हाथों को सौंप दी जाएगी।",
+    "• विकल्प दिया गया: यदि भारतीय नेता संविधान पर सहमत नहीं होते तो सत्ता एक से अधिक केंद्रीय प्राधिकरणों को हस्तांतरित की जाएगी → विभाजन की संभावना।",
+    "• सत्ता हस्तांतरण की देखरेख के लिए नए वायसराय लॉर्ड माउंटबेटन की नियुक्ति।",
+    "## एटली के वक्तव्य पर प्रतिक्रियाएँ",
+    "• कांग्रेस:",
+    "   – स्वतंत्रता की घोषणा का स्वागत किया, लेकिन विभाजन का विरोध किया।",
+    "   – एक केंद्रीय सरकार को सत्ता हस्तांतरण की माँग।",
+    "• मुस्लिम लीग:",
+    "   – इसे पाकिस्तान की माँग की मान्यता के रूप में देखा।",
+    "   – कांग्रेस द्वारा मुस्लिम दावों को न मानने पर विभाजन स्वीकार करने की तत्परता जताई।",
+    "• हिंदू महासभा और सिख:",
+    "   – विभाजन का विरोध किया, एकता और अल्पसंख्यक सुरक्षा की चिंता जताई।",
+    "• भारतीय जनता:",
+    "   – वर्षों के संघर्ष के बाद स्वतंत्रता की घोषणा का स्वागत।",
+    "## स्वतंत्रता और विभाजन (1947)",
+    "• माउंटबेटन योजना (3 जून 1947) ने भारत के विभाजन को अंतिम रूप दिया।",
+    "• भारत और पाकिस्तान दो डोमिनियन बने।",
+    "• ब्रिटिश संसद ने 18 जुलाई 1947 को भारतीय स्वतंत्रता अधिनियम पारित किया।",
+    "• विभाजन से साम्प्रदायिक हिंसा, जन-स्थानांतरण और मानवीय त्रासदी हुई।",
+    "• भारत 15 अगस्त 1947 को स्वतंत्र हुआ, नेहरू पहले प्रधानमंत्री बने।",
+    "• पाकिस्तान बना, जिन्ना पहले गवर्नर-जनरल बने।"
+  ],
+  "tables": [
+    {
+      "title": "Key Developments: Attlee’s Statement to Independence",
+      "titleHindi": "प्रमुख घटनाएँ: एटली के वक्तव्य से स्वतंत्रता तक",
+      "columns": ["Date", "Event", "Significance"],
+      "columnsHindi": ["तिथि", "घटना", "महत्व"],
+      "rows": [
+        ["20 Feb 1947", "Attlee’s Statement", "Announced end of British rule by June 1948, hinted at partition."],
+        ["24 Mar 1947", "Lord Mountbatten appointed Viceroy", "Tasked with overseeing power transfer."],
+        ["3 Jun 1947", "Mountbatten Plan", "Partition of India into two dominions finalized."],
+        ["18 Jul 1947", "Indian Independence Act", "Legalized independence and partition."],
+        ["15 Aug 1947", "Independence", "India and Pakistan became independent dominions."]
+      ],
+      "rowsHindi": [
+        ["20 फरवरी 1947", "एटली का वक्तव्य", "जून 1948 तक ब्रिटिश शासन समाप्त करने की घोषणा, विभाजन की संभावना।"],
+        ["24 मार्च 1947", "लॉर्ड माउंटबेटन वायसराय बने", "सत्ता हस्तांतरण की देखरेख।"],
+        ["3 जून 1947", "माउंटबेटन योजना", "भारत का दो डोमिनियन में विभाजन।"],
+        ["18 जुलाई 1947", "भारतीय स्वतंत्रता अधिनियम", "स्वतंत्रता और विभाजन को वैधता।"],
+        ["15 अगस्त 1947", "स्वतंत्रता", "भारत और पाकिस्तान स्वतंत्र डोमिनियन बने।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Attlee’s Statement (20 Feb 1947) fixed June 1948 deadline for British withdrawal.",
+    "Lord Mountbatten appointed Viceroy (March 1947).",
+    "Mountbatten Plan (3 June 1947) finalized partition.",
+    "Indian Independence Act passed on 18 July 1947.",
+    "Independence achieved on 15 August 1947."
+  ],
+  "prelimsTipsHindi": [
+    "एटली का वक्तव्य (20 फरवरी 1947) → जून 1948 तक ब्रिटिश वापसी की समयसीमा तय।",
+    "लॉर्ड माउंटबेटन वायसराय बने (मार्च 1947)।",
+    "माउंटबेटन योजना (3 जून 1947) → विभाजन तय।",
+    "भारतीय स्वतंत्रता अधिनियम (18 जुलाई 1947)।",
+    "15 अगस्त 1947 → स्वतंत्रता।"
+  ],
+  "funFacts": [
+    "Clement Attlee’s statement was the first official British commitment to a deadline for leaving India.",
+    "Mountbatten, known for his charm and pragmatism, was chosen to manage the delicate process of partition.",
+    "India’s independence was advanced to 15 August 1947, earlier than June 1948, to prevent further violence."
+  ],
+  "funFactsHindi": [
+    "क्लेमेंट एटली का वक्तव्य भारत छोड़ने की ब्रिटिशों की पहली औपचारिक समयसीमा थी।",
+    "माउंटबेटन को उनकी कूटनीति और व्यवहारिकता के कारण विभाजन की देखरेख के लिए चुना गया।",
+    "स्वतंत्रता 15 अगस्त 1947 को जून 1948 से पहले दी गई ताकि और हिंसा न फैले।"
+  ],
+  "mainsPoints": [
+    "Attlee’s Statement acknowledged inevitability of Indian independence and fixed a deadline.",
+    "It left ambiguity on unity vs. partition, which encouraged League’s Pakistan demand.",
+    "Reactions showed deepening communal divide between Congress and League.",
+    "The statement set the stage for Mountbatten Plan, Independence Act, and Partition."
+  ],
+  "mainsPointsHindi": [
+    "एटली के वक्तव्य ने भारत की स्वतंत्रता की अनिवार्यता को स्वीकार कर समयसीमा तय की।",
+    "इसने एकता बनाम विभाजन पर अस्पष्टता छोड़ी, जिससे लीग की पाकिस्तान माँग को बल मिला।",
+    "प्रतिक्रियाओं ने कांग्रेस और लीग के बीच साम्प्रदायिक विभाजन को गहरा किया।",
+    "इस वक्तव्य ने माउंटबेटन योजना, स्वतंत्रता अधिनियम और विभाजन की भूमिका तय की।"
+  ]
+},
+{
+  "heading": "Mountbatten Plan (3 June 1947) and Indian Independence Act (1947)",
+  "headingHindi": "माउंटबेटन योजना (3 जून 1947) और भारतीय स्वतंत्रता अधिनियम (1947)",
+  "highlight": "The Mountbatten Plan of June 3, 1947, finalized the partition of British India into two dominions — India and Pakistan. It was implemented through the Indian Independence Act of 18 July 1947, marking the legal end of colonial rule.",
+  "highlightHindi": "3 जून 1947 की माउंटबेटन योजना ने ब्रिटिश भारत को दो डोमिनियन — भारत और पाकिस्तान — में विभाजित करने को अंतिम रूप दिया। इसे 18 जुलाई 1947 के भारतीय स्वतंत्रता अधिनियम के माध्यम से लागू किया गया, जिसने औपनिवेशिक शासन का कानूनी अंत किया।",
+  "details": [
+    "## Background",
+    "• After failure of Cabinet Mission Plan and violence during Direct Action Day (1946), communal riots escalated.",
+    "• Attlee’s Statement (20 Feb 1947) declared transfer of power by June 1948.",
+    "• Lord Mountbatten arrived as last Viceroy in March 1947 to work out a final settlement.",
+    "## Provisions of Mountbatten Plan (3 June 1947)",
+    "• British India to be partitioned into India and Pakistan.",
+    "• Two dominions to be created with full sovereignty and dominion status.",
+    "• Provinces of Bengal and Punjab to be divided based on religious majority → Boundary Commissions set up under Sir Cyril Radcliffe.",
+    "• Sindh Assembly to decide whether to join India or Pakistan.",
+    "• NWFP to hold a referendum to decide between India and Pakistan (chose Pakistan).",
+    "• Baluchistan’s decision to be taken by its Assembly.",
+    "• Princely States: Free to join either dominion, not given option of independence.",
+    "• Constituent Assemblies of both dominions to frame their own constitutions.",
+    "• Transfer of power advanced from June 1948 to August 15, 1947, to avoid further violence.",
+    "## Indian Independence Act (18 July 1947)",
+    "• Passed by British Parliament to give legal effect to Mountbatten Plan.",
+    "• Partition of India into two dominions: India and Pakistan from 15 August 1947.",
+    "• Abolished British sovereignty over princely states, giving them choice to accede.",
+    "• Governor-General to be appointed separately for India and Pakistan.",
+    "• Constituent Assemblies of both dominions to act as legislatures till new constitutions framed.",
+    "• British Crown’s suzerainty over Indian states ended.",
+    "## Reactions",
+    "• Congress: Accepted partition as the only way to prevent further bloodshed.",
+    "• Muslim League: Celebrated as realization of Pakistan demand.",
+    "• Sikh leaders: Accepted reluctantly; opposed division of Punjab but had no choice.",
+    "• Mahatma Gandhi: Deeply saddened but reluctantly accepted for peace.",
+    "• Public: Mixed reactions — joy of independence overshadowed by grief of partition violence.",
+    "## Significance",
+    "• Legally ended 200 years of British colonial rule.",
+    "• Created independent dominions of India and Pakistan on 15 August 1947.",
+    "• Partition led to one of the largest migrations in history, with communal violence claiming 1 million+ lives.",
+    "• Set the foundation of independent governance but left unresolved issues (Kashmir, minorities, refugee crisis)."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• कैबिनेट मिशन योजना की विफलता और डायरेक्ट एक्शन डे (1946) के बाद साम्प्रदायिक हिंसा बढ़ी।",
+    "• एटली के वक्तव्य (20 फरवरी 1947) ने जून 1948 तक सत्ता हस्तांतरण की घोषणा की।",
+    "• मार्च 1947 में लॉर्ड माउंटबेटन अंतिम वायसराय के रूप में भारत आए।",
+    "## माउंटबेटन योजना (3 जून 1947) के प्रावधान",
+    "• ब्रिटिश भारत का विभाजन कर भारत और पाकिस्तान दो डोमिनियन बने।",
+    "• दोनों को पूर्ण संप्रभुता और डोमिनियन का दर्जा मिला।",
+    "• बंगाल और पंजाब का धार्मिक बहुलता के आधार पर विभाजन → सर सायरिल रेडक्लिफ की अध्यक्षता में सीमा आयोग।",
+    "• सिंध विधानसभा ने पाकिस्तान में शामिल होने का निर्णय किया।",
+    "• NWFP में जनमत-संग्रह हुआ → पाकिस्तान चुना गया।",
+    "• बलूचिस्तान का निर्णय उसकी विधानसभा ने किया।",
+    "• रियासतों को भारत या पाकिस्तान में से किसी एक में शामिल होने का विकल्प मिला, स्वतंत्र रहने का नहीं।",
+    "• दोनों डोमिनियन की संविधान सभाएँ अपने संविधान बनाएँगी।",
+    "• सत्ता हस्तांतरण जून 1948 से घटाकर 15 अगस्त 1947 किया गया।",
+    "## भारतीय स्वतंत्रता अधिनियम (18 जुलाई 1947)",
+    "• ब्रिटिश संसद द्वारा पारित, जिसने माउंटबेटन योजना को कानूनी रूप दिया।",
+    "• 15 अगस्त 1947 से भारत और पाकिस्तान दो डोमिनियन बने।",
+    "• रियासतों पर ब्रिटिश प्रभुता समाप्त, उन्हें भारत या पाकिस्तान में विलय का विकल्प।",
+    "• भारत और पाकिस्तान के लिए अलग गवर्नर-जनरल नियुक्त।",
+    "• संविधान सभा तब तक विधायिका का कार्य करेगी जब तक नया संविधान न बने।",
+    "• ब्रिटिश क्राउन का प्रभुत्व समाप्त।",
+    "## प्रतिक्रियाएँ",
+    "• कांग्रेस: विभाजन को रक्तपात रोकने का एकमात्र उपाय मानकर स्वीकार किया।",
+    "• मुस्लिम लीग: पाकिस्तान की माँग पूरी होने पर प्रसन्न।",
+    "• सिख नेता: पंजाब के विभाजन का विरोध किया लेकिन विकल्प नहीं था।",
+    "• महात्मा गांधी: गहरे दुखी परंतु शांति हेतु स्वीकार किया।",
+    "• जनता: स्वतंत्रता की खुशी लेकिन विभाजन और हिंसा से पीड़ा।",
+    "## महत्व",
+    "• ब्रिटिश औपनिवेशिक शासन का 200 वर्ष बाद अंत।",
+    "• 15 अगस्त 1947 को भारत और पाकिस्तान स्वतंत्र डोमिनियन बने।",
+    "• विभाजन से इतिहास का सबसे बड़ा जन-स्थानांतरण और 10 लाख से अधिक मौतें।",
+    "• स्वतंत्र शासन की नींव रखी लेकिन कश्मीर, अल्पसंख्यक और शरणार्थी संकट जैसे मुद्दे अधूरे छोड़े।"
+  ],
+  "tables": [
+    {
+      "title": "Key Provisions of Mountbatten Plan & Indian Independence Act",
+      "titleHindi": "माउंटबेटन योजना और भारतीय स्वतंत्रता अधिनियम के प्रमुख प्रावधान",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Partition", "India and Pakistan to be created as dominions."],
+        ["Boundary", "Punjab and Bengal divided by Radcliffe Commission."],
+        ["NWFP Referendum", "Chose Pakistan."],
+        ["Sindh", "Assembly voted to join Pakistan."],
+        ["Princely States", "To join India or Pakistan, no option of independence."],
+        ["Transfer of Power", "Advanced to 15 Aug 1947."],
+        ["Independence Act", "Passed on 18 July 1947; ended British suzerainty."]
+      ],
+      "rowsHindi": [
+        ["विभाजन", "भारत और पाकिस्तान दो डोमिनियन बने।"],
+        ["सीमा", "पंजाब और बंगाल का विभाजन रेडक्लिफ आयोग ने किया।"],
+        ["NWFP जनमत-संग्रह", "पाकिस्तान चुना गया।"],
+        ["सिंध", "विधानसभा ने पाकिस्तान में शामिल होने का निर्णय किया।"],
+        ["रियासतें", "भारत या पाकिस्तान में शामिल होंगी, स्वतंत्रता का विकल्प नहीं।"],
+        ["सत्ता हस्तांतरण", "15 अगस्त 1947 को किया गया।"],
+        ["स्वतंत्रता अधिनियम", "18 जुलाई 1947 को पारित; ब्रिटिश प्रभुता समाप्त।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Mountbatten Plan announced on 3 June 1947.",
+    "Partition: India and Pakistan as dominions.",
+    "Radcliffe Commission → boundary of Punjab and Bengal.",
+    "Indian Independence Act passed on 18 July 1947.",
+    "Independence on 15 August 1947."
+  ],
+  "prelimsTipsHindi": [
+    "माउंटबेटन योजना 3 जून 1947 को घोषित।",
+    "विभाजन: भारत और पाकिस्तान डोमिनियन बने।",
+    "रेडक्लिफ आयोग → पंजाब और बंगाल की सीमा तय।",
+    "भारतीय स्वतंत्रता अधिनियम 18 जुलाई 1947 को पारित।",
+    "15 अगस्त 1947 को स्वतंत्रता।"
+  ],
+  "funFacts": [
+    "Lord Mountbatten advanced the date of independence to 15 August 1947, coinciding with the second anniversary of Japan’s surrender in WWII.",
+    "Sir Cyril Radcliffe, who drew the boundary, had never been to India before and had only 5 weeks to complete the task.",
+    "Gandhi refused to participate in independence celebrations, mourning partition violence instead."
+  ],
+  "funFactsHindi": [
+    "लॉर्ड माउंटबेटन ने स्वतंत्रता की तिथि 15 अगस्त 1947 रखी, जो WWII में जापान की आत्मसमर्पण की दूसरी वर्षगांठ थी।",
+    "सीमा तय करने वाले सर सायरिल रेडक्लिफ भारत पहले कभी नहीं आए थे और उनके पास केवल 5 सप्ताह थे।",
+    "गांधीजी ने स्वतंत्रता उत्सव में भाग नहीं लिया और विभाजन की हिंसा पर शोक मनाया।"
+  ],
+  "mainsPoints": [
+    "Mountbatten Plan was the final blueprint for partition and independence.",
+    "It advanced the timeline, leading to hasty and chaotic transfer of power.",
+    "Indian Independence Act legally ended British rule, creating India and Pakistan.",
+    "While it ended colonialism, it also triggered mass displacement, violence, and long-term conflicts."
+  ],
+  "mainsPointsHindi": [
+    "माउंटबेटन योजना स्वतंत्रता और विभाजन का अंतिम खाका थी।",
+    "इसने समयसीमा घटाकर सत्ता हस्तांतरण को जल्दबाजी और अव्यवस्थित बना दिया।",
+    "भारतीय स्वतंत्रता अधिनियम ने औपनिवेशिक शासन का कानूनी अंत कर भारत और पाकिस्तान बनाए।",
+    "इससे औपनिवेशिक शासन समाप्त हुआ, परंतु बड़े पैमाने पर विस्थापन, हिंसा और दीर्घकालिक संघर्ष भी उत्पन्न हुए।"
+  ]
+},
+{
+  "heading": "Partition Violence and Refugee Crisis (1947–48)",
+  "headingHindi": "विभाजन की हिंसा और शरणार्थी संकट (1947–48)",
+  "highlight": "The partition of India in August 1947 triggered one of the largest mass migrations in history, accompanied by horrific communal violence, claiming over a million lives and displacing nearly 15 million people.",
+  "highlightHindi": "अगस्त 1947 में भारत के विभाजन ने इतिहास के सबसे बड़े जन-स्थानांतरणों में से एक को जन्म दिया, जिसमें भीषण साम्प्रदायिक हिंसा हुई, 10 लाख से अधिक लोग मारे गए और लगभग 1.5 करोड़ विस्थापित हुए।",
+  "details": [
+    "## Background",
+    "• Partition under Mountbatten Plan created India and Pakistan on 15 August 1947.",
+    "• Boundary drawn by Radcliffe Award led to confusion and disputes.",
+    "• Sudden division fueled communal tensions built up since Direct Action Day (1946).",
+    "## Scale of Violence",
+    "• Punjab and Bengal were worst affected regions.",
+    "• Riots, arson, massacres, forced conversions, and abductions widespread.",
+    "• Estimates: 1–1.5 million killed, nearly 75,000 women abducted or assaulted.",
+    "• Violence often organized by militant groups, local militias, and mobs.",
+    "## Refugee Crisis",
+    "• Around 14–15 million people displaced across the new borders.",
+    "• Hindus and Sikhs migrated from West Punjab, Sindh, and NWFP to India.",
+    "• Muslims migrated from East Punjab, Delhi, UP, Bihar, and Bengal to Pakistan.",
+    "• Refugee camps set up in Delhi, Lahore, Amritsar, Karachi, and other cities.",
+    "• Large-scale loss of property, livelihoods, and cultural dislocation.",
+    "## Administrative Response",
+    "• India and Pakistan created rehabilitation ministries for refugees.",
+    "• Special trains, refugee camps, and military escorts arranged, though often attacked en route.",
+    "• Gandhi toured riot-affected areas (Delhi, Bengal) to restore peace and communal harmony.",
+    "• Nehru and Patel focused on law-and-order restoration and refugee rehabilitation.",
+    "## Long-term Impact",
+    "• Hardened India–Pakistan hostility, sowing seeds of Kashmir conflict.",
+    "• Deepened communal divide in politics and society.",
+    "• Refugee integration shaped demographic, social, and economic landscapes in Punjab, Delhi, and Bengal.",
+    "• Left scars of trauma and displacement that continue to influence India–Pakistan relations."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• माउंटबेटन योजना के तहत 15 अगस्त 1947 को भारत और पाकिस्तान बने।",
+    "• रेडक्लिफ अवार्ड द्वारा खींची गई सीमा ने भ्रम और विवाद पैदा किए।",
+    "• डायरेक्ट एक्शन डे (1946) से बढ़े साम्प्रदायिक तनाव अचानक विभाजन में हिंसा में बदल गए।",
+    "## हिंसा का पैमाना",
+    "• पंजाब और बंगाल सबसे अधिक प्रभावित क्षेत्र थे।",
+    "• दंगे, आगजनी, नरसंहार, जबरन धर्मांतरण और अपहरण आम हो गए।",
+    "• अनुमान: 10–15 लाख मौतें, लगभग 75,000 महिलाओं का अपहरण या उत्पीड़न।",
+    "• हिंसा में उग्रवादी संगठनों, स्थानीय मिलिशिया और भीड़ की बड़ी भूमिका।",
+    "## शरणार्थी संकट",
+    "• लगभग 1.4–1.5 करोड़ लोग विस्थापित हुए।",
+    "• हिंदू और सिख पश्चिम पंजाब, सिंध और NWFP से भारत आए।",
+    "• मुसलमान पूर्वी पंजाब, दिल्ली, यूपी, बिहार और बंगाल से पाकिस्तान गए।",
+    "• दिल्ली, लाहौर, अमृतसर, कराची आदि में शरणार्थी शिविर बने।",
+    "• बड़ी पैमाने पर संपत्ति, आजीविका और सांस्कृतिक पहचान का नुकसान।",
+    "## प्रशासनिक प्रतिक्रिया",
+    "• भारत और पाकिस्तान ने शरणार्थियों के लिए पुनर्वास मंत्रालय बनाए।",
+    "• विशेष ट्रेनें, शिविर और सैनिक सुरक्षा की व्यवस्था, लेकिन कई बार रास्ते में हमले हुए।",
+    "• गांधीजी ने (दिल्ली, बंगाल) दौरा कर शांति और सौहार्द स्थापित करने का प्रयास किया।",
+    "• नेहरू और पटेल ने कानून-व्यवस्था बहाल करने और पुनर्वास पर ध्यान दिया।",
+    "## दीर्घकालिक प्रभाव",
+    "• भारत–पाकिस्तान दुश्मनी गहरी हुई और कश्मीर विवाद की नींव रखी।",
+    "• राजनीति और समाज में साम्प्रदायिक विभाजन और गहरा हुआ।",
+    "• पंजाब, दिल्ली और बंगाल में जनसंख्या, समाज और अर्थव्यवस्था पर गहरा प्रभाव।",
+    "• विस्थापन और त्रासदी के घाव आज भी भारत–पाकिस्तान संबंधों को प्रभावित करते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Partition Violence and Refugee Crisis (1947–48): Key Facts",
+      "titleHindi": "विभाजन की हिंसा और शरणार्थी संकट (1947–48): प्रमुख तथ्य",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Estimated deaths", "1–1.5 million"],
+        ["Displaced population", "14–15 million"],
+        ["Worst affected regions", "Punjab, Bengal, Delhi"],
+        ["Women abducted/assaulted", "≈ 75,000"],
+        ["Key leaders’ role", "Gandhi (peace efforts), Nehru & Patel (rehabilitation)"]
+      ],
+      "rowsHindi": [
+        ["अनुमानित मौतें", "10–15 लाख"],
+        ["विस्थापित जनसंख्या", "1.4–1.5 करोड़"],
+        ["सबसे प्रभावित क्षेत्र", "पंजाब, बंगाल, दिल्ली"],
+        ["अपहृत/उत्पीड़ित महिलाएँ", "≈ 75,000"],
+        ["नेताओं की भूमिका", "गांधी (शांति प्रयास), नेहरू व पटेल (पुनर्वास)"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Partition displacement: 14–15 million people.",
+    "Deaths: ~1–1.5 million.",
+    "Worst affected: Punjab and Bengal.",
+    "Radcliffe Award decided partition boundaries.",
+    "Gandhi toured Noakhali, Bengal, Delhi for peace."
+  ],
+  "prelimsTipsHindi": [
+    "विभाजन विस्थापन: 1.4–1.5 करोड़ लोग।",
+    "मौतें: लगभग 10–15 लाख।",
+    "सबसे प्रभावित: पंजाब और बंगाल।",
+    "रेडक्लिफ अवार्ड ने सीमा तय की।",
+    "गांधीजी ने नोआखली, बंगाल, दिल्ली में शांति के लिए दौरा किया।"
+  ],
+  "funFacts": [
+    "Refugees often traveled in overcrowded 'special trains', many of which were attacked en route.",
+    "Delhi’s population almost doubled between 1941 and 1951 due to refugee influx.",
+    "Many Punjabi refugee families went on to become industrial leaders in independent India."
+  ],
+  "funFactsHindi": [
+    "शरणार्थी अक्सर भीड़-भरी 'स्पेशल ट्रेनों' से जाते थे, जिन पर रास्ते में हमले होते थे।",
+    "1941 से 1951 के बीच दिल्ली की जनसंख्या लगभग दोगुनी हो गई शरणार्थियों के कारण।",
+    "कई पंजाबी शरणार्थी परिवार स्वतंत्र भारत में उद्योगपति बने।"
+  ],
+  "mainsPoints": [
+    "Partition violence was one of the darkest episodes of modern Indian history, showing the destructive potential of communalism.",
+    "The refugee crisis reshaped demography and economy, especially in Punjab, Delhi, and Bengal.",
+    "British hasty withdrawal and Mountbatten’s rushed timeline worsened the crisis.",
+    "Despite tragedy, India managed rehabilitation and integration of millions of refugees successfully."
+  ],
+  "mainsPointsHindi": [
+    "विभाजन की हिंसा आधुनिक भारतीय इतिहास का सबसे अंधकारमय अध्याय थी, जिसने साम्प्रदायिकता की विनाशकारी क्षमता दिखाई।",
+    "शरणार्थी संकट ने विशेषकर पंजाब, दिल्ली और बंगाल की जनसंख्या और अर्थव्यवस्था को बदल दिया।",
+    "ब्रिटिशों की जल्दबाज़ी और माउंटबेटन की समयसीमा ने संकट को और बढ़ाया।",
+    "त्रासदी के बावजूद भारत ने लाखों शरणार्थियों के पुनर्वास और एकीकरण को सफलतापूर्वक संभाला।"
+  ]
+},
+{
+  "heading": "Integration of Princely States (1947–49)",
+  "headingHindi": "रियासतों का एकीकरण (1947–49)",
+  "highlight": "After independence, 562 princely states had to choose between joining India or Pakistan. Through diplomacy, persuasion, and force when necessary, Sardar Patel and V.P. Menon ensured the integration of almost all states into the Indian Union.",
+  "highlightHindi": "स्वतंत्रता के बाद 562 रियासतों को भारत या पाकिस्तान में से किसी एक में शामिल होना था। सरदार पटेल और वी.पी. मेनन ने कूटनीति, समझौता और आवश्यकता पड़ने पर बल प्रयोग से लगभग सभी रियासतों का भारत में एकीकरण सुनिश्चित किया।",
+  "details": [
+    "## Background",
+    "• At independence, about 562 princely states covered nearly 40% of British India’s area and 23% of population.",
+    "• Indian Independence Act (1947) ended British paramountcy over states.",
+    "• States given choice: Join India, Pakistan, or remain independent (though latter was impractical).",
+    "• Patel (Home Minister) and V.P. Menon (Secretary, Ministry of States) led integration process.",
+    "## Instruments of Accession",
+    "• States had to sign Instrument of Accession, ceding Defence, External Affairs, and Communications to Union.",
+    "• Most rulers signed quickly due to Patel’s persuasion and assurance of privileges (privy purses, titles).",
+    "## Hyderabad",
+    "• Nizam wanted independence, supported by Razakars (armed militia).",
+    "• Communal violence and instability grew.",
+    "• Operation Polo (Sept 1948): Indian Army annexed Hyderabad, ending Nizam’s rule.",
+    "## Junagadh",
+    "• Muslim Nawab wanted to join Pakistan though majority population was Hindu.",
+    "• Pakistan accepted accession, but popular revolt and blockade followed.",
+    "• Plebiscite held in Feb 1948 → 99% voted for joining India.",
+    "## Kashmir",
+    "• Ruler Hari Singh initially wanted independence.",
+    "• Tribesmen from Pakistan invaded in Oct 1947.",
+    "• Hari Singh signed Instrument of Accession (26 Oct 1947) to India in return for military help.",
+    "• Led to first India–Pakistan war (1947–48).",
+    "## Other States",
+    "• Travancore and Bhopal initially resisted, later acceded under pressure.",
+    "• Smaller states merged into administrative units (PEPSU, Himachal, etc.).",
+    "## Significance",
+    "• Ensured territorial unity of India.",
+    "• Prevented Balkanization of newly independent India.",
+    "• Patel hailed as 'Iron Man of India' for unifying the country."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• स्वतंत्रता के समय लगभग 562 रियासतें भारत के क्षेत्रफल का 40% और जनसंख्या का 23% थीं।",
+    "• भारतीय स्वतंत्रता अधिनियम (1947) ने रियासतों पर ब्रिटिश प्रभुता समाप्त कर दी।",
+    "• रियासतों को विकल्प मिला: भारत या पाकिस्तान में शामिल हों, या स्वतंत्र रहें (स्वतंत्रता व्यावहारिक नहीं थी)।",
+    "• एकीकरण का नेतृत्व सरदार पटेल (गृहमंत्री) और वी.पी. मेनन ने किया।",
+    "## विलय पत्र (Instrument of Accession)",
+    "• रियासतों को विलय पत्र पर हस्ताक्षर करने थे, जिससे रक्षा, विदेश और संचार केंद्र सरकार को मिलते।",
+    "• पटेल के समझाने और विशेषाधिकार (पेंशन, उपाधि) के आश्वासन से अधिकांश रियासतें जल्दी शामिल हो गईं।",
+    "## हैदराबाद",
+    "• निज़ाम स्वतंत्र रहना चाहता था, उसे रज़ाकारों का समर्थन मिला।",
+    "• सांप्रदायिक हिंसा और अस्थिरता बढ़ी।",
+    "• ऑपरेशन पोलो (सितंबर 1948): भारतीय सेना ने हैदराबाद का विलय किया।",
+    "## जूनागढ़",
+    "• मुस्लिम नवाब पाकिस्तान में शामिल होना चाहता था जबकि अधिकांश जनसंख्या हिंदू थी।",
+    "• पाकिस्तान ने स्वीकार किया, लेकिन जनविद्रोह और नाकेबंदी हुई।",
+    "• फरवरी 1948 में जनमत-संग्रह → 99% ने भारत में विलय के पक्ष में वोट दिया।",
+    "## कश्मीर",
+    "• महाराजा हरि सिंह स्वतंत्र रहना चाहते थे।",
+    "• अक्टूबर 1947 में पाकिस्तान से आए कबायली हमलावरों ने आक्रमण किया।",
+    "• हरि सिंह ने 26 अक्टूबर 1947 को भारत में विलय पत्र पर हस्ताक्षर किए।",
+    "• इसके बाद पहला भारत–पाक युद्ध (1947–48) हुआ।",
+    "## अन्य रियासतें",
+    "• त्रावणकोर और भोपाल ने प्रारंभ में विरोध किया, बाद में शामिल हुए।",
+    "• छोटी रियासतों को प्रशासनिक इकाइयों में मिलाया गया (PEPSU, हिमाचल आदि)।",
+    "## महत्व",
+    "• भारत की क्षेत्रीय एकता सुनिश्चित हुई।",
+    "• नवस्वतंत्र भारत के टुकड़े-टुकड़े होने से रोका गया।",
+    "• पटेल को 'भारत का लौह पुरुष' कहा गया।"
+  ],
+  "tables": [
+    {
+      "title": "Major Princely States and Their Integration",
+      "titleHindi": "प्रमुख रियासतें और उनका एकीकरण",
+      "columns": ["State", "Ruler/Decision", "Integration Method", "Date"],
+      "columnsHindi": ["रियासत", "शासक/निर्णय", "एकीकरण का तरीका", "तिथि"],
+      "rows": [
+        ["Hyderabad", "Nizam wanted independence", "Operation Polo (Military Action)", "Sept 1948"],
+        ["Junagadh", "Nawab wanted Pakistan", "Plebiscite + Popular Revolt", "Feb 1948"],
+        ["Kashmir", "Hari Singh signed accession after invasion", "Instrument of Accession + War", "Oct 1947"],
+        ["Travancore", "Initially declared independence", "Persuasion & Pressure", "1947"],
+        ["Bhopal", "Nawab opposed accession", "Political pressure", "1947"]
+      ],
+      "rowsHindi": [
+        ["हैदराबाद", "निज़ाम स्वतंत्र रहना चाहता था", "ऑपरेशन पोलो (सैन्य कार्रवाई)", "सितंबर 1948"],
+        ["जूनागढ़", "नवाब पाकिस्तान में शामिल होना चाहता था", "जनमत-संग्रह + जनविद्रोह", "फरवरी 1948"],
+        ["कश्मीर", "हरि सिंह ने आक्रमण के बाद विलय किया", "विलय पत्र + युद्ध", "अक्टूबर 1947"],
+        ["त्रावणकोर", "शुरुआत में स्वतंत्रता की घोषणा", "समझौता और दबाव", "1947"],
+        ["भोपाल", "नवाब ने विलय का विरोध किया", "राजनीतिक दबाव", "1947"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Patel (Iron Man) and V.P. Menon led integration of princely states.",
+    "Instrument of Accession gave Union control over Defence, External Affairs, Communications.",
+    "Junagadh → plebiscite (99% for India, 1948).",
+    "Hyderabad → Operation Polo (1948).",
+    "Kashmir → Instrument of Accession (Oct 1947)."
+  ],
+  "prelimsTipsHindi": [
+    "पटेल (लौह पुरुष) और वी.पी. मेनन ने रियासतों का एकीकरण किया।",
+    "विलय पत्र से केंद्र को रक्षा, विदेश और संचार का नियंत्रण मिला।",
+    "जूनागढ़ → जनमत-संग्रह (99% भारत में, 1948)।",
+    "हैदराबाद → ऑपरेशन पोलो (1948)।",
+    "कश्मीर → विलय पत्र (अक्टूबर 1947)।"
+  ],
+  "funFacts": [
+    "Mountbatten described Patel’s work as 'the real miracle of modern India'.",
+    "Hyderabad’s Operation Polo lasted only 5 days and was called a 'police action'.",
+    "Junagadh’s Nawab fled to Pakistan with his dogs, leaving administration in chaos."
+  ],
+  "funFactsHindi": [
+    "माउंटबेटन ने पटेल के कार्य को 'आधुनिक भारत का वास्तविक चमत्कार' कहा।",
+    "हैदराबाद का ऑपरेशन पोलो केवल 5 दिन चला और इसे 'पुलिस कार्रवाई' कहा गया।",
+    "जूनागढ़ का नवाब अपने कुत्तों के साथ पाकिस्तान भाग गया और प्रशासन बिखर गया।"
+  ],
+  "mainsPoints": [
+    "Integration of princely states was crucial for national unity and stability.",
+    "Patel’s mix of diplomacy, persuasion, and force prevented Balkanization.",
+    "Hyderabad, Junagadh, and Kashmir became test cases of Indian statecraft.",
+    "Set the stage for a strong and unified Indian Union."
+  ],
+  "mainsPointsHindi": [
+    "रियासतों का एकीकरण राष्ट्रीय एकता और स्थिरता के लिए आवश्यक था।",
+    "पटेल ने कूटनीति, समझौता और बल का मिश्रण कर भारत के टुकड़े-टुकड़े होने से रोका।",
+    "हैदराबाद, जूनागढ़ और कश्मीर भारतीय कूटनीति की परीक्षा बने।",
+    "इससे एक मजबूत और एकीकृत भारतीय संघ की नींव रखी गई।"
+  ]
+},
+{
+  "heading": "Spread of Communalism in India",
+  "headingHindi": "भारत में साम्प्रदायिकता का प्रसार",
+  "highlight": "Communalism in India grew during the late 19th and early 20th centuries as British colonial policies, socio-economic changes, and political competition between communities fostered divisions along religious lines.",
+  "highlightHindi": "भारत में साम्प्रदायिकता का प्रसार उन्नीसवीं शताब्दी के उत्तरार्ध और बीसवीं शताब्दी की शुरुआत में हुआ, जब ब्रिटिश औपनिवेशिक नीतियों, सामाजिक-आर्थिक परिवर्तनों और समुदायों के बीच राजनीतिक प्रतिस्पर्धा ने धार्मिक आधार पर विभाजन को बढ़ावा दिया।",
+  "details": [
+    "## Background",
+    "• Communalism = placing one’s religion above national identity.",
+    "• Rooted in colonial policies of 'divide and rule' and competitive politics.",
+    "• Economic inequalities, cultural revivalism, and identity politics deepened divisions.",
+    "## Colonial Policies",
+    "• British census classified Indians on religious lines, reinforcing identity divisions.",
+    "• Separate Electorates introduced under Morley–Minto Reforms (1909) → institutionalized communalism.",
+    "• Government patronized communal organizations to weaken national movement.",
+    "## Social and Cultural Factors",
+    "• Hindu revivalist movements (Arya Samaj, Cow Protection Societies).",
+    "• Muslim reformist and separatist movements (Aligarh Movement, Sir Syed Ahmed Khan’s ideas).",
+    "• Religious leaders and press often promoted exclusivist identity.",
+    "## Political Developments",
+    "• Formation of Muslim League (1906) and Hindu Mahasabha (1915).",
+    "• Communal riots: e.g., Bengal (1905 partition protests), 1919–20 (Khilafat–Non-Cooperation tensions), 1946 (Direct Action Day).",
+    "• Two-Nation Theory propagated by Muslim League strengthened communal politics.",
+    "## Role of National Movement",
+    "• Congress often accused of Hindu bias by Muslim League.",
+    "• Failure to fully integrate masses across communities fueled mistrust.",
+    "• Communal Award (1932) deepened religious divisions.",
+    "## Spread During 1940s",
+    "• League’s demand for Pakistan (Lahore Resolution, 1940).",
+    "• Communal riots in Bengal, Punjab, Bihar, Noakhali, Calcutta (1946).",
+    "• Culminated in Partition of India (1947).",
+    "## Consequences",
+    "• Widespread communal riots and massacres.",
+    "• Division of India into India and Pakistan.",
+    "• Long-term Hindu–Muslim divide affecting politics even after independence."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• साम्प्रदायिकता = धर्म को राष्ट्रीय पहचान से ऊपर रखना।",
+    "• इसकी जड़ें औपनिवेशिक 'फूट डालो और राज करो' नीति और प्रतिस्पर्धी राजनीति में थीं।",
+    "• आर्थिक असमानताएँ, सांस्कृतिक पुनरुत्थानवाद और पहचान की राजनीति ने विभाजन गहरा किया।",
+    "## औपनिवेशिक नीतियाँ",
+    "• ब्रिटिश जनगणना ने भारतीयों को धार्मिक आधार पर वर्गीकृत किया।",
+    "• मॉर्ले–मिंटो सुधार (1909) में पृथक निर्वाचक मंडल की व्यवस्था → साम्प्रदायिकता संस्थागत बनी।",
+    "• सरकार ने साम्प्रदायिक संगठनों को संरक्षण दिया ताकि राष्ट्रीय आंदोलन कमजोर हो।",
+    "## सामाजिक और सांस्कृतिक कारक",
+    "• हिंदू पुनरुत्थानवादी आंदोलन (आर्य समाज, गौ-रक्षा समितियाँ)।",
+    "• मुस्लिम सुधारवादी और पृथकतावादी आंदोलन (अलीगढ़ आंदोलन, सर सैयद अहमद खान के विचार)।",
+    "• धार्मिक नेताओं और प्रेस ने अक्सर अलगाववादी पहचान को बढ़ावा दिया।",
+    "## राजनीतिक घटनाएँ",
+    "• मुस्लिम लीग (1906) और हिंदू महासभा (1915) का गठन।",
+    "• साम्प्रदायिक दंगे: बंगाल (1905), 1919–20 (खिलाफत–असहयोग तनाव), 1946 (डायरेक्ट एक्शन डे)।",
+    "• मुस्लिम लीग द्वारा प्रचारित 'दो-राष्ट्र सिद्धांत' ने साम्प्रदायिक राजनीति को मजबूत किया।",
+    "## राष्ट्रीय आंदोलन की भूमिका",
+    "• कांग्रेस पर मुस्लिम लीग ने हिंदू पक्षपात का आरोप लगाया।",
+    "• सभी समुदायों को पूर्ण रूप से जोड़ने में असफलता से अविश्वास बढ़ा।",
+    "• साम्प्रदायिक पुरस्कार (1932) ने धार्मिक विभाजन को और गहरा किया।",
+    "## 1940 के दशक में प्रसार",
+    "• मुस्लिम लीग की पाकिस्तान की माँग (लाहौर प्रस्ताव, 1940)।",
+    "• बंगाल, पंजाब, बिहार, नोआखली, कलकत्ता (1946) में दंगे।",
+    "• अंततः भारत का विभाजन (1947)।",
+    "## परिणाम",
+    "• व्यापक साम्प्रदायिक दंगे और नरसंहार।",
+    "• भारत का विभाजन और पाकिस्तान का निर्माण।",
+    "• स्वतंत्रता के बाद भी राजनीति में हिंदू–मुस्लिम विभाजन।"
+  ],
+  "tables": [
+    {
+      "title": "Key Milestones in Spread of Communalism",
+      "titleHindi": "साम्प्रदायिकता के प्रसार में प्रमुख पड़ाव",
+      "columns": ["Year", "Event", "Impact"],
+      "columnsHindi": ["साल", "घटना", "प्रभाव"],
+      "rows": [
+        ["1906", "Formation of Muslim League", "Institutionalized communal politics"],
+        ["1909", "Morley-Minto Reforms", "Introduced separate electorates"],
+        ["1915", "Formation of Hindu Mahasabha", "Rise of Hindu communal politics"],
+        ["1932", "Communal Award", "Strengthened religious-based representation"],
+        ["1940", "Lahore Resolution", "Demand for Pakistan"],
+        ["1946", "Direct Action Day", "Mass communal riots"],
+        ["1947", "Partition", "Division of India on religious lines"]
+      ],
+      "rowsHindi": [
+        ["1906", "मुस्लिम लीग की स्थापना", "साम्प्रदायिक राजनीति संस्थागत बनी"],
+        ["1909", "मॉर्ले-मिंटो सुधार", "पृथक निर्वाचक मंडल की शुरुआत"],
+        ["1915", "हिंदू महासभा की स्थापना", "हिंदू साम्प्रदायिक राजनीति का उदय"],
+        ["1932", "साम्प्रदायिक पुरस्कार", "धार्मिक आधार पर प्रतिनिधित्व मजबूत"],
+        ["1940", "लाहौर प्रस्ताव", "पाकिस्तान की माँग"],
+        ["1946", "डायरेक्ट एक्शन डे", "भारी साम्प्रदायिक दंगे"],
+        ["1947", "विभाजन", "धार्मिक आधार पर भारत का बँटवारा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Muslim League formed in 1906 → start of communal politics.",
+    "1909 Morley-Minto Reforms → separate electorates.",
+    "1932 Communal Award → deepened communal divide.",
+    "1940 Lahore Resolution → Pakistan demand.",
+    "1946 Direct Action Day → communal riots → Partition."
+  ],
+  "prelimsTipsHindi": [
+    "मुस्लिम लीग 1906 में बनी → साम्प्रदायिक राजनीति की शुरुआत।",
+    "1909 मॉर्ले–मिंटो सुधार → पृथक निर्वाचक मंडल।",
+    "1932 साम्प्रदायिक पुरस्कार → विभाजन गहरा हुआ।",
+    "1940 लाहौर प्रस्ताव → पाकिस्तान की माँग।",
+    "1946 डायरेक्ट एक्शन डे → दंगे → विभाजन।"
+  ],
+  "funFacts": [
+    "British officials often encouraged communal processions (religious festivals, tazia, etc.) knowing they could trigger riots.",
+    "Separate electorates gave Muslim League political dominance in Muslim-majority areas, despite limited overall support initially.",
+    "Many leaders like Gandhi and Maulana Azad consistently opposed communalism, promoting composite nationalism."
+  ],
+  "funFactsHindi": [
+    "ब्रिटिश अधिकारी अक्सर धार्मिक जुलूसों (त्योहार, ताज़िया आदि) को प्रोत्साहित करते थे ताकि दंगे हों।",
+    "पृथक निर्वाचक मंडल ने मुस्लिम बहुल क्षेत्रों में मुस्लिम लीग को राजनीतिक बढ़त दी।",
+    "गांधी और मौलाना आज़ाद जैसे नेता लगातार साम्प्रदायिकता का विरोध कर संयुक्त राष्ट्रवाद का समर्थन करते रहे।"
+  ],
+  "mainsPoints": [
+    "Communalism in India was a colonial construct, institutionalized through separate electorates and divide-and-rule policies.",
+    "Socio-religious revival movements and identity politics deepened divides.",
+    "The inability of Congress and League to reconcile created political deadlock, leading to partition.",
+    "Legacy of communalism continues to influence India’s social and political landscape."
+  ],
+  "mainsPointsHindi": [
+    "भारत में साम्प्रदायिकता औपनिवेशिक निर्माण थी, जिसे पृथक निर्वाचक मंडल और 'फूट डालो राज करो' नीति से संस्थागत किया गया।",
+    "सामाजिक–धार्मिक पुनरुत्थान और पहचान की राजनीति ने विभाजन को गहरा किया।",
+    "कांग्रेस और लीग के बीच समझौता न होने से राजनीतिक गतिरोध हुआ, जिसने विभाजन की राह खोली।",
+    "साम्प्रदायिकता की विरासत आज भी भारत के सामाजिक–राजनीतिक परिदृश्य को प्रभावित करती है।"
+  ]
+},
+{
+  "heading": "Evolution of the Two-Nation Theory",
+  "headingHindi": "दो-राष्ट्र सिद्धांत का विकास",
+  "highlight": "The Two-Nation Theory argued that Hindus and Muslims were distinct nations with irreconcilable differences, ultimately leading to the demand for Pakistan. Its roots lay in colonial policies, communal politics, and separatist ideologies that evolved from the late 19th century to 1947.",
+  "highlightHindi": "दो-राष्ट्र सिद्धांत का तर्क था कि हिंदू और मुसलमान दो अलग-अलग राष्ट्र हैं जिनमें मेल संभव नहीं है। इसका विकास औपनिवेशिक नीतियों, साम्प्रदायिक राजनीति और पृथकतावादी विचारधाराओं से हुआ, जिसने अंततः पाकिस्तान की माँग को जन्म दिया।",
+  "details": [
+    "## Early Seeds (Late 19th Century)",
+    "• Sir Syed Ahmed Khan (Aligarh Movement): Advocated distinct Muslim identity; promoted modern education for Muslims but discouraged political unity with Hindus.",
+    "• Urdu–Hindi controversy (1867) deepened linguistic and religious divide.",
+    "• British policies of separate electorates and communal representation institutionalized divisions.",
+    "## Formalization of Muslim Separatism",
+    "• Formation of All-India Muslim League (1906) at Dhaka marked organized Muslim politics.",
+    "• Morley-Minto Reforms (1909) introduced separate electorates for Muslims, legitimizing communal representation.",
+    "• Lucknow Pact (1916): Congress and League cooperation recognized Muslims as a separate political community.",
+    "## Rise of Communal Consciousness (1920s–1930s)",
+    "• Khilafat Movement (1919–24) strengthened Muslim political identity.",
+    "• Communal riots during 1920s deepened mistrust.",
+    "• Nehru Report (1928): Muslim League rejected due to lack of sufficient safeguards for Muslims.",
+    "• Jinnah’s Fourteen Points (1929) emphasized Muslim political autonomy.",
+    "• Communal Award (1932) by British granted separate representation to minorities, reinforcing separateness.",
+    "## Lahore Resolution (1940)",
+    "• Muslim League under Jinnah formally adopted demand for 'independent states' for Muslims in northwest and east India.",
+    "• This resolution is considered the official articulation of the Two-Nation Theory.",
+    "## Towards Partition",
+    "• 1937 elections showed Muslim League weak among masses, but later it emerged as sole spokesman of Muslims.",
+    "• WWII (1939–45) and failure of Cripps Mission (1942) increased League’s prominence.",
+    "• Direct Action Day (16 August 1946) and subsequent riots demonstrated impossibility of Hindu–Muslim unity.",
+    "• Mountbatten Plan (1947) and Indian Independence Act gave final shape to Pakistan.",
+    "## Essence of the Theory",
+    "• Hindus and Muslims are not just two religious groups but two nations.",
+    "• They differ in religion, culture, history, language, and social customs.",
+    "• Hence, they cannot live together under one government."
+  ],
+  "detailsHindi": [
+    "## शुरुआती बीज (19वीं सदी के अंत)",
+    "• सर सैयद अहमद खान (अलीगढ़ आंदोलन): मुस्लिम पहचान को अलग माना, मुसलमानों के लिए आधुनिक शिक्षा पर जोर दिया लेकिन हिंदुओं से राजनीतिक एकता को हतोत्साहित किया।",
+    "• उर्दू–हिंदी विवाद (1867) ने भाषाई और धार्मिक विभाजन को गहरा किया।",
+    "• ब्रिटिशों की पृथक निर्वाचक मंडल और साम्प्रदायिक प्रतिनिधित्व की नीतियों ने विभाजन को संस्थागत किया।",
+    "## मुस्लिम पृथकतावाद का औपचारिककरण",
+    "• ऑल इंडिया मुस्लिम लीग (1906) की स्थापना ने संगठित मुस्लिम राजनीति की नींव रखी।",
+    "• मॉर्ले-मिंटो सुधार (1909) ने मुसलमानों के लिए पृथक निर्वाचक मंडल शुरू किए।",
+    "• लखनऊ समझौता (1916): कांग्रेस और लीग के सहयोग ने मुसलमानों को अलग राजनीतिक समुदाय के रूप में स्वीकारा।",
+    "## साम्प्रदायिक चेतना का उभार (1920–1930 का दशक)",
+    "• खिलाफत आंदोलन (1919–24) ने मुस्लिम राजनीतिक पहचान को मजबूत किया।",
+    "• 1920 के दशक के दंगों ने अविश्वास को गहरा किया।",
+    "• नेहरू रिपोर्ट (1928): मुस्लिम लीग ने अस्वीकार किया क्योंकि इसमें मुसलमानों के लिए पर्याप्त सुरक्षा नहीं थी।",
+    "• जिन्ना के 14 सूत्र (1929) ने मुस्लिम स्वायत्तता पर बल दिया।",
+    "• साम्प्रदायिक पुरस्कार (1932) ने अलग प्रतिनिधित्व देकर अलगाव को और मजबूत किया।",
+    "## लाहौर प्रस्ताव (1940)",
+    "• जिन्ना के नेतृत्व में मुस्लिम लीग ने उत्तर-पश्चिम और पूर्वी भारत में 'स्वतंत्र राज्यों' की माँग को औपचारिक रूप से अपनाया।",
+    "• इसे दो-राष्ट्र सिद्धांत की आधिकारिक अभिव्यक्ति माना जाता है।",
+    "## विभाजन की ओर",
+    "• 1937 के चुनावों में मुस्लिम लीग कमजोर थी, लेकिन बाद में मुसलमानों की एकमात्र प्रवक्ता बनी।",
+    "• WWII (1939–45) और क्रिप्स मिशन (1942) की विफलता से लीग की स्थिति मजबूत हुई।",
+    "• डायरेक्ट एक्शन डे (16 अगस्त 1946) और दंगों ने हिंदू–मुस्लिम एकता की असंभवता को दिखाया।",
+    "• माउंटबेटन योजना (1947) और भारतीय स्वतंत्रता अधिनियम ने पाकिस्तान को अंतिम रूप दिया।",
+    "## सिद्धांत का सार",
+    "• हिंदू और मुसलमान केवल धार्मिक समूह नहीं बल्कि दो अलग राष्ट्र हैं।",
+    "• वे धर्म, संस्कृति, इतिहास, भाषा और सामाजिक रीति-रिवाजों में भिन्न हैं।",
+    "• इसलिए वे एक ही सरकार के अधीन नहीं रह सकते।"
+  ],
+  "tables": [
+    {
+      "title": "Milestones in Evolution of Two-Nation Theory",
+      "titleHindi": "दो-राष्ट्र सिद्धांत के विकास में प्रमुख पड़ाव",
+      "columns": ["Year", "Event", "Significance"],
+      "columnsHindi": ["साल", "घटना", "महत्व"],
+      "rows": [
+        ["1867", "Urdu–Hindi Controversy", "Deepened Hindu–Muslim linguistic divide"],
+        ["1875", "Aligarh Movement", "Sir Syed stressed separate Muslim identity"],
+        ["1906", "Formation of Muslim League", "Organized Muslim politics"],
+        ["1909", "Separate Electorates", "Institutionalized communalism"],
+        ["1929", "Jinnah’s Fourteen Points", "Safeguards for Muslims demanded"],
+        ["1932", "Communal Award", "Separate representation reinforced"],
+        ["1940", "Lahore Resolution", "Formal demand for Pakistan"],
+        ["1946", "Direct Action Day", "Mass riots, showed Hindu–Muslim divide"],
+        ["1947", "Partition", "Two-Nation Theory realized as Pakistan"]
+      ],
+      "rowsHindi": [
+        ["1867", "उर्दू–हिंदी विवाद", "हिंदू–मुस्लिम भाषाई विभाजन गहरा हुआ"],
+        ["1875", "अलीगढ़ आंदोलन", "सर सैयद ने मुस्लिम पहचान पर जोर दिया"],
+        ["1906", "मुस्लिम लीग की स्थापना", "संगठित मुस्लिम राजनीति की शुरुआत"],
+        ["1909", "पृथक निर्वाचक मंडल", "साम्प्रदायिकता संस्थागत हुई"],
+        ["1929", "जिन्ना के 14 सूत्र", "मुसलमानों के लिए सुरक्षा की माँग"],
+        ["1932", "साम्प्रदायिक पुरस्कार", "अलग प्रतिनिधित्व और मजबूत हुआ"],
+        ["1940", "लाहौर प्रस्ताव", "पाकिस्तान की माँग औपचारिक रूप से रखी गई"],
+        ["1946", "डायरेक्ट एक्शन डे", "दंगे, हिंदू–मुस्लिम विभाजन स्पष्ट"],
+        ["1947", "विभाजन", "दो-राष्ट्र सिद्धांत पाकिस्तान के रूप में साकार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Two-Nation Theory’s roots: Sir Syed Ahmed Khan and Aligarh Movement.",
+    "1906 → Muslim League formed.",
+    "1909 → Separate electorates (Morley-Minto).",
+    "1929 → Jinnah’s Fourteen Points.",
+    "1940 → Lahore Resolution = Pakistan demand.",
+    "1947 → Partition realized the theory."
+  ],
+  "prelimsTipsHindi": [
+    "दो-राष्ट्र सिद्धांत की जड़ें: सर सैयद अहमद खान और अलीगढ़ आंदोलन।",
+    "1906 → मुस्लिम लीग की स्थापना।",
+    "1909 → पृथक निर्वाचक मंडल (मॉर्ले-मिंटो)।",
+    "1929 → जिन्ना के 14 सूत्र।",
+    "1940 → लाहौर प्रस्ताव = पाकिस्तान की माँग।",
+    "1947 → विभाजन में सिद्धांत साकार।"
+  ],
+  "funFacts": [
+    "Sir Syed Ahmed Khan initially advocated Hindu–Muslim unity but changed stance after 1857 revolt.",
+    "The Lahore Resolution of 1940 did not explicitly mention 'Pakistan', but it became synonymous with it later.",
+    "Many nationalist Muslims, including Maulana Azad and Khan Abdul Ghaffar Khan, opposed the Two-Nation Theory."
+  ],
+  "funFactsHindi": [
+    "सर सैयद अहमद खान ने शुरुआत में हिंदू–मुस्लिम एकता का समर्थन किया था, लेकिन 1857 के विद्रोह के बाद रुख बदला।",
+    "1940 का लाहौर प्रस्ताव सीधे 'पाकिस्तान' शब्द नहीं कहता था, लेकिन बाद में यह उसी का पर्याय बन गया।",
+    "कई राष्ट्रवादी मुसलमान, जैसे मौलाना आज़ाद और खान अब्दुल गफ्फार खान, दो-राष्ट्र सिद्धांत के विरोधी थे।"
+  ],
+  "mainsPoints": [
+    "Two-Nation Theory evolved gradually from cultural and political separateness to territorial demand.",
+    "British divide-and-rule policies institutionalized religious divisions through separate electorates.",
+    "Jinnah transformed the League from a minority safeguard body into a mass movement for Pakistan.",
+    "Despite opposition from nationalist Muslims, communal polarization ensured theory’s realization in 1947."
+  ],
+  "mainsPointsHindi": [
+    "दो-राष्ट्र सिद्धांत धीरे-धीरे सांस्कृतिक और राजनीतिक पृथकता से क्षेत्रीय माँग तक पहुँचा।",
+    "ब्रिटिशों की 'फूट डालो और राज करो' नीति ने पृथक निर्वाचक मंडल के माध्यम से धार्मिक विभाजन को संस्थागत किया।",
+    "जिन्ना ने लीग को अल्पसंख्यक सुरक्षा संगठन से पाकिस्तान के लिए जन आंदोलन में बदल दिया।",
+    "राष्ट्रवादी मुसलमानों के विरोध के बावजूद साम्प्रदायिक ध्रुवीकरण ने सिद्धांत को 1947 में साकार कर दिया।"
+  ]
+},
+{
+  "heading": "Criticism of the Two-Nation Theory",
+  "headingHindi": "दो-राष्ट्र सिद्धांत की आलोचना",
+  "highlight": "The Two-Nation Theory faced strong opposition from nationalist leaders, reformers, and many Muslims themselves. Critics argued that Hindus and Muslims shared a long history, culture, and struggles, and that dividing India on religious lines would create endless conflict.",
+  "highlightHindi": "दो-राष्ट्र सिद्धांत को राष्ट्रवादी नेताओं, सुधारकों और अनेक मुसलमानों ने कड़ी आलोचना की। आलोचकों का तर्क था कि हिंदू और मुसलमानों ने साझा इतिहास, संस्कृति और संघर्ष झेले हैं और धार्मिक आधार पर भारत का विभाजन अंतहीन संघर्ष पैदा करेगा।",
+  "details": [
+    "## Historical Arguments Against the Theory",
+    "• Hindus and Muslims had lived together for centuries, sharing common culture, language, and traditions.",
+    "• India’s composite culture (Ganga–Jamuni tehzeeb) proved that coexistence was possible.",
+    "• Many reform movements (Bhakti and Sufi) promoted unity beyond religion.",
+    "## Political and Intellectual Criticism",
+    "• Mahatma Gandhi: Believed in 'composite nationalism'; religion cannot define nationality.",
+    "• Maulana Abul Kalam Azad: Strongly opposed partition, argued Muslims were integral to Indian society.",
+    "• Khan Abdul Ghaffar Khan (Frontier Gandhi): Called partition a betrayal of Muslims in NWFP.",
+    "• Jawaharlal Nehru: Saw Two-Nation Theory as British creation to weaken India.",
+    "## Muslim Opposition",
+    "• Jamiat-ul-Ulama-e-Hind: Advocated united India with Muslims and Hindus as equal partners.",
+    "• Shaukatullah Ansari, Allah Bux Soomro, and many other Muslim leaders rejected the theory.",
+    "• Majority of Muslims in provinces like UP, Bihar, and Madras opposed partition, yet were affected by it.",
+    "## Practical Criticism",
+    "• Partition failed to ensure peace: led to worst communal riots in 1947.",
+    "• Millions of Muslims remained in India, undermining idea of 'separate nations'.",
+    "• Division was based on religion, but ignored cultural, linguistic, and regional diversities.",
+    "## Long-term Consequences",
+    "• Strengthened communal politics instead of solving minority issues.",
+    "• Laid foundation for India–Pakistan hostility and wars.",
+    "• Left deep scars of displacement, riots, and distrust among communities."
+  ],
+  "detailsHindi": [
+    "## ऐतिहासिक आलोचना",
+    "• हिंदू और मुसलमान सदियों से साथ रह रहे थे और साझा संस्कृति, भाषा और परंपराएँ थीं।",
+    "• भारत की मिश्रित संस्कृति (गंगा–जमुनी तहज़ीब) सहअस्तित्व का प्रमाण थी।",
+    "• अनेक सुधार आंदोलनों (भक्ति और सूफी) ने धर्म से परे एकता का संदेश दिया।",
+    "## राजनीतिक और वैचारिक आलोचना",
+    "• महात्मा गांधी: 'संयुक्त राष्ट्रवाद' के पक्षधर थे, धर्म राष्ट्रीयता की पहचान नहीं हो सकता।",
+    "• मौलाना अबुल कलाम आजाद: विभाजन का कड़ा विरोध किया, मुसलमानों को भारतीय समाज का अभिन्न हिस्सा बताया।",
+    "• खान अब्दुल गफ्फार खान (सरहदी गांधी): विभाजन को NWFP के मुसलमानों के साथ विश्वासघात कहा।",
+    "• जवाहरलाल नेहरू: दो-राष्ट्र सिद्धांत को ब्रिटिशों की चाल बताया।",
+    "## मुस्लिम विरोध",
+    "• जमीयत-उल-उलेमा-ए-हिंद: हिंदू–मुस्लिम साझेदारी वाले संयुक्त भारत के पक्ष में।",
+    "• शौकतुल्लाह अंसारी, अल्ला बख़्श सूमरो और अन्य कई मुस्लिम नेताओं ने सिद्धांत को ठुकराया।",
+    "• यूपी, बिहार और मद्रास जैसे प्रांतों के अधिकांश मुसलमान विभाजन के खिलाफ थे।",
+    "## व्यावहारिक आलोचना",
+    "• विभाजन शांति सुनिश्चित करने में विफल रहा: 1947 में भीषण दंगे हुए।",
+    "• करोड़ों मुसलमान भारत में रह गए, जिससे 'अलग राष्ट्रों' की धारणा कमजोर हुई।",
+    "• विभाजन धर्म पर आधारित था, लेकिन सांस्कृतिक, भाषाई और क्षेत्रीय विविधताओं की अनदेखी की गई।",
+    "## दीर्घकालिक परिणाम",
+    "• अल्पसंख्यक समस्या हल होने के बजाय साम्प्रदायिक राजनीति और मजबूत हुई।",
+    "• भारत–पाकिस्तान शत्रुता और युद्धों की नींव पड़ी।",
+    "• विस्थापन, दंगे और अविश्वास के गहरे घाव छोड़े।"
+  ],
+  "tables": [
+    {
+      "title": "Critics of the Two-Nation Theory",
+      "titleHindi": "दो-राष्ट्र सिद्धांत के आलोचक",
+      "columns": ["Leader", "Viewpoint"],
+      "columnsHindi": ["नेता", "दृष्टिकोण"],
+      "rows": [
+        ["Mahatma Gandhi", "Nationality cannot be based on religion, believed in composite nationalism."],
+        ["Maulana Azad", "Muslims are integral to India, opposed partition."],
+        ["Khan Abdul Ghaffar Khan", "Partition betrayed Muslims in NWFP."],
+        ["Jawaharlal Nehru", "Saw theory as British divide-and-rule ploy."],
+        ["Jamiat-ul-Ulama-e-Hind", "Advocated united India with Hindu–Muslim partnership."]
+      ],
+      "rowsHindi": [
+        ["महात्मा गांधी", "धर्म राष्ट्रीयता का आधार नहीं हो सकता, संयुक्त राष्ट्रवाद के पक्षधर।"],
+        ["मौलाना आज़ाद", "मुसलमान भारत का अभिन्न हिस्सा हैं, विभाजन का विरोध।"],
+        ["खान अब्दुल गफ्फार खान", "विभाजन NWFP के मुसलमानों के साथ विश्वासघात था।"],
+        ["जवाहरलाल नेहरू", "सिद्धांत को ब्रिटिशों की 'फूट डालो और राज करो' नीति बताया।"],
+        ["जमीयत-उल-उलेमा-ए-हिंद", "हिंदू–मुस्लिम साझेदारी वाले संयुक्त भारत के पक्षधर।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Two-Nation Theory was officially adopted by Muslim League in Lahore Resolution (1940).",
+    "Critics included Gandhi, Nehru, Maulana Azad, Khan Abdul Ghaffar Khan.",
+    "Communal Award (1932) and separate electorates institutionalized divisions.",
+    "Partition did not solve minority issue—millions of Muslims remained in India."
+  ],
+  "prelimsTipsHindi": [
+    "दो-राष्ट्र सिद्धांत मुस्लिम लीग ने 1940 के लाहौर प्रस्ताव में आधिकारिक रूप से अपनाया।",
+    "आलोचक: गांधी, नेहरू, मौलाना आज़ाद, खान अब्दुल गफ्फार खान।",
+    "साम्प्रदायिक पुरस्कार (1932) और पृथक निर्वाचक मंडल ने विभाजन को संस्थागत किया।",
+    "विभाजन अल्पसंख्यक समस्या हल नहीं कर सका—करोड़ों मुसलमान भारत में रहे।"
+  ],
+  "funFacts": [
+    "Maulana Azad in his autobiography 'India Wins Freedom' called partition 'the greatest tragedy of modern India'.",
+    "Khan Abdul Ghaffar Khan felt betrayed as his Khudai Khidmatgar movement was left vulnerable in Pakistan.",
+    "Despite the Two-Nation Theory, India today has the world’s second-largest Muslim population."
+  ],
+  "funFactsHindi": [
+    "मौलाना आज़ाद ने अपनी आत्मकथा 'इंडिया विंस फ्रीडम' में विभाजन को 'आधुनिक भारत की सबसे बड़ी त्रासदी' कहा।",
+    "खान अब्दुल गफ्फार खान ने विश्वासघात महसूस किया क्योंकि उनकी खुदाई खिदमतगार आंदोलन पाकिस्तान में असुरक्षित रह गया।",
+    "दो-राष्ट्र सिद्धांत के बावजूद आज भारत में दुनिया की दूसरी सबसे बड़ी मुस्लिम आबादी है।"
+  ],
+  "mainsPoints": [
+    "Criticism highlighted India’s long history of cultural synthesis and coexistence.",
+    "The theory ignored internal diversities within Hindus and Muslims themselves.",
+    "Partition created more problems than it solved—violence, migration, and hostility.",
+    "Nationalist Muslims strongly opposed the theory, showing alternative visions of unity."
+  ],
+  "mainsPointsHindi": [
+    "आलोचनाओं ने भारत के लंबे सांस्कृतिक सहअस्तित्व और एकता के इतिहास को रेखांकित किया।",
+    "सिद्धांत ने हिंदू और मुसलमानों के भीतर की विविधताओं की अनदेखी की।",
+    "विभाजन ने समस्याएँ सुलझाने के बजाय और बढ़ा दीं—हिंसा, विस्थापन और शत्रुता।",
+    "राष्ट्रवादी मुसलमानों ने सिद्धांत का कड़ा विरोध किया और एकता की वैकल्पिक दृष्टि प्रस्तुत की।"
+  ]
+},
+    ]
 }
