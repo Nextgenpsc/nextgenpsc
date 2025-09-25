@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 
 import { Button } from "@/components/ui/button";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
@@ -56,7 +57,6 @@ export function Header() {
       setUser(u);
       if (u) fetchUserProfile(u.id);
     });
-    console.log('here')
     return () => subscription.unsubscribe();
   }, []);
 
@@ -112,8 +112,13 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <Target className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">UPSC Prep</span>
+            <Image
+              src="/images/next-gen-psc.png"
+              alt="Next-GenPSC Logo"
+              width={170}   // adjust as needed
+              height={80}   // adjust as needed
+              priority
+            />
           </Link>
 
           {/* Desktop Navigation */}

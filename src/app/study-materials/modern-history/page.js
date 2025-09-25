@@ -31,7 +31,7 @@ export const metadata = {
   publisher: "NextGenPSC",
   alternates: {
     canonical: "https://www.nextgenpsc.com/study-materials/modern-history",
-    languages: { "en-US": "https://www.nextgenpsc.com/en-us/study-material/modern-history" },
+    languages: { "en-US": "https://www.nextgenpsc.com/en-us/study-material/modern-history", "hi-IN": "https://www.nextgenpsc.com/en-us/study-material/modern-history" },
   },
   openGraph: {
     title: "Modern Indian History — UPSC Notes & Practice",
