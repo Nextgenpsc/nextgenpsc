@@ -22,7 +22,6 @@ import {
 } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
-import { SEOHead } from "@/components/SEOHead";
 import { QuestionNavigation } from "@/components/QuestionNavigation";
 
 export default function PolityTestPage() {
@@ -372,10 +371,6 @@ export default function PolityTestPage() {
 
     return (
       <div className="min-h-screen bg-background p-4">
-        <SEOHead
-          title={`Test Results - ${getTestTitle()}`}
-          description="View your Indian Polity test results and detailed explanations"
-        />
         <div className="max-w-4xl mx-auto">
           <Card className="mb-6">
             <CardHeader className="text-center">

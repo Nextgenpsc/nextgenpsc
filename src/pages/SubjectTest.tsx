@@ -1,21 +1,23 @@
 "use client";
 
-import Link from "next/link";
 import { useEffect, useState } from "react";
-import { ArrowLeft, Clock, Users, Target, TrendingDown, Loader2, CheckCircle } from "lucide-react";
-
+import Link from "next/link";
+import { useParams } from "next/navigation";
+import { ArrowLeft, Clock, Target, TrendingDown, Loader2, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Progress } from "@/components/ui/progress";
-
 import { getSubjectById } from "@/data/upscSubjects";
 import { calculateWeakSections } from "@/utils/weakSectionAnalyzer";
+import { sendWeakSectionUpdate } from "@/utils/emailNotifications";
 import { supabase } from "@/integrations/supabase/client";
 
-export default function SubjectTestClient({ subjectId }) {
-  const subject = subjectId ? getSubjectById(subjectId) : null;
+export default function SubjectTestPage() {
+  const params = useParams();
+  const subjectId = params?.subjectId;
+  const subject = subjectId ? getSubjectById(subjectId.toString()) : null;
 
   const [weakSections, setWeakSections] = useState([]);
   const [subjectTests, setSubjectTests] = useState([]);
@@ -23,30 +25,31 @@ export default function SubjectTestClient({ subjectId }) {
   const [user, setUser] = useState(null);
   const [userAttempts, setUserAttempts] = useState({});
 
-  // auth
+  // Load current user
   useEffect(() => {
-    let unsub = () => {};
-    (async () => {
+    const getUser = async () => {
       const { data: { user } } = await supabase.auth.getUser();
       setUser(user ?? null);
-      const { data } = supabase.auth.onAuthStateChange((_event, session) => {
-        setUser(session?.user ?? null);
-      });
-      unsub = () => data.subscription.unsubscribe();
-    })();
-    return () => unsub();
+    };
+    getUser();
   }, []);
 
-  // fetch tests + weak sections
+  // Load tests + attempts + weak sections when user/subject is known
   useEffect(() => {
     if (!subjectId) return;
-    fetchSubjectTests();
-    fetchWeakSections();
-    if (user) fetchUserAttempts();
+
+    if (user) {
+      fetchSubjectTests();
+      fetchUserAttempts();
+      fetchWeakSections();
+    } else {
+      fetchSubjectTests();
+      fetchWeakSections(); // will no-op (sets loading false)
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [user, subjectId]);
 
-  // reflect attempts into tests
+  // When attempts change, mark completion/score on tests
   useEffect(() => {
     if (!subjectTests.length) return;
     setSubjectTests(prev =>
@@ -57,7 +60,7 @@ export default function SubjectTestClient({ subjectId }) {
     );
   }, [userAttempts, subjectTests.length]);
 
-  async function fetchUserAttempts() {
+  const fetchUserAttempts = async () => {
     if (!user) return;
     try {
       const { data, error } = await supabase
@@ -68,19 +71,26 @@ export default function SubjectTestClient({ subjectId }) {
 
       if (error) throw error;
 
+      // Best score per test
       const attemptsMap = {};
       (data || []).forEach(attempt => {
-        if (!attemptsMap[attempt.test_name] || attempt.score > attemptsMap[attempt.test_name].score) {
+        if (
+          !attemptsMap[attempt.test_name] ||
+          attempt.score > attemptsMap[attempt.test_name].score
+        ) {
           attemptsMap[attempt.test_name] = attempt;
         }
       });
-      setUserAttempts(attemptsMap);
-    } catch (e) {
-      console.error("Error fetching user attempts:", e);
-    }
-  }
 
-  async function fetchSubjectTests() {
+      setUserAttempts(attemptsMap);
+    } catch (error) {
+      console.error("Error fetching user attempts:", error);
+    }
+  };
+
+  const fetchSubjectTests = async () => {
+    if (!subjectId) return;
+
     try {
       const { data, error } = await supabase
         .from("test_series")
@@ -91,6 +101,7 @@ export default function SubjectTestClient({ subjectId }) {
 
       if (error) throw error;
 
+      // Add completion status now (may be updated again when attempts arrive)
       const testsWithCompletion = (data || []).map(test => {
         const userAttempt = userAttempts[test.title];
         return {
@@ -101,83 +112,135 @@ export default function SubjectTestClient({ subjectId }) {
       });
 
       setSubjectTests(testsWithCompletion);
-    } catch (e) {
-      console.error("Error fetching subject tests:", e);
+    } catch (error) {
+      console.error("Error fetching subject tests:", error);
     }
-  }
+  };
 
-  async function fetchWeakSections() {
+  const fetchWeakSections = async () => {
     if (!user) {
       setLoading(false);
       return;
     }
     try {
       setLoading(true);
-      const analysis = await calculateWeakSections(user.id, subjectId);
+      const analysis = await calculateWeakSections(user.id, subjectId.toString());
       setWeakSections(analysis);
-    } catch (e) {
-      console.error("Error fetching weak sections:", e);
+
+      // Notify user (e.g., WhatsApp/email) about weak sections
+      await sendWeakSectionUpdate(user.id, analysis);
+    } catch (error) {
+      console.error("Error fetching weak sections:", error);
     } finally {
       setLoading(false);
     }
-  }
+  };
 
   if (!subject) {
     return (
       <div className="min-h-screen bg-background flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-foreground mb-4">Subject Not Found</h1>
-          <Link href="/test-series">
-            <Button>Back to Test Series</Button>
-          </Link>
+          <Button asChild>
+            <Link href="/test-series">Back to Test Series</Link>
+          </Button>
         </div>
       </div>
     );
   }
 
-  // mock chapter tests (unchanged)
+  // Mock data for chapter tests
   const chapterTests = [
-    { id: "1", title: "Constitutional Framework", description: "Basic principles and structure of Indian Constitution", questions: 25, duration: 30, difficulty: "Medium", completed: true, score: 18, maxScore: 25 },
-    { id: "2", title: "Fundamental Rights", description: "Rights guaranteed by the Constitution", questions: 20, duration: 25, difficulty: "Easy", completed: true, score: 16, maxScore: 20 },
-    { id: "3", title: "Directive Principles", description: "State policy guidelines and principles", questions: 30, duration: 40, difficulty: "Hard", completed: false, maxScore: 30 },
-    { id: "4", title: "Union Government", description: "Structure and functions of central government", questions: 35, duration: 45, difficulty: "Medium", completed: false, maxScore: 35 },
-    { id: "5", title: "State Government", description: "State administration and governance", questions: 25, duration: 35, difficulty: "Medium", completed: false, maxScore: 25 },
+    {
+      id: "1",
+      title: "Constitutional Framework",
+      description: "Basic principles and structure of Indian Constitution",
+      questions: 25,
+      duration: 30,
+      difficulty: "Medium",
+      completed: true,
+      score: 18,
+      maxScore: 25,
+    },
+    {
+      id: "2",
+      title: "Fundamental Rights",
+      description: "Rights guaranteed by the Constitution",
+      questions: 20,
+      duration: 25,
+      difficulty: "Easy",
+      completed: true,
+      score: 16,
+      maxScore: 20,
+    },
+    {
+      id: "3",
+      title: "Directive Principles",
+      description: "State policy guidelines and principles",
+      questions: 30,
+      duration: 40,
+      difficulty: "Hard",
+      completed: false,
+      maxScore: 30,
+    },
+    {
+      id: "4",
+      title: "Union Government",
+      description: "Structure and functions of central government",
+      questions: 35,
+      duration: 45,
+      difficulty: "Medium",
+      completed: false,
+      maxScore: 35,
+    },
+    {
+      id: "5",
+      title: "State Government",
+      description: "State administration and governance",
+      questions: 25,
+      duration: 35,
+      difficulty: "Medium",
+      completed: false,
+      maxScore: 25,
+    },
   ];
 
-  function getDifficultyColor(difficulty) {
+  const getDifficultyColor = (difficulty) => {
     switch (difficulty) {
-      case "Easy": return "bg-emerald-500/10 text-emerald-700 border-emerald-500/20";
-      case "Medium": return "bg-amber-500/10 text-amber-700 border-amber-500/20";
-      case "Hard": return "bg-red-500/10 text-red-700 border-red-500/20";
-      default: return "bg-muted text-muted-foreground";
+      case "Easy":
+        return "bg-emerald-500/10 text-emerald-700 border-emerald-500/20";
+      case "Medium":
+        return "bg-amber-500/10 text-amber-700 border-amber-500/20";
+      case "Hard":
+        return "bg-red-500/10 text-red-700 border-red-500/20";
+      default:
+        return "bg-muted text-muted-foreground";
     }
-  }
+  };
 
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Course",
     name: `${subject.name} Mock Tests`,
     description: `Comprehensive mock tests for ${subject.name} including chapter-wise tests and weak section analysis`,
-    provider: { "@type": "Organization", name: "UPSC Prep Platform" },
+    provider: {
+      "@type": "Organization",
+      name: "UPSC Prep Platform",
+    },
   };
 
   return (
     <>
-      {/* JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
-
       <div className="min-h-screen bg-background">
         <div className="container mx-auto px-4 py-8">
           {/* Header */}
           <div className="flex items-center gap-4 mb-8">
-            <Link href="/test-series">
-              <Button variant="ghost" size="icon">
+            <Button variant="ghost" size="icon" asChild>
+              <Link href="/test-series">
                 <ArrowLeft className="h-4 w-4" />
-              </Button>
-            </Link>
+              </Link>
+            </Button>
+
             <div className="flex items-center gap-3">
               <span className="text-2xl">{subject.icon}</span>
               <div>
@@ -189,9 +252,15 @@ export default function SubjectTestClient({ subjectId }) {
 
           <Tabs defaultValue="chapters" className="space-y-6">
             <TabsList className="grid w-full grid-cols-3 mb-6">
-              <TabsTrigger value="chapters" className="text-xs sm:text-sm">Chapter Tests</TabsTrigger>
-              <TabsTrigger value="full" className="text-xs sm:text-sm">Full Test</TabsTrigger>
-              <TabsTrigger value="weak" className="text-xs sm:text-sm">Weak Sections</TabsTrigger>
+              <TabsTrigger value="chapters" className="text-xs sm:text-sm">
+                Chapter Tests
+              </TabsTrigger>
+              <TabsTrigger value="full" className="text-xs sm:text-sm">
+                Full Test
+              </TabsTrigger>
+              <TabsTrigger value="weak" className="text-xs sm:text-sm">
+                Weak Sections
+              </TabsTrigger>
             </TabsList>
 
             {/* Chapter-wise Tests */}
@@ -200,94 +269,123 @@ export default function SubjectTestClient({ subjectId }) {
                 <div className="flex items-center justify-between">
                   <h2 className="text-2xl font-semibold text-foreground">Chapter-wise Tests</h2>
                   <Badge variant="secondary">
-                    {subjectTests.filter(t => t.test_type === "chapter").length} Available
+                    {subjectTests.filter((t) => t.test_type === "chapter").length} Available
                   </Badge>
                 </div>
 
-                {/* Real subject tests */}
-                {subjectTests.filter(t => t.test_type === "chapter").length > 0 && (
+                {/* Real subject tests from admin */}
+                {subjectTests.filter((t) => t.test_type === "chapter").length > 0 && (
                   <div className="grid gap-4 mb-8">
                     <h3 className="text-lg font-medium text-foreground">Available Chapter Tests</h3>
-                    {subjectTests.filter(t => t.test_type === "chapter").map(test => (
-                      <Card key={test.id} className="p-4 sm:p-6">
-                        <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
-                          <div className="flex-1">
-                            <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-2">
-                              <h3 className="text-base sm:text-lg font-semibold text-foreground flex items-center gap-2">
-                                {test.attempted && <CheckCircle className="h-5 w-5 text-green-600 flex-shrink-0" />}
-                                {test.title}
-                              </h3>
-                              <div className="flex gap-2">
-                                <Badge className={getDifficultyColor(test.difficulty)}>{test.difficulty}</Badge>
-                                {test.attempted && <Badge variant="default">Completed</Badge>}
+                    {subjectTests
+                      .filter((t) => t.test_type === "chapter")
+                      .map((test) => (
+                        <Card key={test.id} className="p-4 sm:p-6">
+                          <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
+                            <div className="flex-1">
+                              <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-2">
+                                <h3 className="text-base sm:text-lg font-semibold text-foreground flex items-center gap-2">
+                                  {test.attempted && (
+                                    <CheckCircle className="h-5 w-5 text-green-600 flex-shrink-0" />
+                                  )}
+                                  {test.title}
+                                </h3>
+                                <div className="flex gap-2">
+                                  <Badge className={getDifficultyColor(test.difficulty)}>
+                                    {test.difficulty}
+                                  </Badge>
+                                  {test.attempted && <Badge variant="default">Completed</Badge>}
+                                </div>
+                              </div>
+
+                              <p className="text-muted-foreground mb-4 text-sm">{test.description}</p>
+
+                              <div className="flex flex-wrap items-center gap-3 sm:gap-6 text-xs sm:text-sm text-muted-foreground">
+                                <div className="flex items-center gap-1">
+                                  <Target className="h-3 w-3 sm:h-4 sm:w-4" />
+                                  {test.total_questions} Questions
+                                </div>
+                                <div className="flex items-center gap-1">
+                                  <Clock className="h-3 w-3 sm:h-4 sm:w-4" />
+                                  {test.duration} min
+                                </div>
+                                {test.chapter_name && (
+                                  <Badge variant="outline" className="text-xs">
+                                    {test.chapter_name}
+                                  </Badge>
+                                )}
                               </div>
                             </div>
-                            <p className="text-muted-foreground mb-4 text-sm">{test.description}</p>
-                            <div className="flex flex-wrap items-center gap-3 sm:gap-6 text-xs sm:text-sm text-muted-foreground">
-                              <div className="flex items-center gap-1">
-                                <Target className="h-3 w-3 sm:h-4 sm:w-4" />
-                                {test.total_questions} Questions
-                              </div>
-                              <div className="flex items-center gap-1">
-                                <Clock className="h-3 w-3 sm:h-4 sm:w-4" />
-                                {test.duration} min
-                              </div>
-                              {test.chapter_name && (
-                                <Badge variant="outline" className="text-xs">{test.chapter_name}</Badge>
-                              )}
+
+                            <div className="flex gap-2">
+                              <Button className="w-full" size="sm" asChild>
+                                <Link href={`/test/${test.id}`}>Start Test</Link>
+                              </Button>
                             </div>
                           </div>
-                          <div className="flex gap-2">
-                            <Link href={`/test/${test.id}`} className="flex-1 lg:flex-none">
-                              <Button className="w-full" size="sm">Start Test</Button>
-                            </Link>
-                          </div>
-                        </div>
-                      </Card>
-                    ))}
+                        </Card>
+                      ))}
                   </div>
                 )}
 
                 {/* Mock chapter tests */}
                 <div className="grid gap-4">
                   <h3 className="text-lg font-medium text-foreground">Practice Chapter Tests</h3>
-                  {chapterTests.map(test => (
+                  {chapterTests.map((test) => (
                     <Card key={test.id} className="p-4 sm:p-6">
                       <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
                         <div className="flex-1">
                           <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-2">
-                            <h3 className="text-base sm:text-lg font-semibold text-foreground">{test.title}</h3>
+                            <h3 className="text-base sm:text-lg font-semibold text-foreground">
+                              {test.title}
+                            </h3>
                             <div className="flex gap-2">
-                              <Badge className={getDifficultyColor(test.difficulty)}>{test.difficulty}</Badge>
+                              <Badge className={getDifficultyColor(test.difficulty)}>
+                                {test.difficulty}
+                              </Badge>
                               {test.completed && <Badge variant="default">Completed</Badge>}
                             </div>
                           </div>
+
                           <p className="text-muted-foreground mb-4 text-sm">{test.description}</p>
+
                           <div className="flex flex-wrap items-center gap-3 sm:gap-6 text-xs sm:text-sm text-muted-foreground">
                             <div className="flex items-center gap-1">
-                              <Target className="h-3 w-3 sm:h-4 sm:w-4" /> {test.questions} Questions
+                              <Target className="h-3 w-3 sm:h-4 sm:w-4" />
+                              {test.questions} Questions
                             </div>
                             <div className="flex items-center gap-1">
-                              <Clock className="h-3 w-3 sm:h-4 sm:w-4" /> {test.duration} min
+                              <Clock className="h-3 w-3 sm:h-4 sm:w-4" />
+                              {test.duration} min
                             </div>
                             {test.completed && test.score !== undefined && (
                               <div className="flex items-center gap-2">
                                 <span className="font-medium text-foreground text-xs">
                                   Score: {test.score}/{test.maxScore}
                                 </span>
-                                <Progress value={(test.score / test.maxScore) * 100} className="w-12 sm:w-16 h-2" />
+                                <Progress
+                                  value={(test.score / test.maxScore) * 100}
+                                  className="w-12 sm:w-16 h-2"
+                                />
                               </div>
                             )}
                           </div>
                         </div>
+
                         <div className="flex flex-col sm:flex-row gap-2">
                           {test.completed ? (
                             <>
-                              <Button variant="outline" size="sm" className="flex-1 sm:flex-none">View Results</Button>
-                              <Button size="sm" className="flex-1 sm:flex-none">Retake</Button>
+                              <Button variant="outline" size="sm" className="flex-1 sm:flex-none">
+                                View Results
+                              </Button>
+                              <Button size="sm" className="flex-1 sm:flex-none">
+                                Retake
+                              </Button>
                             </>
                           ) : (
-                            <Button size="sm" className="flex-1 sm:flex-none">Start Test</Button>
+                            <Button size="sm" className="flex-1 sm:flex-none">
+                              Start Test
+                            </Button>
                           )}
                         </div>
                       </div>
@@ -302,35 +400,42 @@ export default function SubjectTestClient({ subjectId }) {
               <div className="grid gap-6">
                 <h2 className="text-2xl font-semibold text-foreground">Full Subject Test</h2>
 
-                {subjectTests.filter(t => t.test_type === "full").length > 0 && (
+                {/* Real full tests from admin */}
+                {subjectTests.filter((t) => t.test_type === "full").length > 0 && (
                   <div className="grid gap-4 mb-8">
                     <h3 className="text-lg font-medium text-foreground">Available Full Tests</h3>
-                    {subjectTests.filter(t => t.test_type === "full").map(test => (
-                      <Card key={test.id} className="p-8 text-center">
-                        <div className="max-w-md mx-auto">
-                          <div className="text-4xl mb-4">{subject?.icon}</div>
-                          <h3 className="text-xl font-semibold text-foreground mb-2">{test.title}</h3>
-                          <p className="text-muted-foreground mb-6">{test.description}</p>
-                          <div className="grid grid-cols-3 gap-4 mb-6 text-sm">
-                            <div className="text-center">
-                              <div className="font-semibold text-foreground">{test.total_questions}</div>
-                              <div className="text-muted-foreground">Questions</div>
+                    {subjectTests
+                      .filter((t) => t.test_type === "full")
+                      .map((test) => (
+                        <Card key={test.id} className="p-8 text-center">
+                          <div className="max-w-md mx-auto">
+                            <div className="text-4xl mb-4">{subject?.icon}</div>
+                            <h3 className="text-xl font-semibold text-foreground mb-2">
+                              {test.title}
+                            </h3>
+                            <p className="text-muted-foreground mb-6">{test.description}</p>
+
+                            <div className="grid grid-cols-3 gap-4 mb-6 text-sm">
+                              <div className="text-center">
+                                <div className="font-semibold text-foreground">{test.total_questions}</div>
+                                <div className="text-muted-foreground">Questions</div>
+                              </div>
+                              <div className="text-center">
+                                <div className="font-semibold text-foreground">{test.duration}</div>
+                                <div className="text-muted-foreground">Minutes</div>
+                              </div>
+                              <div className="text-center">
+                                <div className="font-semibold text-foreground">{test.max_score}</div>
+                                <div className="text-muted-foreground">Max Score</div>
+                              </div>
                             </div>
-                            <div className="text-center">
-                              <div className="font-semibold text-foreground">{test.duration}</div>
-                              <div className="text-muted-foreground">Minutes</div>
-                            </div>
-                            <div className="text-center">
-                              <div className="font-semibold text-foreground">{test.max_score}</div>
-                              <div className="text-muted-foreground">Max Score</div>
-                            </div>
+
+                            <Button size="lg" className="w-full mb-4" asChild>
+                              <Link href={`/test/${test.id}`}>Start {test.title}</Link>
+                            </Button>
                           </div>
-                          <Link href={`/test/${test.id}`}>
-                            <Button size="lg" className="w-full mb-4">Start {test.title}</Button>
-                          </Link>
-                        </div>
-                      </Card>
-                    ))}
+                        </Card>
+                      ))}
                   </div>
                 )}
 
@@ -338,16 +443,31 @@ export default function SubjectTestClient({ subjectId }) {
                 <Card className="p-8 text-center">
                   <div className="max-w-md mx-auto">
                     <div className="text-4xl mb-4">{subject.icon}</div>
-                    <h3 className="text-xl font-semibold text-foreground mb-2">Complete {subject.name} Test</h3>
+                    <h3 className="text-xl font-semibold text-foreground mb-2">
+                      Complete {subject.name} Test
+                    </h3>
                     <p className="text-muted-foreground mb-6">
                       Comprehensive test covering all topics in {subject.name}
                     </p>
+
                     <div className="grid grid-cols-3 gap-4 mb-6 text-sm">
-                      <div className="text-center"><div className="font-semibold text-foreground">150</div><div className="text-muted-foreground">Questions</div></div>
-                      <div className="text-center"><div className="font-semibold text-foreground">180</div><div className="text-muted-foreground">Minutes</div></div>
-                      <div className="text-center"><div className="font-semibold text-foreground">300</div><div className="text-muted-foreground">Max Score</div></div>
+                      <div className="text-center">
+                        <div className="font-semibold text-foreground">150</div>
+                        <div className="text-muted-foreground">Questions</div>
+                      </div>
+                      <div className="text-center">
+                        <div className="font-semibold text-foreground">180</div>
+                        <div className="text-muted-foreground">Minutes</div>
+                      </div>
+                      <div className="text-center">
+                        <div className="font-semibold text-foreground">300</div>
+                        <div className="text-muted-foreground">Max Score</div>
+                      </div>
                     </div>
-                    <Button size="lg" className="w-full">Start Full Test</Button>
+
+                    <Button size="lg" className="w-full">
+                      Start Full Test
+                    </Button>
                   </div>
                 </Card>
               </div>
@@ -374,36 +494,62 @@ export default function SubjectTestClient({ subjectId }) {
                     <p className="text-muted-foreground mb-4">
                       Please login to view your personalized weak section analysis
                     </p>
-                    <Button>Login</Button>
+                    <Button asChild>
+                      <Link href="/auth">Login</Link>
+                    </Button>
                   </Card>
                 ) : weakSections.length > 0 ? (
                   <div className="grid gap-4">
-                    {weakSections.map((section, i) => (
-                      <Card key={i} className="p-6">
+                    {weakSections.map((section, index) => (
+                      <Card key={index} className="p-6">
                         <div className="flex items-start justify-between mb-4">
                           <h3 className="text-lg font-semibold text-foreground">{section.topic}</h3>
                           <Badge variant={section.accuracy < 50 ? "destructive" : "secondary"}>
                             {section.accuracy}% Accuracy
                           </Badge>
                         </div>
+
                         <div className="grid md:grid-cols-4 gap-4 mb-4 text-sm">
-                          <div><span className="text-muted-foreground">Questions Attempted:</span><span className="ml-2 font-medium text-foreground">{section.questionsAttempted}</span></div>
-                          <div><span className="text-muted-foreground">Correct:</span><span className="ml-2 font-medium text-emerald-600">{section.totalCorrect}</span></div>
-                          <div><span className="text-muted-foreground">Incorrect:</span><span className="ml-2 font-medium text-red-600">{section.totalIncorrect}</span></div>
-                          <div><Progress value={section.accuracy} className="w-full" /></div>
+                          <div>
+                            <span className="text-muted-foreground">Questions Attempted:</span>
+                            <span className="ml-2 font-medium text-foreground">
+                              {section.questionsAttempted}
+                            </span>
+                          </div>
+                          <div>
+                            <span className="text-muted-foreground">Correct:</span>
+                            <span className="ml-2 font-medium text-emerald-600">
+                              {section.totalCorrect}
+                            </span>
+                          </div>
+                          <div>
+                            <span className="text-muted-foreground">Incorrect:</span>
+                            <span className="ml-2 font-medium text-red-600">
+                              {section.totalIncorrect}
+                            </span>
+                          </div>
+                          <div>
+                            <Progress value={section.accuracy} className="w-full" />
+                          </div>
                         </div>
+
                         <div className="bg-muted/50 rounded-lg p-4 mb-4">
                           <h4 className="font-medium text-foreground mb-2">Recommendation:</h4>
                           <p className="text-sm text-muted-foreground">{section.recommendation}</p>
                         </div>
-                        <Button variant="outline" size="sm">Practice {section.topic}</Button>
+
+                        <Button variant="outline" size="sm">
+                          Practice {section.topic}
+                        </Button>
                       </Card>
                     ))}
                   </div>
                 ) : (
                   <Card className="p-8 text-center">
                     <Target className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
-                    <h3 className="text-lg font-semibold text-foreground mb-2">No Weak Sections Identified</h3>
+                    <h3 className="text-lg font-semibold text-foreground mb-2">
+                      No Weak Sections Identified
+                    </h3>
                     <p className="text-muted-foreground">
                       {user
                         ? "Complete more tests to get personalized recommendations"

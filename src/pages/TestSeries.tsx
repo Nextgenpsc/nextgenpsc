@@ -1,65 +1,52 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import Link from "next/link";
-import { useState, useEffect } from "react";
-import { supabase } from "@/integrations/supabase/client";
-import { upscSubjects } from "@/data/upscSubjects";
-
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
-import {
-  Timer,
-  Users,
-  Trophy,
-  BookOpen,
-  Target,
-  Clock,
-  CheckCircle2,
-} from "lucide-react";
+import { Timer, Users, Trophy, BookOpen, Target, Clock, CheckCircle2 } from "lucide-react";
+import { upscSubjects } from "@/data/upscSubjects";
+import { supabase } from "@/integrations/supabase/client";
 
-export default function TestSeriesClient() {
+export default function TestSeriesPage() {
   const [filter, setFilter] = useState("all"); // 'all' | 'attempted' | 'pending'
   const [realTestSeries, setRealTestSeries] = useState([]);
   const [loading, setLoading] = useState(true);
   const [user, setUser] = useState(null);
   const [userAttempts, setUserAttempts] = useState({});
 
-  // auth session + listener
+  // Auth bootstrap + listener
   useEffect(() => {
-    let unsub = () => {};
-    (async () => {
-      const {
-        data: { session },
-      } = await supabase.auth.getSession();
-      setUser(session?.user ?? null);
+    let unsubscribe;
 
-      const {
-        data: { subscription },
-      } = supabase.auth.onAuthStateChange((_event, session) => {
+    (async () => {
+      const { data: sessionData } = await supabase.auth.getSession();
+      setUser(sessionData.session?.user ?? null);
+
+      const { data } = supabase.auth.onAuthStateChange((_event, session) => {
         setUser(session?.user ?? null);
       });
-      unsub = () => subscription.unsubscribe();
+      unsubscribe = () => data.subscription.unsubscribe();
     })();
 
-    return () => unsub();
+    return () => {
+      if (unsubscribe) unsubscribe();
+    };
   }, []);
 
-  // fetch tests + attempts
+  // Load test series + attempts
   useEffect(() => {
-    fetchTestSeries();
-    if (user) fetchUserAttempts();
+    (async () => {
+      await fetchTestSeries();
+      if (user) await fetchUserAttempts();
+      setLoading(false);
+    })();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [user]);
 
-  // update attempted flags when attempts arrive
+  // When attempts arrive, mark attempted/score on items already loaded
   useEffect(() => {
     if (!realTestSeries.length) return;
     setRealTestSeries((prev) =>
@@ -70,7 +57,7 @@ export default function TestSeriesClient() {
     );
   }, [userAttempts, realTestSeries.length]);
 
-  async function fetchUserAttempts() {
+  const fetchUserAttempts = async () => {
     if (!user) return;
     try {
       const { data, error } = await supabase
@@ -81,22 +68,21 @@ export default function TestSeriesClient() {
 
       if (error) throw error;
 
+      // Best score per test
       const attemptsMap = {};
-      (data || []).forEach((att) => {
-        if (
-          !attemptsMap[att.test_name] ||
-          att.score > attemptsMap[att.test_name].score
-        ) {
-          attemptsMap[att.test_name] = att;
+      (data || []).forEach((attempt) => {
+        if (!attemptsMap[attempt.test_name] || attempt.score > attemptsMap[attempt.test_name].score) {
+          attemptsMap[attempt.test_name] = attempt;
         }
       });
-      setUserAttempts(attemptsMap);
-    } catch (e) {
-      console.error("Error fetching user attempts:", e);
-    }
-  }
 
-  async function fetchTestSeries() {
+      setUserAttempts(attemptsMap);
+    } catch (err) {
+      console.error("Error fetching user attempts:", err);
+    }
+  };
+
+  const fetchTestSeries = async () => {
     try {
       const { data, error } = await supabase
         .from("test_series")
@@ -107,18 +93,10 @@ export default function TestSeriesClient() {
       if (error) throw error;
 
       const transformed = (data || []).map((test) => {
-        const validDifficulty = ["Easy", "Medium", "Hard"].includes(
-          test.difficulty
-        )
-          ? test.difficulty
-          : "Medium";
-
-        const subjectName = test.subject_id
-          ? upscSubjects.find((s) => s.id === test.subject_id)?.name ??
-            "General Studies"
-          : "General Studies";
-
+        const valid = ["Easy", "Medium", "Hard"].includes(test.difficulty) ? test.difficulty : "Medium";
         const userAttempt = userAttempts[test.title];
+        const attempted = !!userAttempt;
+        const score = userAttempt ? userAttempt.score : undefined;
 
         return {
           id: test.id,
@@ -126,30 +104,29 @@ export default function TestSeriesClient() {
           description: test.description || "",
           duration: test.duration,
           questions: test.total_questions,
-          participants: Math.floor(Math.random() * 1000) + 100, // mock for now
-          difficulty: validDifficulty,
-          subject: subjectName,
+          participants: Math.floor(Math.random() * 1000) + 100, // Mocked for now
+          difficulty: valid,
+          subject: test.subject_id
+            ? upscSubjects.find((s) => s.id === test.subject_id)?.name || "General Studies"
+            : "General Studies",
           maxScore: test.max_score,
-          attempted: !!userAttempt,
-          score: userAttempt?.score,
+          attempted,
+          score,
         };
       });
 
       setRealTestSeries(transformed);
-    } catch (e) {
-      console.error("Error fetching test series:", e);
-    } finally {
-      setLoading(false);
+    } catch (err) {
+      console.error("Error fetching test series:", err);
     }
-  }
+  };
 
-  // mock fallback list (merged with real)
+  // Mock data as fallback (merged below)
   const mockTestSeries = [
     {
       id: "prelims-1",
       title: "UPSC Prelims Mock Test 1",
-      description:
-        "Comprehensive test covering Indian Polity, History, and Geography",
+      description: "Comprehensive test covering Indian Polity, History, and Geography",
       duration: 120,
       questions: 100,
       participants: 1250,
@@ -177,8 +154,7 @@ export default function TestSeriesClient() {
     {
       id: "history-modern",
       title: "Modern Indian History Test",
-      description:
-        "Freedom struggle, Independence and Post-independence events",
+      description: "Freedom struggle, Independence and Post-independence events",
       duration: 60,
       questions: 50,
       participants: 950,
@@ -204,8 +180,7 @@ export default function TestSeriesClient() {
     {
       id: "current-affairs",
       title: "Current Affairs Monthly Test",
-      description:
-        "Latest developments in national and international affairs",
+      description: "Latest developments in national and international affairs",
       duration: 45,
       questions: 40,
       participants: 1100,
@@ -218,8 +193,7 @@ export default function TestSeriesClient() {
     {
       id: "polity-advanced-new",
       title: "Indian Polity Advanced Test",
-      description:
-        "Comprehensive test on Indian Constitution, Articles, and Governance",
+      description: "Comprehensive test on Indian Constitution, Articles, and Governance",
       duration: 30,
       questions: 10,
       participants: 850,
@@ -231,6 +205,7 @@ export default function TestSeriesClient() {
     },
   ];
 
+  // Merge real + mock
   const allTestSeries = [...realTestSeries, ...mockTestSeries];
 
   const filteredTests = allTestSeries.filter((test) => {
@@ -239,7 +214,7 @@ export default function TestSeriesClient() {
     return true;
   });
 
-  function getDifficultyColor(difficulty) {
+  const getDifficultyColor = (difficulty) => {
     switch (difficulty) {
       case "Easy":
         return "text-green-600 bg-green-50 border-green-200";
@@ -250,14 +225,13 @@ export default function TestSeriesClient() {
       default:
         return "text-gray-600 bg-gray-50 border-gray-200";
     }
-  }
+  };
 
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     name: "UPSC Test Series",
-    description:
-      "Mock tests and practice exams for UPSC Civil Services Examination",
+    description: "Mock tests and practice exams for UPSC Civil Services Examination",
     educationalUse: "UPSC Test Practice",
     learningResourceType: "Mock Tests",
     audience: {
@@ -268,12 +242,6 @@ export default function TestSeriesClient() {
 
   return (
     <>
-      {/* JSON-LD (optional) */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
-
       <div className="min-h-screen bg-background pt-16">
         <header className="border-b border-border bg-card/50 backdrop-blur supports-[backdrop-filter]:bg-card/60">
           <div className="container mx-auto px-4 py-6">
@@ -322,7 +290,7 @@ export default function TestSeriesClient() {
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {upscSubjects.map((subject) => (
-                    <Link key={subject.id} href={`/test-series/${subject.id}`}>
+                    <Link key={subject.id} href={`/test-series/${subject.id}`} className="block">
                       <Card className="hover:shadow-lg transition-all hover:scale-[1.02] cursor-pointer">
                         <CardHeader className="pb-3">
                           <div className="flex items-center gap-3">
@@ -359,107 +327,67 @@ export default function TestSeriesClient() {
                 <h2 className="text-2xl font-semibold text-foreground mb-4">
                   General Mock Tests
                 </h2>
-
-                {loading && (
-                  <Card>
+                {filteredTests.map((test) => (
+                  <Card key={test.id} className="hover:shadow-lg transition-shadow">
                     <CardHeader>
-                      <CardTitle>Loading tests…</CardTitle>
-                      <CardDescription>Fetching latest test series</CardDescription>
-                    </CardHeader>
-                  </Card>
-                )}
-
-                {!loading &&
-                  filteredTests.map((test) => (
-                    <Card key={test.id} className="hover:shadow-lg transition-shadow">
-                      <CardHeader>
-                        <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3">
-                          <div className="flex-1">
-                            <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
-                              {test.attempted && (
-                                <CheckCircle2 className="h-5 w-5 text-green-600 flex-shrink-0" />
-                              )}
-                              <span className="break-words">{test.title}</span>
-                            </CardTitle>
-                            <CardDescription className="mt-2 text-sm">
-                              {test.description}
-                            </CardDescription>
-                          </div>
-                          <Badge
-                            className={`${getDifficultyColor(test.difficulty)} flex-shrink-0`}
-                          >
-                            {test.difficulty}
-                          </Badge>
+                      <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3">
+                        <div className="flex-1">
+                          <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+                            {test.attempted && (
+                              <CheckCircle2 className="h-5 w-5 text-green-600 flex-shrink-0" />
+                            )}
+                            <span className="break-words">{test.title}</span>
+                          </CardTitle>
+                          <CardDescription className="mt-2 text-sm">
+                            {test.description}
+                          </CardDescription>
                         </div>
-                      </CardHeader>
-                      <CardContent>
-                        <div className="grid grid-cols-2 gap-3 mb-4 text-xs sm:text-sm">
-                          <div className="flex items-center gap-2">
-                            <Timer className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
-                            <span className="truncate">{test.duration} mins</span>
-                          </div>
-                          <div className="flex items-center gap-2">
-                            <BookOpen className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
-                            <span className="truncate">{test.questions} questions</span>
-                          </div>
-                          <div className="flex items-center gap-2">
-                            <Users className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
-                            <span className="truncate">
-                              {Number(test.participants).toLocaleString()} taken
+                        <Badge className={`${getDifficultyColor(test.difficulty)} flex-shrink-0`}>
+                          {test.difficulty}
+                        </Badge>
+                      </div>
+                    </CardHeader>
+
+                    <CardContent>
+                      <div className="grid grid-cols-2 gap-3 mb-4 text-xs sm:text-sm">
+                        <div className="flex items-center gap-2">
+                          <Timer className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
+                          <span className="truncate">{test.duration} mins</span>
+                        </div>
+                        <div className="flex items-center gap-2">
+                          <BookOpen className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
+                          <span className="truncate">{test.questions} questions</span>
+                        </div>
+                        <div className="flex items-center gap-2">
+                          <Users className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
+                          <span className="truncate">
+                            {Number(test.participants || 0).toLocaleString()} taken
+                          </span>
+                        </div>
+                        <div className="flex items-center gap-2">
+                          <Trophy className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
+                          <span className="truncate">{test.maxScore} marks</span>
+                        </div>
+                      </div>
+
+                      {test.attempted && test.score && (
+                        <div className="mb-4 p-3 bg-secondary/50 rounded-lg">
+                          <div className="flex items-center justify-between mb-2">
+                            <span className="text-sm font-medium">
+                              Score: {test.score}/{test.maxScore}
+                            </span>
+                            <span className="text-sm font-bold">
+                              ({Math.round((test.score / test.maxScore) * 100)}%)
                             </span>
                           </div>
-                          <div className="flex items-center gap-2">
-                            <Trophy className="h-3 w-3 sm:h-4 sm:w-4 text-muted-foreground flex-shrink-0" />
-                            <span className="truncate">{test.maxScore} marks</span>
-                          </div>
+                          <Progress value={(test.score / test.maxScore) * 100} className="h-2" />
                         </div>
+                      )}
 
-                        {test.attempted && test.score != null && (
-                          <div className="mb-4 p-3 bg-secondary/50 rounded-lg">
-                            <div className="flex items-center justify-between mb-2">
-                              <span className="text-sm font-medium">
-                                Score: {test.score}/{test.maxScore}
-                              </span>
-                              <span className="text-sm font-bold">
-                                ({Math.round((test.score / test.maxScore) * 100)}%)
-                              </span>
-                            </div>
-                            <Progress
-                              value={(test.score / test.maxScore) * 100}
-                              className="h-2"
-                            />
-                          </div>
-                        )}
-
-                        <div className="flex flex-col sm:flex-row gap-2">
-                          {test.attempted ? (
-                            <>
-                              <Button variant="outline" className="flex-1" size="sm" asChild>
-                                <Link
-                                  href={
-                                    test.id === "polity-advanced-new"
-                                      ? "/polity-test"
-                                      : `/test-series-test/${test.id}`
-                                  }
-                                >
-                                  <Target className="h-4 w-4 mr-2" />
-                                  Retake Test
-                                </Link>
-                              </Button>
-                              <Button className="flex-1" size="sm" asChild>
-                                <Link
-                                  href={
-                                    test.id === "polity-advanced-new"
-                                      ? "/polity-test"
-                                      : `/test-series-test/${test.id}`
-                                  }
-                                >
-                                  View Results
-                                </Link>
-                              </Button>
-                            </>
-                          ) : (
-                            <Button className="flex-1" size="sm" asChild>
+                      <div className="flex flex-col sm:flex-row gap-2">
+                        {test.attempted ? (
+                          <>
+                            <Button variant="outline" className="flex-1" size="sm" asChild>
                               <Link
                                 href={
                                   test.id === "polity-advanced-new"
@@ -468,14 +396,39 @@ export default function TestSeriesClient() {
                                 }
                               >
                                 <Target className="h-4 w-4 mr-2" />
-                                Start Test
+                                Retake Test
                               </Link>
                             </Button>
-                          )}
-                        </div>
-                      </CardContent>
-                    </Card>
-                  ))}
+                            <Button className="flex-1" size="sm" asChild>
+                              <Link
+                                href={
+                                  test.id === "polity-advanced-new"
+                                    ? "/polity-test"
+                                    : `/test-series-test/${test.id}`
+                                }
+                              >
+                                View Results
+                              </Link>
+                            </Button>
+                          </>
+                        ) : (
+                          <Button className="flex-1" size="sm" asChild>
+                            <Link
+                              href={
+                                test.id === "polity-advanced-new"
+                                  ? "/polity-test"
+                                  : `/test-series-test/${test.id}`
+                              }
+                            >
+                              <Target className="h-4 w-4 mr-2" />
+                              Start Test
+                            </Link>
+                          </Button>
+                        )}
+                      </div>
+                    </CardContent>
+                  </Card>
+                ))}
               </div>
             </div>
 
