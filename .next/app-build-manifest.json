@@ -12,7 +12,7 @@
       "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
       "static/chunks/2117-d142315d22709eb7.js",
       "static/chunks/main-app-acb441414e495114.js",
-      "static/css/367a250541c0af88.css",
+      "static/css/d333176bb51d5bdb.css",
       "static/chunks/9203-22b63744e8b6ef54.js",
       "static/chunks/2972-c46a79ed3d165456.js",
       "static/chunks/8439-c5d46870917d6472.js",
@@ -22,17 +22,6 @@
       "static/chunks/7601-e6c95a50404f64bf.js",
       "static/chunks/8808-cccc06a8768ebfde.js",
       "static/chunks/app/layout-8ed1236713daafe2.js"
-    ],
-    "/auth/page": [
-      "static/chunks/webpack-6e9cacc74aa88e8a.js",
-      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
-      "static/chunks/2117-d142315d22709eb7.js",
-      "static/chunks/main-app-acb441414e495114.js",
-      "static/chunks/9203-22b63744e8b6ef54.js",
-      "static/chunks/2972-c46a79ed3d165456.js",
-      "static/chunks/8439-c5d46870917d6472.js",
-      "static/chunks/3513-d362166891ae1b14.js",
-      "static/chunks/app/auth/page-4b8480111ff52159.js"
     ],
     "/admin/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
@@ -48,6 +37,17 @@
       "static/chunks/7601-e6c95a50404f64bf.js",
       "static/chunks/8679-a4aac158ed3f3fea.js",
       "static/chunks/app/admin/page-0ce6d00f221a40b2.js"
+    ],
+    "/auth/page": [
+      "static/chunks/webpack-6e9cacc74aa88e8a.js",
+      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
+      "static/chunks/2117-d142315d22709eb7.js",
+      "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/9203-22b63744e8b6ef54.js",
+      "static/chunks/2972-c46a79ed3d165456.js",
+      "static/chunks/8439-c5d46870917d6472.js",
+      "static/chunks/3513-d362166891ae1b14.js",
+      "static/chunks/app/auth/page-4b8480111ff52159.js"
     ],
     "/polity-test/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
@@ -84,17 +84,6 @@
       "static/chunks/6236-340a761c2321369d.js",
       "static/chunks/app/test/[testId]/page-b8b65098be9ae294.js"
     ],
-    "/chat/page": [
-      "static/chunks/webpack-6e9cacc74aa88e8a.js",
-      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
-      "static/chunks/2117-d142315d22709eb7.js",
-      "static/chunks/main-app-acb441414e495114.js",
-      "static/chunks/9203-22b63744e8b6ef54.js",
-      "static/chunks/8439-c5d46870917d6472.js",
-      "static/chunks/1505-9b0fa5036ce14978.js",
-      "static/chunks/2534-935240e9cefabb7a.js",
-      "static/chunks/app/chat/page-88b6e7d802559ce1.js"
-    ],
     "/current-affairs/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
       "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
@@ -106,6 +95,25 @@
       "static/chunks/5878-687bbd0e729322f6.js",
       "static/chunks/app/current-affairs/page-c8ea33a3e5e1e77e.js"
     ],
+    "/study-materials/page": [
+      "static/chunks/webpack-6e9cacc74aa88e8a.js",
+      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
+      "static/chunks/2117-d142315d22709eb7.js",
+      "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/9203-22b63744e8b6ef54.js",
+      "static/chunks/app/study-materials/page-d7dab9fb87c6cc33.js"
+    ],
+    "/chat/page": [
+      "static/chunks/webpack-6e9cacc74aa88e8a.js",
+      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
+      "static/chunks/2117-d142315d22709eb7.js",
+      "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/9203-22b63744e8b6ef54.js",
+      "static/chunks/8439-c5d46870917d6472.js",
+      "static/chunks/1505-9b0fa5036ce14978.js",
+      "static/chunks/2534-935240e9cefabb7a.js",
+      "static/chunks/app/chat/page-88b6e7d802559ce1.js"
+    ],
     "/dashboard/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
       "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
@@ -116,22 +124,6 @@
       "static/chunks/8439-c5d46870917d6472.js",
       "static/chunks/4519-9b6fcc95dd09f78c.js",
       "static/chunks/app/dashboard/page-1ee0b48180e89e0c.js"
-    ],
-    "/study-materials/ancient-history/page": [
-      "static/chunks/webpack-6e9cacc74aa88e8a.js",
-      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
-      "static/chunks/2117-d142315d22709eb7.js",
-      "static/chunks/main-app-acb441414e495114.js",
-      "static/chunks/8187f03c-bb315f19aafd0159.js",
-      "static/chunks/164f4fb6-6c0339f1595b40e8.js",
-      "static/chunks/280273a7-03651a16f2d43405.js",
-      "static/chunks/9203-22b63744e8b6ef54.js",
-      "static/chunks/2972-c46a79ed3d165456.js",
-      "static/chunks/8439-c5d46870917d6472.js",
-      "static/chunks/0-cc992c895ec5a0f8.js",
-      "static/chunks/9178-cf6869d62f9c109c.js",
-      "static/chunks/9952-1f808cf900d7868b.js",
-      "static/chunks/app/study-materials/ancient-history/page-e3c6fcf324d6316d.js"
     ],
     "/study-materials/modern-history/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
@@ -146,26 +138,24 @@
       "static/chunks/8439-c5d46870917d6472.js",
       "static/chunks/0-cc992c895ec5a0f8.js",
       "static/chunks/9178-cf6869d62f9c109c.js",
-      "static/chunks/9952-1f808cf900d7868b.js",
+      "static/chunks/9952-44bd20916059fe2c.js",
       "static/chunks/app/study-materials/modern-history/page-c146a628f88e602e.js"
     ],
-    "/test-series/page": [
+    "/study-materials/ancient-history/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
       "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
       "static/chunks/2117-d142315d22709eb7.js",
       "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/8187f03c-bb315f19aafd0159.js",
+      "static/chunks/164f4fb6-6c0339f1595b40e8.js",
+      "static/chunks/280273a7-03651a16f2d43405.js",
       "static/chunks/9203-22b63744e8b6ef54.js",
       "static/chunks/2972-c46a79ed3d165456.js",
       "static/chunks/8439-c5d46870917d6472.js",
-      "static/chunks/app/test-series/page-a959eddf3995c137.js"
-    ],
-    "/study-materials/page": [
-      "static/chunks/webpack-6e9cacc74aa88e8a.js",
-      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
-      "static/chunks/2117-d142315d22709eb7.js",
-      "static/chunks/main-app-acb441414e495114.js",
-      "static/chunks/9203-22b63744e8b6ef54.js",
-      "static/chunks/app/study-materials/page-d7dab9fb87c6cc33.js"
+      "static/chunks/0-cc992c895ec5a0f8.js",
+      "static/chunks/9178-cf6869d62f9c109c.js",
+      "static/chunks/9952-44bd20916059fe2c.js",
+      "static/chunks/app/study-materials/ancient-history/page-e3c6fcf324d6316d.js"
     ],
     "/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
@@ -174,15 +164,6 @@
       "static/chunks/main-app-acb441414e495114.js",
       "static/chunks/2972-c46a79ed3d165456.js",
       "static/chunks/app/page-a26dde03ad4b294b.js"
-    ],
-    "/current-affairs/[id]/page": [
-      "static/chunks/webpack-6e9cacc74aa88e8a.js",
-      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
-      "static/chunks/2117-d142315d22709eb7.js",
-      "static/chunks/main-app-acb441414e495114.js",
-      "static/chunks/2972-c46a79ed3d165456.js",
-      "static/chunks/5878-687bbd0e729322f6.js",
-      "static/chunks/app/current-affairs/[id]/page-478ad8e0ab010708.js"
     ],
     "/study-materials/polity/page": [
       "static/chunks/webpack-6e9cacc74aa88e8a.js",
@@ -196,8 +177,27 @@
       "static/chunks/2972-c46a79ed3d165456.js",
       "static/chunks/8439-c5d46870917d6472.js",
       "static/chunks/0-cc992c895ec5a0f8.js",
-      "static/chunks/9952-1f808cf900d7868b.js",
+      "static/chunks/9952-44bd20916059fe2c.js",
       "static/chunks/app/study-materials/polity/page-d1e80868c92958da.js"
+    ],
+    "/test-series/page": [
+      "static/chunks/webpack-6e9cacc74aa88e8a.js",
+      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
+      "static/chunks/2117-d142315d22709eb7.js",
+      "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/9203-22b63744e8b6ef54.js",
+      "static/chunks/2972-c46a79ed3d165456.js",
+      "static/chunks/8439-c5d46870917d6472.js",
+      "static/chunks/app/test-series/page-a959eddf3995c137.js"
+    ],
+    "/current-affairs/[id]/page": [
+      "static/chunks/webpack-6e9cacc74aa88e8a.js",
+      "static/chunks/fd9d1056-32eb2ded8acc7a76.js",
+      "static/chunks/2117-d142315d22709eb7.js",
+      "static/chunks/main-app-acb441414e495114.js",
+      "static/chunks/2972-c46a79ed3d165456.js",
+      "static/chunks/5878-687bbd0e729322f6.js",
+      "static/chunks/app/current-affairs/[id]/page-478ad8e0ab010708.js"
     ]
   }
 }
