@@ -20327,5 +20327,8418 @@ export const chapters = {
     "नियमित बैठकों और नीति आयोग के साथ एकीकरण से सहकारी संघवाद में इनकी भूमिका मजबूत हो सकती है।"
   ]
 },
+],
+"Chapter 14: Emergency Provisions": [
+{
+  "heading": "Emergency Provisions in the Indian Constitution",
+  "headingHindi": "भारतीय संविधान में आपातकालीन प्रावधान",
+  "highlight": "Emergency provisions (Part XVIII, Articles 352–360) empower the President to declare emergencies in India. They were inspired by the Weimar Constitution (Germany) and the Government of India Act, 1935. The 42nd and 44th Constitutional Amendments made significant changes to these provisions. There are three types of emergencies: National, State (President’s Rule), and Financial.",
+  "highlightHindi": "आपातकालीन प्रावधान (भाग XVIII, अनुच्छेद 352–360) राष्ट्रपति को भारत में आपातकाल घोषित करने की शक्ति प्रदान करते हैं। ये वाइमर संविधान (जर्मनी) और 1935 के भारत शासन अधिनियम से प्रेरित हैं। 42वें और 44वें संविधान संशोधन ने इनमें महत्वपूर्ण परिवर्तन किए। संविधान में तीन प्रकार के आपातकाल का प्रावधान है: राष्ट्रीय आपातकाल, राज्य आपातकाल (राष्ट्रपति शासन), और वित्तीय आपातकाल।",
+  "details": [
+    "## Overview",
+    "• Constitutional Provisions: Contained in Part XVIII (Articles 352–360).",
+    "• Source: Borrowed from Weimar Constitution (Germany) and Government of India Act, 1935.",
+    "• Amendments: Extensively amended by the 42nd Amendment Act (1976) and the 44th Amendment Act (1978).",
+    "",
+    "## Types of Emergencies",
+    "• All emergencies are proclaimed by the President, but real power is exercised by the Prime Minister and Council of Ministers.",
+    "",
+    "1. National Emergency – Article 352: Declared on grounds of war, external aggression, or armed rebellion.",
+    "2. State Emergency – Article 356: Popularly known as President’s Rule, imposed when constitutional machinery fails in a state.",
+    "3. Financial Emergency – Article 360: Declared when financial stability or credit of India is threatened."
+  ],
+  "detailsHindi": [
+    "## अवलोकन",
+    "• संवैधानिक प्रावधान: भाग XVIII (अनुच्छेद 352–360) में निहित।",
+    "• स्रोत: वाइमर संविधान (जर्मनी) और 1935 का भारत शासन अधिनियम।",
+    "• संशोधन: 42वें (1976) और 44वें (1978) संविधान संशोधन द्वारा व्यापक परिवर्तन।",
+    "",
+    "## आपातकाल के प्रकार",
+    "• सभी आपातकाल राष्ट्रपति द्वारा घोषित किए जाते हैं, लेकिन वास्तविक शक्ति प्रधानमंत्री और मंत्रिपरिषद के पास होती है।",
+    "",
+    "1. राष्ट्रीय आपातकाल – अनुच्छेद 352: युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह की स्थिति में।",
+    "2. राज्य आपातकाल – अनुच्छेद 356: राष्ट्रपति शासन, जब राज्य में संवैधानिक मशीनरी विफल हो जाए।",
+    "3. वित्तीय आपातकाल – अनुच्छेद 360: जब भारत की वित्तीय स्थिरता या ऋण संकट में हो।"
+  ],
+  "tables": [
+    {
+      "title": "Emergency Provisions – Key Aspects",
+      "titleHindi": "आपातकालीन प्रावधान – मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Part of Constitution", "Part XVIII (Articles 352–360)"],
+        ["Source", "Weimar Constitution (Germany), Government of India Act 1935"],
+        ["Amendments", "42nd (1976) and 44th (1978) Amendments"],
+        ["Types", "National (Art. 352), State (Art. 356), Financial (Art. 360)"],
+        ["Authority", "Declared by President on advice of Council of Ministers"]
+      ],
+      "rowsHindi": [
+        ["संविधान का भाग", "भाग XVIII (अनुच्छेद 352–360)"],
+        ["स्रोत", "वाइमर संविधान (जर्मनी), भारत शासन अधिनियम 1935"],
+        ["संशोधन", "42वाँ (1976) और 44वाँ (1978) संशोधन"],
+        ["प्रकार", "राष्ट्रीय (अनु. 352), राज्य (अनु. 356), वित्तीय (अनु. 360)"],
+        ["प्राधिकारी", "राष्ट्रपति द्वारा मंत्रिपरिषद की सलाह पर घोषित"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Emergency provisions in Part XVIII, Articles 352–360.",
+    "Borrowed from Weimar Constitution (Germany).",
+    "42nd Amendment strengthened Centre’s powers; 44th Amendment restricted misuse.",
+    "Three types: National, State, and Financial Emergency."
+  ],
+  "prelimsTipsHindi": [
+    "आपातकालीन प्रावधान भाग XVIII, अनुच्छेद 352–360 में।",
+    "वाइमर संविधान (जर्मनी) से प्रेरित।",
+    "42वें संशोधन ने केंद्र की शक्तियाँ बढ़ाईं; 44वें ने दुरुपयोग रोका।",
+    "तीन प्रकार: राष्ट्रीय, राज्य और वित्तीय आपातकाल।"
+  ],
+  "mainsPoints": [
+    "Emergency provisions ensure unity and security of India during crises.",
+    "They centralize power temporarily to deal with extraordinary situations.",
+    "42nd Amendment made declaration easier; 44th introduced safeguards against misuse.",
+    "National Emergency affects Fundamental Rights; State Emergency leads to President’s Rule; Financial Emergency impacts salaries and financial autonomy.",
+    "Debate continues on balance between security needs and democratic freedoms."
+  ],
+  "mainsPointsHindi": [
+    "आपातकालीन प्रावधान संकट के समय भारत की एकता और सुरक्षा सुनिश्चित करते हैं।",
+    "ये असाधारण परिस्थितियों से निपटने हेतु अस्थायी रूप से सत्ता का केंद्रीकरण करते हैं।",
+    "42वें संशोधन ने घोषणा को आसान बनाया; 44वें ने दुरुपयोग पर नियंत्रण हेतु प्रावधान जोड़े।",
+    "राष्ट्रीय आपातकाल मौलिक अधिकारों को प्रभावित करता है; राज्य आपातकाल में राष्ट्रपति शासन लगता है; वित्तीय आपातकाल वेतन और वित्तीय स्वायत्तता को प्रभावित करता है।",
+    "सुरक्षा आवश्यकताओं और लोकतांत्रिक स्वतंत्रता के बीच संतुलन पर निरंतर बहस होती रही है।"
+  ]
+},
+{
+  "heading": "National Emergency (Article 352)",
+  "headingHindi": "राष्ट्रीय आपातकाल (अनुच्छेद 352)",
+  "highlight": "A National Emergency under Article 352 can be declared in case of war, external aggression, or armed rebellion. It centralises power in the Union and significantly impacts Fundamental Rights and federalism. The 44th Amendment made important safeguards, such as requiring a written Cabinet recommendation. National Emergency has been proclaimed three times in India’s history.",
+  "highlightHindi": "अनुच्छेद 352 के अंतर्गत राष्ट्रीय आपातकाल युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह की स्थिति में घोषित किया जा सकता है। यह संघ में शक्तियों का केंद्रीकरण करता है और मौलिक अधिकारों व संघवाद को प्रभावित करता है। 44वें संशोधन ने लिखित मंत्रिमंडलीय सिफारिश जैसे महत्वपूर्ण सुरक्षा प्रावधान जोड़े। भारत में अब तक तीन बार राष्ट्रीय आपातकाल घोषित किया गया है।",
+  "details": [
+    "## Grounds for National Emergency",
+    "• War.",
+    "• External Aggression.",
+    "• Armed Rebellion (44th Amendment, 1978 replaced ‘Internal Disturbance’ with ‘Armed Rebellion’).",
+    "",
+    "## Proclamation of National Emergency",
+    "• Can be proclaimed for the whole of India or part of it.",
+    "• President can declare even before actual occurrence if there is imminent danger.",
+    "• Based on grounds of war/external aggression → called External Emergency.",
+    "• Based on grounds of armed rebellion → called Internal Emergency.",
+    "• Written recommendation of Cabinet is mandatory (added by 44th Amendment Act, 1978).",
+    "",
+    "## Instances of National Emergency",
+    "1. 26th October 1962 – External Aggression (Indo-China war; extended during Indo-Pak war) → Revoked 10th January 1968.",
+    "2. 3rd December 1971 – External Aggression (Bangladesh Liberation War) → Revoked March 1977.",
+    "3. 25th June 1975 – Internal Disturbance (political crisis after Indira Gandhi’s election verdict) → Revoked March 1977."
+  ],
+  "detailsHindi": [
+    "## राष्ट्रीय आपातकाल की आधारभूमि",
+    "• युद्ध।",
+    "• बाहरी आक्रमण।",
+    "• सशस्त्र विद्रोह (44वें संशोधन, 1978 द्वारा ‘आंतरिक अशांति’ शब्द को ‘सशस्त्र विद्रोह’ से बदला गया)।",
+    "",
+    "## राष्ट्रीय आपातकाल की उद्घोषणा",
+    "• पूरे भारत या इसके किसी भाग में लागू किया जा सकता है।",
+    "• आसन्न खतरे की स्थिति में राष्ट्रपति वास्तविक घटना से पहले भी घोषणा कर सकते हैं।",
+    "• युद्ध/बाहरी आक्रमण के आधार पर → बाहरी आपातकाल।",
+    "• सशस्त्र विद्रोह के आधार पर → आंतरिक आपातकाल।",
+    "• मंत्रिपरिषद की लिखित सिफारिश अनिवार्य (44वाँ संशोधन, 1978)।",
+    "",
+    "## भारत में घोषित राष्ट्रीय आपातकाल",
+    "1. 26 अक्टूबर 1962 – बाहरी आक्रमण (भारत-चीन युद्ध; बाद में भारत-पाक युद्ध) → समाप्त 10 जनवरी 1968।",
+    "2. 3 दिसंबर 1971 – बाहरी आक्रमण (बांग्लादेश मुक्ति युद्ध) → समाप्त मार्च 1977।",
+    "3. 25 जून 1975 – आंतरिक अशांति (इंदिरा गांधी के चुनाव मामले के बाद राजनीतिक संकट) → समाप्त मार्च 1977।"
+  ],
+  "tables": [
+    {
+      "title": "Instances of National Emergency in India",
+      "titleHindi": "भारत में राष्ट्रीय आपातकाल के उदाहरण",
+      "columns": ["Year", "Ground", "Reason", "Revocation"],
+      "columnsHindi": ["वर्ष", "आधार", "कारण", "समापन"],
+      "rows": [
+        ["1962", "External Aggression", "Indo-China war; later Indo-Pak war", "10th January 1968"],
+        ["1971", "External Aggression", "Bangladesh Liberation War", "March 1977"],
+        ["1975", "Internal Disturbance", "Political crisis after Indira Gandhi’s election verdict", "March 1977"]
+      ],
+      "rowsHindi": [
+        ["1962", "बाहरी आक्रमण", "भारत-चीन युद्ध; बाद में भारत-पाक युद्ध", "10 जनवरी 1968"],
+        ["1971", "बाहरी आक्रमण", "बांग्लादेश मुक्ति युद्ध", "मार्च 1977"],
+        ["1975", "आंतरिक अशांति", "इंदिरा गांधी के चुनाव मामले के बाद राजनीतिक संकट", "मार्च 1977"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "National Emergency – Article 352.",
+    "44th Amendment replaced ‘Internal Disturbance’ with ‘Armed Rebellion’.",
+    "Cabinet’s written recommendation mandatory since 1978.",
+    "Declared 3 times: 1962, 1971, 1975."
+  ],
+  "prelimsTipsHindi": [
+    "राष्ट्रीय आपातकाल – अनुच्छेद 352।",
+    "44वें संशोधन ने ‘आंतरिक अशांति’ को ‘सशस्त्र विद्रोह’ से बदला।",
+    "1978 से मंत्रिपरिषद की लिखित सिफारिश अनिवार्य।",
+    "अब तक 3 बार घोषित: 1962, 1971, 1975।"
+  ],
+  "mainsPoints": [
+    "National Emergency centralises power and impacts Fundamental Rights.",
+    "Difference between External and Internal Emergencies is crucial.",
+    "44th Amendment introduced safeguards against arbitrary proclamation.",
+    "The 1975 Emergency remains controversial for its misuse.",
+    "Debate continues on balancing national security and democratic freedoms."
+  ],
+  "mainsPointsHindi": [
+    "राष्ट्रीय आपातकाल सत्ता का केंद्रीकरण करता है और मौलिक अधिकारों को प्रभावित करता है।",
+    "बाहरी और आंतरिक आपातकाल के बीच का अंतर महत्वपूर्ण है।",
+    "44वें संशोधन ने मनमानी उद्घोषणा पर अंकुश हेतु सुरक्षा प्रावधान जोड़े।",
+    "1975 का आपातकाल इसके दुरुपयोग के लिए विवादास्पद रहा।",
+    "राष्ट्रीय सुरक्षा और लोकतांत्रिक स्वतंत्रता के बीच संतुलन पर बहस जारी है।"
+  ]
+},
+{
+  "heading": "Approval, Duration and Revocation of National Emergency",
+  "headingHindi": "राष्ट्रीय आपातकाल की स्वीकृति, अवधि और समाप्ति",
+  "highlight": "A National Emergency under Article 352 must be approved by both Houses of Parliament within one month and requires renewal every six months by special majority. It can continue indefinitely with repeated approvals. The President may revoke it at any time, but the 44th Amendment introduced safeguards like mandatory Cabinet recommendation, periodic approval, and empowering Lok Sabha to revoke by resolution.",
+  "highlightHindi": "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल को संसद के दोनों सदनों से एक माह के भीतर स्वीकृति लेनी होती है और हर छह माह पर विशेष बहुमत से नवीनीकरण आवश्यक होता है। यह बार-बार संसद की स्वीकृति से अनिश्चितकाल तक जारी रह सकता है। राष्ट्रपति इसे किसी भी समय समाप्त कर सकते हैं, लेकिन 44वें संशोधन ने मंत्रिपरिषद की सिफारिश, समय-समय पर स्वीकृति और लोकसभा को समाप्त करने की शक्ति जैसी सुरक्षा व्यवस्था जोड़ी।",
+  "details": [
+    "## Approval of National Emergency",
+    "• Must be approved by both Houses of Parliament within one month (earlier two months, reduced by 44th Amendment).",
+    "• If Lok Sabha is dissolved, Rajya Sabha must approve first. Newly elected Lok Sabha must approve within 30 days of its first sitting.",
+    "• Cabinet’s written recommendation is mandatory for proclamation (44th Amendment).",
+    "• Prevents unilateral executive action and ensures collective responsibility of the Union government.",
+    "• Continuation requires approval every six months by special majority.",
+    "• Special Majority: Majority of total membership + two-thirds of members present and voting.",
+    "• Approval ensures democratic control over the extraordinary powers of the executive during emergency.",
+    "## Duration of National Emergency",
+    "• In the original Constitution, once approved, the emergency could continue as long as the executive desired.",
+    "• The 44th Amendment Act (1978) introduced a safeguard: periodic approval every six months by Parliament.",
+    "• Duration is unlimited in theory, but requires repeated parliamentary approvals, ensuring checks and balances.",
+    "• This prevents indefinite misuse as seen during the 1975–1977 Emergency.",
+    "## Revocation of National Emergency",
+    "• President may revoke the Emergency at any time without needing Parliament’s approval.",
+    "• Safeguards under 44th Amendment:",
+    "   - If Lok Sabha passes a resolution seeking discontinuation, the President must revoke immediately.",
+    "   - If Lok Sabha is not in session and at least 1/10th of members submit written notice, a special session must be called within 14 days to decide revocation.",
+    "• This ensures that the elected House (Lok Sabha) retains supremacy in revocation.",
+    "## Difference between Continuation and Cancellation",
+    "• Continuation: Requires approval every 6 months by special majority in both Houses.",
+    "• Cancellation: Requires only a simple majority in Lok Sabha.",
+    "• Continuation involves both Houses → stronger safeguard for continuation.",
+    "• Cancellation gives overriding power to Lok Sabha → ensures primacy of people’s representatives."
+  ],
+  "detailsHindi": [
+    "## राष्ट्रीय आपातकाल की स्वीकृति",
+    "• संसद के दोनों सदनों से एक माह के भीतर स्वीकृति आवश्यक (पहले 2 माह, 44वें संशोधन द्वारा घटाया गया)।",
+    "• यदि लोकसभा भंग हो, तो पहले राज्यसभा से स्वीकृति; नवनिर्वाचित लोकसभा को प्रथम बैठक से 30 दिनों के भीतर स्वीकृति देनी होगी।",
+    "• घोषणा के लिए मंत्रिपरिषद की लिखित सिफारिश अनिवार्य (44वाँ संशोधन)।",
+    "• यह कार्यपालिका की मनमानी पर अंकुश लगाता है और सामूहिक जिम्मेदारी सुनिश्चित करता है।",
+    "• जारी रखने के लिए हर छह माह पर संसद से विशेष बहुमत द्वारा अनुमोदन आवश्यक।",
+    "• विशेष बहुमत: कुल सदस्यता का बहुमत + उपस्थित और मतदान करने वालों का दो-तिहाई बहुमत।",
+    "• इससे आपातकाल के दौरान कार्यपालिका की असाधारण शक्तियों पर लोकतांत्रिक नियंत्रण सुनिश्चित होता है।",
+    "## राष्ट्रीय आपातकाल की अवधि",
+    "• मूल संविधान में, एक बार स्वीकृति मिलने के बाद कार्यपालिका जितना चाहती उतना समय आपातकाल चला सकती थी।",
+    "• 44वें संशोधन अधिनियम (1978) ने सुरक्षा प्रावधान जोड़ा: हर छह माह पर संसद की समय-समय पर स्वीकृति।",
+    "• सैद्धांतिक रूप से अवधि अनिश्चित है, लेकिन बार-बार स्वीकृति की आवश्यकता लोकतांत्रिक संतुलन बनाए रखती है।",
+    "• 1975–1977 के आपातकाल के दुरुपयोग से बचने के लिए यह प्रावधान जोड़ा गया।",
+    "## राष्ट्रीय आपातकाल की समाप्ति",
+    "• राष्ट्रपति किसी भी समय आपातकाल समाप्त कर सकते हैं, संसद की स्वीकृति की आवश्यकता नहीं।",
+    "• 44वें संशोधन के तहत सुरक्षा उपाय:",
+    "   - यदि लोकसभा आपातकाल समाप्त करने का प्रस्ताव पारित करती है, तो राष्ट्रपति बाध्य होंगे कि उसे तुरंत समाप्त करें।",
+    "   - यदि लोकसभा सत्र में न हो और कम से कम 1/10 सदस्य लिखित सूचना दें, तो 14 दिनों के भीतर विशेष सत्र बुलाना अनिवार्य होगा।",
+    "• इससे यह सुनिश्चित होता है कि आपातकाल की समाप्ति में लोकसभा की सर्वोच्चता बनी रहे।",
+    "## जारी रखने और समाप्त करने में अंतर",
+    "• जारी रखने के लिए हर छह माह पर संसद के दोनों सदनों में विशेष बहुमत आवश्यक।",
+    "• समाप्त करने के लिए केवल लोकसभा में साधारण बहुमत पर्याप्त।",
+    "• जारी रखने हेतु दोनों सदनों की आवश्यकता → निरंतरता पर मजबूत सुरक्षा।",
+    "• समाप्त करने हेतु लोकसभा की प्रमुख भूमिका → जनप्रतिनिधियों की सर्वोच्चता।"
+  ],
+  "tables": [
+    {
+      "title": "National Emergency – Approval, Duration and Revocation",
+      "titleHindi": "राष्ट्रीय आपातकाल – स्वीकृति, अवधि और समाप्ति",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Approval", "Both Houses within 1 month; Cabinet recommendation mandatory"],
+        ["Duration", "6 months at a time; indefinite with repeated approvals"],
+        ["Majority Required", "Special majority (total membership + 2/3rd present & voting)"],
+        ["Revocation", "By President anytime; Lok Sabha can compel revocation"],
+        ["Difference", "Continuation: special majority in both Houses; Cancellation: simple majority in Lok Sabha"]
+      ],
+      "rowsHindi": [
+        ["स्वीकृति", "दोनों सदनों से 1 माह के भीतर; मंत्रिपरिषद की सिफारिश अनिवार्य"],
+        ["अवधि", "एक बार में 6 माह; बार-बार स्वीकृति से अनिश्चितकाल तक"],
+        ["आवश्यक बहुमत", "विशेष बहुमत (कुल सदस्यता + उपस्थित एवं मतदान का 2/3)"],
+        ["समाप्ति", "राष्ट्रपति कभी भी कर सकते; लोकसभा बाध्य कर सकती है"],
+        ["अंतर", "जारी रखना: दोनों सदनों में विशेष बहुमत; समाप्त करना: केवल लोकसभा में साधारण बहुमत"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Approval must be within 1 month (44th Amendment).",
+    "Continuation requires special majority every 6 months.",
+    "Cabinet’s written recommendation mandatory for proclamation.",
+    "Revocation can be by President anytime; Lok Sabha has overriding role.",
+    "Difference: Continuation (special majority both Houses), Revocation (simple majority Lok Sabha)."
+  ],
+  "prelimsTipsHindi": [
+    "स्वीकृति 1 माह के भीतर आवश्यक (44वाँ संशोधन)।",
+    "जारी रखने हेतु हर 6 माह पर विशेष बहुमत आवश्यक।",
+    "घोषणा हेतु मंत्रिपरिषद की लिखित सिफारिश अनिवार्य।",
+    "समाप्ति राष्ट्रपति कभी भी कर सकते; लोकसभा की प्रमुख भूमिका।",
+    "अंतर: जारी रखना (दोनों सदनों में विशेष बहुमत), समाप्त करना (केवल लोकसभा में साधारण बहुमत)।"
+  ],
+  "mainsPoints": [
+    "Parliamentary approval is crucial to maintain checks on executive power during emergency.",
+    "44th Amendment reduced initial approval time (2 months → 1 month) and introduced periodic approval every 6 months.",
+    "Special majority requirement prevents easy misuse.",
+    "Revocation powers give supremacy to Lok Sabha, reflecting democratic accountability.",
+    "The safeguards were introduced in response to misuse during 1975–77 Emergency."
+  ],
+  "mainsPointsHindi": [
+    "आपातकाल के दौरान कार्यपालिका की शक्तियों पर नियंत्रण हेतु संसदीय स्वीकृति आवश्यक।",
+    "44वें संशोधन ने प्रारंभिक स्वीकृति अवधि (2 माह → 1 माह) घटाई और हर 6 माह पर नवीनीकरण अनिवार्य किया।",
+    "विशेष बहुमत की आवश्यकता मनमाने उपयोग को रोकती है।",
+    "समाप्ति की शक्ति लोकसभा को सर्वोच्च बनाती है, जो लोकतांत्रिक जवाबदेही को दर्शाती है।",
+    "1975–77 के आपातकाल के दुरुपयोग के बाद ये सुरक्षा प्रावधान जोड़े गए।"
+  ]
+},
+{
+  "heading": "Effects of National Emergency",
+  "headingHindi": "राष्ट्रीय आपातकाल के प्रभाव",
+  "highlight": "A National Emergency under Article 352 affects Centre-State relations, the life of legislatures, and Fundamental Rights. Parliament assumes greater powers over State subjects, Lok Sabha and State Assemblies can have their terms extended, and Fundamental Rights, particularly Article 19, can be suspended with restrictions introduced by the 44th Amendment.",
+  "highlightHindi": "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल का प्रभाव केंद्र-राज्य संबंधों, विधानसभाओं के कार्यकाल और मौलिक अधिकारों पर पड़ता है। संसद को राज्य विषयों पर अधिक शक्तियाँ मिलती हैं, लोकसभा और राज्य विधानसभाओं का कार्यकाल बढ़ाया जा सकता है और मौलिक अधिकार, विशेषकर अनुच्छेद 19, निलंबित हो सकते हैं, जिन पर 44वें संशोधन द्वारा कुछ सीमाएँ लगाई गई हैं।",
+  "details": [
+    "## Effects on Centre-State Relations",
+    "### Legislative Relations:",
+    "• Parliament gains power to legislate on State subjects (Seventh Schedule).",
+    "• State legislatures continue but remain subordinate to Parliament’s overriding power.",
+    "• Laws made by Parliament on State subjects during Emergency lapse 6 months after Emergency ends.",
+    "• President may issue Ordinances on State subjects if Parliament is not in session.",
+    "### Executive Relations:",
+    "• Centre can issue executive directions to States on any matter.",
+    "• State executive authority is not suspended but overridden by Central directives.",
+    "### Financial Relations:",
+    "• President can modify revenue distribution between Centre and States.",
+    "• Such orders must be placed before Parliament.",
+    "## Effects on the Life of Legislatures",
+    "• Lok Sabha’s 5-year term can be extended by Parliament for one year at a time during Emergency.",
+    "• This extension can continue indefinitely but ceases 6 months after Emergency ends.",
+    "• State legislatures may also be extended by one year at a time.",
+    "• Example: Fifth Lok Sabha (1971–1977) was extended twice, each time by one year.",
+    "## Effects on Fundamental Rights",
+    "### Article 358:",
+    "• Article 19 rights automatically suspended during Emergency on grounds of war or external aggression (not armed rebellion).",
+    "• Only Emergency-related laws are protected from judicial review.",
+    "### Article 359:",
+    "• President can suspend the right to move courts for enforcement of Fundamental Rights.",
+    "• Suspension may last for a limited period or until Emergency ends.",
+    "• Presidential order must be approved by Parliament.",
+    "• 44th Amendment (1978) introduced safeguards:",
+    "   - Articles 20 and 21 cannot be suspended.",
+    "   - Only Emergency-related laws enjoy immunity from judicial review."
+  ],
+  "detailsHindi": [
+    "## केंद्र-राज्य संबंधों पर प्रभाव",
+    "### विधायी संबंध:",
+    "• संसद को राज्य सूची (सातवीं अनुसूची) पर कानून बनाने की शक्ति मिलती है।",
+    "• राज्य विधानसभाएँ बनी रहती हैं पर संसद की सर्वोच्चता के अधीन होती हैं।",
+    "• संसद द्वारा बनाए गए कानून आपातकाल समाप्ति के 6 माह बाद निष्क्रिय हो जाते हैं।",
+    "• संसद सत्र में न हो तो राष्ट्रपति राज्य विषयों पर अध्यादेश जारी कर सकते हैं।",
+    "### कार्यकारी संबंध:",
+    "• केंद्र राज्यों को किसी भी विषय पर कार्यकारी निर्देश दे सकता है।",
+    "• राज्यों की कार्यकारी शक्ति बनी रहती है पर केंद्र के आदेशों के अधीन होती है।",
+    "### वित्तीय संबंध:",
+    "• राष्ट्रपति केंद्र और राज्यों के बीच राजस्व वितरण को बदल सकते हैं।",
+    "• हर आदेश संसद के समक्ष रखा जाना अनिवार्य है।",
+    "## विधानसभाओं के कार्यकाल पर प्रभाव",
+    "• लोकसभा का 5 वर्ष का कार्यकाल संसद द्वारा एक वर्ष की अवधि के लिए बढ़ाया जा सकता है।",
+    "• यह विस्तार अनिश्चितकाल तक जारी रह सकता है, पर आपातकाल समाप्ति के 6 माह बाद समाप्त हो जाता है।",
+    "• राज्य विधानसभाओं का कार्यकाल भी इसी प्रकार एक वर्ष तक बढ़ाया जा सकता है।",
+    "• उदाहरण: पाँचवीं लोकसभा (1971–1977) को दो बार एक-एक वर्ष के लिए बढ़ाया गया।",
+    "## मौलिक अधिकारों पर प्रभाव",
+    "### अनुच्छेद 358:",
+    "• युद्ध या बाहरी आक्रमण पर आधारित आपातकाल के दौरान अनुच्छेद 19 के अधिकार स्वतः निलंबित हो जाते हैं (सशस्त्र विद्रोह पर नहीं)।",
+    "• केवल आपातकाल से संबंधित कानून न्यायिक समीक्षा से सुरक्षित होते हैं।",
+    "### अनुच्छेद 359:",
+    "• राष्ट्रपति मौलिक अधिकारों के प्रवर्तन हेतु न्यायालय जाने के अधिकार को निलंबित कर सकते हैं।",
+    "• निलंबन अल्पकालिक हो सकता है या आपातकाल की समाप्ति तक।",
+    "• राष्ट्रपति का आदेश संसद के अनुमोदन हेतु आवश्यक है।",
+    "• 44वें संशोधन (1978) ने सुरक्षा उपाय जोड़े:",
+    "   - अनुच्छेद 20 और 21 निलंबित नहीं किए जा सकते।",
+    "   - केवल आपातकाल से संबंधित कानून न्यायिक समीक्षा से सुरक्षित होंगे।"
+  ],
+  "tables": [
+    {
+      "title": "Effects of National Emergency – Key Aspects",
+      "titleHindi": "राष्ट्रीय आपातकाल के प्रभाव – मुख्य पहलू",
+      "columns": ["Aspect", "Effect"],
+      "columnsHindi": ["पहलू", "प्रभाव"],
+      "rows": [
+        ["Legislative Relations", "Parliament can legislate on State List; laws lapse 6 months after Emergency ends"],
+        ["Executive Relations", "Centre can direct States on any matter; State powers overridden"],
+        ["Financial Relations", "President can alter revenue distribution; subject to parliamentary review"],
+        ["Life of Lok Sabha", "Term extended 1 year at a time; ceases 6 months after Emergency ends"],
+        ["State Assemblies", "Term can also be extended 1 year at a time"],
+        ["Article 358", "Suspension of Article 19 (only in case of war/external aggression); limited to Emergency-related laws"],
+        ["Article 359", "President can suspend right to move courts for FR enforcement; Articles 20 & 21 protected (44th Amendment)"]
+      ],
+      "rowsHindi": [
+        ["विधायी संबंध", "संसद राज्य सूची पर कानून बना सकती है; कानून आपातकाल समाप्ति के 6 माह बाद निष्क्रिय"],
+        ["कार्यकारी संबंध", "केंद्र राज्यों को किसी भी विषय पर निर्देश दे सकता है; राज्य शक्तियाँ अधीनस्थ होती हैं"],
+        ["वित्तीय संबंध", "राष्ट्रपति राजस्व वितरण बदल सकते हैं; संसद की स्वीकृति आवश्यक"],
+        ["लोकसभा का कार्यकाल", "1 वर्ष की अवधि से बढ़ाया जा सकता है; आपातकाल समाप्ति के 6 माह बाद समाप्त"],
+        ["राज्य विधानसभाएँ", "1 वर्ष की अवधि से कार्यकाल बढ़ाया जा सकता है"],
+        ["अनुच्छेद 358", "अनुच्छेद 19 निलंबित (केवल युद्ध/बाहरी आक्रमण पर); केवल आपातकाल संबंधित कानून सुरक्षित"],
+        ["अनुच्छेद 359", "मौलिक अधिकार प्रवर्तन हेतु न्यायालय जाने का अधिकार निलंबित; अनुच्छेद 20 और 21 सुरक्षित (44वाँ संशोधन)"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "During National Emergency, Parliament can legislate on State List.",
+    "Lok Sabha term can be extended one year at a time; ceases 6 months after revocation.",
+    "Article 19 rights suspended only during Emergency on war/external aggression (not armed rebellion).",
+    "Articles 20 and 21 cannot be suspended even during Emergency (44th Amendment)."
+  ],
+  "prelimsTipsHindi": [
+    "राष्ट्रीय आपातकाल में संसद राज्य सूची पर कानून बना सकती है।",
+    "लोकसभा का कार्यकाल एक वर्ष तक बढ़ सकता है; आपातकाल समाप्ति के 6 माह बाद खत्म।",
+    "अनुच्छेद 19 केवल युद्ध/बाहरी आक्रमण पर आधारित आपातकाल में निलंबित।",
+    "अनुच्छेद 20 और 21 आपातकाल में भी निलंबित नहीं किए जा सकते (44वाँ संशोधन)।"
+  ],
+  "mainsPoints": [
+    "National Emergency shifts balance heavily towards the Centre in legislative, executive, and financial matters.",
+    "Parliament assumes overriding legislative powers; State autonomy curtailed.",
+    "Life of legislatures can be extended, impacting democratic cycles.",
+    "Fundamental Rights, especially Article 19, face suspension; Articles 20 and 21 remain safeguarded.",
+    "44th Amendment introduced necessary restrictions to prevent authoritarian misuse."
+  ],
+  "mainsPointsHindi": [
+    "राष्ट्रीय आपातकाल में विधायी, कार्यकारी और वित्तीय मामलों में केंद्र की ओर शक्ति का झुकाव होता है।",
+    "संसद को सर्वोच्च विधायी शक्ति मिलती है; राज्यों की स्वायत्तता घटती है।",
+    "विधानसभाओं का कार्यकाल बढ़ सकता है, जिससे लोकतांत्रिक चक्र प्रभावित होता है।",
+    "मौलिक अधिकार, विशेषकर अनुच्छेद 19, निलंबित हो सकते हैं; अनुच्छेद 20 और 21 सुरक्षित रहते हैं।",
+    "44वें संशोधन ने अधिनायकवादी दुरुपयोग रोकने हेतु आवश्यक सीमाएँ जोड़ी।"
+  ]
+},
+{
+  "heading": "Difference between Article 358 and Article 359",
+  "headingHindi": "अनुच्छेद 358 और अनुच्छेद 359 के बीच अंतर",
+  "highlight": "Article 358 deals specifically with the suspension of Fundamental Rights under Article 19 during a National Emergency declared on grounds of war or external aggression. Article 359 empowers the President to suspend the right to move courts for enforcement of specified Fundamental Rights (except Articles 20 and 21) during any type of National Emergency.",
+  "highlightHindi": "अनुच्छेद 358 केवल अनुच्छेद 19 के मौलिक अधिकारों के निलंबन से संबंधित है और यह केवल युद्ध या बाहरी आक्रमण पर आधारित राष्ट्रीय आपातकाल में लागू होता है। अनुच्छेद 359 राष्ट्रपति को किसी भी प्रकार के राष्ट्रीय आपातकाल में कुछ या सभी मौलिक अधिकारों (अनुच्छेद 20 और 21 को छोड़कर) के प्रवर्तन को निलंबित करने का अधिकार देता है।",
+  "details": [
+    "## Article 358",
+    "• Applies only to Article 19 rights.",
+    "• Suspension of Article 19 happens automatically once National Emergency is declared (war or external aggression).",
+    "• Does not apply to Armed Rebellion (internal emergency).",
+    "• Rights under Article 19 remain suspended for the entire duration of the Emergency.",
+    "• Applicable throughout India.",
+    "• Provides for complete suspension of Article 19 rights.",
+    "## Article 359",
+    "• Applies to all Fundamental Rights whose enforcement is suspended by Presidential Order (except Articles 20 and 21).",
+    "• Rights are not suspended automatically; President issues an order.",
+    "• Applicable in both external and internal emergencies.",
+    "• Suspension is for the duration specified by the President in the order.",
+    "• Can apply to the whole of India or a part of it.",
+    "• Presidential power cannot suspend Articles 20 and 21 (protection in criminal cases and right to life & personal liberty)."
+  ],
+  "detailsHindi": [
+    "## अनुच्छेद 358",
+    "• केवल अनुच्छेद 19 पर लागू।",
+    "• युद्ध या बाहरी आक्रमण पर आधारित राष्ट्रीय आपातकाल घोषित होते ही अनुच्छेद 19 स्वतः निलंबित हो जाता है।",
+    "• सशस्त्र विद्रोह (आंतरिक आपातकाल) पर लागू नहीं।",
+    "• अनुच्छेद 19 के अधिकार पूरे आपातकाल की अवधि तक निलंबित रहते हैं।",
+    "• पूरे भारत में लागू।",
+    "• अनुच्छेद 19 का पूर्ण निलंबन।",
+    "## अनुच्छेद 359",
+    "• राष्ट्रपति के आदेश द्वारा किसी भी मौलिक अधिकार (अनुच्छेद 20 और 21 को छोड़कर) के प्रवर्तन को निलंबित किया जा सकता है।",
+    "• मौलिक अधिकार स्वतः निलंबित नहीं होते; राष्ट्रपति का आदेश आवश्यक।",
+    "• बाहरी और आंतरिक दोनों प्रकार के आपातकाल में लागू।",
+    "• निलंबन राष्ट्रपति द्वारा निर्दिष्ट अवधि तक ही लागू।",
+    "• पूरे भारत या इसके किसी भाग पर लागू किया जा सकता है।",
+    "• अनुच्छेद 20 और 21 (आपराधिक मामलों में संरक्षण और जीवन/व्यक्तिगत स्वतंत्रता का अधिकार) निलंबित नहीं किए जा सकते।"
+  ],
+  "tables": [
+    {
+      "title": "Difference between Article 358 and Article 359",
+      "titleHindi": "अनुच्छेद 358 और अनुच्छेद 359 के बीच अंतर",
+      "columns": ["Aspect", "Article 358", "Article 359"],
+      "columnsHindi": ["पहलू", "अनुच्छेद 358", "अनुच्छेद 359"],
+      "rows": [
+        ["Scope", "Limited to Article 19", "Applies to all Fundamental Rights (except 20 & 21)"],
+        ["Nature", "Automatic suspension of Article 19", "Suspension by Presidential Order"],
+        ["Applicability", "Only in war/external aggression emergencies", "In both external and internal emergencies"],
+        ["Duration", "Entire duration of the Emergency", "As specified by Presidential Order"],
+        ["Area", "Extends to whole of India", "May apply to whole or part of India"],
+        ["Limitation", "Suspends Article 19 completely", "Cannot suspend Articles 20 & 21"]
+      ],
+      "rowsHindi": [
+        ["परिधि", "केवल अनुच्छेद 19 तक सीमित", "सभी मौलिक अधिकारों पर लागू (20 और 21 को छोड़कर)"],
+        ["स्वरूप", "अनुच्छेद 19 स्वतः निलंबित", "राष्ट्रपति के आदेश द्वारा निलंबन"],
+        ["लागू होने की स्थिति", "केवल युद्ध/बाहरी आक्रमण आपातकाल में", "बाहरी और आंतरिक दोनों आपातकाल में"],
+        ["अवधि", "पूरे आपातकाल की अवधि", "राष्ट्रपति के आदेश में निर्दिष्ट अवधि तक"],
+        ["क्षेत्र", "पूरे भारत में लागू", "पूरे या किसी भाग पर लागू हो सकता है"],
+        ["सीमा", "अनुच्छेद 19 का पूर्ण निलंबन", "अनुच्छेद 20 और 21 निलंबित नहीं किए जा सकते"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 358: Automatic suspension of Article 19 during war/external aggression emergency.",
+    "Article 359: Suspension of enforcement of FRs (except 20 & 21) by Presidential Order.",
+    "Article 358 applies only to external emergency, not internal.",
+    "Article 359 applies to both internal and external emergencies."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 358: युद्ध/बाहरी आक्रमण पर आधारित आपातकाल में अनुच्छेद 19 स्वतः निलंबित।",
+    "अनुच्छेद 359: राष्ट्रपति के आदेश द्वारा मौलिक अधिकारों (20 और 21 को छोड़कर) का प्रवर्तन निलंबित।",
+    "अनुच्छेद 358 केवल बाहरी आपातकाल पर लागू।",
+    "अनुच्छेद 359 बाहरी और आंतरिक दोनों आपातकाल पर लागू।"
+  ],
+  "mainsPoints": [
+    "Article 358 provides automatic suspension of Article 19, while Article 359 requires Presidential action.",
+    "Article 358 applies only during war or external aggression, whereas Article 359 applies to both internal and external emergencies.",
+    "Article 358 impacts only Article 19, while Article 359 can cover a broader range of Fundamental Rights except 20 & 21.",
+    "Duration under Article 358 is entire Emergency, but under 359 it is limited to the President’s order.",
+    "This distinction balances executive powers with safeguards against misuse."
+  ],
+  "mainsPointsHindi": [
+    "अनुच्छेद 358 में अनुच्छेद 19 का स्वतः निलंबन होता है, जबकि अनुच्छेद 359 में राष्ट्रपति का आदेश आवश्यक है।",
+    "अनुच्छेद 358 केवल युद्ध या बाहरी आक्रमण पर लागू, जबकि अनुच्छेद 359 आंतरिक और बाहरी दोनों आपातकाल पर लागू।",
+    "अनुच्छेद 358 केवल अनुच्छेद 19 को प्रभावित करता है, जबकि अनुच्छेद 359 व्यापक मौलिक अधिकारों (20 और 21 को छोड़कर) पर लागू।",
+    "अनुच्छेद 358 में अवधि पूरे आपातकाल तक, जबकि अनुच्छेद 359 में राष्ट्रपति के आदेश तक सीमित।",
+    "यह अंतर कार्यपालिका की शक्तियों और दुरुपयोग रोकने के लिए सुरक्षा उपायों के बीच संतुलन स्थापित करता है।"
+  ]
+},
+{
+  "heading": "President’s Rule (State Emergency under Article 356)",
+  "headingHindi": "राष्ट्रपति शासन (अनुच्छेद 356 के तहत राज्य आपातकाल)",
+  "highlight": "President’s Rule, also called Constitutional Emergency, is imposed under Article 356 when a state government fails to function according to constitutional provisions. It is based on the Union’s duty under Article 355. Proclamation requires parliamentary approval, lasts 6 months at a time, and can continue up to 3 years with safeguards. Revocation can be done by the President anytime without parliamentary approval.",
+  "highlightHindi": "राष्ट्रपति शासन, जिसे संवैधानिक आपातकाल भी कहा जाता है, अनुच्छेद 356 के तहत लगाया जाता है जब राज्य सरकार संवैधानिक प्रावधानों के अनुसार काम करने में विफल रहती है। यह अनुच्छेद 355 के तहत केंद्र के कर्तव्य पर आधारित है। इसकी उद्घोषणा को संसद से स्वीकृति आवश्यक है, यह एक बार में 6 माह तक चलता है और सुरक्षा उपायों के साथ अधिकतम 3 वर्ष तक बढ़ाया जा सकता है। राष्ट्रपति इसे किसी भी समय संसद की स्वीकृति के बिना हटा सकते हैं।",
+  "details": [
+    "## Constitutional Basis",
+    "• Article 355: Duty of the Union to ensure state governments function according to the Constitution.",
+    "• Article 356: President can proclaim President’s Rule if the constitutional machinery in a state breaks down.",
+    "• The proclamation may be based on the Governor’s report or otherwise.",
+    "• Article 365: President’s Rule may be imposed if a state fails to comply with directions of the Union.",
+    "## Approval by Parliament",
+    "• Proclamation must be approved by both Houses within 2 months.",
+    "• If Lok Sabha is dissolved, Rajya Sabha must approve, and the new Lok Sabha must approve within 30 days of its first sitting.",
+    "• Majority required: Simple majority (members present and voting).",
+    "## Duration",
+    "• If approved, President’s Rule continues for 6 months.",
+    "• Can be extended for a maximum of 3 years, with parliamentary approval every 6 months.",
+    "• 44th Amendment safeguards (for extension beyond 1 year):",
+    "   - National Emergency must be in operation in the whole or part of the state/India.",
+    "   - Election Commission must certify that state assembly elections cannot be held.",
+    "## Revocation",
+    "• Can be revoked anytime by the President through a subsequent proclamation.",
+    "• Revocation does not require parliamentary approval."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक आधार",
+    "• अनुच्छेद 355: केंद्र का कर्तव्य कि राज्य सरकारें संविधान के अनुसार कार्य करें।",
+    "• अनुच्छेद 356: यदि किसी राज्य में संवैधानिक मशीनरी विफल हो जाए तो राष्ट्रपति राष्ट्रपति शासन की उद्घोषणा कर सकते हैं।",
+    "• उद्घोषणा राज्यपाल की रिपोर्ट पर या अन्य स्रोतों से आधारित हो सकती है।",
+    "• अनुच्छेद 365: यदि कोई राज्य केंद्र द्वारा दिए गए निर्देशों का पालन करने में विफल हो तो राष्ट्रपति शासन लगाया जा सकता है।",
+    "## संसद से स्वीकृति",
+    "• उद्घोषणा को 2 माह के भीतर संसद के दोनों सदनों से स्वीकृति लेनी होती है।",
+    "• यदि लोकसभा भंग हो, तो पहले राज्यसभा से स्वीकृति और नवनिर्वाचित लोकसभा से प्रथम बैठक के 30 दिन के भीतर स्वीकृति आवश्यक।",
+    "• आवश्यक बहुमत: साधारण बहुमत (उपस्थित और मतदान करने वाले सदस्य)।",
+    "## अवधि",
+    "• स्वीकृति मिलने पर राष्ट्रपति शासन 6 माह तक चलता है।",
+    "• संसद की प्रत्येक 6 माह की स्वीकृति से अधिकतम 3 वर्ष तक बढ़ाया जा सकता है।",
+    "• 44वाँ संशोधन (1 वर्ष से आगे बढ़ाने हेतु सुरक्षा प्रावधान):",
+    "   - राष्ट्रीय आपातकाल पूरे भारत या राज्य/किसी भाग में लागू होना चाहिए।",
+    "   - चुनाव आयोग प्रमाणित करे कि चुनाव कराना संभव नहीं है।",
+    "## समाप्ति",
+    "• राष्ट्रपति किसी भी समय एक नई उद्घोषणा द्वारा राष्ट्रपति शासन समाप्त कर सकते हैं।",
+    "• समाप्ति हेतु संसद की स्वीकृति आवश्यक नहीं है।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of President’s Rule",
+      "titleHindi": "राष्ट्रपति शासन के मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Constitutional Provisions", "Articles 355, 356, and 365"],
+        ["Grounds", "Failure of constitutional machinery in state"],
+        ["Approval", "Parliamentary approval within 2 months"],
+        ["Majority Required", "Simple majority (present and voting)"],
+        ["Duration", "6 months; maximum 3 years with safeguards"],
+        ["44th Amendment Safeguards", "National Emergency in force + EC certifies elections not possible"],
+        ["Revocation", "By President anytime; no parliamentary approval required"]
+      ],
+      "rowsHindi": [
+        ["संवैधानिक प्रावधान", "अनुच्छेद 355, 356 और 365"],
+        ["कारण", "राज्य में संवैधानिक मशीनरी की विफलता"],
+        ["स्वीकृति", "2 माह के भीतर संसद की स्वीकृति"],
+        ["आवश्यक बहुमत", "साधारण बहुमत (उपस्थित और मतदान करने वाले सदस्य)"],
+        ["अवधि", "6 माह; अधिकतम 3 वर्ष सुरक्षा उपायों के साथ"],
+        ["44वाँ संशोधन सुरक्षा उपाय", "राष्ट्रीय आपातकाल लागू + चुनाव आयोग प्रमाणित करे कि चुनाव संभव नहीं"],
+        ["समाप्ति", "राष्ट्रपति किसी भी समय कर सकते; संसद की स्वीकृति आवश्यक नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "President’s Rule is under Article 356.",
+    "Ground: Failure of constitutional machinery or non-compliance under Article 365.",
+    "Maximum duration: 3 years (with safeguards from 44th Amendment).",
+    "Approval: Simple majority in both Houses within 2 months.",
+    "Revocation does not need parliamentary approval."
+  ],
+  "prelimsTipsHindi": [
+    "राष्ट्रपति शासन अनुच्छेद 356 के अंतर्गत है।",
+    "आधार: संवैधानिक मशीनरी की विफलता या अनुच्छेद 365 के तहत अनुपालन न होना।",
+    "अधिकतम अवधि: 3 वर्ष (44वें संशोधन के सुरक्षा उपायों के साथ)।",
+    "स्वीकृति: दोनों सदनों में साधारण बहुमत से 2 माह में।",
+    "समाप्ति के लिए संसद की स्वीकृति आवश्यक नहीं।"
+  ],
+  "mainsPoints": [
+    "President’s Rule ensures Union’s responsibility to maintain constitutional governance in states.",
+    "Often criticized for political misuse (e.g., frequent imposition in early decades).",
+    "44th Amendment introduced safeguards to restrict its arbitrary extension beyond one year.",
+    "Maintains parliamentary control but still allows central dominance over states.",
+    "Revocation flexibility ensures restoration of democracy when normalcy returns."
+  ],
+  "mainsPointsHindi": [
+    "राष्ट्रपति शासन यह सुनिश्चित करता है कि राज्यों में संवैधानिक शासन बना रहे।",
+    "अक्सर राजनीतिक दुरुपयोग के लिए आलोचना (जैसे शुरुआती दशकों में बार-बार लगाया गया)।",
+    "44वें संशोधन ने एक वर्ष से आगे मनमाने विस्तार को रोकने हेतु सुरक्षा उपाय जोड़े।",
+    "संसदीय नियंत्रण बनाए रखता है लेकिन केंद्र की प्रधानता को भी बढ़ाता है।",
+    "समाप्ति की लचीलेपन से सामान्य स्थिति लौटने पर लोकतंत्र की बहाली सुनिश्चित होती है।"
+  ]
+},
+{
+  "heading": "Effects of the President’s Rule",
+  "headingHindi": "राष्ट्रपति शासन के प्रभाव",
+  "highlight": "When President’s Rule is imposed under Article 356, the Union assumes direct control of the state. The President acquires extraordinary powers, the Governor acts on behalf of the President, and the Parliament exercises legislative functions of the state. Laws made during this period remain valid even after revocation but can be repealed or altered by the State Legislature.",
+  "highlightHindi": "अनुच्छेद 356 के तहत राष्ट्रपति शासन लागू होने पर राज्य पर प्रत्यक्ष नियंत्रण केंद्र का हो जाता है। राष्ट्रपति असाधारण शक्तियाँ प्राप्त करते हैं, राज्यपाल राष्ट्रपति की ओर से शासन चलाते हैं और संसद राज्य की विधायी शक्तियों का प्रयोग करती है। इस अवधि में बने कानून राष्ट्रपति शासन समाप्त होने के बाद भी लागू रहते हैं, पर राज्य विधानमंडल उन्हें बदल या निरस्त कर सकता है।",
+  "details": [
+    "## Extraordinary Powers of the President",
+    "• Can assume functions of the state government and powers vested in the Governor or other authorities.",
+    "• Can declare that powers of the state legislature are to be exercised by Parliament.",
+    "• Can dismiss the state council of ministers headed by the Chief Minister.",
+    "• Can appoint advisors to assist the Governor in administration.",
+    "• Can suspend or dissolve the state legislative assembly.",
+    "• Can suspend constitutional provisions relating to bodies or authorities in the state.",
+    "## Status of the Governor",
+    "• Governor carries on state administration on behalf of the President.",
+    "• Assisted by the Chief Secretary of the state and advisors appointed by the President.",
+    "## Powers of the Parliament",
+    "• Exercises powers of the state legislature when it is suspended or dissolved.",
+    "• Passes state legislative bills and the state budget.",
+    "• Can delegate law-making powers for the state to the President or other specified authorities.",
+    "• Authorises Union Government to exercise powers normally vested in the state.",
+    "• Can authorise use of the State Consolidated Fund if Parliament is not in session.",
+    "• President can promulgate ordinances on state matters if Parliament is not in session.",
+    "## Continuity of Laws",
+    "• Laws made by Parliament, President, or specified authorities during President’s Rule continue to operate even after revocation.",
+    "• Such laws are not coterminous with the duration of President’s Rule.",
+    "• However, they can be repealed or amended by the State Legislature once normalcy returns."
+  ],
+  "detailsHindi": [
+    "## राष्ट्रपति की असाधारण शक्तियाँ",
+    "• राज्य सरकार और राज्यपाल या अन्य प्राधिकरणों में निहित शक्तियाँ अपने अधीन ले सकते हैं।",
+    "• घोषणा कर सकते हैं कि राज्य विधानमंडल की शक्तियों का प्रयोग संसद करेगी।",
+    "• मुख्यमंत्री के नेतृत्व वाली राज्य मंत्रिपरिषद को भंग कर सकते हैं।",
+    "• राज्यपाल की सहायता हेतु सलाहकार नियुक्त कर सकते हैं।",
+    "• राज्य विधानमंडल को निलंबित या भंग कर सकते हैं।",
+    "• राज्य में किसी संस्था या प्राधिकरण से संबंधित संवैधानिक प्रावधानों को निलंबित कर सकते हैं।",
+    "## राज्यपाल की स्थिति",
+    "• राष्ट्रपति की ओर से राज्यपाल राज्य का प्रशासन चलाते हैं।",
+    "• राज्य के मुख्य सचिव और राष्ट्रपति द्वारा नियुक्त सलाहकारों की सहायता से प्रशासन संचालित होता है।",
+    "## संसद की शक्तियाँ",
+    "• जब राज्य विधानमंडल निलंबित या भंग हो, तो संसद उसकी शक्तियों का प्रयोग करती है।",
+    "• राज्य विधेयक और बजट संसद द्वारा पारित किए जाते हैं।",
+    "• संसद राज्य के लिए कानून बनाने की शक्ति राष्ट्रपति या अन्य प्राधिकरण को सौंप सकती है।",
+    "• संघ सरकार को राज्य की शक्तियाँ सौंपने का प्रावधान कर सकती है।",
+    "• संसद सत्र में न हो तो राष्ट्रपति राज्य की समेकित निधि का उपयोग अधिकृत कर सकते हैं।",
+    "• संसद सत्र में न हो तो राष्ट्रपति राज्य सूची के विषयों पर अध्यादेश जारी कर सकते हैं।",
+    "## कानूनों की निरंतरता",
+    "• संसद, राष्ट्रपति या निर्दिष्ट प्राधिकरण द्वारा बनाए गए कानून राष्ट्रपति शासन समाप्ति के बाद भी प्रभावी रहते हैं।",
+    "• ये कानून राष्ट्रपति शासन की अवधि तक सीमित नहीं होते।",
+    "• परंतु सामान्य स्थिति लौटने पर राज्य विधानमंडल इन्हें बदल या निरस्त कर सकता है।"
+  ],
+  "tables": [
+    {
+      "title": "Effects of President’s Rule",
+      "titleHindi": "राष्ट्रपति शासन के प्रभाव",
+      "columns": ["Aspect", "Effect"],
+      "columnsHindi": ["पहलू", "प्रभाव"],
+      "rows": [
+        ["President’s Powers", "Assumes state functions, dismisses CM & council, dissolves/suspends assembly, appoints advisors."],
+        ["Governor’s Role", "Acts as agent of President; aided by Chief Secretary and advisors."],
+        ["Parliament’s Role", "Exercises state legislature powers, passes bills & budget, can delegate law-making to President/others."],
+        ["Financial Powers", "President can authorise use of State Consolidated Fund when Parliament not in session."],
+        ["Ordinance Power", "President can issue ordinances on state matters when Parliament not in session."],
+        ["Continuity of Laws", "Laws made continue even after President’s Rule ends, unless repealed by State Legislature."]
+      ],
+      "rowsHindi": [
+        ["राष्ट्रपति की शक्तियाँ", "राज्य के कार्यभार को संभालना, मुख्यमंत्री व मंत्रिपरिषद को बर्खास्त करना, विधानसभा को भंग/निलंबित करना, सलाहकार नियुक्त करना।"],
+        ["राज्यपाल की भूमिका", "राष्ट्रपति के प्रतिनिधि के रूप में कार्य; मुख्य सचिव और सलाहकारों की सहायता से।"],
+        ["संसद की भूमिका", "राज्य विधानमंडल की शक्तियों का प्रयोग, विधेयक व बजट पारित, राष्ट्रपति/अन्य को कानून बनाने की शक्ति सौंप सकती है।"],
+        ["वित्तीय शक्तियाँ", "संसद सत्र में न हो तो राष्ट्रपति राज्य की समेकित निधि का उपयोग अधिकृत कर सकते हैं।"],
+        ["अध्यादेश शक्ति", "संसद सत्र में न हो तो राष्ट्रपति राज्य विषयों पर अध्यादेश जारी कर सकते हैं।"],
+        ["कानूनों की निरंतरता", "राष्ट्रपति शासन समाप्ति के बाद भी लागू रहते हैं, पर राज्य विधानमंडल उन्हें निरस्त कर सकता है।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "During President’s Rule, President assumes functions of state government.",
+    "Governor acts as agent of President with advisors.",
+    "Parliament passes state bills and budget during this period.",
+    "Laws made under President’s Rule continue after revocation unless repealed."
+  ],
+  "prelimsTipsHindi": [
+    "राष्ट्रपति शासन में राष्ट्रपति राज्य सरकार के कार्यभार को संभालते हैं।",
+    "राज्यपाल राष्ट्रपति के प्रतिनिधि के रूप में कार्य करते हैं और सलाहकारों की सहायता लेते हैं।",
+    "इस अवधि में राज्य के विधेयक और बजट संसद द्वारा पारित होते हैं।",
+    "इस अवधि में बनाए गए कानून राष्ट्रपति शासन समाप्त होने के बाद भी प्रभावी रहते हैं।"
+  ],
+  "mainsPoints": [
+    "President’s Rule centralises power, weakening state autonomy.",
+    "Governor becomes administrator on behalf of Union, raising federalism concerns.",
+    "Parliament assumes legislative and budgetary functions of the state.",
+    "Extraordinary powers of the President ensure governance continuity but open scope for political misuse.",
+    "Continuation of laws beyond the emergency ensures stability, while legislative repeal safeguards state sovereignty."
+  ],
+  "mainsPointsHindi": [
+    "राष्ट्रपति शासन में केंद्र के पास सारी शक्तियाँ आ जाती हैं, जिससे राज्यों की स्वायत्तता कमजोर होती है।",
+    "राज्यपाल केंद्र की ओर से प्रशासक बन जाते हैं, जिससे संघवाद पर प्रश्न उठते हैं।",
+    "संसद राज्य की विधायी और वित्तीय शक्तियों का प्रयोग करती है।",
+    "राष्ट्रपति की असाधारण शक्तियाँ शासन की निरंतरता सुनिश्चित करती हैं लेकिन राजनीतिक दुरुपयोग की संभावना भी बढ़ाती हैं।",
+    "आपातकाल के बाद भी कानूनों की निरंतरता स्थिरता लाती है, जबकि राज्य विधानमंडल का उन्हें निरस्त करने का अधिकार संघीय संतुलन बनाए रखता है।"
+  ]
+},
+{
+  "heading": "Difference between National Emergency and President’s Rule",
+  "headingHindi": "राष्ट्रीय आपातकाल और राष्ट्रपति शासन के बीच अंतर",
+  "highlight": "National Emergency under Article 352 is declared in situations of war, external aggression, or armed rebellion and impacts the entire nation’s federal structure, including fundamental rights. President’s Rule under Articles 356 and 365 is imposed when constitutional machinery in a state fails, suspending the state government and legislative assembly. While National Emergency affects Centre-State relations across India, President’s Rule applies only to a particular state.",
+  "highlightHindi": "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह की स्थिति में लागू होता है और पूरे संघीय ढांचे तथा मौलिक अधिकारों को प्रभावित करता है। अनुच्छेद 356 और 365 के तहत राष्ट्रपति शासन तब लगाया जाता है जब किसी राज्य में संवैधानिक मशीनरी विफल हो जाती है, जिससे राज्य सरकार और विधानसभा निलंबित या भंग हो जाती है। राष्ट्रीय आपातकाल पूरे भारत में केंद्र-राज्य संबंधों को प्रभावित करता है, जबकि राष्ट्रपति शासन केवल संबंधित राज्य पर लागू होता है।",
+  "details": [
+    "## National Emergency (Article 352)",
+    "• Declared in case of war, external aggression, or armed rebellion.",
+    "• Does not suspend the state government directly.",
+    "• Impacts Fundamental Rights through Articles 358 and 359 (except 20 and 21).",
+    "• Alters Centre-State relationship across the entire country.",
+    "• Must be approved within 1 month, renewed every 6 months by special majority.",
+    "• Can continue indefinitely with periodic parliamentary approval.",
+    "## President’s Rule (Articles 356 & 365)",
+    "• Declared when a state government fails to function according to constitutional provisions.",
+    "• Leads to dissolution/suspension of state government and assembly.",
+    "• Does not affect Fundamental Rights.",
+    "• Alters Centre-State relationship only for the concerned state.",
+    "• Must be approved within 2 months, extended every 6 months by simple majority.",
+    "• Maximum duration: 3 years (with safeguards from 44th Amendment)."
+  ],
+  "detailsHindi": [
+    "## राष्ट्रीय आपातकाल (अनुच्छेद 352)",
+    "• युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह की स्थिति में लागू।",
+    "• राज्य सरकार सीधे निलंबित नहीं होती।",
+    "• मौलिक अधिकारों को अनुच्छेद 358 और 359 (अनुच्छेद 20 और 21 को छोड़कर) के माध्यम से प्रभावित करता है।",
+    "• पूरे भारत में केंद्र-राज्य संबंध बदल जाते हैं।",
+    "• 1 माह के भीतर स्वीकृति आवश्यक, हर 6 माह पर विशेष बहुमत से नवीनीकरण।",
+    "• अनिश्चितकाल तक जारी रह सकता है।",
+    "## राष्ट्रपति शासन (अनुच्छेद 356 और 365)",
+    "• जब राज्य संवैधानिक प्रावधानों के अनुसार काम करने में विफल हो।",
+    "• राज्य सरकार और विधानसभा निलंबित या भंग कर दी जाती है।",
+    "• मौलिक अधिकारों पर कोई प्रभाव नहीं।",
+    "• केवल संबंधित राज्य के लिए केंद्र-राज्य संबंध बदलते हैं।",
+    "• 2 माह के भीतर स्वीकृति आवश्यक, हर 6 माह पर साधारण बहुमत से नवीनीकरण।",
+    "• अधिकतम अवधि: 3 वर्ष (44वें संशोधन की शर्तों सहित)।"
+  ],
+  "tables": [
+    {
+      "title": "Difference between National Emergency and President’s Rule",
+      "titleHindi": "राष्ट्रीय आपातकाल और राष्ट्रपति शासन के बीच अंतर",
+      "columns": ["Aspect", "National Emergency", "President’s Rule"],
+      "columnsHindi": ["पहलू", "राष्ट्रीय आपातकाल", "राष्ट्रपति शासन"],
+      "rows": [
+        ["Article", "Article 352", "Articles 356 & 365"],
+        ["Application", "War, external aggression, or armed rebellion", "Failure of constitutional machinery in a state"],
+        ["Effect on State Govt", "Centre cannot suspend state govt directly", "Council of Ministers dissolved; Assembly suspended/dissolved"],
+        ["Effect on Fundamental Rights", "Suspension under Arts. 358 & 359 (except 20 & 21)", "No effect on Fundamental Rights"],
+        ["Centre-State Relations", "Alters relationship of all states with Centre", "Only concerned state’s relation with Centre changes"],
+        ["Approval & Duration", "Approval within 1 month, renewed every 6 months, indefinite duration, special majority required", "Approval within 2 months, renewed every 6 months, max 3 years, simple majority required"]
+      ],
+      "rowsHindi": [
+        ["अनुच्छेद", "अनुच्छेद 352", "अनुच्छेद 356 और 365"],
+        ["लागू होने की स्थिति", "युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह", "राज्य में संवैधानिक मशीनरी की विफलता"],
+        ["राज्य सरकार पर प्रभाव", "केंद्र सीधे राज्य सरकार को निलंबित नहीं कर सकता", "मंत्रिपरिषद भंग; विधानसभा निलंबित/भंग"],
+        ["मौलिक अधिकारों पर प्रभाव", "अनुच्छेद 358 और 359 (20 और 21 को छोड़कर) द्वारा निलंबन", "मौलिक अधिकार अप्रभावित"],
+        ["केंद्र-राज्य संबंध", "सभी राज्यों के संबंध केंद्र से बदलते हैं", "केवल संबंधित राज्य के संबंध केंद्र से बदलते हैं"],
+        ["स्वीकृति व अवधि", "1 माह में स्वीकृति; हर 6 माह पर विशेष बहुमत से नवीनीकरण; अनिश्चितकाल तक", "2 माह में स्वीकृति; हर 6 माह पर साधारण बहुमत से नवीनीकरण; अधिकतम 3 वर्ष"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "National Emergency under Article 352 can continue indefinitely with periodic approval.",
+    "President’s Rule under Article 356 has a maximum limit of 3 years.",
+    "National Emergency requires special majority, President’s Rule requires simple majority.",
+    "Fundamental Rights affected only under National Emergency, not under President’s Rule."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल अनिश्चितकाल तक जारी रह सकता है।",
+    "अनुच्छेद 356 के तहत राष्ट्रपति शासन अधिकतम 3 वर्ष तक चलता है।",
+    "राष्ट्रीय आपातकाल में विशेष बहुमत आवश्यक, राष्ट्रपति शासन में साधारण बहुमत।",
+    "मौलिक अधिकार केवल राष्ट्रीय आपातकाल में प्रभावित, राष्ट्रपति शासन में नहीं।"
+  ],
+  "mainsPoints": [
+    "National Emergency and President’s Rule represent two different mechanisms to address crises: one national, one state-specific.",
+    "National Emergency centralises power and affects rights, while President’s Rule suspends state autonomy but not rights.",
+    "Frequent misuse of Article 356 has been criticized; safeguards like the 44th Amendment are crucial.",
+    "Both provisions demonstrate tensions between federalism and unity in extraordinary circumstances."
+  ],
+  "mainsPointsHindi": [
+    "राष्ट्रीय आपातकाल और राष्ट्रपति शासन संकट से निपटने के दो अलग तंत्र हैं: एक राष्ट्रीय स्तर पर और दूसरा राज्य स्तर पर।",
+    "राष्ट्रीय आपातकाल शक्ति केंद्रीकृत करता है और अधिकार प्रभावित करता है, जबकि राष्ट्रपति शासन राज्य की स्वायत्तता समाप्त करता है पर अधिकार नहीं।",
+    "अनुच्छेद 356 के बार-बार दुरुपयोग की आलोचना हुई है; 44वें संशोधन जैसे सुरक्षा उपाय आवश्यक हैं।",
+    "दोनों प्रावधान संघवाद और एकता के बीच असाधारण परिस्थितियों में संतुलन को दर्शाते हैं।"
+  ]
+},
+{
+  "heading": "Misuse of President’s Rule and Judicial Safeguards",
+  "headingHindi": "राष्ट्रपति शासन का दुरुपयोग और न्यायिक सुरक्षा",
+  "highlight": "Although Dr. B. R. Ambedkar envisioned Article 356 as a ‘dead letter’ to be used only in exceptional cases, President’s Rule has been frequently misused in Indian politics for partisan gains. The judiciary, especially after the S. R. Bommai case (1994), established safeguards by making Presidential satisfaction subject to judicial review and setting conditions for dissolution of assemblies.",
+  "highlightHindi": "डॉ. बी. आर. अंबेडकर ने अनुच्छेद 356 को केवल अपवादस्वरूप प्रयोग होने वाला ‘डेड लेटर’ कहा था, लेकिन भारतीय राजनीति में राष्ट्रपति शासन का बार-बार दुरुपयोग हुआ है। न्यायपालिका ने विशेषकर एस. आर. बोम्मई मामले (1994) में सुरक्षा उपाय स्थापित किए, राष्ट्रपति की संतुष्टि को न्यायिक समीक्षा के अधीन किया और विधानसभाओं के विघटन के लिए शर्तें तय कीं।",
+  "details": [
+    "## Historical Misuse",
+    "• Dr. B. R. Ambedkar expected Article 356 to be a last resort, but in practice it has been misused extensively.",
+    "• First use: Punjab, 1951.",
+    "• Almost all states have faced President’s Rule except Telangana and Chhattisgarh.",
+    "• Uttar Pradesh: imposed 9 times.",
+    "• Manipur: imposed 10 times.",
+    "• Puducherry (2021): imposed after ruling party lost majority; continued till elections.",
+    "• Maharashtra (2019): imposed briefly (12–23 November) due to hung assembly after elections.",
+    "## Judicial Review of President’s Rule",
+    "• 38th Constitutional Amendment Act, 1975: Made Presidential satisfaction in invoking Article 356 final and beyond judicial review.",
+    "• 44th Constitutional Amendment Act, 1978: Reversed the above, making Presidential satisfaction subject to judicial review.",
+    "## S. R. Bommai vs Union of India (1994)",
+    "• Established that President’s power under Article 356 is not absolute.",
+    "• Judicial Review: Courts can examine whether material facts justified imposition.",
+    "• Relevant Material: Burden on Union government to prove existence of valid grounds.",
+    "• Assembly Dissolution: State assembly should be suspended initially, and dissolved only after Parliamentary approval.",
+    "• Revival of Government: If proclamation is not approved within 2 months, it lapses → dismissed government revives, and assembly reactivated."
+  ],
+  "detailsHindi": [
+    "## ऐतिहासिक दुरुपयोग",
+    "• डॉ. भीमराव अंबेडकर ने अनुच्छेद 356 को अंतिम उपाय के रूप में देखा था, लेकिन व्यवहार में इसका बार-बार राजनीतिक दुरुपयोग हुआ।",
+    "• प्रथम प्रयोग: पंजाब, 1951।",
+    "• लगभग सभी राज्यों में राष्ट्रपति शासन लगाया गया है, केवल तेलंगाना और छत्तीसगढ़ को छोड़कर।",
+    "• उत्तर प्रदेश: 9 बार।",
+    "• मणिपुर: 10 बार।",
+    "• पुडुचेरी (2021): सत्ता दल का बहुमत खोने पर लागू, चुनाव तक जारी रहा।",
+    "• महाराष्ट्र (2019): चुनाव में बहुमत न आने पर अल्प अवधि (12–23 नवंबर) तक राष्ट्रपति शासन।",
+    "## राष्ट्रपति शासन की न्यायिक समीक्षा",
+    "• 38वाँ संविधान संशोधन अधिनियम, 1975: राष्ट्रपति की संतुष्टि को अंतिम और न्यायिक समीक्षा से बाहर कर दिया।",
+    "• 44वाँ संविधान संशोधन अधिनियम, 1978: राष्ट्रपति की संतुष्टि को न्यायिक समीक्षा के अधीन बना दिया।",
+    "## एस. आर. बोम्मई बनाम भारत संघ (1994)",
+    "• निर्णय: राष्ट्रपति की शक्ति निरपेक्ष नहीं है।",
+    "• न्यायिक समीक्षा: न्यायालय जाँच सकते हैं कि राष्ट्रपति शासन लगाने के लिए उचित आधार था या नहीं।",
+    "• प्रासंगिक सामग्री: केंद्र सरकार पर यह साबित करने का भार कि वैध कारण मौजूद थे।",
+    "• विधानसभा विघटन: संसद की स्वीकृति से पहले केवल निलंबन, बाद में विघटन।",
+    "• सरकार की पुनर्बहाली: यदि उद्घोषणा 2 माह में संसद से स्वीकृत न हो, तो वह समाप्त हो जाती है और बर्खास्त सरकार पुनः स्थापित होती है, विधानसभा भी बहाल होती है।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of Misuse and Judicial Control",
+      "titleHindi": "दुरुपयोग और न्यायिक नियंत्रण के मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Ambedkar’s View", "Article 356 to remain a 'dead letter', used rarely"],
+        ["First Use", "Punjab, 1951"],
+        ["Frequent Misuse", "UP (9 times), Manipur (10 times), almost all states affected"],
+        ["Recent Cases", "Puducherry 2021, Maharashtra 2019 (brief period)"],
+        ["38th Amendment (1975)", "Made Presidential satisfaction final, beyond court review"],
+        ["44th Amendment (1978)", "Restored judicial review of Presidential satisfaction"],
+        ["S. R. Bommai Case (1994)", "Judicial review allowed; dissolution only after Parliament’s approval; revival of govt if not approved"]
+      ],
+      "rowsHindi": [
+        ["अंबेडकर का दृष्टिकोण", "अनुच्छेद 356 ‘डेड लेटर’ रहे, अपवादस्वरूप उपयोग हो"],
+        ["प्रथम उपयोग", "पंजाब, 1951"],
+        ["बार-बार दुरुपयोग", "उत्तर प्रदेश (9 बार), मणिपुर (10 बार), लगभग सभी राज्य प्रभावित"],
+        ["हाल के मामले", "पुडुचेरी 2021, महाराष्ट्र 2019 (संक्षिप्त अवधि)"],
+        ["38वाँ संशोधन (1975)", "राष्ट्रपति की संतुष्टि अंतिम, न्यायालय समीक्षा से बाहर"],
+        ["44वाँ संशोधन (1978)", "राष्ट्रपति की संतुष्टि न्यायिक समीक्षा के अधीन"],
+        ["एस. आर. बोम्मई मामला (1994)", "न्यायिक समीक्षा मान्य; संसद स्वीकृति के बाद ही विघटन; स्वीकृति न मिलने पर सरकार बहाल"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "First use of Article 356: Punjab, 1951.",
+    "UP (9 times) and Manipur (10 times) have seen most frequent imposition.",
+    "38th Amendment (1975): made Presidential satisfaction final.",
+    "44th Amendment (1978): restored judicial review.",
+    "S. R. Bommai Case (1994): landmark judgment restricting misuse."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 356 का प्रथम उपयोग: पंजाब, 1951।",
+    "उत्तर प्रदेश (9 बार) और मणिपुर (10 बार) सबसे अधिक प्रभावित।",
+    "38वाँ संशोधन (1975): राष्ट्रपति की संतुष्टि अंतिम।",
+    "44वाँ संशोधन (1978): न्यायिक समीक्षा बहाल।",
+    "एस. आर. बोम्मई मामला (1994): दुरुपयोग रोकने वाला ऐतिहासिक निर्णय।"
+  ],
+  "mainsPoints": [
+    "Article 356 has been frequently misused for political purposes, undermining state autonomy.",
+    "Ambedkar’s expectation of it being a ‘dead letter’ has not materialized.",
+    "Judicial intervention, particularly S. R. Bommai case, placed restrictions on arbitrary use.",
+    "Proclamation must be justified by relevant material and is open to judicial review.",
+    "Parliamentary approval and revival provisions ensure democratic safeguards."
+  ],
+  "mainsPointsHindi": [
+    "अनुच्छेद 356 का राजनीतिक उद्देश्यों से बार-बार दुरुपयोग हुआ, जिससे राज्यों की स्वायत्तता कमजोर हुई।",
+    "अंबेडकर की ‘डेड लेटर’ की परिकल्पना साकार नहीं हुई।",
+    "न्यायिक हस्तक्षेप, विशेषकर एस. आर. बोम्मई मामला, ने मनमाने उपयोग पर रोक लगाई।",
+    "उद्घोषणा के लिए उचित आधार होना आवश्यक है और यह न्यायिक समीक्षा के अधीन है।",
+    "संसदीय स्वीकृति और पुनर्बहाली के प्रावधान लोकतांत्रिक सुरक्षा सुनिश्चित करते हैं।"
+  ]
+},
+{
+  "heading": "Financial Emergency",
+  "headingHindi": "वित्तीय आपातकाल",
+  "highlight": "Financial Emergency is provided under Article 360 of the Indian Constitution. It has never been imposed in India so far. It can be proclaimed by the President if the financial stability or credit of India is threatened. Once approved by Parliament, it continues indefinitely until revoked.",
+  "highlightHindi": "वित्तीय आपातकाल भारतीय संविधान के अनुच्छेद 360 के अंतर्गत प्रावधानित है। अब तक भारत में इसे कभी लागू नहीं किया गया है। यदि भारत की वित्तीय स्थिरता या साख को खतरा होता है तो राष्ट्रपति इसे घोषित कर सकते हैं। संसद की स्वीकृति के बाद यह अनिश्चितकाल तक लागू रहता है जब तक कि इसे वापस न लिया जाए।",
+  "details": [
+    "## Constitutional Basis",
+    "• Mentioned under Article 360 of the Indian Constitution.",
+    "• Declared by the President when financial stability or credit of India or any part of its territory is threatened.",
+    "• So far, no Financial Emergency has been imposed in India.",
+    "## Approval by Parliament",
+    "• Must be approved by both Houses of Parliament within 2 months.",
+    "• If Lok Sabha is dissolved during this period, Rajya Sabha must approve it; Lok Sabha must approve within 30 days of its first sitting after reconstitution.",
+    "• Requires only simple majority.",
+    "## Duration",
+    "• Once approved, it continues indefinitely until revoked by the President.",
+    "• No maximum time limit prescribed.",
+    "• No need for periodic renewal unlike National Emergency.",
+    "## Effects of Financial Emergency",
+    "• President may direct states on financial matters.",
+    "• Reduction of salaries and allowances of persons serving in the State or Union.",
+    "• Salaries and allowances of judges of Supreme Court and High Courts may be reduced.",
+    "• All Money Bills of the state legislatures must be reserved for President’s consideration.",
+    "• Ensures central financial control over states during crisis."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक आधार",
+    "• भारतीय संविधान के अनुच्छेद 360 में उल्लेख।",
+    "• राष्ट्रपति तब घोषित कर सकते हैं जब भारत या इसके किसी भाग की वित्तीय स्थिरता या साख को खतरा हो।",
+    "• अब तक भारत में कोई वित्तीय आपातकाल लागू नहीं हुआ है।",
+    "## संसद द्वारा स्वीकृति",
+    "• जारी होने के 2 माह के भीतर संसद के दोनों सदनों द्वारा अनुमोदन आवश्यक।",
+    "• यदि इस अवधि में लोकसभा भंग हो जाती है तो राज्यसभा इसे स्वीकृत करेगी और नवनिर्वाचित लोकसभा की प्रथम बैठक के 30 दिन के भीतर स्वीकृति देनी होगी।",
+    "• केवल साधारण बहुमत से स्वीकृति पर्याप्त।",
+    "## अवधि",
+    "• एक बार स्वीकृति मिलने के बाद यह अनिश्चितकाल तक चलता है जब तक कि राष्ट्रपति इसे रद्द न कर दें।",
+    "• अधिकतम समय सीमा निर्धारित नहीं है।",
+    "• राष्ट्रीय आपातकाल की तरह समय-समय पर नवीनीकरण आवश्यक नहीं।",
+    "## वित्तीय आपातकाल के प्रभाव",
+    "• राष्ट्रपति राज्यों को वित्तीय मामलों में निर्देश दे सकते हैं।",
+    "• राज्यों और केंद्र में सेवाओं में कार्यरत व्यक्तियों के वेतन और भत्ते घटाए जा सकते हैं।",
+    "• उच्चतम न्यायालय और उच्च न्यायालयों के न्यायाधीशों के वेतन और भत्ते घटाए जा सकते हैं।",
+    "• राज्य विधानमंडल द्वारा पारित सभी धन विधेयक राष्ट्रपति की स्वीकृति हेतु सुरक्षित रखे जाएंगे।",
+    "• संकट की स्थिति में राज्यों पर केंद्रीय वित्तीय नियंत्रण सुनिश्चित होता है।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of Financial Emergency",
+      "titleHindi": "वित्तीय आपातकाल की मुख्य विशेषताएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Article", "Article 360"],
+        ["Reason", "Threat to financial stability or credit of India/part thereof"],
+        ["Approval", "Both Houses of Parliament within 2 months (simple majority)"],
+        ["Duration", "Indefinite until revoked; no periodic approval needed"],
+        ["Effects", "Reduction of salaries, financial control over states, money bills reserved for President"]
+      ],
+      "rowsHindi": [
+        ["अनुच्छेद", "अनुच्छेद 360"],
+        ["कारण", "भारत या उसके किसी भाग की वित्तीय स्थिरता या साख को खतरा"],
+        ["स्वीकृति", "संसद के दोनों सदनों द्वारा 2 माह के भीतर (साधारण बहुमत से)"],
+        ["अवधि", "अनिश्चितकाल तक जब तक रद्द न हो; नवीनीकरण आवश्यक नहीं"],
+        ["प्रभाव", "वेतन में कटौती, राज्यों पर वित्तीय नियंत्रण, धन विधेयकों पर राष्ट्रपति की स्वीकृति"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Financial Emergency: Article 360.",
+    "Never imposed in India till date.",
+    "Approved by simple majority of both Houses within 2 months.",
+    "Duration indefinite, no renewal required."
+  ],
+  "prelimsTipsHindi": [
+    "वित्तीय आपातकाल: अनुच्छेद 360।",
+    "भारत में अब तक कभी लागू नहीं हुआ।",
+    "2 माह के भीतर साधारण बहुमत से संसद की स्वीकृति आवश्यक।",
+    "अवधि अनिश्चितकालीन, नवीनीकरण आवश्यक नहीं।"
+  ],
+  "mainsPoints": [
+    "Financial Emergency centralises fiscal control in Union hands.",
+    "Ensures national financial stability but undermines state autonomy.",
+    "Potentially affects judicial independence by reducing judges’ salaries.",
+    "Though never used, it remains a constitutional safeguard against fiscal crises.",
+    "Critics argue it grants excessive power to the Centre with no time limit."
+  ],
+  "mainsPointsHindi": [
+    "वित्तीय आपातकाल में वित्तीय शक्तियाँ केंद्र के हाथों में केंद्रीकृत हो जाती हैं।",
+    "राष्ट्रीय वित्तीय स्थिरता सुनिश्चित करता है लेकिन राज्यों की स्वायत्तता को कमजोर करता है।",
+    "न्यायाधीशों के वेतन घटाकर न्यायिक स्वतंत्रता पर भी प्रभाव डाल सकता है।",
+    "यद्यपि कभी लागू नहीं हुआ, यह वित्तीय संकट से निपटने का संवैधानिक उपाय है।",
+    "आलोचक कहते हैं कि इसमें अवधि की कोई सीमा न होने से केंद्र को अत्यधिक शक्ति मिल जाती है।"
+  ]
+},
+{
+  "heading": "Criticism of Emergency Provisions",
+  "headingHindi": "आपातकालीन प्रावधानों की आलोचना",
+  "highlight": "Several members of the Constituent Assembly, including H. V. Kamath and H. N. Kunzru, criticized the inclusion of emergency provisions in the Indian Constitution. They argued that such provisions could destroy the federal balance, undermine state autonomy, nullify fundamental rights, and give dictatorial powers to the President.",
+  "highlightHindi": "संविधान सभा के कई सदस्यों जैसे एच. वी. कामथ और एच. एन. कुंजूरू ने भारतीय संविधान में आपातकालीन प्रावधानों के समावेश की आलोचना की। उनका तर्क था कि ऐसे प्रावधान संघीय संतुलन को नष्ट कर सकते हैं, राज्यों की स्वायत्तता को कमजोर कर सकते हैं, मौलिक अधिकारों को निरर्थक बना सकते हैं और राष्ट्रपति को तानाशाही जैसी शक्तियाँ प्रदान कर सकते हैं।",
+  "details": [
+    "## Criticism by Members",
+    "• H. V. Kamath and H. N. Kunzru strongly opposed emergency provisions during Constituent Assembly debates.",
+    "• They warned that such powers could be misused by the Union to centralize authority.",
+    "## Major Criticisms",
+    "• Destruction of the federal character of the Constitution by giving overriding powers to the Centre.",
+    "• Creation of dictatorship of the President by granting sweeping emergency powers.",
+    "• Financial autonomy of states gets nullified, undermining their sovereignty.",
+    "• Fundamental Rights become meaningless as they can be suspended during emergencies."
+  ],
+  "detailsHindi": [
+    "## सदस्यों द्वारा आलोचना",
+    "• एच. वी. कामथ और एच. एन. कुंजूरू ने संविधान सभा में आपातकालीन प्रावधानों का विरोध किया।",
+    "• उन्होंने चेतावनी दी कि ये प्रावधान केंद्र को सत्ता केंद्रीकृत करने और दुरुपयोग की ओर ले जा सकते हैं।",
+    "## प्रमुख आलोचनाएँ",
+    "• संविधान के संघीय चरित्र का विनाश, क्योंकि केंद्र को अत्यधिक शक्तियाँ मिल जाती हैं।",
+    "• राष्ट्रपति को आपातकालीन शक्तियों के माध्यम से तानाशाही जैसी स्थिति मिलना।",
+    "• राज्यों की वित्तीय स्वायत्तता का ह्रास।",
+    "• आपातकाल में मौलिक अधिकारों के निलंबन से वे निरर्थक हो जाते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Criticism of Emergency Provisions",
+      "titleHindi": "आपातकालीन प्रावधानों की आलोचना",
+      "columns": ["Grounds of Criticism", "Explanation"],
+      "columnsHindi": ["आलोचना का आधार", "व्याख्या"],
+      "rows": [
+        ["Federalism Destroyed", "Emergency powers give overriding authority to Centre, undermining states."],
+        ["Dictatorship of President", "Sweeping powers can make President virtually authoritarian."],
+        ["Loss of Financial Autonomy", "States lose fiscal independence under Emergency directions."],
+        ["Fundamental Rights Nullified", "Rights can be suspended, making them ineffective during crisis."]
+      ],
+      "rowsHindi": [
+        ["संघवाद का विनाश", "आपातकालीन शक्तियाँ केंद्र को सर्वोच्च बनाती हैं, राज्य कमजोर होते हैं।"],
+        ["राष्ट्रपति की तानाशाही", "विस्तृत शक्तियाँ राष्ट्रपति को लगभग निरंकुश बना देती हैं।"],
+        ["वित्तीय स्वायत्तता का ह्रास", "आपातकाल में राज्यों की वित्तीय स्वतंत्रता समाप्त हो जाती है।"],
+        ["मौलिक अधिकार निरर्थक", "अधिकार निलंबित हो जाते हैं और संकट के दौरान अप्रभावी हो जाते हैं।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Critics like H. V. Kamath and H. N. Kunzru opposed emergency provisions in Constituent Assembly.",
+    "Main concerns: destruction of federalism, loss of state autonomy, suspension of rights.",
+    "Emergency seen as making President dictatorial."
+  ],
+  "prelimsTipsHindi": [
+    "संविधान सभा में एच. वी. कामथ और एच. एन. कुंजूरू ने आपातकालीन प्रावधानों का विरोध किया।",
+    "मुख्य चिंताएँ: संघवाद का विनाश, राज्य स्वायत्तता का ह्रास, अधिकारों का निलंबन।",
+    "आपातकाल से राष्ट्रपति को तानाशाही शक्तियाँ मिलने का भय।"
+  ],
+  "mainsPoints": [
+    "Emergency provisions were criticized as being prone to misuse and undermining federalism.",
+    "They give overriding authority to Centre, weakening the states’ role in governance.",
+    "Suspension of Fundamental Rights negates constitutional guarantees of liberty.",
+    "The President’s sweeping powers resemble authoritarian rule.",
+    "Historical misuse (e.g., 1975–77) validated these concerns."
+  ],
+  "mainsPointsHindi": [
+    "आपातकालीन प्रावधानों की आलोचना इसलिए हुई क्योंकि वे दुरुपयोग की संभावना बढ़ाते हैं और संघवाद को कमजोर करते हैं।",
+    "ये केंद्र को सर्वोच्च अधिकार देते हैं, जिससे राज्यों की भूमिका सीमित हो जाती है।",
+    "मौलिक अधिकारों का निलंबन संवैधानिक स्वतंत्रता की गारंटी को कमजोर करता है।",
+    "राष्ट्रपति की व्यापक शक्तियाँ निरंकुश शासन जैसी प्रतीत होती हैं।",
+    "ऐतिहासिक दुरुपयोग (जैसे 1975–77) ने इन आशंकाओं को सही साबित किया।"
+  ]
+},
+],
+"Chapter 15: Supreme Court": [
+  {
+  "heading": "Supreme Court of India – Composition and Qualifications",
+  "headingHindi": "भारत का सर्वोच्च न्यायालय – संरचना और योग्यताएँ",
+  "highlight": "The Supreme Court of India, established under Part V (Articles 124–147) of the Constitution, is the highest court of appeal and the final interpreter of the law. It ensures an integrated judiciary in India, with the Chief Justice of India (CJI) and currently 33 other judges.",
+  "highlightHindi": "भारत का सर्वोच्च न्यायालय, जो संविधान के भाग V (अनुच्छेद 124–147) के अंतर्गत स्थापित है, सर्वोच्च अपीलीय न्यायालय और कानून का अंतिम व्याख्याकार है। यह भारत में एकीकृत न्यायपालिका सुनिश्चित करता है और वर्तमान में इसमें भारत के मुख्य न्यायाधीश (CJI) सहित 34 न्यायाधीश हैं।",
+  "details": [
+    "## Constitutional Provision",
+    "• Part V (Articles 124–147) provides for an integrated judiciary with the Supreme Court at the apex.",
+    "• It is the highest court of appeal and the final interpreter of the law in the country.",
+    "## Composition of the Supreme Court",
+    "• Original strength (1950): 7 judges including the Chief Justice of India (CJI).",
+    "• Parliament can increase the number of judges through the Supreme Court (Number of Judges) Act, 1956.",
+    "• Present strength: 34 judges (CJI + 33).",
+    "## Qualifications for Appointment (Article 124)",
+    "• Must be a citizen of India.",
+    "• Must have served as a judge of a High Court (or of two or more High Courts in succession) for at least 5 years; or",
+    "• Must have been an advocate of a High Court (or of two or more High Courts in succession) for at least 10 years; or",
+    "• Must be, in the opinion of the President, a distinguished jurist (though no such appointment has been made so far).",
+    "• No minimum age is prescribed for appointment as a Supreme Court judge."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• भाग V (अनुच्छेद 124–147) के अंतर्गत सर्वोच्च न्यायालय को न्यायपालिका के शिखर पर रखा गया है।",
+    "• यह भारत का सर्वोच्च अपीलीय न्यायालय और कानून का अंतिम व्याख्याकार है।",
+    "## सर्वोच्च न्यायालय की संरचना",
+    "• प्रारंभिक शक्ति (1950): 7 न्यायाधीश, जिनमें भारत के मुख्य न्यायाधीश (CJI) शामिल।",
+    "• संसद सर्वोच्च न्यायालय (न्यायाधीशों की संख्या) अधिनियम, 1956 में संशोधन कर संख्या बढ़ा सकती है।",
+    "• वर्तमान शक्ति: 34 न्यायाधीश (CJI + 33)।",
+    "## नियुक्ति के लिए योग्यताएँ (अनुच्छेद 124)",
+    "• भारत का नागरिक होना चाहिए।",
+    "• कम से कम 5 वर्ष तक उच्च न्यायालय का न्यायाधीश (या लगातार दो या अधिक उच्च न्यायालयों का) होना चाहिए; अथवा",
+    "• कम से कम 10 वर्ष तक उच्च न्यायालय (या लगातार दो या अधिक उच्च न्यायालयों) में अधिवक्ता होना चाहिए; अथवा",
+    "• राष्ट्रपति की राय में एक प्रतिष्ठित विधिवेत्ता होना चाहिए (अब तक ऐसा कोई नियुक्ति नहीं हुई है)।",
+    "• सर्वोच्च न्यायालय के न्यायाधीश के लिए कोई न्यूनतम आयु सीमा निर्धारित नहीं है।"
+  ],
+  "tables": [
+    {
+      "title": "Composition and Qualifications of Supreme Court Judges",
+      "titleHindi": "सर्वोच्च न्यायालय के न्यायाधीशों की संरचना और योग्यताएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Part of Constitution", "Part V (Articles 124–147)"],
+        ["Original Strength", "7 judges (1950)"],
+        ["Current Strength", "34 judges (CJI + 33)"],
+        ["Qualifications", "5 years as HC judge OR 10 years as HC advocate OR distinguished jurist"],
+        ["Minimum Age", "No minimum age prescribed"]
+      ],
+      "rowsHindi": [
+        ["संविधान का भाग", "भाग V (अनुच्छेद 124–147)"],
+        ["प्रारंभिक शक्ति", "7 न्यायाधीश (1950)"],
+        ["वर्तमान शक्ति", "34 न्यायाधीश (CJI + 33)"],
+        ["योग्यता", "5 वर्ष उच्च न्यायालय न्यायाधीश अथवा 10 वर्ष उच्च न्यायालय अधिवक्ता अथवा प्रतिष्ठित विधिवेत्ता"],
+        ["न्यूनतम आयु", "कोई न्यूनतम आयु सीमा नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Supreme Court established under Part V, Articles 124–147.",
+    "Present strength: 34 judges (CJI + 33).",
+    "Qualifications include 5 years as HC judge or 10 years as HC advocate or being a distinguished jurist.",
+    "No minimum age required."
+  ],
+  "prelimsTipsHindi": [
+    "सर्वोच्च न्यायालय भाग V, अनुच्छेद 124–147 के अंतर्गत स्थापित।",
+    "वर्तमान शक्ति: 34 न्यायाधीश (CJI + 33)।",
+    "योग्यता: 5 वर्ष उच्च न्यायालय न्यायाधीश या 10 वर्ष उच्च न्यायालय अधिवक्ता या प्रतिष्ठित विधिवेत्ता।",
+    "न्यूनतम आयु निर्धारित नहीं।"
+  ],
+  "mainsPoints": [
+    "The Supreme Court ensures an integrated judiciary in India, acting as the final interpreter of law.",
+    "The strength of judges has been progressively increased by Parliament to handle rising caseloads.",
+    "Qualifications ensure judicial experience, legal expertise, or scholarly distinction.",
+    "Absence of minimum age allows flexibility in appointments but may raise debates about maturity and experience."
+  ],
+  "mainsPointsHindi": [
+    "सर्वोच्च न्यायालय भारत में एकीकृत न्यायपालिका सुनिश्चित करता है और कानून का अंतिम व्याख्याकार है।",
+    "बढ़ते मामलों को संभालने हेतु संसद ने न्यायाधीशों की संख्या धीरे-धीरे बढ़ाई है।",
+    "योग्यता न्यायिक अनुभव, विधिक विशेषज्ञता या शैक्षणिक प्रतिष्ठा पर आधारित है।",
+    "न्यूनतम आयु का अभाव नियुक्तियों में लचीलापन देता है लेकिन परिपक्वता और अनुभव पर बहस को जन्म दे सकता है।"
+  ]
+},
+{
+  "heading": "Supreme Court of India – Composition and Qualifications",
+  "headingHindi": "भारत का सर्वोच्च न्यायालय – संरचना और योग्यताएँ",
+  "highlight": "The Supreme Court of India, established under Part V (Articles 124–147), is the apex court of appeal and the final interpreter of the Constitution and laws. It ensures an integrated judiciary and presently consists of the Chief Justice of India (CJI) and 33 other judges.",
+  "highlightHindi": "भारत का सर्वोच्च न्यायालय, जो संविधान के भाग V (अनुच्छेद 124–147) के अंतर्गत स्थापित है, अपीलीय न्यायालय और संविधान व कानून का अंतिम व्याख्याकार है। यह एकीकृत न्यायपालिका सुनिश्चित करता है और वर्तमान में इसमें भारत के मुख्य न्यायाधीश (CJI) सहित 34 न्यायाधीश हैं।",
+  "details": [
+    "## Constitutional Provision",
+    "• Provided under Part V (Articles 124–147).",
+    "• Ensures an integrated judiciary with the Supreme Court as the apex institution.",
+    "• Acts as the highest court of appeal and final interpreter of laws.",
+    "## Composition of the Supreme Court",
+    "• Original strength in 1950: 7 judges including the Chief Justice of India (CJI).",
+    "• The number of judges has been increased over time by Parliament through amendments to the Supreme Court (Number of Judges) Act, 1956.",
+    "• Present sanctioned strength: 34 judges (CJI + 33).",
+    "## Qualifications for Appointment (Article 124)",
+    "• Must be a citizen of India.",
+    "• Must have served as a judge of a High Court (or two or more such courts in succession) for at least 5 years; OR",
+    "• Must have been an advocate of a High Court (or two or more such courts in succession) for at least 10 years; OR",
+    "• Must be, in the opinion of the President, a distinguished jurist (though no appointment has been made on this basis so far).",
+    "• No minimum age prescribed for appointment as a Supreme Court judge."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• भाग V (अनुच्छेद 124–147) में प्रावधान।",
+    "• सर्वोच्च न्यायालय को शिखर पर रखकर एकीकृत न्यायपालिका सुनिश्चित की गई।",
+    "• यह देश का सर्वोच्च अपीलीय न्यायालय और कानून का अंतिम व्याख्याकार है।",
+    "## सर्वोच्च न्यायालय की संरचना",
+    "• 1950 में प्रारंभिक शक्ति: 7 न्यायाधीश (CJI सहित)।",
+    "• संसद ने समय-समय पर सर्वोच्च न्यायालय (न्यायाधीशों की संख्या) अधिनियम, 1956 में संशोधन कर संख्या बढ़ाई।",
+    "• वर्तमान स्वीकृत शक्ति: 34 न्यायाधीश (CJI + 33)।",
+    "## नियुक्ति के लिए योग्यताएँ (अनुच्छेद 124)",
+    "• भारत का नागरिक होना चाहिए।",
+    "• किसी उच्च न्यायालय (या दो या अधिक उच्च न्यायालयों) में लगातार कम से कम 5 वर्ष तक न्यायाधीश रहे हों; अथवा",
+    "• किसी उच्च न्यायालय (या दो या अधिक उच्च न्यायालयों) में लगातार कम से कम 10 वर्ष तक अधिवक्ता रहे हों; अथवा",
+    "• राष्ट्रपति की राय में एक प्रतिष्ठित विधिवेत्ता हों (अब तक इस आधार पर कोई नियुक्ति नहीं हुई है)।",
+    "• नियुक्ति के लिए कोई न्यूनतम आयु सीमा निर्धारित नहीं है।"
+  ],
+  "tables": [
+    {
+      "title": "Supreme Court – Composition and Qualifications",
+      "titleHindi": "सर्वोच्च न्यायालय – संरचना और योग्यताएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Part of Constitution", "Part V (Articles 124–147)"],
+        ["Original Strength", "7 judges (1950)"],
+        ["Current Strength", "34 judges (CJI + 33)"],
+        ["Qualifications", "5 years as HC judge OR 10 years as HC advocate OR distinguished jurist"],
+        ["Minimum Age", "No minimum age prescribed"]
+      ],
+      "rowsHindi": [
+        ["संविधान का भाग", "भाग V (अनुच्छेद 124–147)"],
+        ["प्रारंभिक शक्ति", "7 न्यायाधीश (1950)"],
+        ["वर्तमान शक्ति", "34 न्यायाधीश (CJI + 33)"],
+        ["योग्यता", "5 वर्ष उच्च न्यायालय न्यायाधीश अथवा 10 वर्ष उच्च न्यायालय अधिवक्ता अथवा प्रतिष्ठित विधिवेत्ता"],
+        ["न्यूनतम आयु", "कोई न्यूनतम आयु निर्धारित नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Supreme Court established under Part V, Articles 124–147.",
+    "Original strength: 7 judges (1950).",
+    "Present strength: 34 judges (CJI + 33).",
+    "Qualifications: 5 years as HC judge OR 10 years as HC advocate OR distinguished jurist.",
+    "No minimum age prescribed."
+  ],
+  "prelimsTipsHindi": [
+    "सर्वोच्च न्यायालय भाग V, अनुच्छेद 124–147 के अंतर्गत स्थापित।",
+    "प्रारंभिक शक्ति: 7 न्यायाधीश (1950)।",
+    "वर्तमान शक्ति: 34 न्यायाधीश (CJI + 33)।",
+    "योग्यता: 5 वर्ष उच्च न्यायालय न्यायाधीश अथवा 10 वर्ष उच्च न्यायालय अधिवक्ता अथवा प्रतिष्ठित विधिवेत्ता।",
+    "न्यूनतम आयु निर्धारित नहीं।"
+  ],
+  "mainsPoints": [
+    "The Supreme Court is the apex judicial body ensuring uniform interpretation of law across India.",
+    "Parliament has progressively increased its strength to handle growing caseloads.",
+    "Article 124 provides flexible qualifications, ensuring a pool of experienced judges, advocates, or scholars.",
+    "Absence of minimum age for judges provides flexibility but also raises debates on experience and maturity."
+  ],
+  "mainsPointsHindi": [
+    "सर्वोच्च न्यायालय भारत में कानून की समान व्याख्या सुनिश्चित करने वाली सर्वोच्च न्यायिक संस्था है।",
+    "बढ़ते मामलों को देखते हुए संसद ने इसकी शक्ति में समय-समय पर वृद्धि की है।",
+    "अनुच्छेद 124 में लचीली योग्यताएँ दी गई हैं जिससे अनुभवी न्यायाधीश, अधिवक्ता या विधिवेत्ता को शामिल किया जा सके।",
+    "न्यूनतम आयु का अभाव लचीलापन देता है लेकिन अनुभव और परिपक्वता पर बहस को जन्म देता है।"
+  ]
+},
+{
+  "heading": "Judges Cases and the Collegium System",
+  "headingHindi": "जज मामले और कॉलेजियम प्रणाली",
+  "highlight": "The Second Judges Case (1993) and the Presidential Reference (Third Judges Case, 1998) redefined the process of appointment of judges in India. They established judicial primacy in appointments, evolved the collegium system, and made the advice of the Chief Justice of India (CJI) binding, but only when given collectively with senior-most judges.",
+  "highlightHindi": "दूसरा जज मामला (1993) और राष्ट्रपति संदर्भ (तीसरा जज मामला, 1998) ने भारत में न्यायाधीशों की नियुक्ति की प्रक्रिया को परिभाषित किया। इनसे नियुक्तियों में न्यायपालिका की प्रधानता स्थापित हुई, कॉलेजियम प्रणाली विकसित हुई और भारत के मुख्य न्यायाधीश (CJI) की सलाह को तभी बाध्यकारी माना गया जब वह वरिष्ठतम न्यायाधीशों के साथ सामूहिक रूप से दी गई हो।",
+  "details": [
+    "## Supreme Court Advocates-on-Record vs Union of India, 1993 (Second Judges Case)",
+    "• Consultation means concurrence: Advice of the CJI is binding on the President.",
+    "• Primacy to CJI’s opinion in judicial appointments.",
+    "• Advice is not individual: Must be given in consultation with 2 senior-most judges of SC.",
+    "• Appointment of CJI must be based on seniority.",
+    "• Thus, CJI + 2 senior-most judges must act collectively.",
+    "## Presidential Reference, 1998 (Third Judges Case)",
+    "• Sole opinion of CJI not binding on the President.",
+    "• Collegium system formalized: CJI must consult a collegium of 4 senior-most SC judges.",
+    "• If 2 judges give adverse opinion, recommendation should not be sent to the government.",
+    "• Collegium system evolved to present form in this case.",
+    "• Appointment of SC Judges: Recommended by CJI + 4 senior-most SC judges.",
+    "• Appointment of HC Judges: Recommended by CJI + 2 senior-most SC judges."
+  ],
+  "detailsHindi": [
+    "## सर्वोच्च न्यायालय अधिवक्ता बनाम भारत संघ, 1993 (दूसरा जज मामला)",
+    "• परामर्श का अर्थ सहमति: CJI की सलाह राष्ट्रपति पर बाध्यकारी।",
+    "• न्यायिक नियुक्तियों में CJI की राय को प्रधानता।",
+    "• सलाह व्यक्तिगत नहीं: SC के 2 वरिष्ठतम न्यायाधीशों से परामर्श आवश्यक।",
+    "• CJI की नियुक्ति वरिष्ठता के आधार पर होनी चाहिए।",
+    "• अतः CJI + 2 वरिष्ठतम न्यायाधीश सामूहिक रूप से कार्य करेंगे।",
+    "## राष्ट्रपति संदर्भ, 1998 (तीसरा जज मामला)",
+    "• CJI की अकेली राय राष्ट्रपति पर बाध्यकारी नहीं।",
+    "• कॉलेजियम प्रणाली औपचारिक रूप से स्थापित: CJI को SC के 4 वरिष्ठतम न्यायाधीशों से परामर्श करना होगा।",
+    "• यदि 2 न्यायाधीश असहमति व्यक्त करें, तो सिफारिश सरकार को नहीं भेजी जाएगी।",
+    "• इसी मामले में कॉलेजियम प्रणाली का वर्तमान स्वरूप विकसित हुआ।",
+    "• SC न्यायाधीशों की नियुक्ति: CJI + 4 वरिष्ठतम SC न्यायाधीशों द्वारा अनुशंसा।",
+    "• HC न्यायाधीशों की नियुक्ति: CJI + 2 वरिष्ठतम SC न्यायाधीशों द्वारा अनुशंसा।"
+  ],
+  "tables": [
+    {
+      "title": "Evolution of Collegium System",
+      "titleHindi": "कॉलेजियम प्रणाली का विकास",
+      "columns": ["Case", "Key Outcome"],
+      "columnsHindi": ["मामला", "मुख्य निष्कर्ष"],
+      "rows": [
+        ["First Judges Case (1981)", "Executive had primacy; consultation with CJI not binding."],
+        ["Second Judges Case (1993)", "Judiciary got primacy; CJI’s advice (with 2 judges) binding."],
+        ["Third Judges Case (1998)", "Collegium system established: CJI + 4 senior-most judges for SC appointments; CJI + 2 judges for HC appointments."]
+      ],
+      "rowsHindi": [
+        ["पहला जज मामला (1981)", "कार्यपालिका को प्रधानता; CJI से परामर्श बाध्यकारी नहीं।"],
+        ["दूसरा जज मामला (1993)", "न्यायपालिका को प्रधानता; CJI की सलाह (2 न्यायाधीशों सहित) बाध्यकारी।"],
+        ["तीसरा जज मामला (1998)", "कॉलेजियम प्रणाली स्थापित: SC नियुक्तियों के लिए CJI + 4 वरिष्ठतम न्यायाधीश; HC नियुक्तियों के लिए CJI + 2 न्यायाधीश।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Second Judges Case (1993): CJI’s advice binding, must consult 2 senior-most judges.",
+    "Third Judges Case (1998): Collegium system – CJI + 4 senior-most SC judges.",
+    "CJI’s sole opinion is not binding on the President.",
+    "Appointment of HC judges: CJI + 2 senior-most SC judges."
+  ],
+  "prelimsTipsHindi": [
+    "दूसरा जज मामला (1993): CJI की सलाह बाध्यकारी, 2 वरिष्ठतम न्यायाधीशों से परामर्श आवश्यक।",
+    "तीसरा जज मामला (1998): कॉलेजियम प्रणाली – CJI + 4 वरिष्ठतम SC न्यायाधीश।",
+    "CJI की अकेली राय राष्ट्रपति पर बाध्यकारी नहीं।",
+    "HC न्यायाधीशों की नियुक्ति: CJI + 2 वरिष्ठतम SC न्यायाधीश।"
+  ],
+  "mainsPoints": [
+    "Second and Third Judges Cases shifted power of judicial appointments from executive to judiciary.",
+    "Established collegium system ensuring collective decision-making.",
+    "Ensured primacy of judiciary in preserving independence of courts.",
+    "Critics argue the collegium lacks transparency and accountability.",
+    "Debates continue on reforming or replacing the collegium system."
+  ],
+  "mainsPointsHindi": [
+    "दूसरे और तीसरे जज मामलों ने न्यायाधीशों की नियुक्ति की शक्ति कार्यपालिका से न्यायपालिका को दी।",
+    "कॉलेजियम प्रणाली स्थापित हुई जिससे सामूहिक निर्णय सुनिश्चित हुआ।",
+    "न्यायपालिका की स्वतंत्रता बनाए रखने हेतु न्यायपालिका की प्रधानता सुनिश्चित हुई।",
+    "आलोचक कहते हैं कि कॉलेजियम में पारदर्शिता और जवाबदेही का अभाव है।",
+    "कॉलेजियम प्रणाली को सुधारने या बदलने पर बहस जारी है।"
+  ]
+},
+{
+  "heading": "Collegium System – Critical Evaluation",
+  "headingHindi": "कॉलेजियम प्रणाली – आलोचनात्मक मूल्यांकन",
+  "highlight": "The collegium system, evolved through the Second and Third Judges Cases, ensures judicial primacy in the appointment of judges. While it protects judicial independence, it has been criticized for lack of transparency, accountability, and checks and balances. Attempts to reform it, such as the NJAC, were struck down by the Supreme Court in 2015 for violating judicial independence.",
+  "highlightHindi": "दूसरे और तीसरे जज मामलों से विकसित हुई कॉलेजियम प्रणाली न्यायाधीशों की नियुक्ति में न्यायपालिका की प्रधानता सुनिश्चित करती है। यह न्यायिक स्वतंत्रता की रक्षा करती है लेकिन इसमें पारदर्शिता, जवाबदेही और संतुलन की कमी की आलोचना की जाती है। इसे सुधारने के प्रयास, जैसे NJAC, 2015 में सुप्रीम कोर्ट ने न्यायपालिका की स्वतंत्रता का उल्लंघन मानते हुए असंवैधानिक घोषित कर दिया।",
+  "details": [
+    "## Criticism of Collegium System",
+    "• Lack of transparency: no official mechanism or secretariat involved.",
+    "• Lack of accountability: may lead to wrong or biased appointments.",
+    "• Violation of checks and balances: executive excluded from process.",
+    "• Burden on judges: pendency of cases along with responsibility of appointments.",
+    "## Benefits of Collegium System",
+    "• Judicial independence: protects courts from executive interference.",
+    "• Ensures deserving candidates are appointed based on merit.",
+    "• Secrecy preserves dignity and integrity of candidates.",
+    "## New Memorandum of Procedure (MoP)",
+    "• Original MoP issued in 1947, updated in 1999.",
+    "• SC suggested reforms in 2015:",
+    "   - Eligibility criteria: minimum age, credentials, etc.",
+    "   - Criteria and procedure to be published on SC website.",
+    "   - Secretariat for each HC & SC.",
+    "   - Mechanism for grievance redressal.",
+    "• Still not fully functional due to lack of consensus between judiciary and government.",
+    "## Aspects Considered by Collegium",
+    "• Seniority: both in parent High Court and overall seniority.",
+    "• Merit: performance, integrity, and reputation.",
+    "• Diversity: representation of unrepresented HCs, marginalized communities, gender diversity, and minorities.",
+    "## National Judicial Appointments Commission (NJAC)",
+    "• Established under 99th Constitutional Amendment Act, 2015.",
+    "• Aimed to replace collegium with a six-member body.",
+    "• Composition: CJI (Chairperson), 2 senior-most SC judges, Union Law Minister, and 2 eminent persons.",
+    "• Procedure: seniority-based for CJI and HC judges; merit-based for SC and HC judges; veto power for any 2 members.",
+    "• Declared unconstitutional by SC in 2015 because:",
+    "   - Eminent persons could overrule CJI’s view.",
+    "   - Threat to judicial independence due to involvement of non-judicial members."
+  ],
+  "detailsHindi": [
+    "## कॉलेजियम प्रणाली की आलोचना",
+    "• पारदर्शिता का अभाव: कोई आधिकारिक तंत्र या सचिवालय नहीं।",
+    "• जवाबदेही का अभाव: गलत या पक्षपातपूर्ण नियुक्ति की संभावना।",
+    "• 'चेक्स एंड बैलेंस' का उल्लंघन: कार्यपालिका की भूमिका समाप्त।",
+    "• न्यायाधीशों पर बोझ: मामलों की लंबित संख्या और नियुक्तियों की जिम्मेदारी।",
+    "## कॉलेजियम प्रणाली के लाभ",
+    "• न्यायिक स्वतंत्रता: कार्यपालिका के हस्तक्षेप से सुरक्षा।",
+    "• योग्य और उपयुक्त उम्मीदवारों की नियुक्ति सुनिश्चित।",
+    "• गोपनीयता उम्मीदवारों की गरिमा और ईमानदारी बनाए रखती है।",
+    "## नया ज्ञापन प्रक्रिया (MoP)",
+    "• मूल MoP 1947 में जारी, 1999 में संशोधित।",
+    "• 2015 में SC ने सुझाव दिए:",
+    "   - पात्रता मानदंड: न्यूनतम आयु, योग्यता आदि।",
+    "   - मानदंड और प्रक्रिया SC की वेबसाइट पर प्रकाशित हों।",
+    "   - प्रत्येक HC और SC के लिए सचिवालय।",
+    "   - शिकायत निवारण तंत्र।",
+    "• न्यायपालिका और सरकार के बीच सहमति न होने से लागू नहीं।",
+    "## कॉलेजियम द्वारा विचार किए जाने वाले पहलू",
+    "• वरिष्ठता: मूल HC और समग्र वरिष्ठता।",
+    "• योग्यता: प्रदर्शन, ईमानदारी और प्रतिष्ठा।",
+    "• विविधता: अल्पप्रतिनिधित्व वाले HCs, हाशिए के वर्गों, लैंगिक विविधता और अल्पसंख्यकों का प्रतिनिधित्व।",
+    "## राष्ट्रीय न्यायिक नियुक्ति आयोग (NJAC)",
+    "• 99वाँ संविधान संशोधन अधिनियम, 2015 से स्थापित।",
+    "• उद्देश्य: कॉलेजियम प्रणाली की जगह छह सदस्यीय निकाय।",
+    "• संरचना: CJI (अध्यक्ष), 2 वरिष्ठतम SC न्यायाधीश, कानून मंत्री, 2 प्रतिष्ठित व्यक्ति।",
+    "• प्रक्रिया: CJI और HC न्यायाधीशों के लिए वरिष्ठता; SC और HC न्यायाधीशों के लिए योग्यता; किसी 2 सदस्यों को वीटो शक्ति।",
+    "• 2015 में SC ने असंवैधानिक घोषित किया क्योंकि:",
+    "   - प्रतिष्ठित व्यक्ति CJI की राय को नकार सकते थे।",
+    "   - गैर-न्यायिक सदस्यों की भागीदारी से न्यायिक स्वतंत्रता पर खतरा।"
+  ],
+  "tables": [
+    {
+      "title": "Collegium System vs NJAC",
+      "titleHindi": "कॉलेजियम प्रणाली बनाम NJAC",
+      "columns": ["Aspect", "Collegium System", "NJAC"],
+      "columnsHindi": ["पहलू", "कॉलेजियम प्रणाली", "NJAC"],
+      "rows": [
+        ["Transparency", "Opaque, internal consultation only", "Greater inclusion with non-judicial members"],
+        ["Accountability", "Judiciary accountable to itself", "Shared accountability with executive & eminent persons"],
+        ["Judicial Independence", "Strongly protected", "Threatened by involvement of non-judicial members"],
+        ["Composition", "CJI + senior SC judges", "CJI + 2 SC judges + Law Minister + 2 eminent persons"],
+        ["Status", "In force", "Struck down by SC in 2015 as unconstitutional"]
+      ],
+      "rowsHindi": [
+        ["पारदर्शिता", "अस्पष्ट, आंतरिक परामर्श मात्र", "गैर-न्यायिक सदस्यों के साथ अधिक समावेश"],
+        ["जवाबदेही", "न्यायपालिका स्वयं पर जवाबदेह", "कार्यपालिका और प्रतिष्ठित व्यक्तियों के साथ साझा जवाबदेही"],
+        ["न्यायिक स्वतंत्रता", "सशक्त रूप से संरक्षित", "गैर-न्यायिक सदस्यों से खतरा"],
+        ["संरचना", "CJI + वरिष्ठ SC न्यायाधीश", "CJI + 2 SC न्यायाधीश + कानून मंत्री + 2 प्रतिष्ठित व्यक्ति"],
+        ["स्थिति", "प्रवर्तित", "2015 में SC द्वारा असंवैधानिक घोषित"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Collegium system evolved through Second (1993) and Third Judges Case (1998).",
+    "Criticisms: lack of transparency, accountability, checks & balances.",
+    "Benefits: judicial independence, merit-based appointments.",
+    "NJAC (99th Amendment, 2015) was struck down as unconstitutional."
+  ],
+  "prelimsTipsHindi": [
+    "कॉलेजियम प्रणाली दूसरा (1993) और तीसरा जज मामला (1998) से विकसित हुई।",
+    "आलोचना: पारदर्शिता, जवाबदेही, संतुलन का अभाव।",
+    "लाभ: न्यायिक स्वतंत्रता, योग्यता-आधारित नियुक्ति।",
+    "NJAC (99वाँ संशोधन, 2015) असंवैधानिक घोषित।"
+  ],
+  "mainsPoints": [
+    "Collegium system secures judicial independence but lacks transparency and accountability.",
+    "MoP reforms suggested in 2015 remain unimplemented due to deadlock between judiciary and executive.",
+    "Aspects like seniority, merit, and diversity are considered in appointments.",
+    "NJAC aimed to reform appointments but was struck down to preserve judicial independence.",
+    "Debate continues over striking balance between independence, transparency, and accountability."
+  ],
+  "mainsPointsHindi": [
+    "कॉलेजियम प्रणाली न्यायिक स्वतंत्रता सुनिश्चित करती है लेकिन पारदर्शिता और जवाबदेही की कमी है।",
+    "2015 में सुझाए गए MoP सुधार न्यायपालिका और कार्यपालिका के मतभेदों के कारण लागू नहीं हुए।",
+    "नियुक्तियों में वरिष्ठता, योग्यता और विविधता को ध्यान में रखा जाता है।",
+    "NJAC ने नियुक्तियों में सुधार का प्रयास किया लेकिन न्यायिक स्वतंत्रता की रक्षा के लिए असंवैधानिक घोषित हुआ।",
+    "स्वतंत्रता, पारदर्शिता और जवाबदेही के बीच संतुलन पर बहस जारी है।"
+  ]
+},
+{
+  "heading": "Appointment, Tenure, and Conditions of Supreme Court Judges",
+  "headingHindi": "सुप्रीम कोर्ट के न्यायाधीशों की नियुक्ति, कार्यकाल और शर्तें",
+  "highlight": "The Constitution provides for appointment of ad-hoc and retired judges, their oath, salary, allowances, and tenure. While ad-hoc judges ensure functioning of the Court in case of quorum shortage, retired judges may also be requested to assist. Supreme Court judges serve until the age of 65, with conditions safeguarding independence.",
+  "highlightHindi": "संविधान में ऐड-हॉक और सेवानिवृत्त न्यायाधीशों की नियुक्ति, शपथ, वेतन-भत्ते और कार्यकाल का प्रावधान है। ऐड-हॉक न्यायाधीश न्यायालय की कार्यवाही सुनिश्चित करते हैं जब कोरम पूरा न हो, वहीं सेवानिवृत्त न्यायाधीशों को भी सहायता हेतु बुलाया जा सकता है। सुप्रीम कोर्ट के न्यायाधीश 65 वर्ष की आयु तक पद पर रहते हैं, जिनकी शर्तें स्वतंत्रता सुनिश्चित करती हैं।",
+  "details": [
+    "## Appointment of Ad-Hoc Judges (Article 127)",
+    "• Provision to appoint ad-hoc judges when quorum of SC is not met.",
+    "• High Court judge, qualified to be SC judge, may be appointed as ad-hoc judge.",
+    "• Appointment by Chief Justice of India (CJI) with prior consent of the President.",
+    "• Consultation with Chief Justice of the concerned High Court is mandatory.",
+    "• Only sitting HC judges can be appointed, no other person is eligible.",
+    "## Attendance of Retired Judges (Article 128)",
+    "• CJI with President’s consent may request a retired judge to sit as SC judge.",
+    "• Eligibility: former SC judge or HC judge qualified to be SC judge.",
+    "• Consent of concerned retired judge is required.",
+    "• Allowances and jurisdiction decided by the President.",
+    "• They are not otherwise deemed to be SC judges after retirement.",
+    "## Oath or Affirmation",
+    "• Administered before the President or a person appointed by him.",
+    "## Ban on Practice after Retirement",
+    "• Retired SC judges cannot practice in any court of law in India.",
+    "• However, they are not barred from holding constitutional posts (e.g., Governor, NHRC chairperson).",
+    "• Example: Justice S. Abdul Nazeer appointed Governor of Andhra Pradesh.",
+    "## Salary and Allowances (Article 125)",
+    "• Determined by Parliamentary law.",
+    "• Cannot be varied to the judge’s disadvantage after appointment.",
+    "## Tenure of SC Judges (Article 124)",
+    "• Judges serve until the age of 65 years.",
+    "• Questions relating to age decided by Parliament.",
+    "• Judges may resign by writing to the President.",
+    "• Judges can be removed by the President as per procedure under the Constitution.",
+    "• No minimum age prescribed for appointment as SC judge."
+  ],
+  "detailsHindi": [
+    "## ऐड-हॉक न्यायाधीशों की नियुक्ति (अनुच्छेद 127)",
+    "• जब सुप्रीम कोर्ट का कोरम पूरा नहीं होता, तब ऐड-हॉक न्यायाधीश नियुक्त किए जा सकते हैं।",
+    "• योग्य उच्च न्यायालय के न्यायाधीश को सुप्रीम कोर्ट का ऐड-हॉक न्यायाधीश नियुक्त किया जा सकता है।",
+    "• नियुक्ति CJI द्वारा राष्ट्रपति की पूर्व सहमति से होती है।",
+    "• संबंधित उच्च न्यायालय के मुख्य न्यायाधीश से परामर्श आवश्यक।",
+    "• केवल वर्तमान में कार्यरत HC न्यायाधीश नियुक्त हो सकते हैं, अन्य कोई व्यक्ति नहीं।",
+    "## सेवानिवृत्त न्यायाधीशों की उपस्थिति (अनुच्छेद 128)",
+    "• CJI राष्ट्रपति की सहमति से किसी सेवानिवृत्त न्यायाधीश को सुप्रीम कोर्ट में बैठने का अनुरोध कर सकते हैं।",
+    "• पात्रता: पूर्व SC न्यायाधीश या HC न्यायाधीश जो SC न्यायाधीश बनने योग्य रहे हों।",
+    "• संबंधित सेवानिवृत्त न्यायाधीश की सहमति आवश्यक।",
+    "• भत्ते और क्षेत्राधिकार राष्ट्रपति द्वारा निर्धारित।",
+    "• सेवानिवृत्त होने के बाद वे सामान्य रूप से SC न्यायाधीश नहीं माने जाते।",
+    "## शपथ या प्रतिज्ञान",
+    "• राष्ट्रपति या उनके द्वारा नियुक्त व्यक्ति के समक्ष ली जाती है।",
+    "## सेवानिवृत्ति के बाद अभ्यास पर प्रतिबंध",
+    "• सेवानिवृत्त SC न्यायाधीश भारत में किसी भी न्यायालय में वकालत नहीं कर सकते।",
+    "• लेकिन वे संवैधानिक पद (जैसे राज्यपाल, NHRC अध्यक्ष) धारण कर सकते हैं।",
+    "• उदाहरण: न्यायमूर्ति एस. अब्दुल नज़ीर आंध्र प्रदेश के राज्यपाल नियुक्त हुए।",
+    "## वेतन और भत्ते (अनुच्छेद 125)",
+    "• संसद के कानून द्वारा निर्धारित।",
+    "• नियुक्ति के बाद वेतन-भत्तों में न्यायाधीश के प्रतिकूल कोई बदलाव नहीं किया जा सकता।",
+    "## SC न्यायाधीशों का कार्यकाल (अनुच्छेद 124)",
+    "• न्यायाधीश 65 वर्ष की आयु तक पद पर रहते हैं।",
+    "• आयु से संबंधित प्रश्न संसद द्वारा तय किए जाते हैं।",
+    "• न्यायाधीश राष्ट्रपति को इस्तीफ़ा दे सकते हैं।",
+    "• राष्ट्रपति उन्हें संविधान में निर्दिष्ट प्रक्रिया द्वारा हटा सकते हैं।",
+    "• नियुक्ति के लिए कोई न्यूनतम आयु निर्धारित नहीं है।"
+  ],
+  "tables": [
+    {
+      "title": "Provisions Related to Supreme Court Judges",
+      "titleHindi": "सुप्रीम कोर्ट न्यायाधीशों से संबंधित प्रावधान",
+      "columns": ["Provision", "Details"],
+      "columnsHindi": ["प्रावधान", "विवरण"],
+      "rows": [
+        ["Article 127", "Appointment of ad-hoc judges from sitting HC judges when quorum not met."],
+        ["Article 128", "Attendance of retired judges with President’s consent."],
+        ["Article 125", "Salary and allowances fixed by Parliament; not disadvantageously altered post-appointment."],
+        ["Article 124", "Tenure until 65 years, resignation to President, removal as per constitutional procedure."]
+      ],
+      "rowsHindi": [
+        ["अनुच्छेद 127", "कोरम पूरा न होने पर वर्तमान HC न्यायाधीशों को ऐड-हॉक न्यायाधीश नियुक्त किया जा सकता है।"],
+        ["अनुच्छेद 128", "राष्ट्रपति की सहमति से सेवानिवृत्त न्यायाधीशों की उपस्थिति।"],
+        ["अनुच्छेद 125", "वेतन और भत्ते संसद द्वारा तय; नियुक्ति के बाद प्रतिकूल बदलाव नहीं।"],
+        ["अनुच्छेद 124", "कार्यकाल 65 वर्ष तक; इस्तीफ़ा राष्ट्रपति को; संविधान अनुसार हटाया जा सकता है।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 127: Ad-hoc judges can be appointed from sitting HC judges.",
+    "Article 128: Retired judges may be requested to attend SC sittings.",
+    "Tenure: SC judges retire at 65 years.",
+    "No minimum age prescribed for appointment as SC judge.",
+    "Retired SC judges cannot practice as lawyers but can hold constitutional posts."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 127: ऐड-हॉक न्यायाधीश केवल वर्तमान HC न्यायाधीश से नियुक्त हो सकते हैं।",
+    "अनुच्छेद 128: सेवानिवृत्त न्यायाधीश SC की कार्यवाही में शामिल हो सकते हैं।",
+    "कार्यकाल: SC न्यायाधीश 65 वर्ष की आयु में सेवानिवृत्त होते हैं।",
+    "नियुक्ति के लिए कोई न्यूनतम आयु नहीं।",
+    "सेवानिवृत्त SC न्यायाधीश वकालत नहीं कर सकते, लेकिन संवैधानिक पद धारण कर सकते हैं।"
+  ],
+  "mainsPoints": [
+    "Ad-hoc judges ensure functioning of SC in absence of quorum, ensuring continuity.",
+    "Retired judges can contribute expertise, preventing delays in justice delivery.",
+    "Salary and tenure safeguards ensure independence of judiciary.",
+    "Ban on practice post-retirement prevents conflict of interest, though debate continues over post-retirement appointments.",
+    "Absence of minimum age allows flexibility but raises concerns on maturity and experience."
+  ],
+  "mainsPointsHindi": [
+    "ऐड-हॉक न्यायाधीश कोरम न होने पर SC की कार्यवाही जारी रखने में मदद करते हैं।",
+    "सेवानिवृत्त न्यायाधीश अनुभव साझा कर न्याय वितरण में देरी रोक सकते हैं।",
+    "वेतन और कार्यकाल संबंधी प्रावधान न्यायपालिका की स्वतंत्रता सुनिश्चित करते हैं।",
+    "सेवानिवृत्ति के बाद वकालत पर प्रतिबंध हितों के टकराव को रोकता है, हालांकि संवैधानिक पदों पर नियुक्ति को लेकर बहस होती है।",
+    "न्यूनतम आयु का अभाव लचीलापन देता है लेकिन अनुभव और परिपक्वता पर प्रश्न उठाता है।"
+  ]
+},
+{
+  "heading": "Removal of Supreme Court Judges",
+  "headingHindi": "सुप्रीम कोर्ट न्यायाधीशों की पद से हटाने की प्रक्रिया",
+  "highlight": "Under Article 124(4), a Supreme Court judge can be removed only by the President on grounds of proved misbehaviour or incapacity, after a special majority in both Houses of Parliament. The process is regulated by the Judges Enquiry Act, 1968. Despite multiple attempts, no SC judge has been removed till date.",
+  "highlightHindi": "अनुच्छेद 124(4) के तहत सुप्रीम कोर्ट के न्यायाधीश को केवल राष्ट्रपति द्वारा, संसद के दोनों सदनों में विशेष बहुमत से पारित प्रस्ताव के बाद, सिद्ध दुराचार या अक्षमता के आधार पर हटाया जा सकता है। यह प्रक्रिया जज इनक्वायरी अधिनियम, 1968 द्वारा विनियमित है। अब तक किसी भी सुप्रीम कोर्ट न्यायाधीश को पद से नहीं हटाया गया है।",
+  "details": [
+    "## Constitutional Provision",
+    "• Article 124(4): SC judge can be removed only by an order of the President.",
+    "• Grounds: proved misbehaviour or incapacity.",
+    "• Removal requires special majority in Parliament.",
+    "## Judges Enquiry Act, 1968",
+    "• Regulates the entire removal process.",
+    "• Motion can be introduced in either House of Parliament.",
+    "• Motion must be signed by at least 100 members of Lok Sabha or 50 members of Rajya Sabha.",
+    "• Speaker (Lok Sabha) or Chairman (Rajya Sabha) may accept or reject the motion.",
+    "• If accepted, a 3-member inquiry committee is formed consisting of:",
+    "   - CJI or a Supreme Court judge,",
+    "   - Chief Justice of a High Court,",
+    "   - A distinguished jurist (as per Speaker/Chairman’s opinion).",
+    "• If the judge is found guilty, the motion and committee report are considered in the concerned House.",
+    "• Required majority: special majority in both Houses.",
+    "• After passage, the President issues the order of removal.",
+    "## Historical Impeachment Attempts",
+    "• Justice V. Ramaswami (1993) – First case of impeachment; motion failed due to abstentions.",
+    "• Justice Soumitra Sen (2011) – RS passed motion, but resigned before LS vote.",
+    "• Justice J.B. Pardiwala (2015) – Motion admitted but later withdrawn.",
+    "• Justice C.V. Nagarjuna Reddy (2017) – Motion rejected by RS Chairman.",
+    "• Till date, no SC judge has been formally removed."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• अनुच्छेद 124(4): सुप्रीम कोर्ट न्यायाधीश को केवल राष्ट्रपति के आदेश से हटाया जा सकता है।",
+    "• आधार: सिद्ध दुराचार या अक्षमता।",
+    "• हटाने के लिए संसद में विशेष बहुमत आवश्यक।",
+    "## जज इनक्वायरी अधिनियम, 1968",
+    "• पूरी हटाने की प्रक्रिया का विनियमन करता है।",
+    "• प्रस्ताव संसद के किसी भी सदन में पेश किया जा सकता है।",
+    "• लोकसभा में कम से कम 100 सदस्यों या राज्यसभा में 50 सदस्यों के हस्ताक्षर आवश्यक।",
+    "• लोकसभा अध्यक्ष या राज्यसभा अध्यक्ष प्रस्ताव स्वीकार या अस्वीकार कर सकते हैं।",
+    "• स्वीकार होने पर 3-सदस्यीय जांच समिति गठित होती है, जिसमें शामिल होते हैं:",
+    "   - CJI या एक सुप्रीम कोर्ट न्यायाधीश,",
+    "   - किसी उच्च न्यायालय के मुख्य न्यायाधीश,",
+    "   - एक प्रतिष्ठित विधिवेत्ता (अध्यक्ष की राय अनुसार)।",
+    "• यदि न्यायाधीश दोषी पाया जाता है, तो रिपोर्ट और प्रस्ताव सदन में विचाराधीन होता है।",
+    "• विशेष बहुमत से दोनों सदनों में पारित होने के बाद, राष्ट्रपति हटाने का आदेश जारी करते हैं।",
+    "## ऐतिहासिक अभियोग प्रयास",
+    "• न्यायमूर्ति वी. रामास्वामी (1993) – पहला मामला; प्रस्ताव असफल।",
+    "• न्यायमूर्ति सौमित्र सेन (2011) – राज्यसभा ने पारित किया, लेकिन लोकसभा वोट से पहले इस्तीफ़ा।",
+    "• न्यायमूर्ति जे.बी. पारडीवाला (2015) – प्रस्ताव वापस लिया गया।",
+    "• न्यायमूर्ति सी.वी. नागर्जुन रेड्डी (2017) – प्रस्ताव खारिज।",
+    "• अब तक किसी भी SC न्यायाधीश को औपचारिक रूप से नहीं हटाया गया।"
+  ],
+  "tables": [
+    {
+      "title": "Removal of Supreme Court Judges – Key Provisions",
+      "titleHindi": "सुप्रीम कोर्ट न्यायाधीशों की पद से हटाने की प्रक्रिया – मुख्य प्रावधान",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Article", "Article 124(4)"],
+        ["Grounds", "Proved misbehaviour or incapacity"],
+        ["Process Law", "Judges Enquiry Act, 1968"],
+        ["Motion Support", "100 LS MPs or 50 RS MPs"],
+        ["Committee", "CJI/SC Judge + HC CJ + Distinguished Jurist"],
+        ["Majority Required", "Special majority in both Houses"],
+        ["Final Authority", "President of India"]
+      ],
+      "rowsHindi": [
+        ["अनुच्छेद", "अनुच्छेद 124(4)"],
+        ["आधार", "सिद्ध दुराचार या अक्षमता"],
+        ["प्रक्रिया कानून", "जज इनक्वायरी अधिनियम, 1968"],
+        ["प्रस्ताव समर्थन", "लोकसभा के 100 सांसद या राज्यसभा के 50 सांसद"],
+        ["समिति", "CJI/SC न्यायाधीश + HC मुख्य न्यायाधीश + प्रतिष्ठित विधिवेत्ता"],
+        ["आवश्यक बहुमत", "दोनों सदनों में विशेष बहुमत"],
+        ["अंतिम प्राधिकारी", "भारत के राष्ट्रपति"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Removal under Article 124(4) on grounds of misbehaviour or incapacity.",
+    "Regulated by Judges Enquiry Act, 1968.",
+    "Requires special majority in both Houses.",
+    "No SC judge has been removed till date."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 124(4) के तहत दुराचार या अक्षमता पर हटाने का प्रावधान।",
+    "जज इनक्वायरी अधिनियम, 1968 द्वारा विनियमित।",
+    "दोनों सदनों में विशेष बहुमत आवश्यक।",
+    "अब तक किसी भी SC न्यायाधीश को नहीं हटाया गया।"
+  ],
+  "mainsPoints": [
+    "Judicial independence safeguarded by stringent removal procedure.",
+    "High threshold ensures judges are not removed for political reasons.",
+    "Judges Enquiry Act institutionalizes the process through a balanced committee.",
+    "Past impeachment attempts show difficulty in securing political consensus.",
+    "Despite attempts, no SC judge has been removed, reflecting both safeguards and challenges."
+  ],
+  "mainsPointsHindi": [
+    "कठोर हटाने की प्रक्रिया न्यायिक स्वतंत्रता की रक्षा करती है।",
+    "उच्च मानदंड सुनिश्चित करता है कि राजनीतिक कारणों से न्यायाधीश न हटाए जाएं।",
+    "जज इनक्वायरी अधिनियम समिति के माध्यम से संस्थागत प्रक्रिया प्रदान करता है।",
+    "पिछले अभियोग प्रयास राजनीतिक सहमति की कठिनाई को दर्शाते हैं।",
+    "अब तक किसी SC न्यायाधीश को नहीं हटाया गया, जो सुरक्षा और चुनौतियों दोनों को दर्शाता है।"
+  ]
+},
+{
+  "heading": "Seat of the Supreme Court and National Court of Appeal",
+  "headingHindi": "सुप्रीम कोर्ट का मुख्यालय और राष्ट्रीय अपीलीय न्यायालय",
+  "highlight": "Article 130 provides that the seat of the Supreme Court is in Delhi, though the CJI may hold sittings elsewhere with the President’s approval. To address the backlog and improve access to justice, the idea of a National Court of Appeal (NCA) with regional benches has been debated. While it promises efficiency and better jurisprudence, it faces constitutional, financial, and administrative challenges.",
+  "highlightHindi": "अनुच्छेद 130 के अनुसार सुप्रीम कोर्ट का मुख्यालय दिल्ली है, हालांकि CJI राष्ट्रपति की अनुमति से कहीं और भी बैठक कर सकते हैं। न्यायिक बोझ को कम करने और न्याय तक पहुंच बढ़ाने के लिए राष्ट्रीय अपीलीय न्यायालय (NCA) का विचार सामने आया है। यह दक्षता और बेहतर न्यायशास्त्र का वादा करता है, लेकिन इसमें संवैधानिक, वित्तीय और प्रशासनिक चुनौतियाँ भी हैं।",
+  "details": [
+    "## Seat of the Supreme Court (Article 130)",
+    "• The seat of the SC is at Delhi.",
+    "• The Chief Justice of India (CJI) may hold sittings elsewhere with the approval of the President.",
+    "## National Court of Appeal (NCA)",
+    "• Proposed judicial body with regional benches in Chennai, Mumbai, and Kolkata.",
+    "• Acts as the final appellate court for High Court and tribunal decisions in civil, criminal, labor, and revenue matters.",
+    "• SC restricted to matters of constitutional and public law.",
+    "## Need for NCA",
+    "• Heavy appellate load on the SC.",
+    "• Justice delivery delayed due to backlog.",
+    "• Increasing number of Public Interest Litigations (PILs).",
+    "## Advantages of NCA",
+    "• Improves access to justice for citizens in different regions.",
+    "• Relieves SC of excessive workload.",
+    "• Addresses the low proportion of constitutional cases currently in SC.",
+    "• Enhances public trust in judiciary.",
+    "• Promotes better jurisprudence across regions.",
+    "## Challenges",
+    "• Increases financial burden with need for new infrastructure, staff, and resources.",
+    "• May not reduce case load—adds another layer of decision-making.",
+    "• Requires amendment to Article 130, altering SC’s structure.",
+    "• Limits Supreme Court’s independence.",
+    "• May be unconstitutional as it changes the conventional role of SC.",
+    "• Difficulties in administration and coordination.",
+    "## Supreme Court’s Position",
+    "• Recommendation in 1986 for regional benches (Chennai, Mumbai, Kolkata).",
+    "• Consistent opposition by CJIs to bifurcation of judicial powers.",
+    "• Change in 2016: Petition by V. Vasanth Kumar for establishing NCA admitted.",
+    "## Government’s Position",
+    "• Relies on objections by former CJIs to reject NCA.",
+    "• Highlights constitutional changes required in SC structure.",
+    "## Way Forward",
+    "• Strengthen the existing judicial hierarchy before adding new layers.",
+    "• Establishment of NCA is a policy decision, not a judicial directive.",
+    "• Improve efficiency with tools like the National Judicial Data Grid (NJDG)—current estimates suggest over 30 years needed to clear criminal case backlog in lower courts."
+  ],
+  "detailsHindi": [
+    "## सुप्रीम कोर्ट का मुख्यालय (अनुच्छेद 130)",
+    "• सुप्रीम कोर्ट का मुख्यालय दिल्ली है।",
+    "• भारत के मुख्य न्यायाधीश राष्ट्रपति की अनुमति से कहीं और बैठक कर सकते हैं।",
+    "## राष्ट्रीय अपीलीय न्यायालय (NCA)",
+    "• प्रस्तावित न्यायिक संस्था जिसके क्षेत्रीय पीठ चेन्नई, मुंबई और कोलकाता में होंगे।",
+    "• उच्च न्यायालय और अधिकरण के निर्णयों पर अंतिम अपील का अधिकार।",
+    "• सिविल, आपराधिक, श्रम और राजस्व मामलों की सुनवाई करेगा।",
+    "• सुप्रीम कोर्ट केवल संवैधानिक और सार्वजनिक कानून मामलों तक सीमित।",
+    "## NCA की आवश्यकता",
+    "• सुप्रीम कोर्ट पर अत्यधिक अपीलीय बोझ।",
+    "• लंबित मामलों के कारण न्याय में देरी।",
+    "• जनहित याचिकाओं (PIL) की बढ़ती संख्या।",
+    "## NCA के लाभ",
+    "• नागरिकों के लिए न्याय तक बेहतर पहुंच।",
+    "• सुप्रीम कोर्ट का कार्यभार कम होगा।",
+    "• सुप्रीम कोर्ट में संवैधानिक मामलों का अनुपात कम होने की समस्या हल होगी।",
+    "• न्यायपालिका में जनता का विश्वास बढ़ेगा।",
+    "• क्षेत्रीय स्तर पर न्यायशास्त्र का विकास।",
+    "## चुनौतियाँ",
+    "• वित्तीय बोझ और नए संसाधनों की आवश्यकता।",
+    "• मामलों की संख्या कम नहीं होगी, बल्कि एक नया स्तर जुड़ जाएगा।",
+    "• अनुच्छेद 130 में संशोधन की आवश्यकता, SC की संरचना बदल जाएगी।",
+    "• सुप्रीम कोर्ट की स्वतंत्रता सीमित हो सकती है।",
+    "• असंवैधानिक माना जा सकता है क्योंकि यह SC की पारंपरिक भूमिका बदल देता है।",
+    "• प्रशासनिक और समन्वय संबंधी कठिनाइयाँ।",
+    "## सुप्रीम कोर्ट की स्थिति",
+    "• 1986 में क्षेत्रीय पीठों की सिफारिश।",
+    "• CJIs ने लगातार न्यायिक शक्तियों के विभाजन का विरोध किया।",
+    "• 2016 में वी. वसंत कुमार की याचिका स्वीकार की गई।",
+    "## सरकार की स्थिति",
+    "• पूर्व CJIs के आपत्तियों का हवाला देकर NCA का विरोध।",
+    "• SC की संरचना में संवैधानिक बदलाव की आवश्यकता।",
+    "## आगे का रास्ता",
+    "• नए स्तर जोड़ने से पहले मौजूदा न्यायिक ढांचे को मजबूत करना।",
+    "• NCA की स्थापना एक नीतिगत निर्णय है, न्यायालय द्वारा सरकार को निर्देश नहीं।",
+    "• न्यायिक दक्षता के लिए राष्ट्रीय न्यायिक डेटा ग्रिड (NJDG) जैसे उपकरणों का उपयोग—वर्तमान अनुमान के अनुसार निचली अदालतों में आपराधिक मामलों को निपटाने में 30 साल लग सकते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "National Court of Appeal – Pros and Cons",
+      "titleHindi": "राष्ट्रीय अपीलीय न्यायालय – फायदे और चुनौतियाँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Need", "High appellate load, backlog, growing PILs"],
+        ["Advantages", "Access to justice, reduce SC workload, better jurisprudence"],
+        ["Challenges", "Financial burden, adds new layer, constitutional issues, weakens SC independence"],
+        ["SC Position", "Mixed: 1986 recommendation vs later opposition, petition in 2016"],
+        ["Government Position", "Rejected citing constitutional changes and opposition by CJIs"]
+      ],
+      "rowsHindi": [
+        ["आवश्यकता", "अत्यधिक अपीलीय बोझ, लंबित मामले, बढ़ती PILs"],
+        ["लाभ", "न्याय तक पहुंच, SC कार्यभार कम, न्यायशास्त्र बेहतर"],
+        ["चुनौतियाँ", "वित्तीय बोझ, नया स्तर, संवैधानिक मुद्दे, SC की स्वतंत्रता कमज़ोर"],
+        ["SC की स्थिति", "1986 में सिफारिश, बाद में विरोध, 2016 में याचिका स्वीकार"],
+        ["सरकार की स्थिति", "संवैधानिक बदलाव और CJIs के विरोध के आधार पर अस्वीकार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 130: SC seat in Delhi; CJI can sit elsewhere with President’s approval.",
+    "National Court of Appeal (NCA) – proposed with benches in Chennai, Mumbai, Kolkata.",
+    "NCA would handle civil, criminal, revenue, and tribunal appeals.",
+    "SC restricted to constitutional/public law matters.",
+    "Petition for NCA admitted in 2016 (V. Vasanth Kumar case)."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 130: SC मुख्यालय दिल्ली; राष्ट्रपति की अनुमति से CJI कहीं और बैठक कर सकते हैं।",
+    "राष्ट्रीय अपीलीय न्यायालय (NCA) – चेन्नई, मुंबई, कोलकाता में प्रस्तावित पीठ।",
+    "NCA सिविल, आपराधिक, राजस्व और अधिकरण अपीलों की सुनवाई करेगा।",
+    "SC केवल संवैधानिक/सार्वजनिक कानून मामलों तक सीमित।",
+    "2016 में वी. वसंत कुमार मामले में याचिका स्वीकार।"
+  ],
+  "mainsPoints": [
+    "Article 130 places SC seat in Delhi, but decentralization debate continues.",
+    "NCA proposed to reduce SC burden and improve access to justice.",
+    "Advantages: relief to SC, diversity in jurisprudence, better justice delivery.",
+    "Challenges: financial, constitutional, and administrative feasibility.",
+    "Policy decision: strengthen current judicial hierarchy (HCs, tribunals) before creating NCA.",
+    "NJDG shows massive pendency: reforms needed for efficiency before new structures."
+  ],
+  "mainsPointsHindi": [
+    "अनुच्छेद 130 के तहत SC का मुख्यालय दिल्ली है, लेकिन विकेंद्रीकरण पर बहस जारी।",
+    "NCA का प्रस्ताव SC का बोझ कम करने और न्याय तक पहुंच बढ़ाने हेतु।",
+    "लाभ: SC को राहत, न्यायशास्त्र में विविधता, न्याय वितरण में सुधार।",
+    "चुनौतियाँ: वित्तीय, संवैधानिक और प्रशासनिक व्यवहार्यता।",
+    "नीतिगत निर्णय: NCA बनाने से पहले मौजूदा HC और अधिकरण को मजबूत करना।",
+    "NJDG के अनुसार भारी लंबित मामले – नई संरचना से पहले दक्षता सुधार आवश्यक।"
+  ]
+},
+{
+  "heading": "Independence of the Supreme Court",
+  "headingHindi": "सुप्रीम कोर्ट की स्वतंत्रता",
+  "highlight": "The independence of the Supreme Court is ensured through constitutional safeguards like security of tenure, financial autonomy, immunity from criticism, separation from the executive, and procedural freedom. It functions as the guardian of the Constitution and final interpreter of the law, with mechanisms like Constitution Benches ensuring consistency in constitutional interpretation.",
+  "highlightHindi": "सुप्रीम कोर्ट की स्वतंत्रता को संवैधानिक प्रावधानों से सुनिश्चित किया गया है जैसे कार्यकाल की सुरक्षा, वित्तीय स्वायत्तता, आलोचना से प्रतिरक्षा, कार्यपालिका से पृथक्करण और प्रक्रियात्मक स्वतंत्रता। यह संविधान का संरक्षक और कानून का अंतिम व्याख्याकार है, तथा संविधान पीठ जैसी व्यवस्थाएँ संवैधानिक व्याख्या में एकरूपता सुनिश्चित करती हैं।",
+  "details": [
+    "## Constitutional Safeguards for Independent Judiciary",
+    "• Security of tenure: Judges can only be removed on constitutional grounds (misbehaviour or incapacity).",
+    "• Financial security: Salaries and allowances are charged on the Consolidated Fund of India, not subject to Parliament’s vote.",
+    "• Immunity from criticism: Judges can penalise those guilty of Contempt of Court.",
+    "• Conduct of judges cannot be discussed in Parliament except during removal proceedings.",
+    "• Debarred from practice after retirement, ensuring impartiality.",
+    "• Curtailing of jurisdiction not allowed: Parliament can only expand it under Article 138.",
+    "• Separation from the executive ensures judicial independence.",
+    "• Freedom to regulate own functioning: SC appoints staff, makes its own rules.",
+    "## Procedure of the Court (Article 145)",
+    "• SC makes rules regulating practice and procedure with President’s approval.",
+    "• Minimum number of judges: Constitutional cases and Presidential references (Art. 143) require at least 5 judges.",
+    "• Judgements are based on majority rulings.",
+    "## Constitution Bench",
+    "• Composition: 5 or more SC judges.",
+    "• Article 145(3): Constitutional interpretation matters must be heard by at least 5 judges.",
+    "• Powers of CJI: Selects judges, assigns cases (“Master of the roster”).",
+    "• Decisions: Can be unanimous or by majority.",
+    "• Present status: 40+ pending constitutional/legal cases before Constitution Benches.",
+    "## Other Types of Benches",
+    "• Division Bench: Consists of 2–3 judges, handles important cases.",
+    "• Single Judge Bench: Introduced in 2020, hears bail and anticipatory bail appeals.",
+    "## Recusal of Judges",
+    "• No formal laws/rules for recusal.",
+    "• Based on natural justice and conflict of interest avoidance.",
+    "• Judges voluntarily withdraw to maintain impartiality and fairness."
+  ],
+  "detailsHindi": [
+    "## स्वतंत्र न्यायपालिका के संवैधानिक प्रावधान",
+    "• कार्यकाल की सुरक्षा: न्यायाधीश केवल संवैधानिक आधार (दुर्व्यवहार या अक्षमता) पर हटाए जा सकते हैं।",
+    "• वित्तीय सुरक्षा: वेतन और भत्ते भारत की संचित निधि से दिए जाते हैं, संसद की वोटिंग के अधीन नहीं।",
+    "• आलोचना से प्रतिरक्षा: न्यायाधीश अदालत की अवमानना के लिए दंडित कर सकते हैं।",
+    "• न्यायाधीशों के आचरण पर संसद में चर्चा नहीं की जा सकती, सिवाय महाभियोग प्रक्रिया के।",
+    "• सेवानिवृत्ति के बाद प्रैक्टिस पर रोक, निष्पक्षता सुनिश्चित करती है।",
+    "• अधिकार क्षेत्र कम नहीं किया जा सकता: संसद केवल अनुच्छेद 138 के तहत बढ़ा सकती है।",
+    "• कार्यपालिका से पृथक्करण न्यायिक स्वतंत्रता सुनिश्चित करता है।",
+    "• कार्यप्रणाली की स्वतंत्रता: SC अपने कर्मचारी नियुक्त करता है और स्वयं नियम बनाता है।",
+    "## न्यायालय की प्रक्रिया (अनुच्छेद 145)",
+    "• राष्ट्रपति की स्वीकृति से SC अपनी प्रक्रिया और नियम बना सकता है।",
+    "• न्यूनतम न्यायाधीश: संवैधानिक मामले और राष्ट्रपति संदर्भ (अनु. 143) के लिए कम से कम 5 न्यायाधीश।",
+    "• निर्णय बहुमत से लिए जाते हैं।",
+    "## संविधान पीठ",
+    "• संरचना: 5 या अधिक न्यायाधीश।",
+    "• अनुच्छेद 145(3): संवैधानिक व्याख्या वाले मामलों में कम से कम 5 न्यायाधीश आवश्यक।",
+    "• CJI की शक्ति: न्यायाधीशों का चयन और मामलों का आवंटन (\"मास्टर ऑफ द रोस्टर\").",
+    "• निर्णय: सर्वसम्मति या बहुमत से।",
+    "• वर्तमान स्थिति: 40+ संवैधानिक/कानूनी मामले लंबित।",
+    "## अन्य प्रकार की पीठें",
+    "• डिवीजन बेंच: 2–3 न्यायाधीशों की पीठ, महत्वपूर्ण मामलों की सुनवाई करती है।",
+    "• सिंगल जज बेंच: 2020 में शुरू, जमानत और अग्रिम जमानत अपील सुनती है।",
+    "## न्यायाधीशों का रिक्यूज़ल",
+    "• रिक्यूज़ल के लिए कोई औपचारिक कानून/नियम नहीं।",
+    "• प्राकृतिक न्याय और हितों के टकराव से बचने के आधार पर।",
+    "• निष्पक्षता और न्याय सुनिश्चित करने हेतु न्यायाधीश स्वयं को मामले से अलग कर सकते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Safeguards for Supreme Court Independence",
+      "titleHindi": "सुप्रीम कोर्ट की स्वतंत्रता के लिए न्यायिक प्रावधान",
+      "columns": ["Safeguard", "Details"],
+      "columnsHindi": ["प्रावधान", "विवरण"],
+      "rows": [
+        ["Security of Tenure", "Judges removed only by constitutional process (misbehaviour/incapacity)."],
+        ["Financial Security", "Salaries charged on Consolidated Fund of India, not subject to Parliament."],
+        ["Immunity", "Contempt powers, conduct not discussed in Parliament."],
+        ["Jurisdiction", "Cannot be curtailed, only expanded by Parliament (Art. 138)."],
+        ["Separation from Executive", "Independent functioning and staffing."],
+        ["Freedom of Procedure", "Rule-making under Article 145 with President’s approval."]
+      ],
+      "rowsHindi": [
+        ["कार्यकाल की सुरक्षा", "न्यायाधीश केवल संवैधानिक प्रक्रिया से हटाए जा सकते हैं (दुर्व्यवहार/अक्षमता)।"],
+        ["वित्तीय सुरक्षा", "वेतन भारत की संचित निधि से, संसद की वोटिंग के अधीन नहीं।"],
+        ["प्रतिरक्षा", "अवमानना की शक्ति, संसद में आचरण पर चर्चा नहीं।"],
+        ["अधिकार क्षेत्र", "केवल संसद बढ़ा सकती है, घटा नहीं सकती (अनु. 138)।"],
+        ["कार्यपालिका से पृथक्करण", "स्वतंत्र कार्यप्रणाली और कर्मचारी नियुक्ति।"],
+        ["प्रक्रियात्मक स्वतंत्रता", "अनुच्छेद 145 के तहत राष्ट्रपति की स्वीकृति से नियम निर्माण।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 130: SC seat in Delhi; Article 145: SC rules of procedure.",
+    "Minimum 5 judges required for constitutional cases (Constitution Bench).",
+    "Judges cannot be discussed in Parliament except for removal proceedings.",
+    "CJI is the 'Master of the Roster'."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 130: SC का मुख्यालय दिल्ली; अनुच्छेद 145: SC की प्रक्रिया।",
+    "संवैधानिक मामलों में न्यूनतम 5 न्यायाधीश आवश्यक।",
+    "न्यायाधीशों पर संसद में चर्चा नहीं हो सकती, सिवाय महाभियोग के।",
+    "CJI को 'मास्टर ऑफ द रोस्टर' कहा जाता है।"
+  ],
+  "mainsPoints": [
+    "Judicial independence is protected through tenure, financial security, and immunity.",
+    "Parliament cannot curtail SC’s jurisdiction, ensuring separation of powers.",
+    "CJI’s role as 'Master of the Roster' ensures administrative independence.",
+    "Constitution Benches maintain consistency in constitutional interpretation.",
+    "Recusal practice ensures impartiality though lacks codified procedure.",
+    "Reforms needed to reduce pendency before Constitution Benches."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक स्वतंत्रता कार्यकाल, वित्तीय सुरक्षा और प्रतिरक्षा से संरक्षित है।",
+    "संसद SC के अधिकार क्षेत्र को कम नहीं कर सकती, शक्तियों का पृथक्करण सुनिश्चित होता है।",
+    "CJI का 'मास्टर ऑफ द रोस्टर' होना प्रशासनिक स्वतंत्रता सुनिश्चित करता है।",
+    "संविधान पीठ संवैधानिक व्याख्या में एकरूपता बनाए रखती है।",
+    "रिक्यूज़ल निष्पक्षता सुनिश्चित करता है, हालांकि इसका कोई औपचारिक नियम नहीं है।",
+    "संविधान पीठों के समक्ष लंबित मामलों को कम करने हेतु सुधार आवश्यक।"
+  ]
+},
+{
+  "heading": "Jurisdiction and Powers of the Supreme Court",
+  "headingHindi": "सुप्रीम कोर्ट का अधिकार क्षेत्र और शक्तियाँ",
+  "highlight": "The Supreme Court of India has original, appellate, and discretionary jurisdiction. Article 131 confers exclusive original jurisdiction in Centre-State and inter-State disputes. Articles 132–134 provide appellate jurisdiction in constitutional, civil, and criminal cases, while Article 136 empowers the Court to grant Special Leave Petitions (SLPs) in matters of substantial justice.",
+  "highlightHindi": "भारत का सुप्रीम कोर्ट मौलिक, अपीलीय और विवेकाधीन अधिकार क्षेत्र रखता है। अनुच्छेद 131 केंद्र-राज्य एवं राज्य-राज्य विवादों में विशिष्ट मौलिक अधिकार देता है। अनुच्छेद 132–134 संवैधानिक, सिविल और आपराधिक मामलों में अपीलीय अधिकार देते हैं। अनुच्छेद 136 के तहत सुप्रीम कोर्ट विशेष अनुमति याचिका (SLP) दाखिल कर सकता है ताकि न्याय सुनिश्चित किया जा सके।",
+  "details": [
+    "## Original Jurisdiction (Article 131)",
+    "• Exclusive jurisdiction in disputes between:",
+    "  – Government of India and one or more States,",
+    "  – Government of India and one or more States on one side vs. other States,",
+    "  – Between two or more States.",
+    "• Scope: Any question of law or fact on which existence or extent of a legal right depends.",
+    "• Non-applicability:",
+    "  – Disputes arising from treaties, covenants, agreements, etc.",
+    "  – Inter-State water disputes.",
+    "  – Matters referred to Finance Commission.",
+    "  – Adjustment of expenses and pensions between Centre and States.",
+    "  – Ordinary commercial disputes between Centre and States.",
+    "  – Recovery of damages by a State against the Centre.",
+    "## Appellate Jurisdiction (Articles 132–134)",
+    "### Constitutional Matters (Article 132)",
+    "• HC certification required on substantial question of law.",
+    "• Appeal lies to SC if question wrongly decided.",
+    "### Civil Matters (Article 133, read with 134A)",
+    "• Grounds: Substantial question of law.",
+    "• Certification by High Court mandatory.",
+    "### Criminal Matters (Article 134)",
+    "• Grounds:",
+    "  – High Court reversal of acquittal into conviction.",
+    "  – High Court trial and conviction resulting in death sentence.",
+    "  – HC certifies case fit for appeal to SC.",
+    "### Parliament’s Power",
+    "• Parliament may extend SC’s appellate jurisdiction to any other matter.",
+    "## Special Leave Petition (SLP) – Article 136",
+    "• Discretionary power of SC to grant leave in any judgment (final or interlocutory).",
+    "• Applicable to constitutional, civil, criminal, income tax, labour, revenue, and other matters.",
+    "• Non-applicability: Judgments of courts/tribunals relating to Armed Forces."
+  ],
+  "detailsHindi": [
+    "## मौलिक अधिकार क्षेत्र (अनुच्छेद 131)",
+    "• विशिष्ट अधिकार क्षेत्र इन विवादों में:",
+    "  – भारत सरकार और एक या अधिक राज्यों के बीच,",
+    "  – भारत सरकार और एक या अधिक राज्य एक तरफ बनाम अन्य राज्य,",
+    "  – दो या अधिक राज्यों के बीच।",
+    "• सीमा: किसी कानूनी अधिकार के अस्तित्व या सीमा से संबंधित तथ्य या कानून का प्रश्न।",
+    "• गैर-लागू स्थितियाँ:",
+    "  – संधि, अनुबंध, करार से उत्पन्न विवाद।",
+    "  – अंतर-राज्यीय जल विवाद।",
+    "  – वित्त आयोग को संदर्भित मामले।",
+    "  – केंद्र और राज्यों के बीच व्यय और पेंशन का समायोजन।",
+    "  – साधारण वाणिज्यिक विवाद।",
+    "  – केंद्र के विरुद्ध राज्य द्वारा क्षतिपूर्ति की वसूली।",
+    "## अपीलीय अधिकार क्षेत्र (अनुच्छेद 132–134)",
+    "### संवैधानिक मामले (अनुच्छेद 132)",
+    "• उच्च न्यायालय से प्रमाणन आवश्यक (कानून का गंभीर प्रश्न)।",
+    "• गलत निर्णय पर सुप्रीम कोर्ट में अपील।",
+    "### सिविल मामले (अनुच्छेद 133, 134A)",
+    "• आधार: कानून का गंभीर प्रश्न।",
+    "• प्रमाणन उच्च न्यायालय द्वारा अनिवार्य।",
+    "### आपराधिक मामले (अनुच्छेद 134)",
+    "• आधार:",
+    "  – उच्च न्यायालय द्वारा बरी करने का उलटकर दोषसिद्धि।",
+    "  – उच्च न्यायालय द्वारा मुकदमा और मृत्युदंड की सजा।",
+    "  – उच्च न्यायालय का प्रमाणन।",
+    "### संसद की शक्ति",
+    "• संसद SC के अपीलीय अधिकार क्षेत्र को किसी भी मामले में विस्तारित कर सकती है।",
+    "## विशेष अनुमति याचिका (SLP) – अनुच्छेद 136",
+    "• SC की विवेकाधीन शक्ति किसी भी निर्णय (अंतिम या अंतरिम) पर विशेष अनुमति देने की।",
+    "• लागू: संवैधानिक, सिविल, आपराधिक, आयकर, श्रम, राजस्व आदि।",
+    "• गैर-लागू: सशस्त्र बलों से संबंधित न्यायालय/अधिकरण के निर्णय।"
+  ],
+  "tables": [
+    {
+      "title": "Supreme Court Jurisdiction – Overview",
+      "titleHindi": "सुप्रीम कोर्ट का अधिकार क्षेत्र – सारांश",
+      "columns": ["Type", "Key Provisions", "Exclusions"],
+      "columnsHindi": ["प्रकार", "मुख्य प्रावधान", "अपवाद"],
+      "rows": [
+        ["Original Jurisdiction", "Article 131 – Centre-State/State-State disputes", "Inter-State water disputes, Finance Commission matters"],
+        ["Appellate – Constitutional", "Article 132 – Substantial question of law", "Requires HC certificate"],
+        ["Appellate – Civil", "Article 133 – Substantial question of law + HC certification", "Commercial disputes unless certified"],
+        ["Appellate – Criminal", "Article 134 – HC reversals, death sentence, certification", "No automatic appeal otherwise"],
+        ["Special Leave Petition", "Article 136 – SC’s discretionary power", "Armed Forces Tribunal judgments"]
+      ],
+      "rowsHindi": [
+        ["मौलिक अधिकार क्षेत्र", "अनुच्छेद 131 – केंद्र-राज्य/राज्य-राज्य विवाद", "अंतर-राज्यीय जल विवाद, वित्त आयोग मामले"],
+        ["अपीलीय – संवैधानिक", "अनुच्छेद 132 – कानून का गंभीर प्रश्न", "उच्च न्यायालय प्रमाणन आवश्यक"],
+        ["अपीलीय – सिविल", "अनुच्छेद 133 – कानून का गंभीर प्रश्न + उच्च न्यायालय प्रमाणन", "साधारण वाणिज्यिक विवाद जब तक प्रमाणित न हों"],
+        ["अपीलीय – आपराधिक", "अनुच्छेद 134 – HC द्वारा बरी का उलट, मृत्युदंड, प्रमाणन", "अन्यथा स्वतः अपील नहीं"],
+        ["विशेष अनुमति याचिका", "अनुच्छेद 136 – SC की विवेकाधीन शक्ति", "सशस्त्र बल न्यायाधिकरण के निर्णय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 131: Exclusive original jurisdiction for Centre-State disputes.",
+    "Article 132: Appeals in constitutional matters require HC certification.",
+    "Article 133: Civil appeals require substantial question of law + HC certification.",
+    "Article 134: Criminal appeals – HC reversal/acquittal/death sentence.",
+    "Article 136: Special Leave Petition – wide discretionary power."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 131: केंद्र-राज्य विवादों में विशिष्ट मौलिक अधिकार।",
+    "अनुच्छेद 132: संवैधानिक अपील हेतु HC प्रमाणन आवश्यक।",
+    "अनुच्छेद 133: सिविल अपील के लिए गंभीर कानूनी प्रश्न + HC प्रमाणन।",
+    "अनुच्छेद 134: आपराधिक अपील – HC द्वारा बरी उलट या मृत्युदंड।",
+    "अनुच्छेद 136: विशेष अनुमति याचिका – व्यापक विवेकाधीन शक्ति।"
+  ],
+  "mainsPoints": [
+    "Supreme Court acts as the final arbiter in Centre-State and inter-State disputes under Article 131.",
+    "Appellate jurisdiction strengthens uniform interpretation of law across constitutional, civil, and criminal cases.",
+    "Special Leave Petition under Article 136 expands access to SC but adds to its pendency.",
+    "Exclusions like inter-State water disputes and Armed Forces tribunal decisions balance federalism and efficiency.",
+    "The broad powers highlight SC’s central role in maintaining constitutional order."
+  ],
+  "mainsPointsHindi": [
+    "सुप्रीम कोर्ट अनुच्छेद 131 के तहत केंद्र-राज्य और राज्य-राज्य विवादों में अंतिम निर्णायक है।",
+    "अपीलीय अधिकार क्षेत्र संवैधानिक, सिविल और आपराधिक मामलों में कानून की समान व्याख्या को मजबूत करता है।",
+    "अनुच्छेद 136 के तहत विशेष अनुमति याचिका SC तक पहुँच बढ़ाती है लेकिन लंबित मामलों का बोझ भी बढ़ाती है।",
+    "अंतर-राज्यीय जल विवाद और सशस्त्र बल न्यायाधिकरण जैसे अपवाद संघवाद और दक्षता के बीच संतुलन सुनिश्चित करते हैं।",
+    "व्यापक शक्तियाँ SC की संविधानिक व्यवस्था बनाए रखने में केंद्रीय भूमिका को दर्शाती हैं।"
+  ]
+},
+{
+  "heading": "Advisory, Writ, and Other Jurisdictions of the Supreme Court",
+  "headingHindi": "सुप्रीम कोर्ट का परामर्श, रिट और अन्य अधिकार क्षेत्र",
+  "highlight": "The Supreme Court of India exercises advisory jurisdiction under Article 143, writ jurisdiction under Article 139, and functions as a Court of Record under Article 129. It also wields the power to punish for contempt under constitutional provisions and the Contempt of Courts Act, 1971, ensuring judicial authority, respect, and constitutional supremacy.",
+  "highlightHindi": "भारत का सुप्रीम कोर्ट अनुच्छेद 143 के तहत परामर्शी अधिकार क्षेत्र, अनुच्छेद 139 के तहत रिट अधिकार क्षेत्र और अनुच्छेद 129 के तहत न्यायालय का रिकॉर्ड होने की शक्ति रखता है। यह अदालत की अवमानना पर दंड देने की शक्ति भी रखता है, जिससे न्यायपालिका की गरिमा, सम्मान और संवैधानिक सर्वोच्चता सुनिश्चित होती है।",
+  "details": [
+    "## Advisory Jurisdiction (Article 143)",
+    "• President can seek SC’s opinion on:",
+    "  – Any question of law or fact of public importance (SC’s advice is optional).",
+    "  – Any dispute from pre-constitution treaties, agreements, covenants, etc. (SC’s opinion is mandatory).",
+    "## Writ Jurisdiction (Article 139)",
+    "• Parliament may confer power on SC to issue writs.",
+    "• SC’s writ jurisdiction is not exclusive—High Courts can also issue writs.",
+    "• Scope:",
+    "  – SC: Writs only for Fundamental Rights (FR).",
+    "  – HC: Writs for FR and other legal rights (wider jurisdiction).",
+    "• Expandable by Parliament through legislation.",
+    "## Court of Record (Article 129)",
+    "• SC is a court of record—its records are evidentiary, cannot be disputed in any court, and serve as precedents.",
+    "• Power to punish for contempt: extends to itself, High Courts, subordinate courts, and tribunals.",
+    "## Contempt of Court",
+    "• Purpose: safeguard authority, dignity, and respect of the judiciary.",
+    "• Constitution does not define ‘Contempt of Court’.",
+    "• Article 142(2): SC has power to make any order for punishment of contempt.",
+    "### Constitutional Provisions",
+    "• Article 129: SC as court of record, with contempt powers.",
+    "• Article 215: HC as court of record, with contempt powers.",
+    "• Article 144: All civil and judicial authorities must act in aid of SC.",
+    "• Article 141: Law declared by SC is binding on all courts.",
+    "### Contempt of Courts Act, 1971",
+    "• Defines contempt as:",
+    "  – Civil contempt: Willful disobedience of judgment, order, decree, writ, or other process of court.",
+    "  – Criminal contempt: Publications or acts that:",
+    "    ○ Scandalise or lower authority of court,",
+    "    ○ Prejudice or interfere with judicial proceedings,",
+    "    ○ Obstruct administration of justice.",
+    "### Exclusions (not contempt)",
+    "• Innocent publication/distribution of matter.",
+    "• Fair and accurate report of judicial proceedings.",
+    "• Fair criticism of judicial acts.",
+    "• Good faith complaints against subordinate court officers."
+  ],
+  "detailsHindi": [
+    "## परामर्शी अधिकार क्षेत्र (अनुच्छेद 143)",
+    "• राष्ट्रपति सुप्रीम कोर्ट से राय मांग सकते हैं:",
+    "  – सार्वजनिक महत्व के किसी विधि या तथ्य के प्रश्न पर (SC की राय वैकल्पिक)।",
+    "  – पूर्व-संविधान संधि, समझौते, करार आदि से उत्पन्न विवाद पर (SC की राय अनिवार्य)।",
+    "## रिट अधिकार क्षेत्र (अनुच्छेद 139)",
+    "• संसद SC को रिट जारी करने की शक्ति प्रदान कर सकती है।",
+    "• SC का रिट अधिकार क्षेत्र विशिष्ट नहीं है—HC भी रिट जारी कर सकते हैं।",
+    "• दायरा:",
+    "  – SC: केवल मौलिक अधिकारों के लिए।",
+    "  – HC: मौलिक अधिकार + अन्य कानूनी अधिकार (व्यापक अधिकार क्षेत्र)।",
+    "• संसद इसे कानून द्वारा बढ़ा सकती है।",
+    "## रिकॉर्ड की अदालत (अनुच्छेद 129)",
+    "• SC रिकॉर्ड की अदालत है—इसके अभिलेख सबूत माने जाते हैं, चुनौती नहीं दी जा सकती और ये नज़ीर होते हैं।",
+    "• अवमानना की सजा की शक्ति: स्वयं, उच्च न्यायालयों, अधीनस्थ न्यायालयों और अधिकरणों तक।",
+    "## न्यायालय की अवमानना",
+    "• उद्देश्य: न्यायपालिका की गरिमा, प्राधिकरण और सम्मान की रक्षा।",
+    "• संविधान में ‘न्यायालय की अवमानना’ परिभाषित नहीं।",
+    "• अनुच्छेद 142(2): SC को अवमानना की सजा देने हेतु आदेश जारी करने की शक्ति।",
+    "### संवैधानिक प्रावधान",
+    "• अनुच्छेद 129: SC रिकॉर्ड की अदालत है, अवमानना की शक्ति के साथ।",
+    "• अनुच्छेद 215: HC रिकॉर्ड की अदालत है, अवमानना की शक्ति के साथ।",
+    "• अनुच्छेद 144: सभी प्राधिकरण SC की सहायता करेंगे।",
+    "• अनुच्छेद 141: SC द्वारा घोषित कानून पूरे भारत में बाध्यकारी।",
+    "### न्यायालय की अवमानना अधिनियम, 1971",
+    "• अवमानना की परिभाषा:",
+    "  – सिविल अवमानना: न्यायालय के आदेश, निर्णय, डिक्री, रिट आदि की जानबूझकर अवज्ञा।",
+    "  – आपराधिक अवमानना: ऐसे प्रकाशन या कार्य जो:",
+    "    ○ न्यायालय की प्रतिष्ठा को कम करें या अपमानित करें,",
+    "    ○ न्यायिक प्रक्रिया में बाधा डालें,",
+    "    ○ न्याय प्रशासन में रुकावट डालें।",
+    "### अपवाद (अवमानना नहीं माने जाते)",
+    "• निर्दोष प्रकाशन/वितरण।",
+    "• न्यायिक कार्यवाहियों की निष्पक्ष और सटीक रिपोर्ट।",
+    "• न्यायिक कार्य की निष्पक्ष आलोचना।",
+    "• अधीनस्थ न्यायालय अधिकारियों के खिलाफ सद्भावनापूर्ण शिकायत।"
+  ],
+  "tables": [
+    {
+      "title": "Supreme Court – Key Jurisdictions",
+      "titleHindi": "सुप्रीम कोर्ट – प्रमुख अधिकार क्षेत्र",
+      "columns": ["Jurisdiction", "Article", "Scope"],
+      "columnsHindi": ["अधिकार क्षेत्र", "अनुच्छेद", "दायरा"],
+      "rows": [
+        ["Advisory", "Article 143", "President may seek opinion – optional in public matters, mandatory in pre-constitution agreements."],
+        ["Writ", "Article 139", "SC writs for FR; HC writs for FR + other purposes."],
+        ["Court of Record", "Article 129", "SC records as precedents; contempt powers."],
+        ["Contempt of Court", "Articles 129, 142(2), 215, 141, 144", "Powers to punish contempt; binding force of SC’s decisions."]
+      ],
+      "rowsHindi": [
+        ["परामर्शी", "अनुच्छेद 143", "राष्ट्रपति राय मांग सकते हैं – सार्वजनिक मामलों में वैकल्पिक, पूर्व-संविधान करारों में अनिवार्य।"],
+        ["रिट", "अनुच्छेद 139", "SC: केवल मौलिक अधिकार; HC: मौलिक अधिकार + अन्य उद्देश्य।"],
+        ["रिकॉर्ड की अदालत", "अनुच्छेद 129", "SC के अभिलेख नज़ीर; अवमानना की शक्ति।"],
+        ["न्यायालय की अवमानना", "अनुच्छेद 129, 142(2), 215, 141, 144", "अवमानना पर दंड; SC के निर्णय बाध्यकारी।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 143: Advisory jurisdiction of SC.",
+    "Article 139: Parliament can expand SC’s writ powers.",
+    "Article 129: SC as Court of Record, contempt powers.",
+    "Contempt of Courts Act, 1971: defines civil and criminal contempt.",
+    "Articles 141 & 144: SC’s decisions binding; all authorities to aid SC."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 143: SC का परामर्शी अधिकार क्षेत्र।",
+    "अनुच्छेद 139: संसद SC की रिट शक्तियों को बढ़ा सकती है।",
+    "अनुच्छेद 129: SC रिकॉर्ड की अदालत, अवमानना की शक्ति।",
+    "न्यायालय की अवमानना अधिनियम, 1971: सिविल और आपराधिक अवमानना परिभाषित।",
+    "अनुच्छेद 141 और 144: SC के निर्णय बाध्यकारी, सभी प्राधिकरण सहायता करेंगे।"
+  ],
+  "mainsPoints": [
+    "Advisory jurisdiction ensures President can seek SC’s legal guidance, though advice is not binding.",
+    "SC’s writ jurisdiction is narrower than HCs, confined only to Fundamental Rights.",
+    "Court of Record status ensures precedential value of SC rulings and contempt powers.",
+    "Contempt of Courts Act, 1971 provides statutory clarity on contempt with safeguards.",
+    "Balance between judicial authority and freedom of expression achieved through exclusions from contempt."
+  ],
+  "mainsPointsHindi": [
+    "परामर्शी अधिकार क्षेत्र राष्ट्रपति को SC से कानूनी मार्गदर्शन लेने की सुविधा देता है, पर राय बाध्यकारी नहीं।",
+    "SC की रिट शक्ति केवल मौलिक अधिकारों तक सीमित है, जबकि HC की व्यापक है।",
+    "रिकॉर्ड की अदालत का दर्जा SC के निर्णयों को नज़ीर और अवमानना की शक्ति प्रदान करता है।",
+    "न्यायालय की अवमानना अधिनियम, 1971 अवमानना पर स्पष्टता और सुरक्षा प्रदान करता है।",
+    "न्यायिक अधिकार और अभिव्यक्ति की स्वतंत्रता के बीच संतुलन, अवमानना से संबंधित अपवादों से सुनिश्चित।"
+  ]
+},
+{
+  "heading": "Critical Analysis of Contempt Power and Other Powers of the Supreme Court",
+  "headingHindi": "अवमानना शक्ति का समालोचनात्मक विश्लेषण और सुप्रीम कोर्ट की अन्य शक्तियाँ",
+  "highlight": "The Supreme Court’s contempt power is a constitutional safeguard to uphold judicial authority and ensure compliance with its orders. However, it faces criticism for clashing with democratic freedoms, having a broad scope, and being outdated compared to other democracies. Alongside this, the Supreme Court also wields powers of judicial review, election dispute resolution, self-review, and supervisory control, making it the final interpreter and guardian of the Constitution.",
+  "highlightHindi": "सुप्रीम कोर्ट की अवमानना शक्ति न्यायपालिका की गरिमा और आदेशों के पालन को सुनिश्चित करने हेतु एक संवैधानिक प्रावधान है। हालांकि इसकी आलोचना लोकतांत्रिक स्वतंत्रताओं से टकराने, व्यापक परिभाषा और कई लोकतंत्रों में अप्रासंगिक होने के कारण होती है। इसके अलावा सुप्रीम कोर्ट के पास न्यायिक पुनरावलोकन, चुनाव विवाद समाधान, आत्म-समीक्षा और पर्यवेक्षण जैसी शक्तियाँ भी हैं, जो इसे संविधान का अंतिम व्याख्याकार और संरक्षक बनाती हैं।",
+  "details": [
+    "## Critical Analysis of Contempt Power",
+    "### Arguments Against",
+    "• Conflicts with democratic principles like freedom of speech and expression.",
+    "• Broad definition of criminal contempt creates uncertainty; suo motu powers complicate proceedings.",
+    "• Considered outdated in many democracies:",
+    "  – England abolished 'scandalising the court' offence in 2013.",
+    "  – US courts rarely invoke contempt for public comments.",
+    "### Arguments in Support",
+    "• Narrowing contempt definition could weaken public respect for judiciary.",
+    "• Repealing contempt law may create a legislative vacuum in India.",
+    "• Contempt power is constitutionally derived; the 1971 Act only prescribes procedure.",
+    "• Adequate safeguards exist to prevent misuse of power.",
+    "## Power of Judicial Review",
+    "• SC reviews constitutionality of legislative enactments and executive actions.",
+    "• Ensures supremacy of the Constitution and protection of Fundamental Rights.",
+    "## Other Powers of the Supreme Court",
+    "• Resolve election disputes of the President and Vice-President.",
+    "• Inquire into behaviour of UPSC members & Chairman; SC’s advice is binding on the President.",
+    "• Power to review its own judgments (Article 137).",
+    "• Power to withdraw cases pending before High Courts and dispose of them.",
+    "• SC’s law is binding on all courts across India (Article 141).",
+    "• Acts as the final interpreter of the Constitution.",
+    "• Controls all other adjudicating authorities:",
+    "  – Parliament can enlarge its jurisdiction for Union List matters.",
+    "  – Jurisdiction can be enlarged by special agreement between Centre and States for other matters."
+  ],
+  "detailsHindi": [
+    "## अवमानना शक्ति का समालोचनात्मक विश्लेषण",
+    "### विरोध में तर्क",
+    "• लोकतांत्रिक सिद्धांतों जैसे अभिव्यक्ति की स्वतंत्रता से टकराव।",
+    "• आपराधिक अवमानना की व्यापक परिभाषा; स्वतः संज्ञान शक्तियाँ प्रक्रिया को जटिल बनाती हैं।",
+    "• कई लोकतंत्रों में अप्रासंगिक:",
+    "  – इंग्लैंड ने 2013 में 'न्यायालय की प्रतिष्ठा घटाने' का अपराध समाप्त किया।",
+    "  – अमेरिका में अदालतें टिप्पणियों पर अवमानना का कम उपयोग करती हैं।",
+    "### समर्थन में तर्क",
+    "• परिभाषा बदलने से न्यायपालिका के प्रति सम्मान घट सकता है।",
+    "• अवमानना कानून हटाने से भारत में विधायी शून्य पैदा होगा।",
+    "• अवमानना शक्ति संविधान से प्राप्त है; 1971 अधिनियम केवल प्रक्रिया निर्धारित करता है।",
+    "• दुरुपयोग रोकने के लिए पर्याप्त सुरक्षा उपाय मौजूद हैं।",
+    "## न्यायिक पुनरावलोकन की शक्ति",
+    "• SC कानूनों और कार्यपालिका के निर्णयों की संवैधानिकता की समीक्षा करता है।",
+    "• संविधान की सर्वोच्चता और मौलिक अधिकारों की रक्षा सुनिश्चित करता है।",
+    "## सुप्रीम कोर्ट की अन्य शक्तियाँ",
+    "• राष्ट्रपति और उपराष्ट्रपति के चुनाव विवादों का निपटारा।",
+    "• UPSC सदस्यों और अध्यक्ष के आचरण की जांच; SC की राय राष्ट्रपति पर बाध्यकारी।",
+    "• अपने निर्णयों की समीक्षा की शक्ति (अनुच्छेद 137)।",
+    "• उच्च न्यायालयों में लंबित मामलों को वापस लेकर निपटाना।",
+    "• SC के कानून पूरे भारत में बाध्यकारी (अनुच्छेद 141)।",
+    "• संविधान का अंतिम व्याख्याकार।",
+    "• अन्य न्यायिक निकायों पर नियंत्रण:",
+    "  – संसद संघ सूची मामलों में SC का अधिकार क्षेत्र बढ़ा सकती है।",
+    "  – अन्य मामलों में केंद्र और राज्यों के बीच विशेष समझौते द्वारा अधिकार क्षेत्र बढ़ाया जा सकता है।"
+  ],
+  "tables": [
+    {
+      "title": "Contempt Power – Pros and Cons",
+      "titleHindi": "अवमानना शक्ति – पक्ष और विपक्ष",
+      "columns": ["Aspect", "Arguments Against", "Arguments For"],
+      "columnsHindi": ["पहलू", "विरोध में तर्क", "समर्थन में तर्क"],
+      "rows": [
+        ["Democracy", "Conflicts with free speech", "Protects judicial authority"],
+        ["Scope", "Overbroad definition, suo motu powers", "Safeguards against misuse"],
+        ["Comparative Perspective", "Abolished/rarely used in UK & US", "Essential in Indian context to avoid vacuum"],
+        ["Respect for Judiciary", "May be eroded by criticism", "Maintains dignity and authority of courts"]
+      ],
+      "rowsHindi": [
+        ["लोकतंत्र", "अभिव्यक्ति की स्वतंत्रता से टकराव", "न्यायिक अधिकार की रक्षा करता है"],
+        ["दायरा", "अत्यधिक व्यापक परिभाषा, स्वतः संज्ञान शक्तियाँ", "दुरुपयोग रोकने के उपाय"],
+        ["तुलनात्मक दृष्टि", "यूके और यूएस में समाप्त/कम उपयोग", "भारत में शून्य से बचने हेतु आवश्यक"],
+        ["न्यायपालिका का सम्मान", "आलोचना से घट सकता है", "न्यायालय की गरिमा और अधिकार बनाए रखता है"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Contempt power derived from Constitution; 1971 Act only procedural.",
+    "England abolished 'scandalising the court' in 2013.",
+    "SC’s advice in UPSC inquiries is binding on President.",
+    "Article 137: SC can review its own judgments.",
+    "Article 141: Law declared by SC is binding on all courts."
+  ],
+  "prelimsTipsHindi": [
+    "अवमानना शक्ति संविधान से प्राप्त; 1971 अधिनियम केवल प्रक्रिया है।",
+    "इंग्लैंड ने 2013 में 'न्यायालय की प्रतिष्ठा घटाने' अपराध समाप्त किया।",
+    "UPSC जांच में SC की राय राष्ट्रपति पर बाध्यकारी।",
+    "अनुच्छेद 137: SC अपने निर्णयों की समीक्षा कर सकता है।",
+    "अनुच्छेद 141: SC द्वारा घोषित कानून सभी न्यायालयों पर बाध्यकारी।"
+  ],
+  "mainsPoints": [
+    "Contempt power ensures respect for judicial authority but can clash with democratic freedoms.",
+    "Balance needed between judicial dignity and freedom of expression.",
+    "Judicial review strengthens constitutional supremacy and rights protection.",
+    "SC has wide-ranging powers: resolving election disputes, reviewing judgments, binding legal authority.",
+    "Final interpreter role cements SC as guardian of Constitution."
+  ],
+  "mainsPointsHindi": [
+    "अवमानना शक्ति न्यायिक सम्मान सुनिश्चित करती है लेकिन लोकतांत्रिक स्वतंत्रताओं से टकरा सकती है।",
+    "न्यायिक गरिमा और अभिव्यक्ति की स्वतंत्रता के बीच संतुलन आवश्यक।",
+    "न्यायिक पुनरावलोकन संविधान की सर्वोच्चता और अधिकारों की रक्षा करता है।",
+    "SC के पास व्यापक शक्तियाँ हैं: चुनाव विवाद निपटाना, निर्णय की समीक्षा, बाध्यकारी कानूनी अधिकार।",
+    "संविधान का अंतिम व्याख्याकार होने से SC उसका संरक्षक है।"
+  ]
+},
+{
+  "heading": "Judicial Accountability",
+  "headingHindi": "न्यायिक जवाबदेही",
+  "highlight": "Judicial accountability refers to ensuring transparency, impartiality, and responsibility in judicial decision-making. While independence of the judiciary is essential, accountability is equally vital to maintain public trust, reduce corruption, and uphold the rule of law.",
+  "highlightHindi": "न्यायिक जवाबदेही का अर्थ है न्यायिक निर्णय-प्रक्रिया में पारदर्शिता, निष्पक्षता और उत्तरदायित्व सुनिश्चित करना। न्यायपालिका की स्वतंत्रता जितनी आवश्यक है, उतनी ही आवश्यक है जवाबदेही, ताकि जनता का विश्वास बना रहे, भ्रष्टाचार घटे और कानून का शासन कायम रहे।",
+  "details": [
+    "## Need for Judicial Accountability",
+    "• Impartial operation of judiciary is necessary to sustain public confidence.",
+    "• Speedy justice is part of Fundamental Rights under Article 21.",
+    "• Severe backlog of cases undermines the justice delivery system.",
+    "• Growing citizen awareness demands transparency and accountability.",
+    "• Courts disclose limited information under RTI; no obligation for annual reports.",
+    "• No provision to review Supreme Court rulings in the Constitution.",
+    "## Challenges",
+    "• Impeachment method impractical – never successfully used to remove a judge.",
+    "• Contempt of Court creates tension between fair criticism and judicial independence.",
+    "• RTI exemptions restrict judicial accountability.",
+    "• Lack of transparency raises risk of corruption.",
+    "• Broad powers under Article 142 create balance issues between authority and accountability.",
+    "## Advantages of Judicial Accountability",
+    "• Strengthens rule of law.",
+    "• Promotes institutional responsibility.",
+    "• Reduces scope for corruption.",
+    "• Ensures fair, efficient, and effective justice delivery.",
+    "• Helps in upholding Fundamental Rights.",
+    "## Measures Needed",
+    "• Foster independence free from political or external pressures.",
+    "• Create and enforce a code of judicial conduct.",
+    "• Encourage strong and independent judges’ associations.",
+    "• Civil society must play a role in promoting transparency.",
+    "• Balance judicial independence with accountability mechanisms."
+  ],
+  "detailsHindi": [
+    "## न्यायिक जवाबदेही की आवश्यकता",
+    "• न्यायपालिका का निष्पक्ष संचालन जन विश्वास बनाए रखने के लिए आवश्यक है।",
+    "• त्वरित न्याय अनुच्छेद 21 के तहत मौलिक अधिकार है।",
+    "• मामलों का गंभीर लंबित होना न्याय प्रणाली को कमजोर करता है।",
+    "• नागरिकों की बढ़ती जागरूकता पारदर्शिता और जवाबदेही की मांग करती है।",
+    "• न्यायालयों द्वारा RTI में सीमित जानकारी दी जाती है; वार्षिक रिपोर्ट प्रकाशित करने की बाध्यता नहीं।",
+    "• संविधान में सुप्रीम कोर्ट के निर्णयों की समीक्षा का प्रावधान नहीं है।",
+    "## चुनौतियाँ",
+    "• महाभियोग विधि अप्रभावी – किसी भी न्यायाधीश को हटाने में सफलतापूर्वक उपयोग नहीं हुआ।",
+    "• न्यायालय की अवमानना – आलोचना और न्यायिक स्वतंत्रता के बीच संतुलन कठिन।",
+    "• RTI से छूट न्यायिक जवाबदेही को सीमित करती है।",
+    "• पारदर्शिता की कमी भ्रष्टाचार की संभावना बढ़ाती है।",
+    "• अनुच्छेद 142 की व्यापक शक्तियाँ – अधिकार और जवाबदेही के बीच संतुलन की चुनौती।",
+    "## न्यायिक जवाबदेही के लाभ",
+    "• कानून के शासन को सुदृढ़ करती है।",
+    "• संस्थागत जिम्मेदारी को बढ़ावा देती है।",
+    "• भ्रष्टाचार को कम करती है।",
+    "• निष्पक्ष, प्रभावी और त्वरित न्याय सुनिश्चित करती है।",
+    "• मौलिक अधिकारों को बनाए रखने में सहायक।",
+    "## आवश्यक कदम",
+    "• राजनीतिक या बाहरी दबाव से मुक्त स्वतंत्रता को बढ़ावा देना।",
+    "• आचार संहिता का निर्माण और पालन।",
+    "• स्वतंत्र और सशक्त न्यायाधीश संघों को प्रोत्साहित करना।",
+    "• नागरिक समाज को पारदर्शिता बढ़ाने में सक्रिय भूमिका निभानी चाहिए।",
+    "• न्यायिक स्वतंत्रता और जवाबदेही के बीच संतुलन स्थापित करना।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Accountability – Key Aspects",
+      "titleHindi": "न्यायिक जवाबदेही – मुख्य पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Need", "Ensure impartiality, speedy justice, reduce case backlog, transparency."],
+        ["Challenges", "Impeachment impractical, RTI exemptions, contempt power issues, corruption risk."],
+        ["Advantages", "Strengthens rule of law, reduces corruption, promotes responsibility."],
+        ["Measures", "Judicial code of conduct, civil society role, balance independence with accountability."]
+      ],
+      "rowsHindi": [
+        ["आवश्यकता", "निष्पक्षता सुनिश्चित करना, त्वरित न्याय, लंबित मामलों को कम करना, पारदर्शिता।"],
+        ["चुनौतियाँ", "महाभियोग अप्रभावी, RTI छूट, अवमानना शक्ति, भ्रष्टाचार का खतरा।"],
+        ["लाभ", "कानून का शासन सुदृढ़, भ्रष्टाचार में कमी, जिम्मेदारी को बढ़ावा।"],
+        ["कदम", "आचार संहिता, नागरिक समाज की भूमिका, स्वतंत्रता और जवाबदेही का संतुलन।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial accountability ensures transparency and public trust.",
+    "Impeachment under Article 124(4) is the only constitutional removal method but impractical.",
+    "RTI Act applies to judiciary with limited disclosure.",
+    "Article 142 gives SC wide powers impacting accountability."
+  ],
+  "prelimsTipsHindi": [
+    "न्यायिक जवाबदेही पारदर्शिता और जन विश्वास सुनिश्चित करती है।",
+    "अनुच्छेद 124(4) के तहत महाभियोग ही हटाने का संवैधानिक तरीका है लेकिन अप्रभावी है।",
+    "RTI अधिनियम न्यायपालिका पर लागू होता है लेकिन सीमित जानकारी देता है।",
+    "अनुच्छेद 142 सुप्रीम कोर्ट को व्यापक शक्तियाँ देता है जो जवाबदेही को प्रभावित करती हैं।"
+  ],
+  "mainsPoints": [
+    "Judicial accountability balances independence with transparency and responsibility.",
+    "Impeachment provision is impractical; reforms needed for alternative accountability mechanisms.",
+    "RTI disclosures and annual reporting should be institutionalized.",
+    "Civil society and media play a crucial role in ensuring accountability.",
+    "Judicial accountability is key for upholding rule of law and protecting citizens’ rights."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक जवाबदेही स्वतंत्रता के साथ पारदर्शिता और जिम्मेदारी का संतुलन बनाती है।",
+    "महाभियोग प्रावधान अप्रभावी है; वैकल्पिक जवाबदेही तंत्र के लिए सुधार आवश्यक।",
+    "RTI खुलासे और वार्षिक रिपोर्टिंग को संस्थागत रूप देना चाहिए।",
+    "नागरिक समाज और मीडिया जवाबदेही सुनिश्चित करने में महत्वपूर्ण भूमिका निभाते हैं।",
+    "न्यायिक जवाबदेही कानून के शासन और नागरिक अधिकारों की रक्षा के लिए आवश्यक है।"
+  ]
+},
+{
+  "heading": "Way Forward for Contempt Power and Judicial Accountability",
+  "headingHindi": "अवमानना शक्ति और न्यायिक जवाबदेही के लिए आगे का मार्ग",
+  "highlight": "While contempt powers of the Supreme Court are essential to maintain judicial authority, they require reforms to align with democratic principles and contemporary needs. A balanced approach involving legal clarity, institutional reforms, and greater transparency can strengthen both judicial dignity and accountability.",
+  "highlightHindi": "सुप्रीम कोर्ट की अवमानना शक्ति न्यायिक अधिकार बनाए रखने के लिए आवश्यक है, लेकिन इन्हें लोकतांत्रिक सिद्धांतों और आधुनिक आवश्यकताओं के अनुरूप सुधार की जरूरत है। कानूनी स्पष्टता, संस्थागत सुधार और अधिक पारदर्शिता से न्यायिक गरिमा और जवाबदेही दोनों को मजबूत किया जा सकता है।",
+  "details": [
+    "## Way Forward",
+    "• **Clear Guidelines:** Narrow the scope of criminal contempt by defining 'scandalising the court' more precisely.",
+    "• **Strengthen Transparency:** Ensure publication of reasons for contempt actions and annual judicial performance reports.",
+    "• **Balance Independence with Accountability:** Reform mechanisms like RTI applicability and codes of conduct for judges.",
+    "• **Use Contempt Sparingly:** Restrict contempt powers to cases where administration of justice is genuinely obstructed.",
+    "• **Judicial Reforms:** Consider alternative mechanisms such as Judicial Standards and Accountability Bill or stronger internal oversight.",
+    "• **Global Best Practices:** Learn from other democracies (e.g., UK, US) where contempt powers are limited to obstruction of justice, not criticism."
+  ],
+  "detailsHindi": [
+    "## आगे का मार्ग",
+    "• **स्पष्ट दिशा-निर्देश:** आपराधिक अवमानना की परिभाषा को संकीर्ण करना और 'न्यायालय की प्रतिष्ठा घटाने' को स्पष्ट रूप से परिभाषित करना।",
+    "• **पारदर्शिता को मजबूत करना:** अवमानना कार्यवाही के कारणों को सार्वजनिक करना और वार्षिक न्यायिक प्रदर्शन रिपोर्ट जारी करना।",
+    "• **स्वतंत्रता और जवाबदेही में संतुलन:** न्यायाधीशों के लिए आचार संहिता और RTI के दायरे को बेहतर बनाना।",
+    "• **सीमित उपयोग:** अवमानना शक्ति केवल उन्हीं मामलों में लागू हो जहां न्याय प्रशासन वास्तव में बाधित हो।",
+    "• **न्यायिक सुधार:** न्यायिक मानक और जवाबदेही विधेयक या आंतरिक निगरानी जैसे वैकल्पिक तंत्र पर विचार।",
+    "• **वैश्विक सर्वोत्तम अभ्यास:** अन्य लोकतंत्रों (जैसे यूके, यूएस) से सीखना जहां अवमानना शक्तियाँ केवल न्याय प्रशासन में बाधा तक सीमित हैं, आलोचना तक नहीं।"
+  ],
+  "tables": [
+    {
+      "title": "Way Forward – Key Reforms",
+      "titleHindi": "आगे का मार्ग – प्रमुख सुधार",
+      "columns": ["Area", "Proposed Reform"],
+      "columnsHindi": ["क्षेत्र", "प्रस्तावित सुधार"],
+      "rows": [
+        ["Definition", "Narrow scope of criminal contempt"],
+        ["Transparency", "Publish reasons and annual reports"],
+        ["Accountability", "Introduce codes of conduct, RTI coverage"],
+        ["Use", "Restrict contempt to obstruction of justice"],
+        ["Reforms", "Judicial Standards & Accountability Bill"],
+        ["Global Learning", "Adopt best practices from UK, US"]
+      ],
+      "rowsHindi": [
+        ["परिभाषा", "आपराधिक अवमानना का दायरा सीमित करना"],
+        ["पारदर्शिता", "कारण और वार्षिक रिपोर्ट प्रकाशित करना"],
+        ["जवाबदेही", "आचार संहिता और RTI को लागू करना"],
+        ["उपयोग", "केवल न्याय में बाधा तक अवमानना का प्रयोग"],
+        ["सुधार", "न्यायिक मानक और जवाबदेही विधेयक"],
+        ["वैश्विक सीख", "यूके, यूएस जैसे सर्वोत्तम अभ्यास अपनाना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "44th Amendment safeguarded FR under Articles 20 & 21 from suspension even during emergencies.",
+    "UK abolished 'scandalising the court' contempt offence in 2013.",
+    "Judicial Standards and Accountability Bill was proposed but lapsed.",
+    "Contempt power in India is constitutionally derived (Art. 129, 142)."
+  ],
+  "prelimsTipsHindi": [
+    "44वें संशोधन ने अनुच्छेद 20 और 21 के मौलिक अधिकारों को आपातकाल में भी निलंबन से सुरक्षित किया।",
+    "यूके ने 2013 में 'न्यायालय की प्रतिष्ठा घटाने' अपराध समाप्त किया।",
+    "न्यायिक मानक और जवाबदेही विधेयक प्रस्तावित हुआ था लेकिन पारित नहीं हुआ।",
+    "भारत में अवमानना शक्ति संविधान (अनुच्छेद 129, 142) से प्राप्त है।"
+  ],
+  "mainsPoints": [
+    "Judicial contempt powers should be redefined to balance free speech with judicial dignity.",
+    "Greater transparency and reporting can improve accountability without undermining independence.",
+    "Judicial reforms like a code of conduct and accountability law are needed.",
+    "Global practices suggest limiting contempt to obstruction of justice, not criticism.",
+    "Balancing independence with accountability is key to strengthening democracy and rule of law."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक अवमानना शक्तियों को फिर से परिभाषित करना चाहिए ताकि अभिव्यक्ति की स्वतंत्रता और न्यायिक गरिमा में संतुलन हो।",
+    "अधिक पारदर्शिता और रिपोर्टिंग स्वतंत्रता को नुकसान पहुँचाए बिना जवाबदेही बढ़ा सकती है।",
+    "न्यायिक आचार संहिता और जवाबदेही कानून जैसे सुधार आवश्यक हैं।",
+    "वैश्विक अभ्यास सुझाव देते हैं कि अवमानना शक्ति केवल न्याय प्रशासन में बाधा तक सीमित होनी चाहिए, आलोचना तक नहीं।",
+    "स्वतंत्रता और जवाबदेही का संतुलन लोकतंत्र और कानून के शासन को मजबूत करने की कुंजी है।"
+  ]
+},
+{
+  "heading": "Judicial Review in India",
+  "headingHindi": "भारत में न्यायिक पुनरावलोकन",
+  "highlight": "Judicial Review is the power of the judiciary to assess the constitutionality of laws and executive actions of both Central and State governments. Though not explicitly mentioned in the Constitution, it forms part of the basic structure doctrine and ensures the supremacy of the Constitution and protection of Fundamental Rights.",
+  "highlightHindi": "न्यायिक पुनरावलोकन न्यायपालिका की वह शक्ति है जिसके तहत केंद्र और राज्य सरकारों के कानूनों और कार्यपालिका के आदेशों की संवैधानिकता की जांच की जाती है। यद्यपि संविधान में इसका स्पष्ट उल्लेख नहीं है, यह मूल संरचना का हिस्सा है और संविधान की सर्वोच्चता एवं मौलिक अधिकारों की रक्षा सुनिश्चित करता है।",
+  "details": [
+    "## Constitutional Provisions for Judicial Review",
+    "• Term 'Judicial Review' is not explicitly mentioned in the Constitution.",
+    "• Powers conferred to the Supreme Court and High Courts.",
+    "• Judicial Review is part of the basic structure doctrine.",
+    "• Derived from several constitutional provisions:",
+    "  – Article 13: Laws inconsistent with Fundamental Rights shall be void.",
+    "  – Article 32: Right to move Supreme Court for enforcement of Fundamental Rights.",
+    "  – Article 136: Special leave provision to Supreme Court.",
+    "  – Article 226: High Courts’ power to issue writs.",
+    "## Types of Judicial Review",
+    "### 1. Review of Legislative Actions and Constitutional Amendments",
+    "• Example: Indira Gandhi Case (1975) – SC invalidated a provision of the 39th Amendment Act which barred courts from hearing election disputes of PM and Speaker.",
+    "### 2. Review of Administrative Actions",
+    "• Example: Anuradha Bhasin Case (2020) – SC ruled indefinite suspension of internet services unconstitutional.",
+    "### 3. Review of Judicial Decisions",
+    "• Example: Kesavananda Bharati Case (1973) – SC overruled Golaknath Case (1967).",
+    "• Golaknath Case gave Fundamental Rights a 'transcendental and immutable' status, but Kesavananda Bharati established Basic Structure Doctrine."
+  ],
+  "detailsHindi": [
+    "## न्यायिक पुनरावलोकन के संवैधानिक प्रावधान",
+    "• 'न्यायिक पुनरावलोकन' शब्द का संविधान में स्पष्ट उल्लेख नहीं है।",
+    "• यह शक्ति सुप्रीम कोर्ट और उच्च न्यायालयों को दी गई है।",
+    "• न्यायिक पुनरावलोकन संविधान की मूल संरचना का हिस्सा है।",
+    "• यह कई संवैधानिक प्रावधानों से उत्पन्न होता है:",
+    "  – अनुच्छेद 13: मौलिक अधिकारों के विपरीत सभी कानून शून्य होंगे।",
+    "  – अनुच्छेद 32: मौलिक अधिकारों के प्रवर्तन के लिए सुप्रीम कोर्ट जाने का अधिकार।",
+    "  – अनुच्छेद 136: सुप्रीम कोर्ट की विशेष अनुमति याचिका की शक्ति।",
+    "  – अनुच्छेद 226: उच्च न्यायालयों की रिट जारी करने की शक्ति।",
+    "## न्यायिक पुनरावलोकन के प्रकार",
+    "### 1. विधायी कार्रवाइयों और संवैधानिक संशोधनों का पुनरावलोकन",
+    "• उदाहरण: इंदिरा गांधी केस (1975) – सुप्रीम कोर्ट ने 39वें संशोधन अधिनियम की धारा को असंवैधानिक ठहराया जिसने प्रधानमंत्री और लोकसभा अध्यक्ष से जुड़े चुनाव विवादों को न्यायालय के अधिकार क्षेत्र से बाहर कर दिया था।",
+    "### 2. प्रशासनिक कार्रवाइयों का पुनरावलोकन",
+    "• उदाहरण: अनुराधा भसीन केस (2020) – सुप्रीम कोर्ट ने इंटरनेट सेवाओं के अनिश्चितकालीन निलंबन को असंवैधानिक करार दिया।",
+    "### 3. न्यायिक निर्णयों का पुनरावलोकन",
+    "• उदाहरण: केशवानंद भारती केस (1973) – सुप्रीम कोर्ट ने गोलकनाथ केस (1967) के निर्णय को पलट दिया।",
+    "• गोलकनाथ केस में मौलिक अधिकारों को 'अतिक्रमण न करने योग्य और अपरिवर्तनीय' दर्जा दिया गया था, लेकिन केशवानंद भारती केस ने मूल संरचना सिद्धांत स्थापित किया।"
+  ],
+  "tables": [
+    {
+      "title": "Types of Judicial Review – Examples",
+      "titleHindi": "न्यायिक पुनरावलोकन के प्रकार – उदाहरण",
+      "columns": ["Type", "Example", "Significance"],
+      "columnsHindi": ["प्रकार", "उदाहरण", "महत्व"],
+      "rows": [
+        ["Legislative Actions", "Indira Gandhi Case (1975)", "Struck down amendment excluding PM’s election disputes from courts"],
+        ["Administrative Actions", "Anuradha Bhasin Case (2020)", "Prohibited indefinite internet suspension"],
+        ["Judicial Decisions", "Kesavananda Bharati Case (1973)", "Established Basic Structure Doctrine"]
+      ],
+      "rowsHindi": [
+        ["विधायी कार्रवाई", "इंदिरा गांधी केस (1975)", "पीएम के चुनाव विवादों को न्यायालय से बाहर रखने वाला संशोधन निरस्त"],
+        ["प्रशासनिक कार्रवाई", "अनुराधा भसीन केस (2020)", "इंटरनेट सेवाओं के अनिश्चितकालीन निलंबन को असंवैधानिक ठहराया"],
+        ["न्यायिक निर्णय", "केशवानंद भारती केस (1973)", "मूल संरचना सिद्धांत स्थापित किया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial Review is not explicitly mentioned in the Constitution.",
+    "Articles 13, 32, 136, and 226 provide the basis of Judicial Review.",
+    "Kesavananda Bharati Case (1973) established the Basic Structure Doctrine.",
+    "Indira Gandhi Case (1975) struck down 39th Amendment provisions."
+  ],
+  "prelimsTipsHindi": [
+    "संविधान में न्यायिक पुनरावलोकन का स्पष्ट उल्लेख नहीं है।",
+    "अनुच्छेद 13, 32, 136 और 226 न्यायिक पुनरावलोकन का आधार हैं।",
+    "केशवानंद भारती केस (1973) ने मूल संरचना सिद्धांत स्थापित किया।",
+    "इंदिरा गांधी केस (1975) ने 39वें संशोधन के प्रावधान को निरस्त किया।"
+  ],
+  "mainsPoints": [
+    "Judicial Review upholds the supremacy of the Constitution and protects Fundamental Rights.",
+    "It acts as a check on legislative and executive overreach.",
+    "Part of the Basic Structure, hence cannot be amended away.",
+    "Has evolved through landmark cases like Kesavananda Bharati, Indira Gandhi, and Anuradha Bhasin.",
+    "Judicial Review balances constitutional governance with rule of law."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक पुनरावलोकन संविधान की सर्वोच्चता और मौलिक अधिकारों की रक्षा सुनिश्चित करता है।",
+    "यह विधायिका और कार्यपालिका की अतिक्रमणकारी प्रवृत्तियों पर नियंत्रण रखता है।",
+    "यह संविधान की मूल संरचना का हिस्सा है, इसलिए इसे संशोधन द्वारा समाप्त नहीं किया जा सकता।",
+    "केशवानंद भारती, इंदिरा गांधी और अनुराधा भसीन जैसे मामलों से इसका विकास हुआ।",
+    "न्यायिक पुनरावलोकन संवैधानिक शासन और कानून के शासन के बीच संतुलन बनाए रखता है।"
+  ]
+},
+{
+  "heading": "Comparison of Judicial Review in India and USA",
+  "headingHindi": "भारत और अमेरिका में न्यायिक पुनरावलोकन की तुलना",
+  "highlight": "Judicial Review in India is narrower in scope compared to the USA. The American Constitution is based on 'Due Process of Law', while the Indian Constitution follows 'Procedure Established by Law'. However, over time, the Indian judiciary has expanded its interpretation to incorporate fairness and justice, synthesizing American judicial supremacy with British parliamentary sovereignty.",
+  "highlightHindi": "भारत में न्यायिक पुनरावलोकन का दायरा अमेरिका की तुलना में संकरा है। अमेरिकी संविधान 'न्यायिक प्रक्रिया का पालन (Due Process of Law)' पर आधारित है, जबकि भारतीय संविधान 'कानून द्वारा स्थापित प्रक्रिया (Procedure Established by Law)' का अनुसरण करता है। हालांकि, समय के साथ भारतीय न्यायपालिका ने अपनी व्याख्या को विस्तारित किया है ताकि न्याय और निष्पक्षता को शामिल किया जा सके, और इस प्रकार अमेरिकी न्यायिक सर्वोच्चता तथा ब्रिटिश संसदीय संप्रभुता का एक संश्लेषण प्रस्तुत किया है।",
+  "details": [
+    "## Due Process of Law (USA)",
+    "• Law must be fair, just, and reasonable.",
+    "• Procedures followed should ensure justice and protect individual rights.",
+    "• Broader scope: Includes both substance and procedure of law.",
+    "• Formula: Due Process = Procedure Established by Law + fairness, justice, and non-arbitrariness.",
+    "## Procedure Established by Law (India)",
+    "• Law enacted by legislature is valid if proper procedure is followed.",
+    "• Court checks only whether law is within the authority of legislature.",
+    "• Reasonableness or fairness of law not questioned originally.",
+    "• Narrower scope compared to USA.",
+    "## Indian Synthesis",
+    "• India has adopted a blend of the US and UK models.",
+    "• Incorporates US principle of judicial supremacy (courts can strike down unconstitutional laws).",
+    "• Retains UK’s parliamentary sovereignty principle in legislative supremacy subject to constitutional limits.",
+    "• Over time, SC expanded 'procedure established by law' to include fairness (e.g., Maneka Gandhi Case, 1978)."
+  ],
+  "detailsHindi": [
+    "## न्यायिक प्रक्रिया का पालन (Due Process of Law - USA)",
+    "• कानून निष्पक्ष, न्यायपूर्ण और उचित होना चाहिए।",
+    "• प्रक्रिया से न्याय सुनिश्चित होना चाहिए और व्यक्तिगत अधिकारों की रक्षा करनी चाहिए।",
+    "• व्यापक दायरा: कानून की विषयवस्तु और प्रक्रिया दोनों की जांच।",
+    "• सूत्र: Due Process = कानून द्वारा स्थापित प्रक्रिया + निष्पक्षता, न्याय और गैर-मनमानी।",
+    "## कानून द्वारा स्थापित प्रक्रिया (Procedure Established by Law - India)",
+    "• संसद या विधायिका द्वारा पारित कानून तभी मान्य होगा जब उचित प्रक्रिया का पालन किया गया हो।",
+    "• न्यायालय केवल यह देखता है कि कानून बनाने का अधिकार विधायिका के पास है या नहीं।",
+    "• कानून की उचितता या न्यायसंगतता की जांच मूल रूप से नहीं होती।",
+    "• दायरे में USA से संकरा।",
+    "## भारतीय संश्लेषण",
+    "• भारत ने अमेरिका और ब्रिटेन दोनों मॉडलों का मिश्रण अपनाया।",
+    "• अमेरिका से न्यायिक सर्वोच्चता सिद्धांत (असंवैधानिक कानून रद्द करने की शक्ति) अपनाई।",
+    "• ब्रिटेन से संसदीय संप्रभुता का तत्व लिया, लेकिन यह संवैधानिक सीमाओं के अधीन है।",
+    "• समय के साथ SC ने 'कानून द्वारा स्थापित प्रक्रिया' की व्याख्या में निष्पक्षता को शामिल किया (उदा. : मेनका गांधी केस, 1978)।"
+  ],
+  "tables": [
+    {
+      "title": "Procedure Established by Law vs Due Process of Law",
+      "titleHindi": "कानून द्वारा स्थापित प्रक्रिया बनाम न्यायिक प्रक्रिया का पालन",
+      "columns": ["Aspect", "Procedure Established by Law (India)", "Due Process of Law (USA)"],
+      "columnsHindi": ["पहलू", "कानून द्वारा स्थापित प्रक्रिया (भारत)", "न्यायिक प्रक्रिया का पालन (अमेरिका)"],
+      "rows": [
+        ["Meaning", "Law valid if proper procedure followed", "Law must be just, fair, reasonable"],
+        ["Scope", "Checks only authority and procedure", "Checks both substance and procedure"],
+        ["Fairness Test", "Not originally included", "Essential part of review"],
+        ["Impact", "Even unjust law valid if procedure followed", "Unjust law declared null and void"],
+        ["Judicial Philosophy", "Narrower scope, limited review", "Broader scope, deeper review"]
+      ],
+      "rowsHindi": [
+        ["अर्थ", "उचित प्रक्रिया अपनाई गई तो कानून मान्य", "कानून न्यायपूर्ण, निष्पक्ष और उचित होना चाहिए"],
+        ["दायरा", "केवल अधिकार और प्रक्रिया की जांच", "कानून की विषयवस्तु और प्रक्रिया दोनों की जांच"],
+        ["न्यायसंगतता की कसौटी", "मूल रूप से शामिल नहीं", "मूलभूत हिस्सा"],
+        ["प्रभाव", "अन्यायपूर्ण कानून भी मान्य", "अन्यायपूर्ण कानून अमान्य घोषित"],
+        ["न्यायिक दर्शन", "संकरा दायरा, सीमित पुनरावलोकन", "विस्तृत दायरा, गहन पुनरावलोकन"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial Review in India is narrower than in USA.",
+    "US Constitution uses 'Due Process of Law', Indian Constitution uses 'Procedure Established by Law'.",
+    "Maneka Gandhi Case (1978) expanded scope of 'procedure established by law' to include fairness and justice.",
+    "India synthesises US judicial supremacy and UK parliamentary sovereignty."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में न्यायिक पुनरावलोकन का दायरा अमेरिका से संकरा है।",
+    "अमेरिकी संविधान में 'Due Process of Law' जबकि भारतीय संविधान में 'Procedure Established by Law' का उपयोग।",
+    "मेनका गांधी केस (1978) ने 'कानून द्वारा स्थापित प्रक्रिया' में न्याय और निष्पक्षता को शामिल किया।",
+    "भारत ने अमेरिकी न्यायिक सर्वोच्चता और ब्रिटिश संसदीय संप्रभुता का मिश्रण अपनाया।"
+  ],
+  "mainsPoints": [
+    "Judicial Review in USA is based on due process, giving courts wider authority.",
+    "India originally adopted narrower scope but later expanded it through judicial interpretation.",
+    "Indian system balances parliamentary sovereignty with judicial supremacy.",
+    "Key cases like Maneka Gandhi broadened Indian judicial review closer to US model.",
+    "Ensures Constitution remains supreme while respecting democratic law-making."
+  ],
+  "mainsPointsHindi": [
+    "अमेरिका में न्यायिक पुनरावलोकन 'Due Process' पर आधारित है, जिससे अदालतों को व्यापक अधिकार मिलते हैं।",
+    "भारत ने प्रारंभिक रूप से संकरा दायरा अपनाया लेकिन बाद में न्यायिक व्याख्या से इसे विस्तारित किया।",
+    "भारतीय प्रणाली संसदीय संप्रभुता और न्यायिक सर्वोच्चता का संतुलन बनाए रखती है।",
+    "मेनका गांधी केस जैसे मामलों ने भारतीय न्यायिक पुनरावलोकन को अमेरिकी मॉडल के करीब लाया।",
+    "यह सुनिश्चित करता है कि संविधान सर्वोच्च बना रहे और लोकतांत्रिक कानून निर्माण का सम्मान हो।"
+  ]
+},
+{
+  "heading": "Judicial Review – Grounds, Ninth Schedule, Importance and Limitations",
+  "headingHindi": "न्यायिक पुनरावलोकन – आधार, नौंवीं अनुसूची, महत्व और सीमाएँ",
+  "highlight": "Judicial review safeguards the supremacy of the Constitution by ensuring laws and executive actions conform to constitutional limits. It protects fundamental rights, ensures accountability, and maintains checks and balances, but also faces limitations like judicial delays, political pressures, and concerns of judicial overreach.",
+  "highlightHindi": "न्यायिक पुनरावलोकन संविधान की सर्वोच्चता को सुनिश्चित करता है, यह देखकर कि कानून और कार्यपालिका की कार्रवाइयाँ संवैधानिक सीमाओं के अनुरूप हों। यह मौलिक अधिकारों की रक्षा करता है, जवाबदेही सुनिश्चित करता है और नियंत्रण-संतुलन बनाए रखता है, लेकिन इसमें न्यायिक देरी, राजनीतिक दबाव और न्यायिक अतिक्रमण जैसी सीमाएँ भी हैं।",
+  "details": [
+    "## Grounds to Challenge the Constitutional Validity of Law",
+    "• Infringement of Fundamental Rights (Part III).",
+    "• Law framed outside the competence of the authority.",
+    "• Repugnant to other constitutional provisions.",
+    "## Judicial Review of the Ninth Schedule",
+    "• Article 31B protects Ninth Schedule laws from judicial challenge.",
+    "• Ninth Schedule was added by the First Constitutional Amendment Act, 1951.",
+    "• I.R. Coelho Case (2007):",
+    "  – No blanket immunity from judicial review.",
+    "  – Laws placed in the Ninth Schedule after April 24, 1973 (Kesavananda Bharati judgment), are subject to review for violation of the ‘basic structure’ doctrine.",
+    "## Importance of Judicial Review",
+    "• Protection of individual rights – allows citizens to challenge unconstitutional actions.",
+    "• Ensures checks and balances between organs of government.",
+    "• Government accountability is promoted.",
+    "• Consistency and uniformity in interpretation of laws.",
+    "• Promotes good governance by ensuring transparency.",
+    "• Upholds supremacy of the Constitution.",
+    "• Protects the federal structure of India.",
+    "## Limitations of Judicial Review",
+    "• May undermine doctrine of separation of powers.",
+    "• Judgments may sometimes harm public interest or be influenced by narrow motives.",
+    "• Judicial delays reduce the effectiveness of review.",
+    "• Backlog of cases makes judicial review difficult in practice.",
+    "• Political pressures may limit its scope.",
+    "• Interpretation of the Constitution can be subjective, leading to uncertainty."
+  ],
+  "detailsHindi": [
+    "## कानून की संवैधानिक वैधता को चुनौती देने के आधार",
+    "• मौलिक अधिकारों (भाग III) का उल्लंघन।",
+    "• कानून उस प्राधिकरण की क्षमता से बाहर बनाया गया हो।",
+    "• संवैधानिक प्रावधानों से विरोधाभासी हो।",
+    "## नौंवीं अनुसूची का न्यायिक पुनरावलोकन",
+    "• अनुच्छेद 31B नौंवीं अनुसूची के कानूनों को न्यायिक चुनौती से बचाता है।",
+    "• नौंवीं अनुसूची को प्रथम संविधान संशोधन अधिनियम, 1951 द्वारा जोड़ा गया।",
+    "• आई.आर. कोएल्हो केस (2007):",
+    "  – नौंवीं अनुसूची को पूर्ण प्रतिरक्षा नहीं।",
+    "  – 24 अप्रैल 1973 (केशवानंद भारती केस) के बाद डाले गए कानूनों की समीक्षा ‘मूल संरचना’ सिद्धांत के उल्लंघन के आधार पर की जा सकती है।",
+    "## न्यायिक पुनरावलोकन का महत्व",
+    "• व्यक्तिगत अधिकारों की रक्षा – नागरिकों को असंवैधानिक कार्रवाइयों को चुनौती देने का अधिकार।",
+    "• सरकार की तीनों संस्थाओं में नियंत्रण और संतुलन सुनिश्चित।",
+    "• सरकार की जवाबदेही को बढ़ावा।",
+    "• कानूनों की व्याख्या में स्थिरता और एकरूपता।",
+    "• पारदर्शिता सुनिश्चित कर सुशासन को प्रोत्साहित करना।",
+    "• संविधान की सर्वोच्चता को बनाए रखना।",
+    "• भारत की संघीय संरचना की रक्षा करना।",
+    "## न्यायिक पुनरावलोकन की सीमाएँ",
+    "• शक्तियों के पृथक्करण के सिद्धांत को कमजोर कर सकता है।",
+    "• कभी-कभी निर्णय संकीर्ण या स्वार्थी उद्देश्यों से प्रभावित होकर जनहित को नुकसान पहुँचा सकते हैं।",
+    "• न्यायिक देरी से पुनरावलोकन अप्रभावी हो जाता है।",
+    "• मामलों का बैकलॉग पुनरावलोकन को कठिन बनाता है।",
+    "• राजनीतिक दबाव इसके दायरे को सीमित कर सकते हैं।",
+    "• संविधान की व्याख्या व्यक्तिपरक हो सकती है, जिससे अनिश्चितता उत्पन्न होती है।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Review – Importance vs Limitations",
+      "titleHindi": "न्यायिक पुनरावलोकन – महत्व बनाम सीमाएँ",
+      "columns": ["Aspect", "Importance", "Limitations"],
+      "columnsHindi": ["पहलू", "महत्व", "सीमाएँ"],
+      "rows": [
+        ["Fundamental Rights", "Protects individual rights", "Subjective interpretation may dilute rights"],
+        ["Checks and Balances", "Controls legislative and executive excesses", "May undermine separation of powers"],
+        ["Governance", "Promotes transparency and accountability", "Judicial delays reduce impact"],
+        ["Federal Structure", "Protects state-centre balance", "Political pressures may restrict review"]
+      ],
+      "rowsHindi": [
+        ["मौलिक अधिकार", "व्यक्तिगत अधिकारों की रक्षा", "व्याख्या की व्यक्तिपरकता अधिकारों को कमजोर कर सकती है"],
+        ["नियंत्रण और संतुलन", "विधायिका और कार्यपालिका के अतिक्रमण को नियंत्रित करता है", "शक्तियों के पृथक्करण को कमजोर कर सकता है"],
+        ["शासन", "पारदर्शिता और जवाबदेही को बढ़ावा", "न्यायिक देरी से प्रभाव कम"],
+        ["संघीय संरचना", "केंद्र-राज्य संतुलन की रक्षा करता है", "राजनीतिक दबाव दायरे को सीमित कर सकते हैं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 31B protects Ninth Schedule laws, but subject to basic structure review (I.R. Coelho, 2007).",
+    "Judicial review is part of the basic structure of the Constitution.",
+    "Article 13 declares laws inconsistent with FR as null and void.",
+    "First Constitutional Amendment Act, 1951 introduced the Ninth Schedule."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 31B नौंवीं अनुसूची के कानूनों की रक्षा करता है, लेकिन मूल संरचना सिद्धांत की समीक्षा संभव (आई.आर. कोएल्हो, 2007)।",
+    "न्यायिक पुनरावलोकन संविधान की मूल संरचना का हिस्सा है।",
+    "अनुच्छेद 13 असंगत कानूनों को शून्य और अमान्य घोषित करता है।",
+    "प्रथम संविधान संशोधन अधिनियम, 1951 द्वारा नौंवीं अनुसूची जोड़ी गई।"
+  ],
+  "mainsPoints": [
+    "Judicial review ensures constitutional supremacy and protection of fundamental rights.",
+    "Ninth Schedule review balances socio-economic reforms with constitutional principles.",
+    "Important in maintaining checks and balances and preventing arbitrary governance.",
+    "However, limitations like delays, subjectivity, and political pressures restrict its effectiveness.",
+    "A balance must be struck to avoid judicial overreach while maintaining accountability."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक पुनरावलोकन संविधान की सर्वोच्चता और मौलिक अधिकारों की रक्षा सुनिश्चित करता है।",
+    "नौंवीं अनुसूची की समीक्षा सामाजिक-आर्थिक सुधार और संवैधानिक सिद्धांतों में संतुलन बनाए रखती है।",
+    "नियंत्रण और संतुलन बनाए रखने तथा मनमाने शासन को रोकने में महत्वपूर्ण।",
+    "हालाँकि, देरी, व्यक्तिपरकता और राजनीतिक दबाव जैसी सीमाएँ इसकी प्रभावशीलता को कम करती हैं।",
+    "न्यायिक अतिक्रमण से बचते हुए जवाबदेही बनाए रखने के लिए संतुलन आवश्यक है।"
+  ]
+},
+{
+  "heading": "Judicial Activism in India",
+  "headingHindi": "भारत में न्यायिक सक्रियता",
+  "highlight": "Judicial activism refers to the proactive role of the judiciary in interpreting the Constitution and laws to protect rights, ensure accountability, and uphold constitutional supremacy. Emerging strongly in the mid-1970s under Justice P.N. Bhagwati, it has evolved from a passive judiciary to one actively shaping governance through landmark judgments.",
+  "highlightHindi": "न्यायिक सक्रियता का अर्थ है संविधान और कानूनों की व्याख्या में न्यायपालिका की सक्रिय भूमिका, ताकि अधिकारों की रक्षा हो, जवाबदेही सुनिश्चित हो और संवैधानिक सर्वोच्चता बनी रहे। यह 1970 के दशक के मध्य में न्यायमूर्ति पी.एन. भगवती के नेतृत्व में उभर कर सामने आई और अब यह महत्वपूर्ण निर्णयों के माध्यम से शासन को आकार देने वाली भूमिका निभा रही है।",
+  "details": [
+    "## Meaning and Origin",
+    "• Proactive role of judiciary in interpreting the Constitution and laws.",
+    "• No explicit constitutional provision for judicial activism.",
+    "• Foundation in mid-1970s under Justice P.N. Bhagwati and others.",
+    "## Evolution of Judicial Activism in India",
+    "### Phase of Dominant Executive (1950–1970)",
+    "• Judiciary remained passive with minimal activism.",
+    "• Executive and legislature dominated constitutional space.",
+    "### Phase of Tussle (1970–2000)",
+    "• After Kesavananda Bharati (1973), judiciary took proactive stance.",
+    "• Protected constitutional supremacy through basic structure doctrine.",
+    "• Foundation of judicial activism firmly laid.",
+    "### Phase of Dominant Judiciary (2000–Present)",
+    "• Increasing activism with judicial guidelines in policy matters.",
+    "• Cases: Prakash Singh (police reforms), TSR Subramaniam (civil services reforms).",
+    "• Active intervention in health, education, environment, labour, corruption.",
+    "• Criticised at times as judicial overreach.",
+    "## Landmark Judgements",
+    "• Kesavananda Bharati v. State of Kerala (1973): Doctrine of Basic Structure.",
+    "• Maneka Gandhi v. Union of India (1978): Due Process of Law, broader interpretation of Article 21.",
+    "• Hussainara Khatoon v. State of Bihar (1979): Right to Speedy Trial as a fundamental right under Article 21.",
+    "• Minerva Mills v. Union of India (1980): Strengthened Basic Structure Doctrine, limited Parliament’s power under Article 368.",
+    "• S.R. Bommai v. Union of India (1994): Principle of Floor Test in assemblies.",
+    "• Vishaka v. State of Rajasthan (1997): Vishaka Guidelines on women’s safety and gender equality.",
+    "• Lodha Committee on BCCI: Introduced reforms for ethics in sports governance.",
+    "• Supreme Court Advocates-on-Record Association v. Union of India (2015): Struck down NJAC Act, upheld principle of judicial independence."
+  ],
+  "detailsHindi": [
+    "## अर्थ और उत्पत्ति",
+    "• संविधान और कानूनों की व्याख्या में न्यायपालिका की सक्रिय भूमिका।",
+    "• संविधान में न्यायिक सक्रियता का स्पष्ट प्रावधान नहीं।",
+    "• 1970 के दशक के मध्य में न्यायमूर्ति पी.एन. भगवती के नेतृत्व में शुरुआत।",
+    "## भारत में न्यायिक सक्रियता का विकास",
+    "### कार्यपालिका का प्रभुत्व (1950–1970)",
+    "• न्यायपालिका लगभग निष्क्रिय रही।",
+    "• कार्यपालिका और विधायिका का वर्चस्व।",
+    "### टकराव का दौर (1970–2000)",
+    "• केशवानंद भारती केस (1973) के बाद न्यायपालिका ने सक्रिय रुख अपनाया।",
+    "• मूल संरचना सिद्धांत द्वारा संवैधानिक सर्वोच्चता की रक्षा।",
+    "• न्यायिक सक्रियता की नींव पड़ी।",
+    "### न्यायपालिका का प्रभुत्व (2000–वर्तमान)",
+    "• नीतिगत मामलों में बढ़ती सक्रियता।",
+    "• मामले: प्रकाश सिंह (पुलिस सुधार), टीएसआर सुब्रमण्यम (सिविल सेवा सुधार)।",
+    "• स्वास्थ्य, शिक्षा, पर्यावरण, श्रम और भ्रष्टाचार में हस्तक्षेप।",
+    "• कभी-कभी न्यायिक अतिक्रमण के रूप में आलोचना।",
+    "## प्रमुख निर्णय",
+    "• केशवानंद भारती बनाम केरल राज्य (1973): मूल संरचना सिद्धांत।",
+    "• मेनका गांधी बनाम भारत संघ (1978): विधि की उचित प्रक्रिया, अनुच्छेद 21 की व्यापक व्याख्या।",
+    "• हुसैनारा खातून बनाम बिहार राज्य (1979): अनुच्छेद 21 के तहत त्वरित सुनवाई का अधिकार।",
+    "• मिनर्वा मिल्स बनाम भारत संघ (1980): मूल संरचना सिद्धांत को मजबूत किया, संसद की संशोधन शक्ति सीमित।",
+    "• एस.आर. बोम्मई बनाम भारत संघ (1994): विधानसभा में फ्लोर टेस्ट सिद्धांत।",
+    "• विशाखा बनाम राजस्थान राज्य (1997): महिलाओं की सुरक्षा और लैंगिक समानता पर दिशा-निर्देश।",
+    "• लोढ़ा समिति (बीसीसीआई): खेलों में नैतिकता और सुधार।",
+    "• सुप्रीम कोर्ट एडवोकेट्स-ऑन-रिकॉर्ड एसोसिएशन बनाम भारत संघ (2015): NJAC अधिनियम को निरस्त किया, न्यायिक स्वतंत्रता को बरकरार रखा।"
+  ],
+  "tables": [
+    {
+      "title": "Phases of Judicial Activism in India",
+      "titleHindi": "भारत में न्यायिक सक्रियता के चरण",
+      "columns": ["Phase", "Key Features"],
+      "columnsHindi": ["चरण", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["1950–1970 (Dominant Executive)", "Judiciary passive, activism absent"],
+        ["1970–2000 (Judiciary vs Executive)", "Judiciary asserted power post-Kesavananda; safeguarded Constitution"],
+        ["2000–Present (Dominant Judiciary)", "Judicial activism prominent; guidelines in governance; criticism of overreach"]
+      ],
+      "rowsHindi": [
+        ["1950–1970 (कार्यपालिका का प्रभुत्व)", "न्यायपालिका निष्क्रिय, सक्रियता अनुपस्थित"],
+        ["1970–2000 (न्यायपालिका बनाम कार्यपालिका)", "केशवानंद केस के बाद सक्रियता; संविधान की रक्षा"],
+        ["2000–वर्तमान (न्यायपालिका का प्रभुत्व)", "न्यायिक सक्रियता प्रमुख; शासन में दिशा-निर्देश; अतिक्रमण की आलोचना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial activism in India began prominently under Justice P.N. Bhagwati in the 1970s.",
+    "Kesavananda Bharati (1973): Basic Structure Doctrine.",
+    "Maneka Gandhi (1978): Expanded Article 21 with ‘due process of law’.",
+    "Vishaka (1997): Guidelines for protection of women in workplace."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में न्यायिक सक्रियता 1970 के दशक में न्यायमूर्ति पी.एन. भगवती के तहत प्रमुखता से शुरू हुई।",
+    "केशवानंद भारती (1973): मूल संरचना सिद्धांत।",
+    "मेनका गांधी (1978): अनुच्छेद 21 का विस्तार ‘विधि की उचित प्रक्रिया’ के साथ।",
+    "विशाखा (1997): कार्यस्थल पर महिलाओं की सुरक्षा के लिए दिशा-निर्देश।"
+  ],
+  "mainsPoints": [
+    "Judicial activism ensures constitutional supremacy and protection of rights.",
+    "It evolved from passive judiciary to assertive constitutional guardian.",
+    "Landmark cases demonstrate its role in expanding rights and governance reforms.",
+    "However, activism has raised concerns about judicial overreach and balance of powers.",
+    "Way forward: Ensure transparency, self-restraint, and dialogue with legislature and executive."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक सक्रियता संवैधानिक सर्वोच्चता और अधिकारों की रक्षा सुनिश्चित करती है।",
+    "यह निष्क्रिय न्यायपालिका से सक्रिय संवैधानिक संरक्षक तक विकसित हुई।",
+    "प्रमुख मामलों ने अधिकारों के विस्तार और सुधारों में इसकी भूमिका दर्शाई।",
+    "हालाँकि, न्यायिक सक्रियता ने अतिक्रमण और शक्तियों के संतुलन को लेकर चिंताएँ भी उठाई हैं।",
+    "आगे का रास्ता: पारदर्शिता, आत्म-संयम और विधायिका-कार्यपालिका के साथ संवाद आवश्यक।"
+  ]
+},
+{
+  "heading": "Reasons and Manifestations of Judicial Activism in India",
+  "headingHindi": "भारत में न्यायिक सक्रियता के कारण और स्वरूप",
+  "highlight": "Judicial activism in India emerged due to constitutional mandate, failure of other government organs, rise of Public Interest Litigations (PILs), progressive interpretation of law, and judicial independence. It manifests through PILs, judicial review, constitutional interpretation, and adoption of international conventions in legal framework.",
+  "highlightHindi": "भारत में न्यायिक सक्रियता का उदय संवैधानिक दायित्व, अन्य सरकारी अंगों की विफलता, लोकहित याचिकाओं (PIL) की वृद्धि, कानून की प्रगतिशील व्याख्या और न्यायिक स्वतंत्रता के कारण हुआ। इसका स्वरूप PIL, न्यायिक पुनरावलोकन, संवैधानिक व्याख्या और अंतर्राष्ट्रीय संधियों को कानून में शामिल करने के रूप में प्रकट होता है।",
+  "details": [
+    "## Reasons for Emergence of Judicial Activism",
+    "• Constitutional Mandate: Judiciary entrusted with upholding the Constitution and fundamental rights.",
+    "• Failure of Other Branches: Inaction or inefficiency of legislature and executive prompted judicial intervention.",
+    "• Public Interest Litigation (PIL): Allowed judiciary to address unattended social, economic, and political issues.",
+    "• Progressive Interpretation of Law: Expanded rights such as right to education, right to privacy, and LGBTQ rights.",
+    "• Judicial Independence: Enabled judges to act without fear of government reprisal.",
+    "• Hung Parliament: Judiciary stepped in to safeguard democratic values in times of political instability.",
+    "• Prevention of Abuse of Power: Judiciary intervened to curb misuse of authority for ulterior motives.",
+    "## Manifestation of Judicial Activism in India",
+    "### Public Interest Litigation (PIL)",
+    "• Example: S.P. Gupta vs. Union of India – expanded scope of PIL to include wider issues of public concern.",
+    "### Judicial Review",
+    "• Example: Kesavananda Bharati Case (1973) – established Basic Structure Doctrine.",
+    "### Constitutional Interpretation",
+    "• Example: Maneka Gandhi vs. Union of India (1978) – expanded Article 21, introduced 'due process of law'.",
+    "### Use of International Conventions",
+    "• Example: SC invoked Universal Declaration of Human Rights, 1948 principles into Indian legislation."
+  ],
+  "detailsHindi": [
+    "## न्यायिक सक्रियता के उदय के कारण",
+    "• संवैधानिक दायित्व: संविधान और मौलिक अधिकारों की रक्षा का दायित्व न्यायपालिका पर।",
+    "• अन्य अंगों की विफलता: विधायिका और कार्यपालिका की निष्क्रियता या अक्षम्यता के कारण हस्तक्षेप।",
+    "• लोकहित याचिका (PIL): समाज, अर्थव्यवस्था और राजनीति से जुड़े मुद्दों को न्यायपालिका ने उठाया।",
+    "• कानून की प्रगतिशील व्याख्या: शिक्षा का अधिकार, गोपनीयता का अधिकार, और LGBTQ अधिकारों का विस्तार।",
+    "• न्यायिक स्वतंत्रता: बिना सरकारी प्रतिशोध के हस्तक्षेप करने की क्षमता।",
+    "• त्रिशंकु संसद: राजनीतिक अस्थिरता में लोकतांत्रिक मूल्यों की रक्षा हेतु हस्तक्षेप।",
+    "• शक्ति के दुरुपयोग को रोकना: न्यायपालिका ने अनुचित उद्देश्यों हेतु शक्ति के दुरुपयोग को रोका।",
+    "## भारत में न्यायिक सक्रियता का स्वरूप",
+    "### लोकहित याचिका (PIL)",
+    "• उदाहरण: एस.पी. गुप्ता बनाम भारत संघ – PIL के दायरे का विस्तार।",
+    "### न्यायिक पुनरावलोकन",
+    "• उदाहरण: केशवानंद भारती केस (1973) – मूल संरचना सिद्धांत की स्थापना।",
+    "### संवैधानिक व्याख्या",
+    "• उदाहरण: मेनका गांधी बनाम भारत संघ (1978) – अनुच्छेद 21 का विस्तार, 'विधि की उचित प्रक्रिया' शामिल।",
+    "### अंतर्राष्ट्रीय संधियों का प्रयोग",
+    "• उदाहरण: सर्वोच्च न्यायालय ने मानवाधिकारों की सार्वभौम घोषणा, 1948 के सिद्धांतों को भारतीय कानून में शामिल किया।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Activism – Reasons vs Manifestations",
+      "titleHindi": "न्यायिक सक्रियता – कारण बनाम स्वरूप",
+      "columns": ["Reasons", "Manifestations"],
+      "columnsHindi": ["कारण", "स्वरूप"],
+      "rows": [
+        ["Constitutional mandate", "Judicial Review (Kesavananda Bharati Case)"],
+        ["Failure of legislature & executive", "Public Interest Litigations (S.P. Gupta Case)"],
+        ["Progressive interpretation of law", "Constitutional interpretation (Maneka Gandhi Case)"],
+        ["Judicial independence", "Use of international conventions (UDHR, 1948)"]
+      ],
+      "rowsHindi": [
+        ["संवैधानिक दायित्व", "न्यायिक पुनरावलोकन (केशवानंद भारती केस)"],
+        ["विधायिका और कार्यपालिका की विफलता", "लोकहित याचिकाएँ (एस.पी. गुप्ता केस)"],
+        ["कानून की प्रगतिशील व्याख्या", "संवैधानिक व्याख्या (मेनका गांधी केस)"],
+        ["न्यायिक स्वतंत्रता", "अंतर्राष्ट्रीय संधियों का प्रयोग (मानवाधिकारों की सार्वभौम घोषणा, 1948)"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial activism in India grew with rise of PILs in the 1980s.",
+    "Kesavananda Bharati Case (1973) laid foundation with Basic Structure Doctrine.",
+    "Maneka Gandhi Case (1978) expanded Article 21 with due process.",
+    "S.P. Gupta Case broadened scope of PIL."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में न्यायिक सक्रियता 1980 के दशक में PIL के उदय के साथ बढ़ी।",
+    "केशवानंद भारती केस (1973) ने मूल संरचना सिद्धांत स्थापित किया।",
+    "मेनका गांधी केस (1978) ने अनुच्छेद 21 का विस्तार किया।",
+    "एस.पी. गुप्ता केस ने PIL के दायरे को विस्तृत किया।"
+  ],
+  "mainsPoints": [
+    "Judicial activism emerged due to constitutional mandate and failure of political institutions.",
+    "PIL mechanism enabled judiciary to directly address public grievances.",
+    "Through progressive interpretation, judiciary expanded scope of fundamental rights.",
+    "Judicial activism manifested in PILs, judicial review, constitutional interpretation, and use of international principles.",
+    "Balance needed to avoid judicial overreach while ensuring accountability of other branches."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक सक्रियता का उदय संवैधानिक दायित्व और राजनीतिक संस्थाओं की विफलता से हुआ।",
+    "PIL तंत्र ने न्यायपालिका को सीधे जन शिकायतों को संबोधित करने का अवसर दिया।",
+    "प्रगतिशील व्याख्या के माध्यम से न्यायपालिका ने मौलिक अधिकारों के दायरे का विस्तार किया।",
+    "न्यायिक सक्रियता का स्वरूप PIL, न्यायिक पुनरावलोकन, संवैधानिक व्याख्या और अंतर्राष्ट्रीय सिद्धांतों में प्रकट हुआ।",
+    "न्यायिक अतिक्रमण से बचते हुए अन्य अंगों की जवाबदेही सुनिश्चित करने के लिए संतुलन आवश्यक।"
+  ]
+},
+{
+  "heading": "Judicial Review, Judicial Activism and Judicial Overreach",
+  "headingHindi": "न्यायिक पुनरावलोकन, न्यायिक सक्रियता और न्यायिक अतिक्रमण",
+  "highlight": "Judicial Review, Judicial Activism, and Judicial Overreach represent different aspects of judicial functioning in India. While judicial review is constitutionally backed, judicial activism arises from judicial interpretation, and judicial overreach occurs when the judiciary intrudes into the domain of legislature or executive, undermining separation of powers.",
+  "highlightHindi": "न्यायिक पुनरावलोकन, न्यायिक सक्रियता और न्यायिक अतिक्रमण भारत में न्यायपालिका की विभिन्न प्रवृत्तियों को दर्शाते हैं। न्यायिक पुनरावलोकन को संवैधानिक आधार प्राप्त है, न्यायिक सक्रियता न्यायिक व्याख्या से उत्पन्न होती है, जबकि न्यायिक अतिक्रमण तब होता है जब न्यायपालिका विधायिका या कार्यपालिका के क्षेत्र में हस्तक्षेप करती है और शक्तियों के पृथक्करण को कमजोर करती है।",
+  "details": [
+    "## Judicial Review",
+    "• Power of judiciary to check the constitutional validity of legislative enactments and executive orders.",
+    "• Origin: Article 13 of the Indian Constitution.",
+    "• Ensures supremacy of the Constitution and protection of fundamental rights.",
+    "## Judicial Activism",
+    "• Proactive role of judiciary when legislature or executive fail to act.",
+    "• No explicit constitutional basis; derived from judicial practices in USA.",
+    "• Expanded through Public Interest Litigations (PILs).",
+    "## Difference between Judicial Review and Judicial Activism",
+    "1. Judicial Review: Constitutionally backed power under Article 13; Judicial Activism: No constitutional basis, based on proactive interpretation.",
+    "2. Judicial Review: Ensures validity of laws; Judicial Activism: Steps in to fill gaps when legislature/executive fail.",
+    "## Judicial Overreach",
+    "• Situation where judiciary exceeds its jurisdiction by interfering in executive/legislative domain.",
+    "• Undermines principle of separation of powers.",
+    "• Examples:",
+    "  – 2016: Ban on sale of liquor along national highways (encroached on state powers).",
+    "  – 2012: Cancellation of 122 telecom licences (criticised as flawed interpretation).",
+    "## Difference between Judicial Activism and Judicial Overreach",
+    "• Judicial Activism: Upholds rule of law, respects checks and balances, aligned with public welfare.",
+    "• Judicial Overreach: Impedes democracy, violates separation of powers, amounts to judicial interference."
+  ],
+  "detailsHindi": [
+    "## न्यायिक पुनरावलोकन",
+    "• विधायी अधिनियमों और कार्यपालिका के आदेशों की संवैधानिक वैधता की जांच करने की शक्ति।",
+    "• आधार: भारतीय संविधान का अनुच्छेद 13।",
+    "• संविधान की सर्वोच्चता और मौलिक अधिकारों की रक्षा सुनिश्चित करता है।",
+    "## न्यायिक सक्रियता",
+    "• जब विधायिका या कार्यपालिका असफल होती है तो न्यायपालिका की सक्रिय भूमिका।",
+    "• कोई संवैधानिक आधार नहीं; अमेरिकी न्यायपालिका से प्रेरित।",
+    "• लोकहित याचिकाओं (PIL) के माध्यम से विस्तार।",
+    "## न्यायिक पुनरावलोकन और न्यायिक सक्रियता में अंतर",
+    "1. न्यायिक पुनरावलोकन: अनुच्छेद 13 से संवैधानिक शक्ति; न्यायिक सक्रियता: संवैधानिक आधार नहीं, सक्रिय व्याख्या पर आधारित।",
+    "2. न्यायिक पुनरावलोकन: कानूनों की वैधता की जाँच; न्यायिक सक्रियता: विधायिका/कार्यपालिका की विफलता पर हस्तक्षेप।",
+    "## न्यायिक अतिक्रमण",
+    "• स्थिति जब न्यायपालिका कार्यपालिका/विधायिका के क्षेत्र में हस्तक्षेप करके अपने अधिकार क्षेत्र से आगे बढ़ती है।",
+    "• शक्तियों के पृथक्करण के सिद्धांत को कमजोर करता है।",
+    "• उदाहरण:",
+    "  – 2016: राष्ट्रीय राजमार्गों पर शराब की बिक्री पर प्रतिबंध (राज्यों की शक्ति में हस्तक्षेप)।",
+    "  – 2012: 122 दूरसंचार लाइसेंसों का निरस्तीकरण (त्रुटिपूर्ण व्याख्या की आलोचना)।",
+    "## न्यायिक सक्रियता और न्यायिक अतिक्रमण में अंतर",
+    "• न्यायिक सक्रियता: कानून के शासन को बनाए रखता है, नियंत्रण और संतुलन का सम्मान करता है, जनकल्याण से जुड़ा।",
+    "• न्यायिक अतिक्रमण: लोकतंत्र में बाधा डालता है, शक्तियों के पृथक्करण का उल्लंघन करता है, न्यायिक हस्तक्षेप का रूप लेता है।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Review vs Judicial Activism",
+      "titleHindi": "न्यायिक पुनरावलोकन बनाम न्यायिक सक्रियता",
+      "columns": ["Aspect", "Judicial Review", "Judicial Activism"],
+      "columnsHindi": ["पहलू", "न्यायिक पुनरावलोकन", "न्यायिक सक्रियता"],
+      "rows": [
+        ["Definition", "Checking constitutional validity of laws", "Proactive role when other branches fail"],
+        ["Origin", "Article 13 of Indian Constitution", "Derived from USA judiciary, no constitutional mention"],
+        ["Purpose", "Maintain constitutional supremacy", "Protect rights, fill governance gaps"]
+      ],
+      "rowsHindi": [
+        ["परिभाषा", "कानूनों की संवैधानिक वैधता की जांच", "अन्य अंगों की विफलता पर सक्रिय भूमिका"],
+        ["उत्पत्ति", "भारतीय संविधान का अनुच्छेद 13", "अमेरिकी न्यायपालिका से प्रेरित, कोई संवैधानिक उल्लेख नहीं"],
+        ["उद्देश्य", "संवैधानिक सर्वोच्चता बनाए रखना", "अधिकारों की रक्षा करना, शासन की खामियों को भरना"]
+      ]
+    },
+    {
+      "title": "Judicial Activism vs Judicial Overreach",
+      "titleHindi": "न्यायिक सक्रियता बनाम न्यायिक अतिक्रमण",
+      "columns": ["Aspect", "Judicial Activism", "Judicial Overreach"],
+      "columnsHindi": ["पहलू", "न्यायिक सक्रियता", "न्यायिक अतिक्रमण"],
+      "rows": [
+        ["Impact on Democracy", "Upholds rule of law and strengthens democracy", "Impairs democracy by interfering excessively"],
+        ["Relation to Separation of Powers", "Adheres to checks and balances", "Violates separation of powers"],
+        ["Nature", "Judicial prudence for public welfare", "Judicial interference in legislative/executive domain"]
+      ],
+      "rowsHindi": [
+        ["लोकतंत्र पर प्रभाव", "कानून के शासन को बनाए रखता है और लोकतंत्र को मजबूत करता है", "अनुचित हस्तक्षेप से लोकतंत्र को नुकसान पहुंचाता है"],
+        ["शक्तियों का पृथक्करण", "नियंत्रण और संतुलन का पालन करता है", "शक्तियों के पृथक्करण का उल्लंघन करता है"],
+        ["स्वरूप", "जनकल्याण हेतु न्यायिक विवेक", "विधायिका/कार्यपालिका के क्षेत्र में न्यायिक हस्तक्षेप"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial Review derives from Article 13, 32, 136, 226 of the Constitution.",
+    "Judicial Activism lacks explicit constitutional basis but emerged strongly in India from the 1970s.",
+    "Judicial Overreach refers to judiciary crossing into executive/legislative functions."
+  ],
+  "prelimsTipsHindi": [
+    "न्यायिक पुनरावलोकन अनुच्छेद 13, 32, 136, 226 से आता है।",
+    "न्यायिक सक्रियता का संवैधानिक आधार नहीं है लेकिन यह 1970 के दशक से भारत में प्रमुख हुई।",
+    "न्यायिक अतिक्रमण तब होता है जब न्यायपालिका कार्यपालिका/विधायिका के कार्यों में प्रवेश करती है।"
+  ],
+  "mainsPoints": [
+    "Judicial Review is constitutionally backed, while Judicial Activism is a product of judicial interpretation.",
+    "Judicial Overreach occurs when judiciary undermines separation of powers by intruding in legislative/executive matters.",
+    "Activism strengthens democracy by protecting rights, but overreach weakens democratic institutions.",
+    "Key challenge is to maintain balance between judicial independence and democratic accountability."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक पुनरावलोकन संवैधानिक रूप से समर्थित है, जबकि न्यायिक सक्रियता न्यायिक व्याख्या का परिणाम है।",
+    "न्यायिक अतिक्रमण तब होता है जब न्यायपालिका शक्तियों के पृथक्करण को कमजोर कर विधायिका/कार्यपालिका में हस्तक्षेप करती है।",
+    "सक्रियता अधिकारों की रक्षा कर लोकतंत्र को मजबूत करती है, लेकिन अतिक्रमण लोकतांत्रिक संस्थाओं को कमजोर करता है।",
+    "मुख्य चुनौती न्यायिक स्वतंत्रता और लोकतांत्रिक जवाबदेही के बीच संतुलन बनाए रखना है।"
+  ]
+},
+{
+  "heading": "Judicial Activism: Responsible Factors and Areas",
+  "headingHindi": "न्यायिक सक्रियता: उत्तरदायी कारक और क्षेत्र",
+  "highlight": "Judicial Activism in India has expanded due to rising awareness of Fundamental Rights, governmental failures in addressing social inequalities, and the active participation of civil society. It spans across issues concerning vulnerable groups, weaker sections, democratic institutions, environment, and civil rights.",
+  "highlightHindi": "भारत में न्यायिक सक्रियता का विस्तार मौलिक अधिकारों की बढ़ती जागरूकता, सामाजिक असमानताओं को दूर करने में सरकार की विफलता और सिविल सोसायटी की सक्रिय भागीदारी के कारण हुआ। यह कमजोर समूहों, वंचित वर्गों, लोकतांत्रिक संस्थाओं, पर्यावरण और नागरिक अधिकारों से जुड़े मुद्दों को कवर करता है।",
+  "details": [
+    "## Responsible Factors for Judicial Activism",
+    "• Increasing awareness of Fundamental Rights among citizens.",
+    "• Government’s failure to address social issues such as gender inequality, poverty, and corruption.",
+    "• Active role of civil society organizations and rights-based groups.",
+    "• Expansion of Public Interest Litigation (PIL).",
+    "• Globalization and emergence of new rights such as privacy, environment, and digital rights.",
+    "## Areas of Judicial Activism",
+    "Judicial activism has extended into diverse areas impacting society, economy, governance, and environment."
+  ],
+  "detailsHindi": [
+    "## न्यायिक सक्रियता के उत्तरदायी कारक",
+    "• नागरिकों में मौलिक अधिकारों की बढ़ती जागरूकता।",
+    "• लिंग असमानता, गरीबी और भ्रष्टाचार जैसे सामाजिक मुद्दों को संबोधित करने में सरकार की विफलता।",
+    "• नागरिक समाज संगठनों और अधिकार-आधारित समूहों की सक्रिय भूमिका।",
+    "• लोकहित याचिका (PIL) का विस्तार।",
+    "• वैश्वीकरण और निजता, पर्यावरण, डिजिटल अधिकार जैसे नए अधिकारों का उदय।",
+    "## न्यायिक सक्रियता के क्षेत्र",
+    "न्यायिक सक्रियता समाज, अर्थव्यवस्था, शासन और पर्यावरण को प्रभावित करने वाले विविध क्षेत्रों में फैली है।"
+  ],
+  "tables": [
+    {
+      "title": "Areas of Judicial Activism and Related Issues",
+      "titleHindi": "न्यायिक सक्रियता के क्षेत्र और संबंधित मुद्दे",
+      "columns": ["Group/Section", "Activators", "Issues"],
+      "columnsHindi": ["समूह/वर्ग", "सक्रिय समूह", "मुद्दे"],
+      "rows": [
+        ["Vulnerable Sections (Women, Children)", "Women’s Rights Groups, Child Rights Groups", "Gender inequality, Domestic violence, Illiteracy, Juvenile custody"],
+        ["Historical Depressed Sections (SC/ST)", "Indigenous Rights Groups", "Illegal land transfers, Exploitation by moneylenders"],
+        ["Economically Weaker Sections (EWS)", "Poverty Rights Groups, Bonded Labour Groups", "Exclusion from welfare schemes, Wage slavery, Exploitation"],
+        ["Pillars of Democracy", "Lawyer Groups, Bar Associations, Media Groups", "Judicial inefficiency, Case pendency, Media ethics"],
+        ["Global Common Challenges", "Environmental Action Groups", "Large irrigation projects, Economy vs Ecology, Pollution, Growth vs Development"],
+        ["Civil and Political Rights", "Consumer Rights Groups, Civil Rights Activists, Custodial Rights Groups", "Socio-economic development, Civil & political rights, Prisoners' rights"]
+      ],
+      "rowsHindi": [
+        ["कमजोर वर्ग (महिला, बच्चे)", "महिला अधिकार समूह, बाल अधिकार समूह", "लैंगिक असमानता, घरेलू हिंसा, निरक्षरता, किशोर हिरासत"],
+        ["ऐतिहासिक वंचित वर्ग (SC/ST)", "आदिवासी अधिकार समूह", "गैरकानूनी भूमि हस्तांतरण, साहूकारों द्वारा शोषण"],
+        ["आर्थिक रूप से कमजोर वर्ग (EWS)", "गरीबी अधिकार समूह, बंधुआ मजदूरी समूह", "कल्याणकारी योजनाओं से बहिष्कार, मजदूरी दासता, शोषण"],
+        ["लोकतंत्र के स्तंभ", "वकील समूह, बार एसोसिएशन, मीडिया समूह", "न्यायिक अक्षमता, मामलों की लंबितता, मीडिया नैतिकता"],
+        ["वैश्विक साझा चुनौतियाँ", "पर्यावरण कार्यकर्ता समूह", "बड़े सिंचाई परियोजनाएँ, अर्थव्यवस्था बनाम पारिस्थितिकी, प्रदूषण, विकास बनाम वृद्धि"],
+        ["नागरिक और राजनीतिक अधिकार", "उपभोक्ता अधिकार समूह, नागरिक अधिकार कार्यकर्ता, हिरासत अधिकार समूह", "सामाजिक-आर्थिक विकास, नागरिक एवं राजनीतिक अधिकार, कैदियों के अधिकार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Judicial Activism in India gained prominence post-Kesavananda Bharati (1973).",
+    "PILs have been the main instrument of judicial activism.",
+    "Environmental activism cases: Ganga pollution case, MC Mehta cases."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में न्यायिक सक्रियता को केशवानंद भारती केस (1973) के बाद प्रमुखता मिली।",
+    "PIL न्यायिक सक्रियता का मुख्य साधन रहा है।",
+    "पर्यावरणीय सक्रियता मामले: गंगा प्रदूषण केस, एम.सी. मेहता केस।"
+  ],
+  "mainsPoints": [
+    "Judicial activism fills governance gaps left by legislature and executive.",
+    "It has empowered marginalized sections like women, SC/ST, and EWS.",
+    "Activism in environment and governance reflects judiciary’s evolving role.",
+    "However, unchecked activism risks slipping into judicial overreach.",
+    "Balancing activism with separation of powers is essential for healthy democracy."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक सक्रियता विधायिका और कार्यपालिका द्वारा छोड़ी गई शासन की खामियों को भरती है।",
+    "इसने महिलाओं, SC/ST और EWS जैसे हाशिए के वर्गों को सशक्त किया है।",
+    "पर्यावरण और शासन में सक्रियता न्यायपालिका की बदलती भूमिका को दर्शाती है।",
+    "हालांकि, अनियंत्रित सक्रियता न्यायिक अतिक्रमण में बदलने का जोखिम पैदा करती है।",
+    "सक्रियता और शक्तियों के पृथक्करण के बीच संतुलन स्वस्थ लोकतंत्र के लिए आवश्यक है।"
+  ]
+},
+{
+  "heading": "Judicial Activism vs Judicial Restraint",
+  "headingHindi": "न्यायिक सक्रियता बनाम न्यायिक संयम",
+  "highlight": "Judicial Activism reflects the proactive role of courts in filling governance gaps, ensuring justice, and protecting rights, while Judicial Restraint emphasizes constitutional limits, separation of powers, and deference to the legislature and executive. The balance between these two doctrines defines the judiciary’s role in democracy.",
+  "highlightHindi": "न्यायिक सक्रियता न्यायालयों की सक्रिय भूमिका को दर्शाती है जो शासन की खामियों को भरने, न्याय सुनिश्चित करने और अधिकारों की रक्षा करने के लिए होती है, जबकि न्यायिक संयम संवैधानिक सीमाओं, शक्तियों के पृथक्करण और विधायिका व कार्यपालिका के प्रति सम्मान पर बल देता है। इन दोनों सिद्धांतों के बीच संतुलन न्यायपालिका की लोकतंत्र में भूमिका को परिभाषित करता है।",
+  "details": [
+    "## Judicial Restraint – Supreme Court Observations",
+    "• P. Ramachandra Rao case: Judiciary’s primary function is to interpret law.",
+    "• It may lay down principles in areas left open by legislation but cannot encroach upon legislative domain.",
+    "• Key cases:",
+    "  – Almitra H. Patel vs Union of India (2000): SC rejected instructions to Delhi Municipal Corporation on cleaning the city, holding it outside judicial purview.",
+    "  – K. Priyadarshini vs Director of Elementary Education (2016): Court stressed restraint and not acting as a super-legislature.",
+    "## Purpose of Judicial Activism",
+    "• Aid in policy design and implementation where executive/legislature fails.",
+    "• Provide relief to disadvantaged citizens.",
+    "• Adapt justice delivery to evolving societal needs.",
+    "• Prevent arbitrariness of the state.",
+    "• Address rights violations in globalization era.",
+    "## Apprehensions of Judicial Activism",
+    "• Judiciary may intervene in the functioning of legislature/executive.",
+    "• Disturbs equilibrium between three organs of State.",
+    "• Lack of accountability can lead to misuse of judicial powers."
+  ],
+  "detailsHindi": [
+    "## न्यायिक संयम – सुप्रीम कोर्ट के अवलोकन",
+    "• पी. रामचंद्र राव केस: न्यायपालिका का प्राथमिक कार्य कानून की व्याख्या करना है।",
+    "• न्यायपालिका केवल उन क्षेत्रों में सिद्धांत बना सकती है जिन्हें विधायिका खुला छोड़ती है लेकिन विधायिका के क्षेत्र में हस्तक्षेप नहीं कर सकती।",
+    "• प्रमुख मामले:",
+    "  – अल्मित्रा एच. पटेल बनाम भारत संघ (2000): सुप्रीम कोर्ट ने दिल्ली सफाई के लिए निगम को निर्देश देने से मना किया।",
+    "  – के. प्रियदर्शिनी बनाम प्रारंभिक शिक्षा निदेशक (2016): न्यायालय ने संयम बरतने और सुपर-विधायिका की तरह कार्य न करने पर जोर दिया।",
+    "## न्यायिक सक्रियता का उद्देश्य",
+    "• जहां कार्यपालिका/विधायिका विफल हो वहां नीतिगत डिजाइन और क्रियान्वयन में सहायता।",
+    "• वंचित नागरिकों को राहत प्रदान करना।",
+    "• बदलती सामाजिक आवश्यकताओं के अनुसार न्याय वितरण को अनुकूलित करना।",
+    "• राज्य की मनमानी को रोकना।",
+    "• वैश्वीकरण के दौर में अधिकार उल्लंघनों को संबोधित करना।",
+    "## न्यायिक सक्रियता की आशंकाएँ",
+    "• न्यायपालिका विधायिका/कार्यपालिका के कामकाज में हस्तक्षेप कर सकती है।",
+    "• राज्य के तीन अंगों के बीच संतुलन बिगड़ सकता है।",
+    "• जवाबदेही की कमी से न्यायिक शक्तियों के दुरुपयोग का खतरा।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Activism vs Judicial Restraint",
+      "titleHindi": "न्यायिक सक्रियता बनाम न्यायिक संयम",
+      "columns": ["Aspect", "Judicial Activism", "Judicial Restraint"],
+      "columnsHindi": ["पहलू", "न्यायिक सक्रियता", "न्यायिक संयम"],
+      "rows": [
+        ["Role", "Proactive role in governance", "Passive role; strict interpretation of law"],
+        ["Purpose", "Ensure justice, protect rights, fill governance gaps", "Maintain separation of powers, respect legislature/executive domain"],
+        ["Cases", "Bandhua Mukti Morcha, Vishaka, Kesavananda Bharati", "Almitra Patel, K. Priyadarshini"],
+        ["Risks", "Judicial overreach, lack of accountability", "Possibility of ignoring social justice needs"]
+      ],
+      "rowsHindi": [
+        ["भूमिका", "शासन में सक्रिय भूमिका", "निष्क्रिय भूमिका; कानून की कठोर व्याख्या"],
+        ["उद्देश्य", "न्याय सुनिश्चित करना, अधिकारों की रक्षा करना, शासन की खामियों को भरना", "शक्तियों का पृथक्करण बनाए रखना, विधायिका/कार्यपालिका के क्षेत्र का सम्मान"],
+        ["प्रकरण", "बन्धुआ मुक्ति मोर्चा, विशाखा, केशवानंद भारती", "अल्मित्रा पटेल, के. प्रियदर्शिनी"],
+        ["जोखिम", "न्यायिक अतिक्रमण, जवाबदेही की कमी", "सामाजिक न्याय की जरूरतों को नज़रअंदाज़ करने की संभावना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "P. Ramachandra Rao case defines judicial restraint principles.",
+    "Judicial activism often invoked through Public Interest Litigations (PILs).",
+    "Bandhua Mukti Morcha, Vishaka Guidelines – key examples of activism.",
+    "Almitra Patel case – example of restraint."
+  ],
+  "prelimsTipsHindi": [
+    "पी. रामचंद्र राव केस ने न्यायिक संयम के सिद्धांत स्पष्ट किए।",
+    "लोकहित याचिका (PIL) के माध्यम से न्यायिक सक्रियता अक्सर अपनाई जाती है।",
+    "बन्धुआ मुक्ति मोर्चा, विशाखा गाइडलाइन्स – सक्रियता के प्रमुख उदाहरण।",
+    "अल्मित्रा पटेल केस – संयम का उदाहरण।"
+  ],
+  "mainsPoints": [
+    "Judicial activism helps in ensuring justice but may risk judicial overreach.",
+    "Judicial restraint maintains separation of powers and prevents judiciary from becoming a super-legislature.",
+    "The judiciary must balance activism and restraint to preserve democracy.",
+    "Landmark cases illustrate both approaches – activism in Vishaka, restraint in Almitra Patel."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक सक्रियता न्याय सुनिश्चित करने में सहायक है लेकिन न्यायिक अतिक्रमण का जोखिम भी रखती है।",
+    "न्यायिक संयम शक्तियों के पृथक्करण को बनाए रखता है और न्यायपालिका को सुपर-विधायिका बनने से रोकता है।",
+    "लोकतंत्र को बनाए रखने के लिए न्यायपालिका को सक्रियता और संयम के बीच संतुलन बनाना चाहिए।",
+    "महत्वपूर्ण मामलों ने दोनों दृष्टिकोणों को स्पष्ट किया – विशाखा में सक्रियता, अल्मित्रा पटेल में संयम।"
+  ]
+},
+{
+  "heading": "Public Interest Litigation (PIL)",
+  "headingHindi": "जनहित याचिका (PIL)",
+  "highlight": "Public Interest Litigation (PIL) is a legal action initiated in court for enforcing public or general interest, particularly where rights of marginalized groups are affected. It emerged in India during the 1980s through judicial activism, pioneered by Justice V.R. Krishna Iyer and Justice P.N. Bhagwati, and has since become a crucial tool for social justice and constitutional remedies.",
+  "highlightHindi": "जनहित याचिका (PIL) एक कानूनी प्रक्रिया है जो न्यायालय में सार्वजनिक या सामान्य हित को लागू करने के लिए शुरू की जाती है, विशेष रूप से तब जब हाशिए पर रहने वाले समूहों के अधिकार प्रभावित होते हैं। यह भारत में 1980 के दशक में न्यायिक सक्रियता के माध्यम से उभरी, जिसके अग्रदूत न्यायमूर्ति वी. आर. कृष्ण अय्यर और न्यायमूर्ति पी. एन. भगवती थे, और तब से यह सामाजिक न्याय और संवैधानिक उपायों का महत्वपूर्ण साधन बन गई है।",
+  "details": [
+    "## Evolution of PIL",
+    "• Originated in USA during the 1960s.",
+    "• Introduced in India in early 1980s as a product of judicial activism by the Supreme Court.",
+    "• Justice V.R. Krishna Iyer and Justice P.N. Bhagwati pioneered the concept.",
+    "• Other names: Social Action Litigation (SAL), Social Interest Litigation (SIL), Class Action Litigation (CAL).",
+    "## Features of PIL",
+    "• Ensures access to justice for marginalized and underprivileged communities.",
+    "• Flexible procedures: not bound by strict procedural rules.",
+    "• Allows public participation: any individual can approach the court for public cause.",
+    "• Constitutional remedies: courts empowered to issue writs for enforcement of Fundamental Rights.",
+    "• Wide scope: covers human rights, environment, corruption, governance issues.",
+    "• Filed for the benefit of the public at large, not for personal gain."
+  ],
+  "detailsHindi": [
+    "## जनहित याचिका का विकास",
+    "• 1960 के दशक में अमेरिका में उत्पत्ति।",
+    "• भारत में 1980 के दशक की शुरुआत में सुप्रीम कोर्ट की न्यायिक सक्रियता के रूप में प्रारंभ।",
+    "• न्यायमूर्ति वी. आर. कृष्ण अय्यर और न्यायमूर्ति पी. एन. भगवती इसके अग्रदूत।",
+    "• अन्य नाम: सामाजिक कार्यवाही वाद (SAL), सामाजिक हित वाद (SIL), सामूहिक वाद (CAL)।",
+    "## जनहित याचिका की विशेषताएँ",
+    "• हाशिए पर रहने वाले और वंचित वर्गों को न्याय तक पहुँच सुनिश्चित करना।",
+    "• लचीली प्रक्रिया: कठोर प्रक्रियात्मक नियमों से बंधी नहीं।",
+    "• सार्वजनिक भागीदारी: कोई भी व्यक्ति जनहित के लिए न्यायालय में जा सकता है।",
+    "• संवैधानिक उपाय: मौलिक अधिकारों को लागू करने हेतु न्यायालय रिट जारी कर सकता है।",
+    "• व्यापक क्षेत्र: मानवाधिकार, पर्यावरण, भ्रष्टाचार और प्रशासनिक मुद्दों को शामिल करता है।",
+    "• व्यापक जनहित के लिए दायर, न कि व्यक्तिगत लाभ के लिए।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of PIL",
+      "titleHindi": "जनहित याचिका की मुख्य विशेषताएँ",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Accessibility", "Provides access to justice for marginalized sections"],
+        ["Flexibility", "Not bound by strict procedural rules"],
+        ["Public Participation", "Any person can approach the court for public interest"],
+        ["Scope", "Covers rights, environment, corruption, and administration"],
+        ["Nature", "Filed for the benefit of public, not individual interest"]
+      ],
+      "rowsHindi": [
+        ["सुलभता", "हाशिए पर रहने वाले वर्गों को न्याय तक पहुँच प्रदान करना"],
+        ["लचीलापन", "कठोर प्रक्रियात्मक नियमों से बंधी नहीं"],
+        ["सार्वजनिक भागीदारी", "कोई भी व्यक्ति जनहित के लिए न्यायालय में जा सकता है"],
+        ["क्षेत्र", "अधिकार, पर्यावरण, भ्रष्टाचार और प्रशासनिक मुद्दों को कवर करता है"],
+        ["स्वभाव", "जनहित के लिए दायर, व्यक्तिगत हित के लिए नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "PIL introduced in India during 1980s.",
+    "Justice V.R. Krishna Iyer and Justice P.N. Bhagwati are pioneers of PIL.",
+    "Also known as SAL, SIL, CAL.",
+    "PIL ensures access to justice for marginalized groups."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में PIL 1980 के दशक में शुरू हुई।",
+    "न्यायमूर्ति वी. आर. कृष्ण अय्यर और न्यायमूर्ति पी. एन. भगवती इसके अग्रदूत थे।",
+    "इसे SAL, SIL, CAL भी कहा जाता है।",
+    "PIL वंचित वर्गों को न्याय तक पहुँच सुनिश्चित करती है।"
+  ],
+  "mainsPoints": [
+    "PIL is an instrument of social justice and constitutional enforcement.",
+    "It enhances access to justice for marginalized communities.",
+    "Flexible and participatory mechanism for addressing public grievances.",
+    "Helps judiciary ensure accountability of executive and legislature.",
+    "Contributes to democratic deepening through legal interventions."
+  ],
+  "mainsPointsHindi": [
+    "PIL सामाजिक न्याय और संवैधानिक प्रवर्तन का साधन है।",
+    "यह वंचित समुदायों के लिए न्याय तक पहुँच बढ़ाती है।",
+    "सार्वजनिक शिकायतों को संबोधित करने के लिए लचीला और सहभागी तंत्र।",
+    "न्यायपालिका को कार्यपालिका और विधायिका की जवाबदेही सुनिश्चित करने में मदद करता है।",
+    "कानूनी हस्तक्षेपों के माध्यम से लोकतांत्रिक गहराई में योगदान करता है।"
+  ]
+},
+{
+  "heading": "Judicial Activism vs Judicial Restraint",
+  "headingHindi": "न्यायिक सक्रियता बनाम न्यायिक संयम",
+  "highlight": "Judicial Activism reflects the proactive role of courts in filling governance gaps, ensuring justice, and protecting rights, while Judicial Restraint emphasizes constitutional limits, separation of powers, and deference to the legislature and executive. The balance between these two doctrines defines the judiciary’s role in democracy.",
+  "highlightHindi": "न्यायिक सक्रियता न्यायालयों की सक्रिय भूमिका को दर्शाती है जो शासन की खामियों को भरने, न्याय सुनिश्चित करने और अधिकारों की रक्षा करने के लिए होती है, जबकि न्यायिक संयम संवैधानिक सीमाओं, शक्तियों के पृथक्करण और विधायिका व कार्यपालिका के प्रति सम्मान पर बल देता है। इन दोनों सिद्धांतों के बीच संतुलन न्यायपालिका की लोकतंत्र में भूमिका को परिभाषित करता है।",
+  "details": [
+    "## Judicial Restraint – Supreme Court Observations",
+    "• P. Ramachandra Rao case: Judiciary’s primary function is to interpret law.",
+    "• It may lay down principles in areas left open by legislation but cannot encroach upon legislative domain.",
+    "• Key cases:",
+    "  – Almitra H. Patel vs Union of India (2000): SC rejected instructions to Delhi Municipal Corporation on cleaning the city, holding it outside judicial purview.",
+    "  – K. Priyadarshini vs Director of Elementary Education (2016): Court stressed restraint and not acting as a super-legislature.",
+    "## Purpose of Judicial Activism",
+    "• Aid in policy design and implementation where executive/legislature fails.",
+    "• Provide relief to disadvantaged citizens.",
+    "• Adapt justice delivery to evolving societal needs.",
+    "• Prevent arbitrariness of the state.",
+    "• Address rights violations in globalization era.",
+    "## Apprehensions of Judicial Activism",
+    "• Judiciary may intervene in the functioning of legislature/executive.",
+    "• Disturbs equilibrium between three organs of State.",
+    "• Lack of accountability can lead to misuse of judicial powers."
+  ],
+  "detailsHindi": [
+    "## न्यायिक संयम – सुप्रीम कोर्ट के अवलोकन",
+    "• पी. रामचंद्र राव केस: न्यायपालिका का प्राथमिक कार्य कानून की व्याख्या करना है।",
+    "• न्यायपालिका केवल उन क्षेत्रों में सिद्धांत बना सकती है जिन्हें विधायिका खुला छोड़ती है लेकिन विधायिका के क्षेत्र में हस्तक्षेप नहीं कर सकती।",
+    "• प्रमुख मामले:",
+    "  – अल्मित्रा एच. पटेल बनाम भारत संघ (2000): सुप्रीम कोर्ट ने दिल्ली सफाई के लिए निगम को निर्देश देने से मना किया।",
+    "  – के. प्रियदर्शिनी बनाम प्रारंभिक शिक्षा निदेशक (2016): न्यायालय ने संयम बरतने और सुपर-विधायिका की तरह कार्य न करने पर जोर दिया।",
+    "## न्यायिक सक्रियता का उद्देश्य",
+    "• जहां कार्यपालिका/विधायिका विफल हो वहां नीतिगत डिजाइन और क्रियान्वयन में सहायता।",
+    "• वंचित नागरिकों को राहत प्रदान करना।",
+    "• बदलती सामाजिक आवश्यकताओं के अनुसार न्याय वितरण को अनुकूलित करना।",
+    "• राज्य की मनमानी को रोकना।",
+    "• वैश्वीकरण के दौर में अधिकार उल्लंघनों को संबोधित करना।",
+    "## न्यायिक सक्रियता की आशंकाएँ",
+    "• न्यायपालिका विधायिका/कार्यपालिका के कामकाज में हस्तक्षेप कर सकती है।",
+    "• राज्य के तीन अंगों के बीच संतुलन बिगड़ सकता है।",
+    "• जवाबदेही की कमी से न्यायिक शक्तियों के दुरुपयोग का खतरा।"
+  ],
+  "tables": [
+    {
+      "title": "Judicial Activism vs Judicial Restraint",
+      "titleHindi": "न्यायिक सक्रियता बनाम न्यायिक संयम",
+      "columns": ["Aspect", "Judicial Activism", "Judicial Restraint"],
+      "columnsHindi": ["पहलू", "न्यायिक सक्रियता", "न्यायिक संयम"],
+      "rows": [
+        ["Role", "Proactive role in governance", "Passive role; strict interpretation of law"],
+        ["Purpose", "Ensure justice, protect rights, fill governance gaps", "Maintain separation of powers, respect legislature/executive domain"],
+        ["Cases", "Bandhua Mukti Morcha, Vishaka, Kesavananda Bharati", "Almitra Patel, K. Priyadarshini"],
+        ["Risks", "Judicial overreach, lack of accountability", "Possibility of ignoring social justice needs"]
+      ],
+      "rowsHindi": [
+        ["भूमिका", "शासन में सक्रिय भूमिका", "निष्क्रिय भूमिका; कानून की कठोर व्याख्या"],
+        ["उद्देश्य", "न्याय सुनिश्चित करना, अधिकारों की रक्षा करना, शासन की खामियों को भरना", "शक्तियों का पृथक्करण बनाए रखना, विधायिका/कार्यपालिका के क्षेत्र का सम्मान"],
+        ["प्रकरण", "बन्धुआ मुक्ति मोर्चा, विशाखा, केशवानंद भारती", "अल्मित्रा पटेल, के. प्रियदर्शिनी"],
+        ["जोखिम", "न्यायिक अतिक्रमण, जवाबदेही की कमी", "सामाजिक न्याय की जरूरतों को नज़रअंदाज़ करने की संभावना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "P. Ramachandra Rao case defines judicial restraint principles.",
+    "Judicial activism often invoked through Public Interest Litigations (PILs).",
+    "Bandhua Mukti Morcha, Vishaka Guidelines – key examples of activism.",
+    "Almitra Patel case – example of restraint."
+  ],
+  "prelimsTipsHindi": [
+    "पी. रामचंद्र राव केस ने न्यायिक संयम के सिद्धांत स्पष्ट किए।",
+    "लोकहित याचिका (PIL) के माध्यम से न्यायिक सक्रियता अक्सर अपनाई जाती है।",
+    "बन्धुआ मुक्ति मोर्चा, विशाखा गाइडलाइन्स – सक्रियता के प्रमुख उदाहरण।",
+    "अल्मित्रा पटेल केस – संयम का उदाहरण।"
+  ],
+  "mainsPoints": [
+    "Judicial activism helps in ensuring justice but may risk judicial overreach.",
+    "Judicial restraint maintains separation of powers and prevents judiciary from becoming a super-legislature.",
+    "The judiciary must balance activism and restraint to preserve democracy.",
+    "Landmark cases illustrate both approaches – activism in Vishaka, restraint in Almitra Patel."
+  ],
+  "mainsPointsHindi": [
+    "न्यायिक सक्रियता न्याय सुनिश्चित करने में सहायक है लेकिन न्यायिक अतिक्रमण का जोखिम भी रखती है।",
+    "न्यायिक संयम शक्तियों के पृथक्करण को बनाए रखता है और न्यायपालिका को सुपर-विधायिका बनने से रोकता है।",
+    "लोकतंत्र को बनाए रखने के लिए न्यायपालिका को सक्रियता और संयम के बीच संतुलन बनाना चाहिए।",
+    "महत्वपूर्ण मामलों ने दोनों दृष्टिकोणों को स्पष्ट किया – विशाखा में सक्रियता, अल्मित्रा पटेल में संयम।"
+  ]
+},
+{
+  "heading": "Public Interest Litigation (PIL) in India",
+  "headingHindi": "भारत में लोकहित याचिका (PIL)",
+  "highlight": "PIL enables courts under Articles 32 and 226 to ensure justice for disadvantaged groups, relax locus standi, and address constitutional violations. It has played a key role in human rights, environment, and gender justice, though misuse and frivolous petitions are serious concerns.",
+  "highlightHindi": "PIL न्यायालयों को अनुच्छेद 32 और 226 के तहत वंचित वर्गों के लिए न्याय सुनिश्चित करने, लोकस स्टैंडी को शिथिल करने और संवैधानिक उल्लंघनों को संबोधित करने में सक्षम बनाता है। इसने मानवाधिकार, पर्यावरण और लैंगिक न्याय में अहम भूमिका निभाई है, हालांकि दुरुपयोग और तुच्छ याचिकाएँ गंभीर चिंता का विषय हैं।",
+  "details": [
+    "## Principles of PIL",
+    "• Court can entertain petitions for disadvantaged people's welfare under Articles 32 and 226.",
+    "• Invokes constitutional and human rights for fair trial.",
+    "• Rule of locus standi relaxed.",
+    "• If constitutional violation is shown, Court may proceed despite government objection.",
+    "• Private law disputes are not PILs.",
+    "• Court can appoint commissions for investigation.",
+    "• Avoids policy-making, respects jurisdiction while protecting rights.",
+    "## Against Whom PIL Can Be Filed?",
+    "• State or Central Government, Municipal Authorities.",
+    "• Not against private parties directly.",
+    "• Private party may be included as respondent if State authority is also a party.",
+    "• 'State' as per Article 12 includes:",
+    "  – Government of India and Parliament.",
+    "  – Government and Legislature of each State.",
+    "  – Local authorities.",
+    "  – Other authorities within India or under the Government of India.",
+    "## Guidelines for Admitting PIL",
+    "• PIL must be genuine and bona fide.",
+    "• High Courts should frame rules to encourage genuine PILs.",
+    "• Petitioner’s credentials must be verified.",
+    "• Content of petition must be correct.",
+    "• Must involve substantial public interest."
+  ],
+  "tables": [
+    {
+      "title": "Landmark PIL Judgements in India",
+      "titleHindi": "भारत में लोकहित याचिका के ऐतिहासिक निर्णय",
+      "columns": ["Case", "Year", "Significance"],
+      "columnsHindi": ["प्रकरण", "वर्ष", "महत्व"],
+      "rows": [
+        ["Hussainara Khatoon vs State of Bihar", "1979", "Highlighted inhuman prison conditions, rights of undertrial prisoners."],
+        ["S.P. Gupta vs Union of India", "1981", "Expanded locus standi; allowed any citizen to approach SC/HC for others."],
+        ["M.C. Mehta vs Union of India", "1988", "Stopped Ganga pollution; broadened PIL to environmental issues."],
+        ["Vishaka vs State of Rajasthan", "1997", "Recognized sexual harassment as violation of Articles 14, 15, 21; led to 2013 workplace law."]
+      ],
+      "rowsHindi": [
+        ["हुसेनारा खातून बनाम बिहार राज्य", "1979", "जेल की अमानवीय स्थिति और विचाराधीन कैदियों के अधिकारों पर ध्यान दिया।"],
+        ["एस.पी. गुप्ता बनाम भारत संघ", "1981", "लोकस स्टैंडी का विस्तार; किसी भी नागरिक को दूसरों के लिए न्यायालय जाने की अनुमति।"],
+        ["एम.सी. मेहता बनाम भारत संघ", "1988", "गंगा प्रदूषण रोका; पर्यावरणीय मुद्दों तक PIL का विस्तार।"],
+        ["विशाखा बनाम राजस्थान राज्य", "1997", "यौन उत्पीड़न को अनुच्छेद 14, 15, 21 का उल्लंघन माना; 2013 के कानून का मार्ग प्रशस्त।"]
+      ]
+    },
+    {
+      "title": "Merits vs Concerns of PIL",
+      "titleHindi": "PIL के लाभ बनाम चिंताएँ",
+      "columns": ["Aspect", "Merits of PIL", "Concerns of PIL"],
+      "columnsHindi": ["पहलू", "PIL के लाभ", "PIL की चिंताएँ"],
+      "rows": [
+        ["Access to Justice", "Ensures marginalized groups can seek remedies.", "Frivolous petitions waste time and resources."],
+        ["Locus Standi", "Relaxation allows NGOs/citizens to represent public interest.", "Misuse for personal or political motives."],
+        ["Judicial Role", "Judiciary addresses social justice, environment, rights.", "Overburdens judiciary; interference in policy-making."],
+        ["Impact", "Major reforms in prison, environment, gender justice.", "Conflict with separation of powers; judicial overreach risk."],
+        ["Accountability", "Strengthens democracy by checking executive/legislature inaction.", "Lack of accountability for those filing frivolous PILs."]
+      ],
+      "rowsHindi": [
+        ["न्याय तक पहुँच", "वंचित वर्गों को न्याय का अवसर मिलता है।", "तुच्छ याचिकाएँ समय और संसाधन बर्बाद करती हैं।"],
+        ["लोकस स्टैंडी", "NGO/नागरिकों को लोकहित में याचिका दायर करने की अनुमति।", "व्यक्तिगत या राजनीतिक लाभ हेतु दुरुपयोग।"],
+        ["न्यायिक भूमिका", "सामाजिक न्याय, पर्यावरण और अधिकारों पर ध्यान।", "न्यायपालिका पर बोझ; नीतिगत क्षेत्र में हस्तक्षेप।"],
+        ["प्रभाव", "जेल, पर्यावरण, लैंगिक न्याय में सुधार।", "शक्तियों के पृथक्करण से टकराव; न्यायिक अतिक्रमण।"],
+        ["जवाबदेही", "कार्यपालिका/विधायिका की निष्क्रियता पर नियंत्रण।", "तुच्छ PIL दाखिल करने वालों पर जवाबदेही का अभाव।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Articles 32 & 226 provide the constitutional basis of PILs.",
+    "Hussainara Khatoon – fair trial, prison reforms.",
+    "S.P. Gupta – expanded locus standi.",
+    "M.C. Mehta – environment-focused PILs.",
+    "Vishaka – workplace sexual harassment law."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 32 और 226 – PIL का संवैधानिक आधार।",
+    "हुसेनारा खातून – निष्पक्ष सुनवाई और जेल सुधार।",
+    "एस.पी. गुप्ता – लोकस स्टैंडी का विस्तार।",
+    "एम.सी. मेहता – पर्यावरण संबंधी PIL।",
+    "विशाखा – कार्यस्थल पर यौन उत्पीड़न कानून।"
+  ],
+  "mainsPoints": [
+    "PIL ensures social justice by giving voice to marginalized groups.",
+    "Relaxed locus standi increases access to judiciary.",
+    "Landmark PILs shaped human rights, environment, gender reforms.",
+    "Concerns: misuse, frivolous PILs, burden on judiciary, threat to separation of powers."
+  ],
+  "mainsPointsHindi": [
+    "PIL वंचित वर्गों के लिए न्याय सुनिश्चित करता है।",
+    "लोकस स्टैंडी में ढील ने न्यायपालिका तक पहुँच आसान बनाई।",
+    "महत्वपूर्ण PIL ने मानवाधिकार, पर्यावरण और लैंगिक न्याय में सुधार किए।",
+    "चिंताएँ: दुरुपयोग, तुच्छ PILs, न्यायपालिका पर बोझ, शक्तियों के पृथक्करण पर खतरा।"
+  ]
+}
+
+],
+"Chapter 16: High Court": [
+  {
+  "heading": "High Courts in India (Part VI: Articles 214–231)",
+  "headingHindi": "भारत में उच्च न्यायालय (भाग VI: अनुच्छेद 214–231)",
+  "highlight": "High Courts are the second-highest judicial authority after the Supreme Court. They handle civil and criminal cases, and appeals from them lie to the Supreme Court. Established under Articles 214–231, they serve as constitutional courts for states and union territories.",
+  "highlightHindi": "उच्च न्यायालय, सर्वोच्च न्यायालय के बाद भारत की दूसरी सर्वोच्च न्यायिक प्राधिकरण है। ये दीवानी और आपराधिक मामलों की सुनवाई करते हैं और इनके निर्णयों के विरुद्ध अपील सुप्रीम कोर्ट में की जा सकती है। अनुच्छेद 214–231 के तहत स्थापित, ये राज्यों और केंद्र शासित प्रदेशों के संवैधानिक न्यायालय हैं।",
+  "details": [
+    "## Constitutional Provisions",
+    "• Article 214: High Court for each state.",
+    "• Article 231: Parliament can establish a common High Court for 2 or more states.",
+    "• Delhi and Jammu & Kashmir have their own High Courts.",
+    "## Common High Courts (25 HCs in total, 7 are common):",
+    "• Bombay High Court: Maharashtra, Goa, Dadra & Nagar Haveli and Daman & Diu.",
+    "• Calcutta High Court: West Bengal and Andaman & Nicobar Islands.",
+    "• Guwahati High Court: Assam, Nagaland, Mizoram, Arunachal Pradesh.",
+    "• Kerala High Court: Kerala and Lakshadweep.",
+    "• Madras High Court: Tamil Nadu and Puducherry.",
+    "• Punjab & Haryana High Court: Punjab, Haryana and Chandigarh.",
+    "• Jammu & Kashmir and Ladakh: Common High Court.",
+    "## Composition",
+    "• Article 216: Every High Court consists of a Chief Justice and other judges appointed by the President.",
+    "• Number of judges is not fixed; it is at the discretion of the President.",
+    "• Strength of High Courts varies depending on case load."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• अनुच्छेद 214: प्रत्येक राज्य के लिए एक उच्च न्यायालय।",
+    "• अनुच्छेद 231: संसद को 2 या अधिक राज्यों के लिए एक साझा उच्च न्यायालय स्थापित करने की शक्ति।",
+    "• दिल्ली और जम्मू-कश्मीर के अपने-अपने उच्च न्यायालय हैं।",
+    "## साझा उच्च न्यायालय (कुल 25 उच्च न्यायालय, जिनमें 7 साझा):",
+    "• बॉम्बे हाईकोर्ट: महाराष्ट्र, गोवा, दादरा और नगर हवेली एवं दमन और दीव।",
+    "• कलकत्ता हाईकोर्ट: पश्चिम बंगाल और अंडमान एवं निकोबार द्वीपसमूह।",
+    "• गुवाहाटी हाईकोर्ट: असम, नागालैंड, मिज़ोरम और अरुणाचल प्रदेश।",
+    "• केरल हाईकोर्ट: केरल और लक्षद्वीप।",
+    "• मद्रास हाईकोर्ट: तमिलनाडु और पुडुचेरी।",
+    "• पंजाब एवं हरियाणा हाईकोर्ट: पंजाब, हरियाणा और चंडीगढ़।",
+    "• जम्मू-कश्मीर और लद्दाख: साझा उच्च न्यायालय।",
+    "## संरचना",
+    "• अनुच्छेद 216: प्रत्येक उच्च न्यायालय में एक मुख्य न्यायाधीश और अन्य न्यायाधीश (राष्ट्रपति द्वारा नियुक्त)।",
+    "• न्यायाधीशों की संख्या निश्चित नहीं; राष्ट्रपति के विवेक पर निर्भर।",
+    "• उच्च न्यायालयों की संख्या भार (केस लोड) के अनुसार बदलती है।"
+  ],
+  "tables": [
+    {
+      "title": "Common High Courts in India",
+      "titleHindi": "भारत में साझा उच्च न्यायालय",
+      "columns": ["High Court", "States/UTs Covered"],
+      "columnsHindi": ["उच्च न्यायालय", "कवर किए गए राज्य/केंद्र शासित प्रदेश"],
+      "rows": [
+        ["Bombay High Court", "Maharashtra, Goa, Dadra & Nagar Haveli, Daman & Diu"],
+        ["Calcutta High Court", "West Bengal, Andaman & Nicobar Islands"],
+        ["Guwahati High Court", "Assam, Nagaland, Mizoram, Arunachal Pradesh"],
+        ["Kerala High Court", "Kerala, Lakshadweep"],
+        ["Madras High Court", "Tamil Nadu, Puducherry"],
+        ["Punjab & Haryana High Court", "Punjab, Haryana, Chandigarh"],
+        ["J&K and Ladakh High Court", "Union Territories of Jammu & Kashmir and Ladakh"]
+      ],
+      "rowsHindi": [
+        ["बॉम्बे हाईकोर्ट", "महाराष्ट्र, गोवा, दादरा और नगर हवेली, दमन और दीव"],
+        ["कलकत्ता हाईकोर्ट", "पश्चिम बंगाल, अंडमान और निकोबार द्वीपसमूह"],
+        ["गुवाहाटी हाईकोर्ट", "असम, नागालैंड, मिज़ोरम, अरुणाचल प्रदेश"],
+        ["केरल हाईकोर्ट", "केरल, लक्षद्वीप"],
+        ["मद्रास हाईकोर्ट", "तमिलनाडु, पुडुचेरी"],
+        ["पंजाब एवं हरियाणा हाईकोर्ट", "पंजाब, हरियाणा, चंडीगढ़"],
+        ["जम्मू-कश्मीर और लद्दाख हाईकोर्ट", "जम्मू-कश्मीर और लद्दाख के केंद्र शासित प्रदेश"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 214: High Court for each state.",
+    "Article 231: Parliament can create a common High Court for 2+ states.",
+    "There are 25 High Courts in India; 7 are common High Courts.",
+    "Strength of High Courts depends on case load, not fixed."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 214: प्रत्येक राज्य के लिए उच्च न्यायालय।",
+    "अनुच्छेद 231: संसद 2 या अधिक राज्यों के लिए साझा उच्च न्यायालय बना सकती है।",
+    "भारत में 25 उच्च न्यायालय हैं; इनमें 7 साझा उच्च न्यायालय हैं।",
+    "उच्च न्यायालयों की संख्या-शक्ति निश्चित नहीं, केस लोड पर निर्भर।"
+  ],
+  "mainsPoints": [
+    "High Courts are constitutional courts under Part VI of the Constitution.",
+    "They are second in judicial hierarchy after Supreme Court.",
+    "Parliament can establish common High Courts for multiple states/UTs.",
+    "Their strength and judge numbers vary depending on workload."
+  ],
+  "mainsPointsHindi": [
+    "उच्च न्यायालय संविधान के भाग VI के अंतर्गत संवैधानिक न्यायालय हैं।",
+    "ये सर्वोच्च न्यायालय के बाद दूसरी सर्वोच्च न्यायिक संस्था हैं।",
+    "संसद 2 या अधिक राज्यों/केंद्र शासित प्रदेशों के लिए साझा उच्च न्यायालय बना सकती है।",
+    "इनकी शक्ति और न्यायाधीशों की संख्या कार्यभार पर निर्भर करती है।"
+  ]
+},
+{
+  "heading": "High Court Judges: Appointment, Qualification, Tenure & Removal",
+  "headingHindi": "उच्च न्यायालय के न्यायाधीश: नियुक्ति, योग्यता, कार्यकाल और हटाना",
+  "highlight": "High Court judges are appointed by the President under Article 217 in consultation with the Chief Justice of India and the collegium system. They serve until 62 years of age, can resign or be removed on grounds similar to Supreme Court judges, and may be transferred under Article 222. Their salaries are charged on the Consolidated Fund of the State.",
+  "highlightHindi": "उच्च न्यायालय के न्यायाधीशों की नियुक्ति अनुच्छेद 217 के तहत राष्ट्रपति द्वारा की जाती है, जिसमें भारत के मुख्य न्यायाधीश और कोलेजियम प्रणाली से परामर्श शामिल है। इनका कार्यकाल 62 वर्ष तक होता है। ये इस्तीफा दे सकते हैं या सुप्रीम कोर्ट न्यायाधीशों जैसे ही आधार पर हटाए जा सकते हैं। अनुच्छेद 222 के तहत न्यायाधीशों का स्थानांतरण किया जा सकता है। इनका वेतन राज्य की संचित निधि से लिया जाता है।",
+  "details": [
+    "## Appointment (Article 217)",
+    "• Appointed by the President.",
+    "• Chief Justice of High Court – consultation with Chief Justice of India.",
+    "• Other judges – consultation with CJI and Chief Justice of High Court.",
+    "### Collegium System",
+    "• Initiated by Chief Justice of High Court.",
+    "• High Court Collegium: Chief Justice + 2 senior-most judges of HC.",
+    "• Recommendations forwarded to Supreme Court Collegium.",
+    "• SC Collegium sends names to Union Government.",
+    "• Union Cabinet advises the President on appointments.",
+    "• Government can send recommendations back, but reiterated names must be considered.",
+    "## Qualification (Article 217)",
+    "• Must be an Indian citizen.",
+    "• At least 10 years as judicial officer in India, OR",
+    "• At least 10 years as advocate in a High Court(s).",
+    "• No minimum age criteria.",
+    "• Unlike SC, no provision for appointing a 'distinguished jurist'.",
+    "## Oath",
+    "• Administered by the Governor of the state.",
+    "## Salary & Allowances (Article 221)",
+    "• Salaries, allowances, leave, privileges, and pensions determined by Parliament.",
+    "• Salaries charged on Consolidated Fund of the State.",
+    "• Pensions charged on Consolidated Fund of India.",
+    "## Tenure",
+    "• Not fixed by Constitution.",
+    "• Serve until the age of 62 years (originally 60; raised by 15th Constitutional Amendment Act).",
+    "• Can resign by addressing President.",
+    "• Can be removed by President.",
+    "## Removal of Judges",
+    "• Under Article 217 – same grounds as removal of SC judges (proved misbehavior or incapacity).",
+    "• Detailed procedure laid down in Judges Enquiry Act, 1968.",
+    "## Transfer of Judges (Article 222)",
+    "• President may transfer HC judges after consultation with Chief Justice of India.",
+    "• Collegium involvement: CJI + 4 senior-most SC judges + Chief Justices of both High Courts concerned.",
+    "• Basis: Supreme Court’s Third Judges Case (1998)."
+  ],
+  "detailsHindi": [
+    "## नियुक्ति (अनुच्छेद 217)",
+    "• राष्ट्रपति द्वारा नियुक्ति।",
+    "• उच्च न्यायालय के मुख्य न्यायाधीश – भारत के मुख्य न्यायाधीश से परामर्श।",
+    "• अन्य न्यायाधीश – CJI और उच्च न्यायालय के मुख्य न्यायाधीश से परामर्श।",
+    "### कोलेजियम प्रणाली",
+    "• प्रक्रिया उच्च न्यायालय के मुख्य न्यायाधीश द्वारा शुरू की जाती है।",
+    "• उच्च न्यायालय कोलेजियम: मुख्य न्यायाधीश + उच्च न्यायालय के 2 वरिष्ठतम न्यायाधीश।",
+    "• अनुशंसाएँ सुप्रीम कोर्ट कोलेजियम को भेजी जाती हैं।",
+    "• सुप्रीम कोर्ट कोलेजियम नाम केंद्र सरकार को भेजता है।",
+    "• केंद्र मंत्रिमंडल राष्ट्रपति को सलाह देता है।",
+    "• सरकार नाम वापस भेज सकती है, लेकिन पुनः दोहराए गए नामों पर विचार करना अनिवार्य।",
+    "## योग्यता (अनुच्छेद 217)",
+    "• भारतीय नागरिक होना चाहिए।",
+    "• भारत में कम से कम 10 वर्ष तक न्यायिक अधिकारी।",
+    "• या उच्च न्यायालय में कम से कम 10 वर्ष तक अधिवक्ता।",
+    "• कोई न्यूनतम आयु निर्धारित नहीं।",
+    "• सुप्रीम कोर्ट की तरह 'विशिष्ट विधिवेत्ता' की नियुक्ति का प्रावधान नहीं।",
+    "## शपथ",
+    "• राज्यपाल द्वारा दिलाई जाती है।",
+    "## वेतन और भत्ते (अनुच्छेद 221)",
+    "• वेतन, भत्ते, अवकाश, विशेषाधिकार और पेंशन संसद द्वारा निर्धारित।",
+    "• वेतन राज्य की संचित निधि से लिया जाता है।",
+    "• पेंशन भारत की संचित निधि से ली जाती है।",
+    "## कार्यकाल",
+    "• संविधान द्वारा निश्चित नहीं।",
+    "• 62 वर्ष की आयु तक सेवा (पहले 60 वर्ष; 15वें संविधान संशोधन अधिनियम द्वारा बढ़ाया गया)।",
+    "• राष्ट्रपति को इस्तीफा दे सकते हैं।",
+    "• राष्ट्रपति द्वारा हटाए जा सकते हैं।",
+    "## न्यायाधीशों की हटाने की प्रक्रिया",
+    "• अनुच्छेद 217 – सुप्रीम कोर्ट न्यायाधीशों के समान आधार (सिद्ध दुराचरण या अक्षमता)।",
+    "• विस्तृत प्रक्रिया न्यायाधीश (जांच) अधिनियम, 1968 में।",
+    "## न्यायाधीशों का स्थानांतरण (अनुच्छेद 222)",
+    "• राष्ट्रपति, भारत के मुख्य न्यायाधीश से परामर्श के बाद न्यायाधीशों का स्थानांतरण कर सकते हैं।",
+    "• कोलेजियम की भूमिका: CJI + 4 वरिष्ठतम SC न्यायाधीश + दोनों HC के CJ।",
+    "• आधार: सुप्रीम कोर्ट का तृतीय न्यायाधीश मामला (1998)।"
+  ],
+  "tables": [
+    {
+      "title": "High Court Judges – Appointment & Tenure",
+      "titleHindi": "उच्च न्यायालय न्यायाधीश – नियुक्ति और कार्यकाल",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Appointment", "By President under Article 217 after consultation with CJI/Collegium"],
+        ["Qualification", "Indian citizen + 10 years as judicial officer OR advocate in HC"],
+        ["Oath", "Administered by Governor"],
+        ["Salary", "By Parliament; drawn from Consolidated Fund of State; pension from Consolidated Fund of India"],
+        ["Tenure", "Till 62 years of age (originally 60; raised by 15th Amendment)"],
+        ["Removal", "By President, on grounds of misbehavior/incapacity (Judges Enquiry Act, 1968)"],
+        ["Transfer", "By President under Article 222 after CJI’s consultation (Collegium involvement)"]
+      ],
+      "rowsHindi": [
+        ["नियुक्ति", "राष्ट्रपति द्वारा अनुच्छेद 217 के तहत, CJI/कोलेजियम से परामर्श के बाद"],
+        ["योग्यता", "भारतीय नागरिक + 10 वर्ष न्यायिक अधिकारी या उच्च न्यायालय अधिवक्ता"],
+        ["शपथ", "राज्यपाल द्वारा दिलाई जाती है"],
+        ["वेतन", "संसद द्वारा; राज्य की संचित निधि से, पेंशन भारत की संचित निधि से"],
+        ["कार्यकाल", "62 वर्ष की आयु तक (पहले 60; 15वें संशोधन से बढ़ाया गया)"],
+        ["हटाना", "राष्ट्रपति द्वारा; दुराचरण/अक्षमता (न्यायाधीश जांच अधिनियम, 1968)"],
+        ["स्थानांतरण", "राष्ट्रपति द्वारा अनुच्छेद 222 के तहत, CJI से परामर्श और कोलेजियम की भागीदारी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 217 – Appointment and tenure of HC judges.",
+    "HC judges retire at 62 years (SC at 65).",
+    "Appointment through Collegium system.",
+    "Removal grounds same as SC judges (misbehavior, incapacity).",
+    "Article 222 – Transfer of HC judges."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 217 – HC न्यायाधीशों की नियुक्ति और कार्यकाल।",
+    "HC न्यायाधीश 62 वर्ष में सेवानिवृत्त होते हैं (SC न्यायाधीश 65 में)।",
+    "नियुक्ति कोलेजियम प्रणाली द्वारा।",
+    "हटाने के आधार SC न्यायाधीशों के समान (दुराचरण, अक्षमता)।",
+    "अनुच्छेद 222 – HC न्यायाधीशों का स्थानांतरण।"
+  ],
+  "mainsPoints": [
+    "Appointment of HC judges balances executive (President, Cabinet) and judiciary (Collegium).",
+    "Collegium system plays key role in judicial independence.",
+    "Retirement age of HC judges is 62 years, lower than SC judges.",
+    "Removal procedure is deliberately rigid to safeguard independence.",
+    "Transfer of judges under Article 222 ensures administrative flexibility but remains controversial."
+  ],
+  "mainsPointsHindi": [
+    "HC न्यायाधीशों की नियुक्ति में कार्यपालिका (राष्ट्रपति, मंत्रिमंडल) और न्यायपालिका (कोलेजियम) का संतुलन।",
+    "कोलेजियम प्रणाली न्यायिक स्वतंत्रता की रक्षा में महत्वपूर्ण।",
+    "HC न्यायाधीश 62 वर्ष की आयु में सेवानिवृत्त होते हैं, SC न्यायाधीशों से कम।",
+    "हटाने की प्रक्रिया कठोर रखी गई है ताकि स्वतंत्रता बनी रहे।",
+    "अनुच्छेद 222 के तहत स्थानांतरण प्रशासनिक लचीलापन सुनिश्चित करता है, लेकिन विवादास्पद है।"
+  ]
+},
+{
+  "heading": "High Courts in India (Part VI: Articles 214–231)",
+  "headingHindi": "भारत में उच्च न्यायालय (भाग VI: अनुच्छेद 214–231)",
+  "highlight": "High Courts are the second-highest judicial authority after the Supreme Court. They handle civil and criminal cases, and appeals from them lie to the Supreme Court. Established under Articles 214–231, they serve as constitutional courts for states and union territories.",
+  "highlightHindi": "उच्च न्यायालय, सर्वोच्च न्यायालय के बाद भारत की दूसरी सर्वोच्च न्यायिक प्राधिकरण है। ये दीवानी और आपराधिक मामलों की सुनवाई करते हैं और इनके निर्णयों के विरुद्ध अपील सुप्रीम कोर्ट में की जा सकती है। अनुच्छेद 214–231 के तहत स्थापित, ये राज्यों और केंद्र शासित प्रदेशों के संवैधानिक न्यायालय हैं।",
+  "details": [
+    "## Constitutional Provisions",
+    "• Article 214: High Court for each state.",
+    "• Article 231: Parliament can establish a common High Court for 2 or more states.",
+    "• Delhi and Jammu & Kashmir have their own High Courts.",
+    "## Common High Courts (25 HCs in total, 7 are common):",
+    "• Bombay High Court: Maharashtra, Goa, Dadra & Nagar Haveli and Daman & Diu.",
+    "• Calcutta High Court: West Bengal and Andaman & Nicobar Islands.",
+    "• Guwahati High Court: Assam, Nagaland, Mizoram, Arunachal Pradesh.",
+    "• Kerala High Court: Kerala and Lakshadweep.",
+    "• Madras High Court: Tamil Nadu and Puducherry.",
+    "• Punjab & Haryana High Court: Punjab, Haryana and Chandigarh.",
+    "• Jammu & Kashmir and Ladakh: Common High Court.",
+    "## Composition",
+    "• Article 216: Every High Court consists of a Chief Justice and other judges appointed by the President.",
+    "• Number of judges is not fixed; it is at the discretion of the President.",
+    "• Strength of High Courts varies depending on case load.",
+    "## Appointment (Article 217)",
+    "• Appointed by the President.",
+    "• Chief Justice of High Court – consultation with Chief Justice of India.",
+    "• Other judges – consultation with CJI and Chief Justice of High Court.",
+    "### Collegium System",
+    "• Initiated by Chief Justice of High Court.",
+    "• High Court Collegium: Chief Justice + 2 senior-most judges of HC.",
+    "• Recommendations forwarded to Supreme Court Collegium.",
+    "• SC Collegium sends names to Union Government.",
+    "• Union Cabinet advises the President on appointments.",
+    "• Government can send recommendations back, but reiterated names must be considered.",
+    "## Qualification (Article 217)",
+    "• Must be an Indian citizen.",
+    "• At least 10 years as judicial officer in India, OR",
+    "• At least 10 years as advocate in a High Court(s).",
+    "• No minimum age criteria.",
+    "• Unlike SC, no provision for appointing a 'distinguished jurist'.",
+    "## Oath",
+    "• Administered by the Governor of the state.",
+    "## Salary & Allowances (Article 221)",
+    "• Salaries, allowances, leave, privileges, and pensions determined by Parliament.",
+    "• Salaries charged on Consolidated Fund of the State.",
+    "• Pensions charged on Consolidated Fund of India.",
+    "## Tenure",
+    "• Not fixed by Constitution.",
+    "• Serve until the age of 62 years (originally 60; raised by 15th Constitutional Amendment Act).",
+    "• Can resign by addressing President.",
+    "• Can be removed by President.",
+    "## Removal of Judges",
+    "• Under Article 217 – same grounds as removal of SC judges (proved misbehavior or incapacity).",
+    "• Detailed procedure laid down in Judges Enquiry Act, 1968.",
+    "## Transfer of Judges (Article 222)",
+    "• President may transfer HC judges after consultation with Chief Justice of India.",
+    "• Collegium involvement: CJI + 4 senior-most SC judges + Chief Justices of both High Courts concerned.",
+    "• Basis: Supreme Court’s Third Judges Case (1998)."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• अनुच्छेद 214: प्रत्येक राज्य के लिए एक उच्च न्यायालय।",
+    "• अनुच्छेद 231: संसद को 2 या अधिक राज्यों के लिए एक साझा उच्च न्यायालय स्थापित करने की शक्ति।",
+    "• दिल्ली और जम्मू-कश्मीर के अपने-अपने उच्च न्यायालय हैं।",
+    "## साझा उच्च न्यायालय (कुल 25 उच्च न्यायालय, जिनमें 7 साझा):",
+    "• बॉम्बे हाईकोर्ट: महाराष्ट्र, गोवा, दादरा और नगर हवेली एवं दमन और दीव।",
+    "• कलकत्ता हाईकोर्ट: पश्चिम बंगाल और अंडमान एवं निकोबार द्वीपसमूह।",
+    "• गुवाहाटी हाईकोर्ट: असम, नागालैंड, मिज़ोरम और अरुणाचल प्रदेश।",
+    "• केरल हाईकोर्ट: केरल और लक्षद्वीप।",
+    "• मद्रास हाईकोर्ट: तमिलनाडु और पुडुचेरी।",
+    "• पंजाब एवं हरियाणा हाईकोर्ट: पंजाब, हरियाणा और चंडीगढ़।",
+    "• जम्मू-कश्मीर और लद्दाख: साझा उच्च न्यायालय।",
+    "## संरचना",
+    "• अनुच्छेद 216: प्रत्येक उच्च न्यायालय में एक मुख्य न्यायाधीश और अन्य न्यायाधीश (राष्ट्रपति द्वारा नियुक्त)।",
+    "• न्यायाधीशों की संख्या निश्चित नहीं; राष्ट्रपति के विवेक पर निर्भर।",
+    "• उच्च न्यायालयों की संख्या भार (केस लोड) के अनुसार बदलती है।",
+    "## नियुक्ति (अनुच्छेद 217)",
+    "• राष्ट्रपति द्वारा नियुक्ति।",
+    "• उच्च न्यायालय के मुख्य न्यायाधीश – भारत के मुख्य न्यायाधीश से परामर्श।",
+    "• अन्य न्यायाधीश – CJI और उच्च न्यायालय के मुख्य न्यायाधीश से परामर्श।",
+    "### कोलेजियम प्रणाली",
+    "• प्रक्रिया उच्च न्यायालय के मुख्य न्यायाधीश द्वारा शुरू की जाती है।",
+    "• उच्च न्यायालय कोलेजियम: मुख्य न्यायाधीश + उच्च न्यायालय के 2 वरिष्ठतम न्यायाधीश।",
+    "• अनुशंसाएँ सुप्रीम कोर्ट कोलेजियम को भेजी जाती हैं।",
+    "• सुप्रीम कोर्ट कोलेजियम नाम केंद्र सरकार को भेजता है।",
+    "• केंद्र मंत्रिमंडल राष्ट्रपति को सलाह देता है।",
+    "• सरकार नाम वापस भेज सकती है, लेकिन पुनः दोहराए गए नामों पर विचार करना अनिवार्य।",
+    "## योग्यता (अनुच्छेद 217)",
+    "• भारतीय नागरिक होना चाहिए।",
+    "• भारत में कम से कम 10 वर्ष तक न्यायिक अधिकारी।",
+    "• या उच्च न्यायालय में कम से कम 10 वर्ष तक अधिवक्ता।",
+    "• कोई न्यूनतम आयु निर्धारित नहीं।",
+    "• सुप्रीम कोर्ट की तरह 'विशिष्ट विधिवेत्ता' की नियुक्ति का प्रावधान नहीं।",
+    "## शपथ",
+    "• राज्यपाल द्वारा दिलाई जाती है।",
+    "## वेतन और भत्ते (अनुच्छेद 221)",
+    "• वेतन, भत्ते, अवकाश, विशेषाधिकार और पेंशन संसद द्वारा निर्धारित।",
+    "• वेतन राज्य की संचित निधि से लिया जाता है।",
+    "• पेंशन भारत की संचित निधि से ली जाती है।",
+    "## कार्यकाल",
+    "• संविधान द्वारा निश्चित नहीं।",
+    "• 62 वर्ष की आयु तक सेवा (पहले 60 वर्ष; 15वें संविधान संशोधन अधिनियम द्वारा बढ़ाया गया)।",
+    "• राष्ट्रपति को इस्तीफा दे सकते हैं।",
+    "• राष्ट्रपति द्वारा हटाए जा सकते हैं।",
+    "## न्यायाधीशों की हटाने की प्रक्रिया",
+    "• अनुच्छेद 217 – सुप्रीम कोर्ट न्यायाधीशों के समान आधार (सिद्ध दुराचरण या अक्षमता)।",
+    "• विस्तृत प्रक्रिया न्यायाधीश (जांच) अधिनियम, 1968 में।",
+    "## न्यायाधीशों का स्थानांतरण (अनुच्छेद 222)",
+    "• राष्ट्रपति, भारत के मुख्य न्यायाधीश से परामर्श के बाद न्यायाधीशों का स्थानांतरण कर सकते हैं।",
+    "• कोलेजियम की भूमिका: CJI + 4 वरिष्ठतम SC न्यायाधीश + दोनों HC के CJ।",
+    "• आधार: सुप्रीम कोर्ट का तृतीय न्यायाधीश मामला (1998)।"
+  ],
+  "tables": [
+    {
+      "title": "Common High Courts in India",
+      "titleHindi": "भारत में साझा उच्च न्यायालय",
+      "columns": ["High Court", "States/UTs Covered"],
+      "columnsHindi": ["उच्च न्यायालय", "कवर किए गए राज्य/केंद्र शासित प्रदेश"],
+      "rows": [
+        ["Bombay High Court", "Maharashtra, Goa, Dadra & Nagar Haveli, Daman & Diu"],
+        ["Calcutta High Court", "West Bengal, Andaman & Nicobar Islands"],
+        ["Guwahati High Court", "Assam, Nagaland, Mizoram, Arunachal Pradesh"],
+        ["Kerala High Court", "Kerala, Lakshadweep"],
+        ["Madras High Court", "Tamil Nadu, Puducherry"],
+        ["Punjab & Haryana High Court", "Punjab, Haryana, Chandigarh"],
+        ["J&K and Ladakh High Court", "Union Territories of Jammu & Kashmir and Ladakh"]
+      ],
+      "rowsHindi": [
+        ["बॉम्बे हाईकोर्ट", "महाराष्ट्र, गोवा, दादरा और नगर हवेली, दमन और दीव"],
+        ["कलकत्ता हाईकोर्ट", "पश्चिम बंगाल, अंडमान और निकोबार द्वीपसमूह"],
+        ["गुवाहाटी हाईकोर्ट", "असम, नागालैंड, मिज़ोरम, अरुणाचल प्रदेश"],
+        ["केरल हाईकोर्ट", "केरल, लक्षद्वीप"],
+        ["मद्रास हाईकोर्ट", "तमिलनाडु, पुडुचेरी"],
+        ["पंजाब एवं हरियाणा हाईकोर्ट", "पंजाब, हरियाणा, चंडीगढ़"],
+        ["जम्मू-कश्मीर और लद्दाख हाईकोर्ट", "जम्मू-कश्मीर और लद्दाख के केंद्र शासित प्रदेश"]
+      ]
+    },
+    {
+      "title": "High Court Judges – Appointment & Tenure",
+      "titleHindi": "उच्च न्यायालय न्यायाधीश – नियुक्ति और कार्यकाल",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Appointment", "By President under Article 217 after consultation with CJI/Collegium"],
+        ["Qualification", "Indian citizen + 10 years as judicial officer OR advocate in HC"],
+        ["Oath", "Administered by Governor"],
+        ["Salary", "By Parliament; drawn from Consolidated Fund of State; pension from Consolidated Fund of India"],
+        ["Tenure", "Till 62 years of age (originally 60; raised by 15th Amendment)"],
+        ["Removal", "By President, on grounds of misbehavior/incapacity (Judges Enquiry Act, 1968)"],
+        ["Transfer", "By President under Article 222 after CJI’s consultation (Collegium involvement)"]
+      ],
+      "rowsHindi": [
+        ["नियुक्ति", "राष्ट्रपति द्वारा अनुच्छेद 217 के तहत, CJI/कोलेजियम से परामर्श के बाद"],
+        ["योग्यता", "भारतीय नागरिक + 10 वर्ष न्यायिक अधिकारी या उच्च न्यायालय अधिवक्ता"],
+        ["शपथ", "राज्यपाल द्वारा दिलाई जाती है"],
+        ["वेतन", "संसद द्वारा; राज्य की संचित निधि से, पेंशन भारत की संचित निधि से"],
+        ["कार्यकाल", "62 वर्ष की आयु तक (पहले 60; 15वें संशोधन से बढ़ाया गया)"],
+        ["हटाना", "राष्ट्रपति द्वारा; दुराचरण/अक्षमता (न्यायाधीश जांच अधिनियम, 1968)"],
+        ["स्थानांतरण", "राष्ट्रपति द्वारा अनुच्छेद 222 के तहत, CJI से परामर्श और कोलेजियम की भागीदारी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 214: High Court for each state.",
+    "Article 231: Parliament can create a common High Court for 2+ states.",
+    "Article 216: Composition – Chief Justice + judges.",
+    "Article 217: Appointment, qualifications, tenure, removal.",
+    "Article 221: Salaries charged on Consolidated Fund of State.",
+    "Article 222: Transfer of judges by President in consultation with CJI.",
+    "High Court judges retire at 62 years (SC judges at 65).",
+    "There are 25 High Courts in India; 7 are common High Courts."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 214: प्रत्येक राज्य के लिए उच्च न्यायालय।",
+    "अनुच्छेद 231: संसद 2 या अधिक राज्यों के लिए साझा उच्च न्यायालय बना सकती है।",
+    "अनुच्छेद 216: संरचना – मुख्य न्यायाधीश + अन्य न्यायाधीश।",
+    "अनुच्छेद 217: नियुक्ति, योग्यता, कार्यकाल, हटाना।",
+    "अनुच्छेद 221: वेतन राज्य की संचित निधि से।",
+    "अनुच्छेद 222: राष्ट्रपति द्वारा CJI से परामर्श के बाद न्यायाधीशों का स्थानांतरण।",
+    "HC न्यायाधीश 62 वर्ष की आयु में सेवानिवृत्त होते हैं (SC न्यायाधीश 65 में)।",
+    "भारत में 25 उच्च न्यायालय हैं; इनमें 7 साझा उच्च न्यायालय हैं।"
+  ],
+  "mainsPoints": [
+    "High Courts are constitutional courts under Part VI of the Constitution.",
+    "They are second in judicial hierarchy after Supreme Court.",
+    "Appointment of HC judges balances executive (President, Cabinet) and judiciary (Collegium).",
+    "Collegium system ensures independence in appointments and transfers.",
+    "Tenure of HC judges is until 62 years; shorter than SC judges (65 years).",
+    "Removal is difficult, requiring misbehavior or incapacity proven under Judges Enquiry Act, 1968.",
+    "Transfer of judges under Article 222 is done by President with CJI’s consultation (Third Judges Case, 1998)."
+  ],
+  "mainsPointsHindi": [
+    "उच्च न्यायालय संविधान के भाग VI के अंतर्गत संवैधानिक न्यायालय हैं।",
+    "ये सर्वोच्च न्यायालय के बाद दूसरी सर्वोच्च न्यायिक संस्था हैं।",
+    "HC न्यायाधीशों की नियुक्ति में कार्यपालिका (राष्ट्रपति, मंत्रिमंडल) और न्यायपालिका (कोलेजियम) का संतुलन।",
+    "कोलेजियम प्रणाली नियुक्ति और स्थानांतरण में स्वतंत्रता सुनिश्चित करती है।",
+    "HC न्यायाधीशों का कार्यकाल 62 वर्ष तक; SC न्यायाधीशों से कम (65 वर्ष)।",
+    "हटाने की प्रक्रिया कठिन है, जिसके लिए दुराचरण या अक्षमता सिद्ध करना आवश्यक (न्यायाधीश जांच अधिनियम, 1968)।",
+    "अनुच्छेद 222 के तहत स्थानांतरण राष्ट्रपति द्वारा CJI से परामर्श कर (तृतीय न्यायाधीश मामला, 1998) किया जाता है।"
+  ]
+},
+{
+  "heading": "High Court Judges: Appointment, Qualification, Tenure & Removal",
+  "headingHindi": "उच्च न्यायालय के न्यायाधीश: नियुक्ति, योग्यता, कार्यकाल और हटाना",
+  "highlight": "High Court judges are appointed by the President under Article 217 in consultation with the Chief Justice of India and the collegium system. They serve until 62 years of age, can resign or be removed on grounds similar to Supreme Court judges, and may be transferred under Article 222. Their salaries are charged on the Consolidated Fund of the State.",
+  "highlightHindi": "उच्च न्यायालय के न्यायाधीशों की नियुक्ति अनुच्छेद 217 के तहत राष्ट्रपति द्वारा की जाती है, जिसमें भारत के मुख्य न्यायाधीश और कोलेजियम प्रणाली से परामर्श शामिल है। इनका कार्यकाल 62 वर्ष तक होता है। ये इस्तीफा दे सकते हैं या सुप्रीम कोर्ट न्यायाधीशों जैसे ही आधार पर हटाए जा सकते हैं। अनुच्छेद 222 के तहत न्यायाधीशों का स्थानांतरण किया जा सकता है। इनका वेतन राज्य की संचित निधि से लिया जाता है।",
+  "details": [
+    "## Appointment (Article 217)",
+    "• Appointed by the President.",
+    "• Chief Justice of High Court – consultation with Chief Justice of India.",
+    "• Other judges – consultation with CJI and Chief Justice of High Court.",
+    "### Collegium System",
+    "• Initiated by Chief Justice of High Court.",
+    "• High Court Collegium: Chief Justice + 2 senior-most judges of HC.",
+    "• Recommendations forwarded to Supreme Court Collegium.",
+    "• SC Collegium sends names to Union Government.",
+    "• Union Cabinet advises the President on appointments.",
+    "• Government can send recommendations back, but reiterated names must be considered.",
+    "## Qualification (Article 217)",
+    "• Must be an Indian citizen.",
+    "• At least 10 years as judicial officer in India, OR",
+    "• At least 10 years as advocate in a High Court(s).",
+    "• No minimum age criteria.",
+    "• Unlike SC, no provision for appointing a 'distinguished jurist'.",
+    "## Oath",
+    "• Administered by the Governor of the state.",
+    "## Salary & Allowances (Article 221)",
+    "• Salaries, allowances, leave, privileges, and pensions determined by Parliament.",
+    "• Salaries charged on Consolidated Fund of the State.",
+    "• Pensions charged on Consolidated Fund of India.",
+    "## Tenure",
+    "• Not fixed by Constitution.",
+    "• Serve until the age of 62 years (originally 60; raised by 15th Constitutional Amendment Act).",
+    "• Can resign by addressing President.",
+    "• Can be removed by President.",
+    "## Removal of Judges",
+    "• Under Article 217 – same grounds as removal of SC judges (proved misbehavior or incapacity).",
+    "• Detailed procedure laid down in Judges Enquiry Act, 1968.",
+    "## Transfer of Judges (Article 222)",
+    "• President may transfer HC judges after consultation with Chief Justice of India.",
+    "• Collegium involvement: CJI + 4 senior-most SC judges + Chief Justices of both High Courts concerned.",
+    "• Basis: Supreme Court’s Third Judges Case (1998)."
+  ],
+  "detailsHindi": [
+    "## नियुक्ति (अनुच्छेद 217)",
+    "• राष्ट्रपति द्वारा नियुक्ति।",
+    "• उच्च न्यायालय के मुख्य न्यायाधीश – भारत के मुख्य न्यायाधीश से परामर्श।",
+    "• अन्य न्यायाधीश – CJI और उच्च न्यायालय के मुख्य न्यायाधीश से परामर्श।",
+    "### कोलेजियम प्रणाली",
+    "• प्रक्रिया उच्च न्यायालय के मुख्य न्यायाधीश द्वारा शुरू की जाती है।",
+    "• उच्च न्यायालय कोलेजियम: मुख्य न्यायाधीश + उच्च न्यायालय के 2 वरिष्ठतम न्यायाधीश।",
+    "• अनुशंसाएँ सुप्रीम कोर्ट कोलेजियम को भेजी जाती हैं।",
+    "• सुप्रीम कोर्ट कोलेजियम नाम केंद्र सरकार को भेजता है।",
+    "• केंद्र मंत्रिमंडल राष्ट्रपति को सलाह देता है।",
+    "• सरकार नाम वापस भेज सकती है, लेकिन पुनः दोहराए गए नामों पर विचार करना अनिवार्य।",
+    "## योग्यता (अनुच्छेद 217)",
+    "• भारतीय नागरिक होना चाहिए।",
+    "• भारत में कम से कम 10 वर्ष तक न्यायिक अधिकारी।",
+    "• या उच्च न्यायालय में कम से कम 10 वर्ष तक अधिवक्ता।",
+    "• कोई न्यूनतम आयु निर्धारित नहीं।",
+    "• सुप्रीम कोर्ट की तरह 'विशिष्ट विधिवेत्ता' की नियुक्ति का प्रावधान नहीं।",
+    "## शपथ",
+    "• राज्यपाल द्वारा दिलाई जाती है।",
+    "## वेतन और भत्ते (अनुच्छेद 221)",
+    "• वेतन, भत्ते, अवकाश, विशेषाधिकार और पेंशन संसद द्वारा निर्धारित।",
+    "• वेतन राज्य की संचित निधि से लिया जाता है।",
+    "• पेंशन भारत की संचित निधि से ली जाती है।",
+    "## कार्यकाल",
+    "• संविधान द्वारा निश्चित नहीं।",
+    "• 62 वर्ष की आयु तक सेवा (पहले 60 वर्ष; 15वें संविधान संशोधन अधिनियम द्वारा बढ़ाया गया)।",
+    "• राष्ट्रपति को इस्तीफा दे सकते हैं।",
+    "• राष्ट्रपति द्वारा हटाए जा सकते हैं।",
+    "## न्यायाधीशों की हटाने की प्रक्रिया",
+    "• अनुच्छेद 217 – सुप्रीम कोर्ट न्यायाधीशों के समान आधार (सिद्ध दुराचरण या अक्षमता)।",
+    "• विस्तृत प्रक्रिया न्यायाधीश (जांच) अधिनियम, 1968 में।",
+    "## न्यायाधीशों का स्थानांतरण (अनुच्छेद 222)",
+    "• राष्ट्रपति, भारत के मुख्य न्यायाधीश से परामर्श के बाद न्यायाधीशों का स्थानांतरण कर सकते हैं।",
+    "• कोलेजियम की भूमिका: CJI + 4 वरिष्ठतम SC न्यायाधीश + दोनों HC के CJ।",
+    "• आधार: सुप्रीम कोर्ट का तृतीय न्यायाधीश मामला (1998)।"
+  ],
+  "tables": [
+    {
+      "title": "High Court Judges – Appointment & Tenure",
+      "titleHindi": "उच्च न्यायालय न्यायाधीश – नियुक्ति और कार्यकाल",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Appointment", "By President under Article 217 after consultation with CJI/Collegium"],
+        ["Qualification", "Indian citizen + 10 years as judicial officer OR advocate in HC"],
+        ["Oath", "Administered by Governor"],
+        ["Salary", "By Parliament; drawn from Consolidated Fund of State; pension from Consolidated Fund of India"],
+        ["Tenure", "Till 62 years of age (originally 60; raised by 15th Amendment)"],
+        ["Removal", "By President, on grounds of misbehavior/incapacity (Judges Enquiry Act, 1968)"],
+        ["Transfer", "By President under Article 222 after CJI’s consultation (Collegium involvement)"]
+      ],
+      "rowsHindi": [
+        ["नियुक्ति", "राष्ट्रपति द्वारा अनुच्छेद 217 के तहत, CJI/कोलेजियम से परामर्श के बाद"],
+        ["योग्यता", "भारतीय नागरिक + 10 वर्ष न्यायिक अधिकारी या उच्च न्यायालय अधिवक्ता"],
+        ["शपथ", "राज्यपाल द्वारा दिलाई जाती है"],
+        ["वेतन", "संसद द्वारा; राज्य की संचित निधि से, पेंशन भारत की संचित निधि से"],
+        ["कार्यकाल", "62 वर्ष की आयु तक (पहले 60; 15वें संशोधन से बढ़ाया गया)"],
+        ["हटाना", "राष्ट्रपति द्वारा; दुराचरण/अक्षमता (न्यायाधीश जांच अधिनियम, 1968)"],
+        ["स्थानांतरण", "राष्ट्रपति द्वारा अनुच्छेद 222 के तहत, CJI से परामर्श और कोलेजियम की भागीदारी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 217 – Appointment and tenure of HC judges.",
+    "HC judges retire at 62 years (SC at 65).",
+    "Appointment through Collegium system.",
+    "Removal grounds same as SC judges (misbehavior, incapacity).",
+    "Article 222 – Transfer of HC judges."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 217 – HC न्यायाधीशों की नियुक्ति और कार्यकाल।",
+    "HC न्यायाधीश 62 वर्ष में सेवानिवृत्त होते हैं (SC न्यायाधीश 65 में)।",
+    "नियुक्ति कोलेजियम प्रणाली द्वारा।",
+    "हटाने के आधार SC न्यायाधीशों के समान (दुराचरण, अक्षमता)।",
+    "अनुच्छेद 222 – HC न्यायाधीशों का स्थानांतरण।"
+  ],
+  "mainsPoints": [
+    "Appointment of HC judges balances executive (President, Cabinet) and judiciary (Collegium).",
+    "Collegium system plays key role in judicial independence.",
+    "Retirement age of HC judges is 62 years, lower than SC judges.",
+    "Removal procedure is deliberately rigid to safeguard independence.",
+    "Transfer of judges under Article 222 ensures administrative flexibility but remains controversial."
+  ],
+  "mainsPointsHindi": [
+    "HC न्यायाधीशों की नियुक्ति में कार्यपालिका (राष्ट्रपति, मंत्रिमंडल) और न्यायपालिका (कोलेजियम) का संतुलन।",
+    "कोलेजियम प्रणाली न्यायिक स्वतंत्रता की रक्षा में महत्वपूर्ण।",
+    "HC न्यायाधीश 62 वर्ष की आयु में सेवानिवृत्त होते हैं, SC न्यायाधीशों से कम।",
+    "हटाने की प्रक्रिया कठोर रखी गई है ताकि स्वतंत्रता बनी रहे।",
+    "अनुच्छेद 222 के तहत स्थानांतरण प्रशासनिक लचीलापन सुनिश्चित करता है, लेकिन विवादास्पद है।"
+  ]
+},
+{
+  "heading": "Powers and Jurisdiction of High Courts",
+  "headingHindi": "उच्च न्यायालयों की शक्तियाँ और क्षेत्राधिकार",
+  "highlight": "High Courts have wide powers including writ jurisdiction under Article 226, supervisory jurisdiction under Article 227, control over subordinate courts, power as a Court of Record under Article 215, and judicial review. These ensure constitutional supremacy, protection of rights, and effective administration of justice.",
+  "highlightHindi": "उच्च न्यायालयों के पास व्यापक शक्तियाँ हैं, जिनमें अनुच्छेद 226 के तहत रिट अधिकारिता, अनुच्छेद 227 के तहत पर्यवेक्षी अधिकारिता, अधीनस्थ न्यायालयों पर नियंत्रण, अनुच्छेद 215 के तहत न्यायालय अभिलेख की शक्ति, और न्यायिक पुनरावलोकन शामिल हैं। ये शक्तियाँ संवैधानिक सर्वोच्चता, अधिकारों की रक्षा और प्रभावी न्याय प्रशासन सुनिश्चित करती हैं।",
+  "details": [
+    "## Supervisory Jurisdiction (Article 227)",
+    "• High Court supervises all courts and tribunals within its jurisdiction (except military courts/tribunals).",
+    "• Includes administrative as well as judicial superintendence.",
+    "• Can be exercised suo-moto (on its own).",
+    "## Writ Jurisdiction (Article 226)",
+    "• High Court can issue writs for Fundamental Rights and other legal rights.",
+    "• Wider than SC’s writ jurisdiction (SC issues only for FRs under Article 32).",
+    "• Writs can be issued within and outside jurisdiction; cause of action determines jurisdiction.",
+    "• Concurrent power: Both SC and HC can issue writs.",
+    "## Control over Subordinate Courts",
+    "• Governor consults High Court for appointment of state judicial service officers (other than district judges).",
+    "• HC handles service matters of judicial officers (other than district judges).",
+    "• Can transfer cases involving constitutional questions, decide them or return with judgment.",
+    "• HC decisions binding on all subordinate courts.",
+    "## Court of Record (Article 215)",
+    "• Records of High Court have evidentiary value and serve as legal precedents.",
+    "• Cannot be questioned in subordinate courts.",
+    "• Power to punish for contempt of court.",
+    "• Can review its earlier judgments (though Constitution does not explicitly provide review power).",
+    "## Power of Judicial Review",
+    "• Articles 13 and 226 confer power of judicial review on High Courts.",
+    "• Constitutional validity of laws/rules can be challenged on three grounds:",
+    "  – Violation of Fundamental Rights (Part III).",
+    "  – Outside the competence of authority which framed it.",
+    "  – Repugnancy to constitutional provisions."
+  ],
+  "detailsHindi": [
+    "## पर्यवेक्षी अधिकारिता (अनुच्छेद 227)",
+    "• उच्च न्यायालय अपने क्षेत्राधिकार के सभी न्यायालयों और अधिकरणों की देखरेख करता है (सैन्य न्यायालय/अधिकरण को छोड़कर)।",
+    "• इसमें प्रशासनिक और न्यायिक दोनों प्रकार की देखरेख शामिल है।",
+    "• यह स्वतः (सुओ मोटो) भी प्रयोग कर सकता है।",
+    "## रिट अधिकारिता (अनुच्छेद 226)",
+    "• उच्च न्यायालय मौलिक अधिकारों और अन्य कानूनी अधिकारों के लिए रिट जारी कर सकता है।",
+    "• सुप्रीम कोर्ट की तुलना में अधिक व्यापक अधिकारिता (SC केवल अनुच्छेद 32 के तहत मौलिक अधिकारों के लिए रिट जारी करता है)।",
+    "• रिट अपने और बाहर के क्षेत्राधिकार में जारी कर सकता है; कारण-कार्रवाई अधिकारिता तय करती है।",
+    "• समवर्ती शक्ति: सुप्रीम कोर्ट और उच्च न्यायालय दोनों रिट जारी कर सकते हैं।",
+    "## अधीनस्थ न्यायालयों पर नियंत्रण",
+    "• राज्यपाल राज्य की न्यायिक सेवा (जिला न्यायाधीश को छोड़कर) की नियुक्ति में उच्च न्यायालय से परामर्श करता है।",
+    "• HC राज्य न्यायिक अधिकारियों (जिला न्यायाधीश को छोड़कर) के सेवा मामलों से निपटता है।",
+    "• संवैधानिक प्रश्नों वाले मामलों का स्थानांतरण कर सकता है और स्वयं निर्णय दे सकता है।",
+    "• उच्च न्यायालय के निर्णय सभी अधीनस्थ न्यायालयों पर बाध्यकारी होते हैं।",
+    "## अभिलेख न्यायालय (अनुच्छेद 215)",
+    "• उच्च न्यायालय के अभिलेख साक्ष्यात्मक मूल्य रखते हैं और कानूनी नज़ीर बनते हैं।",
+    "• अधीनस्थ न्यायालयों में इन पर प्रश्न नहीं उठाया जा सकता।",
+    "• न्यायालय की अवमानना के लिए दंड देने की शक्ति।",
+    "• अपने पूर्व निर्णयों की समीक्षा कर सकता है (हालांकि संविधान में समीक्षा शक्ति स्पष्ट नहीं है)।",
+    "## न्यायिक पुनरावलोकन की शक्ति",
+    "• अनुच्छेद 13 और 226 उच्च न्यायालयों को न्यायिक पुनरावलोकन की शक्ति प्रदान करते हैं।",
+    "• किसी कानून/नियम की संवैधानिक वैधता को तीन आधारों पर चुनौती दी जा सकती है:",
+    "  – मौलिक अधिकारों (भाग III) का उल्लंघन।",
+    "  – जिसने बनाया उसकी अधिकार-सीमा से बाहर।",
+    "  – संवैधानिक प्रावधानों से असंगति।"
+  ],
+  "tables": [
+    {
+      "title": "Jurisdiction and Powers of High Courts",
+      "titleHindi": "उच्च न्यायालयों का क्षेत्राधिकार और शक्तियाँ",
+      "columns": ["Aspect", "Provision/Power"],
+      "columnsHindi": ["पहलू", "प्रावधान/शक्ति"],
+      "rows": [
+        ["Supervisory Jurisdiction", "Article 227 – Supervision of all courts/tribunals except military"],
+        ["Writ Jurisdiction", "Article 226 – Writs for FRs and other legal rights"],
+        ["Control over Subordinate Courts", "Appointments, service matters, transfer of cases, binding decisions"],
+        ["Court of Record", "Article 215 – Records as precedent, power of contempt, review of judgments"],
+        ["Judicial Review", "Articles 13 & 226 – Review of laws for validity on FR, competence, or constitutional grounds"]
+      ],
+      "rowsHindi": [
+        ["पर्यवेक्षी अधिकारिता", "अनुच्छेद 227 – सैन्य न्यायालय छोड़कर सभी न्यायालयों/अधिकरणों की देखरेख"],
+        ["रिट अधिकारिता", "अनुच्छेद 226 – मौलिक अधिकार और अन्य कानूनी अधिकारों हेतु रिट"],
+        ["अधीनस्थ न्यायालयों पर नियंत्रण", "नियुक्ति, सेवा मामले, मामलों का स्थानांतरण, बाध्यकारी निर्णय"],
+        ["अभिलेख न्यायालय", "अनुच्छेद 215 – अभिलेख नज़ीर, अवमानना की शक्ति, निर्णय समीक्षा"],
+        ["न्यायिक पुनरावलोकन", "अनुच्छेद 13 और 226 – FR, अधिकारिता, असंगति आधार पर वैधता समीक्षा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 226 – Wider writ jurisdiction than SC (FR + other rights).",
+    "Article 227 – Supervisory jurisdiction over all courts/tribunals except military.",
+    "Article 215 – High Court is a Court of Record, has contempt powers.",
+    "Articles 13 & 226 – Judicial review power of High Courts.",
+    "HC decisions binding on subordinate courts."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 226 – SC से व्यापक रिट अधिकारिता (FR + अन्य अधिकार)।",
+    "अनुच्छेद 227 – सैन्य को छोड़कर सभी न्यायालयों/अधिकरणों पर पर्यवेक्षी अधिकारिता।",
+    "अनुच्छेद 215 – उच्च न्यायालय अभिलेख न्यायालय है, अवमानना शक्ति।",
+    "अनुच्छेद 13 और 226 – न्यायिक पुनरावलोकन की शक्ति।",
+    "HC के निर्णय अधीनस्थ न्यायालयों पर बाध्यकारी।"
+  ],
+  "mainsPoints": [
+    "High Courts exercise wide powers: writs, supervisory control, judicial review, and as Courts of Record.",
+    "They ensure constitutional supremacy and protect Fundamental Rights.",
+    "Supervisory jurisdiction strengthens administrative and judicial control over subordinate courts.",
+    "Wider writ jurisdiction than SC enhances accessibility of justice.",
+    "Judicial review role makes High Courts crucial guardians of constitutionalism."
+  ],
+  "mainsPointsHindi": [
+    "उच्च न्यायालय व्यापक शक्तियों का प्रयोग करते हैं: रिट, पर्यवेक्षी नियंत्रण, न्यायिक पुनरावलोकन और अभिलेख न्यायालय।",
+    "ये संवैधानिक सर्वोच्चता सुनिश्चित करते हैं और मौलिक अधिकारों की रक्षा करते हैं।",
+    "पर्यवेक्षी अधिकारिता अधीनस्थ न्यायालयों पर प्रशासनिक और न्यायिक नियंत्रण को मजबूत करती है।",
+    "SC से अधिक व्यापक रिट अधिकारिता न्याय तक पहुँच को बढ़ाती है।",
+    "न्यायिक पुनरावलोकन की भूमिका उच्च न्यायालयों को संवैधानिकता के महत्वपूर्ण संरक्षक बनाती है।"
+  ]
+},
+{
+  "heading": "Subordinate Courts (Articles 233–237)",
+  "headingHindi": "अधीनस्थ न्यायालय (अनुच्छेद 233–237)",
+  "highlight": "Subordinate courts form the lowest tier of the judiciary. District judges are appointed under Article 233 by the Governor in consultation with the High Court, while other judges are appointed under Article 234 in consultation with the State Public Service Commission and the High Court. Proposals for an All India Judicial Service (AIJS) aim to centralize recruitment at higher levels of the judiciary.",
+  "highlightHindi": "अधीनस्थ न्यायालय न्यायपालिका का सबसे निचला स्तर है। जिला न्यायाधीशों की नियुक्ति अनुच्छेद 233 के तहत राज्यपाल द्वारा उच्च न्यायालय से परामर्श करके की जाती है, जबकि अन्य न्यायाधीशों की नियुक्ति अनुच्छेद 234 के तहत राज्य लोक सेवा आयोग और उच्च न्यायालय से परामर्श करके की जाती है। अखिल भारतीय न्यायिक सेवा (AIJS) का प्रस्ताव उच्च स्तर पर न्यायपालिका में भर्ती को केंद्रीकृत करने का उद्देश्य रखता है।",
+  "details": [
+    "## Appointment of District Judges (Article 233)",
+    "• By Governor in consultation with High Court.",
+    "• Conditions: not in Union/State service; minimum 7 years as advocate; recommended by High Court.",
+    "## Appointment of Judges other than District Judges (Article 234)",
+    "• By Governor in consultation with State Public Service Commission (SPSC) and High Court.",
+    "## All India Judicial Service (AIJS)",
+    "• Proposal to centralize recruitment of judges at Additional District Judge and District Judge levels.",
+    "• Envisaged as an All-India Service like IAS, IPS, IFoS.",
+    "### Constitutional Provision",
+    "• Article 312: Rajya Sabha resolution can create All-India Services including AIJS.",
+    "### Current Appointment Procedure (Articles 233 & 234)",
+    "• Overseen by SPSC and relevant High Court.",
+    "• State Judicial Services exam + interview for selection.",
+    "## Benefits of AIJS",
+    "• Efficient judiciary: reduces disparity in pay/remuneration across states.",
+    "• Improves ease of doing business.",
+    "• Maintains judge-to-population ratio (Law Commission 1987: 50 judges per million).",
+    "• Inclusivity: ensures representation of marginalized sections.",
+    "• Attracts a wider talent pool.",
+    "• Centralized recruitment reduces corruption and nepotism.",
+    "## Limitations/Criticism of AIJS",
+    "• State resistance: recruitment of subordinate judiciary is state prerogative under Article 233.",
+    "• Lack of local knowledge and sensitivity.",
+    "• Constitutional restriction: AIJS cannot include posts below district judge (Article 312 clause 3).",
+    "• May erode High Courts’ control over subordinate judiciary.",
+    "• Reservation policies harder to implement in centralized system.",
+    "• Implementation challenges."
+  ],
+  "detailsHindi": [
+    "## जिला न्यायाधीशों की नियुक्ति (अनुच्छेद 233)",
+    "• राज्यपाल द्वारा उच्च न्यायालय से परामर्श करके।",
+    "• शर्तें: केंद्र/राज्य सेवा में न हों; न्यूनतम 7 वर्ष अधिवक्ता; उच्च न्यायालय की सिफारिश।",
+    "## जिला न्यायाधीशों से नीचे के न्यायाधीशों की नियुक्ति (अनुच्छेद 234)",
+    "• राज्यपाल द्वारा राज्य लोक सेवा आयोग और उच्च न्यायालय से परामर्श करके।",
+    "## अखिल भारतीय न्यायिक सेवा (AIJS)",
+    "• अतिरिक्त जिला न्यायाधीश और जिला न्यायाधीश स्तर पर भर्ती को केंद्रीकृत करने का प्रस्ताव।",
+    "• IAS, IPS, IFoS जैसी अखिल भारतीय सेवा के रूप में परिकल्पित।",
+    "### संवैधानिक प्रावधान",
+    "• अनुच्छेद 312: राज्यसभा प्रस्ताव द्वारा अखिल भारतीय सेवाएँ बनाई जा सकती हैं।",
+    "### वर्तमान नियुक्ति प्रक्रिया (अनुच्छेद 233 और 234)",
+    "• SPSC और संबंधित उच्च न्यायालय द्वारा देखरेख।",
+    "• राज्य न्यायिक सेवा परीक्षा + साक्षात्कार द्वारा चयन।",
+    "## AIJS के लाभ",
+    "• न्यायपालिका कुशल बनेगी: राज्यों में वेतन/भत्तों की असमानता कम होगी।",
+    "• व्यापार करने में आसानी।",
+    "• न्यायाधीश-जनसंख्या अनुपात बनाए रखना (कानून आयोग 1987: प्रति दस लाख पर 50 न्यायाधीश)।",
+    "• समावेशिता: हाशिए पर पड़े वर्गों का प्रतिनिधित्व।",
+    "• प्रतिभा का बड़ा पूल आकर्षित होगा।",
+    "• केंद्रीकृत भर्ती भ्रष्टाचार और भाई-भतीजावाद को कम करेगी।",
+    "## AIJS की सीमाएँ/आलोचना",
+    "• राज्यों का विरोध: अधीनस्थ न्यायपालिका की भर्ती अनुच्छेद 233 के तहत राज्यों का अधिकार।",
+    "• स्थानीय ज्ञान की कमी।",
+    "• संवैधानिक प्रतिबंध: AIJS जिला न्यायाधीश से नीचे के पदों पर लागू नहीं (अनुच्छेद 312 खंड 3)।",
+    "• उच्च न्यायालयों का अधीनस्थ न्यायपालिका पर नियंत्रण कमजोर हो सकता है।",
+    "• केंद्रीकृत परीक्षा में आरक्षण लागू करना कठिन।",
+    "• कार्यान्वयन चुनौतियाँ।"
+  ],
+  "tables": [
+    {
+      "title": "Subordinate Courts – Appointments & AIJS",
+      "titleHindi": "अधीनस्थ न्यायालय – नियुक्ति और AIJS",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["District Judges Appointment", "Article 233 – By Governor in consultation with High Court"],
+        ["Other Judges Appointment", "Article 234 – By Governor with SPSC + HC consultation"],
+        ["AIJS Constitutional Basis", "Article 312 – RS resolution to create All-India Service"],
+        ["Current Process", "SPSC + HC oversee exams and interviews"],
+        ["AIJS Benefits", "Efficiency, inclusivity, talent pool, anti-corruption, judge-population ratio"],
+        ["AIJS Criticism", "State resistance, local knowledge gap, reservation issues, constitutional limits"]
+      ],
+      "rowsHindi": [
+        ["जिला न्यायाधीश नियुक्ति", "अनुच्छेद 233 – राज्यपाल द्वारा, उच्च न्यायालय से परामर्श में"],
+        ["अन्य न्यायाधीश नियुक्ति", "अनुच्छेद 234 – राज्यपाल द्वारा, SPSC + HC परामर्श में"],
+        ["AIJS का आधार", "अनुच्छेद 312 – राज्यसभा प्रस्ताव द्वारा अखिल भारतीय सेवा"],
+        ["वर्तमान प्रक्रिया", "SPSC + HC परीक्षा और साक्षात्कार का संचालन"],
+        ["AIJS के लाभ", "कुशलता, समावेशिता, प्रतिभा पूल, भ्रष्टाचार रोकथाम, न्यायाधीश-जनसंख्या अनुपात"],
+        ["AIJS की आलोचना", "राज्य विरोध, स्थानीय ज्ञान की कमी, आरक्षण समस्या, संवैधानिक सीमा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 233 – District Judges appointment.",
+    "Article 234 – Appointment of other judges to state judicial service.",
+    "Article 312 – Basis for AIJS creation.",
+    "AIJS aims to centralize recruitment at ADJ/DJ level.",
+    "Law Commission 1987: 50 judges per million population."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 233 – जिला न्यायाधीशों की नियुक्ति।",
+    "अनुच्छेद 234 – राज्य न्यायिक सेवा में अन्य न्यायाधीशों की नियुक्ति।",
+    "अनुच्छेद 312 – AIJS बनाने का आधार।",
+    "AIJS का उद्देश्य ADJ/DJ स्तर पर भर्ती केंद्रीकृत करना।",
+    "कानून आयोग 1987: प्रति दस लाख पर 50 न्यायाधीश।"
+  ],
+  "mainsPoints": [
+    "District Judges appointed under Article 233 by Governor in consultation with HC.",
+    "Other judicial officers appointed under Article 234 with SPSC + HC consultation.",
+    "AIJS is proposed to streamline and centralize recruitment at higher judicial levels.",
+    "AIJS benefits: efficiency, inclusivity, addressing corruption, improving judge-population ratio.",
+    "Criticism: state resistance, local knowledge gap, reservation dilution, HC control erosion."
+  ],
+  "mainsPointsHindi": [
+    "जिला न्यायाधीश अनुच्छेद 233 के तहत राज्यपाल द्वारा उच्च न्यायालय से परामर्श करके नियुक्त होते हैं।",
+    "अन्य न्यायिक अधिकारी अनुच्छेद 234 के तहत SPSC + HC परामर्श से नियुक्त होते हैं।",
+    "AIJS उच्च न्यायिक स्तरों पर भर्ती को सुव्यवस्थित और केंद्रीकृत करने का प्रस्ताव है।",
+    "AIJS लाभ: कुशलता, समावेशिता, भ्रष्टाचार रोकना, न्यायाधीश-जनसंख्या अनुपात सुधार।",
+    "आलोचना: राज्यों का विरोध, स्थानीय ज्ञान की कमी, आरक्षण का कमजोर होना, HC नियंत्रण का क्षरण।"
+  ]
+},
+{
+  "heading": "Control and Structure of Subordinate Courts (Articles 233–237)",
+  "headingHindi": "अधीनस्थ न्यायालयों का नियंत्रण और संरचना (अनुच्छेद 233–237)",
+  "highlight": "Subordinate courts are controlled by the High Court under Article 235. Their structure and jurisdiction are determined by states. They include civil courts, criminal courts, and revenue courts. District judges are the highest authority in districts, with powers ranging from civil disputes to capital punishment cases (subject to High Court confirmation).",
+  "highlightHindi": "अनुच्छेद 235 के तहत अधीनस्थ न्यायालयों का नियंत्रण उच्च न्यायालय के पास होता है। इनकी संरचना और अधिकारिता राज्यों द्वारा निर्धारित की जाती है। इनमें दीवानी न्यायालय, आपराधिक न्यायालय और राजस्व न्यायालय शामिल हैं। जिला न्यायाधीश जिले में सर्वोच्च प्राधिकारी होते हैं और उनके पास दीवानी विवादों से लेकर मृत्युदंड तक (HC की पुष्टि के अधीन) निर्णय देने की शक्ति होती है।",
+  "details": [
+    "## Control over Subordinate Courts (Article 235)",
+    "• Vested in High Courts.",
+    "## Civil Courts",
+    "### Structure:",
+    "• District Court: District judge is the highest authority in district; has original + appellate jurisdiction in both civil and criminal cases.",
+    "• Civil cases tried by district judge; criminal cases by sessions judge.",
+    "• Courts of Subordinate Judges: Below district judge.",
+    "• Munsiff Courts: Lowest level civil courts.",
+    "### Jurisdiction:",
+    "• Matters like property disputes, breach of contract, divorce, landlord-tenant disputes etc.",
+    "## Criminal Courts",
+    "### Structure:",
+    "• Sessions Court: Power to impose any sentence including life imprisonment and death penalty (subject to High Court confirmation).",
+    "• Chief Judicial Magistrate: Can award punishments up to 7 years imprisonment.",
+    "• Judicial Magistrate: Can award punishments up to 3 years imprisonment.",
+    "### Jurisdiction:",
+    "• Offences like theft, dacoity, rape, pickpocketing, physical assault, murder etc.",
+    "• Cases disposed of under Criminal Procedure Code (CrPC) and Indian Penal Code (IPC).",
+    "## Revenue Courts",
+    "• Deal with cases related to land revenue in the state.",
+    "• Board of Revenue is the highest revenue court in a district.",
+    "• Suits include succession, land transfer, partition of holdings, demarcation of boundaries, removal of encroachments etc.",
+    "• Such cases do not fall under civil courts’ jurisdiction."
+  ],
+  "detailsHindi": [
+    "## अधीनस्थ न्यायालयों पर नियंत्रण (अनुच्छेद 235)",
+    "• उच्च न्यायालय में निहित।",
+    "## दीवानी न्यायालय",
+    "### संरचना:",
+    "• जिला न्यायालय: जिला न्यायाधीश जिले का सर्वोच्च प्राधिकारी; दीवानी व आपराधिक दोनों मामलों में मौलिक + अपीलीय अधिकारिता।",
+    "• दीवानी मामले जिला न्यायाधीश, आपराधिक मामले सेशन जज सुनते हैं।",
+    "• अधीनस्थ न्यायाधीशों की अदालतें: जिला न्यायाधीश से नीचे।",
+    "• मुंसिफ न्यायालय: सबसे निचले स्तर के दीवानी न्यायालय।",
+    "### अधिकारिता:",
+    "• संपत्ति विवाद, अनुबंध उल्लंघन, तलाक, मकान मालिक-किरायेदार विवाद आदि।",
+    "## आपराधिक न्यायालय",
+    "### संरचना:",
+    "• सेशन न्यायालय: किसी भी सजा देने का अधिकार, जिसमें आजीवन कारावास और मृत्युदंड शामिल (HC की पुष्टि आवश्यक)।",
+    "• मुख्य न्यायिक मजिस्ट्रेट: अधिकतम 7 वर्ष कारावास की सजा दे सकता है।",
+    "• न्यायिक मजिस्ट्रेट: अधिकतम 3 वर्ष कारावास की सजा दे सकता है।",
+    "### अधिकारिता:",
+    "• चोरी, डकैती, बलात्कार, जेबकतरी, शारीरिक हमला, हत्या आदि।",
+    "• मामले दंड प्रक्रिया संहिता और भारतीय दंड संहिता के अनुसार निपटाए जाते हैं।",
+    "## राजस्व न्यायालय",
+    "• राज्य में भूमि राजस्व से संबंधित मामलों का निपटारा।",
+    "• राजस्व बोर्ड: जिले की सर्वोच्च राजस्व अदालत।",
+    "• मुकदमे: उत्तराधिकार, भूमि हस्तांतरण, हिस्सेदारी का बंटवारा, सीमाओं का निर्धारण, अतिक्रमण हटाना आदि।",
+    "• ऐसे मुकदमे दीवानी न्यायालयों के अधिकार क्षेत्र में नहीं आते।"
+  ],
+  "tables": [
+    {
+      "title": "Subordinate Courts – Structure & Jurisdiction",
+      "titleHindi": "अधीनस्थ न्यायालय – संरचना और अधिकारिता",
+      "columns": ["Type of Court", "Structure/Authority", "Jurisdiction"],
+      "columnsHindi": ["न्यायालय का प्रकार", "संरचना/प्राधिकारी", "अधिकारिता"],
+      "rows": [
+        ["Civil Courts", "District Judge > Subordinate Judges > Munsiff Courts", "Property, contracts, divorce, landlord-tenant disputes"],
+        ["Criminal Courts", "Sessions Court > Chief Judicial Magistrate > Judicial Magistrate", "Theft, rape, dacoity, murder, IPC offences"],
+        ["Revenue Courts", "Board of Revenue (highest)", "Succession, land transfer, partition, boundaries, encroachments"]
+      ],
+      "rowsHindi": [
+        ["दीवानी न्यायालय", "जिला न्यायाधीश > अधीनस्थ न्यायाधीश > मुंसिफ न्यायालय", "संपत्ति, अनुबंध, तलाक, किरायेदारी विवाद"],
+        ["आपराधिक न्यायालय", "सेशन न्यायालय > मुख्य न्यायिक मजिस्ट्रेट > न्यायिक मजिस्ट्रेट", "चोरी, बलात्कार, डकैती, हत्या, आईपीसी अपराध"],
+        ["राजस्व न्यायालय", "राजस्व बोर्ड (सर्वोच्च)", "उत्तराधिकार, भूमि हस्तांतरण, हिस्सेदारी, सीमा निर्धारण, अतिक्रमण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 235: HC control over subordinate courts.",
+    "District Judge is head of district judiciary; also acts as Sessions Judge in criminal matters.",
+    "Sessions Court can award death penalty, subject to HC confirmation.",
+    "Revenue courts deal with land-related cases; not under civil courts.",
+    "Subordinate judiciary’s structure varies across states."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 235: उच्च न्यायालय का अधीनस्थ न्यायालयों पर नियंत्रण।",
+    "जिला न्यायाधीश जिला न्यायपालिका का प्रमुख है; आपराधिक मामलों में सेशन जज भी होता है।",
+    "सेशन न्यायालय मृत्युदंड दे सकता है, HC की पुष्टि आवश्यक।",
+    "राजस्व न्यायालय भूमि संबंधी मामलों का निपटारा करते हैं; ये दीवानी न्यायालयों के अंतर्गत नहीं आते।",
+    "अधीनस्थ न्यायपालिका की संरचना राज्यों में अलग-अलग होती है।"
+  ],
+  "mainsPoints": [
+    "High Courts control subordinate courts under Article 235.",
+    "District Judges are the highest judicial officers in districts with both civil and criminal jurisdiction.",
+    "Sessions Courts can award capital punishment, but subject to HC confirmation.",
+    "Revenue courts handle land-related disputes, separate from civil courts.",
+    "Subordinate judiciary ensures grassroots-level justice delivery and reduces burden on higher courts."
+  ],
+  "mainsPointsHindi": [
+    "उच्च न्यायालय अनुच्छेद 235 के तहत अधीनस्थ न्यायालयों पर नियंत्रण रखते हैं।",
+    "जिला न्यायाधीश जिले के सर्वोच्च न्यायिक अधिकारी होते हैं जिनके पास दीवानी और आपराधिक दोनों अधिकारिता होती है।",
+    "सेशन न्यायालय मृत्युदंड सुना सकता है, लेकिन HC की पुष्टि आवश्यक है।",
+    "राजस्व न्यायालय भूमि संबंधी विवादों का निपटारा करते हैं, ये दीवानी न्यायालयों से अलग होते हैं।",
+    "अधीनस्थ न्यायपालिका जमीनी स्तर पर न्याय उपलब्ध कराती है और उच्च न्यायालयों का बोझ कम करती है।"
+  ]
+},
+{
+  "heading": "Alternate Dispute Resolution (ADR)",
+  "headingHindi": "वैकल्पिक विवाद समाधान (ADR)",
+  "highlight": "ADR provides mechanisms like arbitration, conciliation, mediation, and negotiation to resolve disputes outside traditional courts. It is faster, cost-effective, confidential, and flexible, though limited in scope for certain disputes. India’s legal framework for ADR is governed by the Arbitration and Conciliation Act, 1996, and its subsequent amendments.",
+  "highlightHindi": "ADR मध्यस्थता, सुलह, मध्यस्थता (mediation) और वार्ता जैसी व्यवस्थाएँ प्रदान करता है ताकि विवादों को पारंपरिक न्यायालयों के बाहर सुलझाया जा सके। यह तेज, कम खर्चीला, गोपनीय और लचीला है, हालांकि कुछ विवादों में इसका दायरा सीमित है। भारत में ADR का कानूनी ढांचा मध्यस्थता और सुलह अधिनियम, 1996 और उसके संशोधनों द्वारा संचालित है।",
+  "details": [
+    "## Evolution and Codification of ADR in India",
+    "• Indian Arbitration Act, 1940.",
+    "• Arbitration and Conciliation Act, 1996 – comprehensive framework for ADR mechanisms.",
+    "• Commercial Courts Act, 2015 – streamlining commercial dispute resolution.",
+    "• Arbitration and Conciliation (Amendment) Act, 2021 – addressed domestic and international arbitration; arbitral awards can be stayed on grounds of fraud.",
+    "## Classification of ADR",
+    "### Arbitration",
+    "• Dispute settled by an arbitrator (third party).",
+    "• Decision ('award') generally binding.",
+    "• Relaxed rules of evidence; little judicial intervention.",
+    "• Generally no right to appeal.",
+    "### Conciliation",
+    "• Non-binding procedure.",
+    "• Settlement mutually agreed with the help of conciliator.",
+    "• Less formal than arbitration.",
+    "• Acceptance or rejection optional.",
+    "### Mediation",
+    "• Mediator facilitates discussion but does not decide dispute.",
+    "• Resolution depends on parties.",
+    "• Helps parties to arrive at self-decided solutions.",
+    "### Negotiation",
+    "• Direct discussions between parties without third-party intervention.",
+    "• Non-binding process.",
+    "## Advantages of ADR",
+    "• Time and cost-efficient.",
+    "• Greater control over outcome by parties.",
+    "• Privacy and confidentiality ensured.",
+    "• Flexible procedures compared to litigation.",
+    "• Less adversarial; promotes cooperative solutions.",
+    "## Limitations of ADR",
+    "• Limited awareness and accessibility.",
+    "• Not applicable to all disputes (e.g., criminal cases).",
+    "• Lack of enforceability in some cases.",
+    "• Bias and neutrality concerns.",
+    "• Lack of expertise undermines effectiveness.",
+    "• Cultural barriers in sensitive disputes.",
+    "## Way Forward",
+    "• Promote awareness and legal education on ADR.",
+    "• Establish specialized ADR centres.",
+    "• Encourage online ADR platforms.",
+    "• Provide incentives for ADR usage.",
+    "• Strengthen legal framework for enforceability of ADR awards."
+  ],
+  "detailsHindi": [
+    "## भारत में ADR का विकास और संहिताकरण",
+    "• भारतीय मध्यस्थता अधिनियम, 1940।",
+    "• मध्यस्थता और सुलह अधिनियम, 1996 – ADR तंत्र के लिए व्यापक ढांचा।",
+    "• वाणिज्यिक न्यायालय अधिनियम, 2015 – वाणिज्यिक विवादों का समाधान सरल बनाना।",
+    "• मध्यस्थता और सुलह (संशोधन) अधिनियम, 2021 – घरेलू और अंतर्राष्ट्रीय मध्यस्थता से संबंधित; धोखाधड़ी के आधार पर पंच निर्णय पर रोक।",
+    "## ADR के प्रकार",
+    "### मध्यस्थता (Arbitration)",
+    "• विवाद का निपटारा एक पंच (तीसरा पक्ष) द्वारा।",
+    "• निर्णय (पंच निर्णय) आम तौर पर बाध्यकारी।",
+    "• साक्ष्य के नियम ढीले; न्यूनतम न्यायिक हस्तक्षेप।",
+    "• सामान्यतः अपील का अधिकार नहीं।",
+    "### सुलह (Conciliation)",
+    "• गैर-बाध्यकारी प्रक्रिया।",
+    "• सुलहकर्ता की मदद से सहमति से निपटारा।",
+    "• मध्यस्थता से कम औपचारिक।",
+    "• सुझाव मानना या ठुकराना वैकल्पिक।",
+    "### मध्यस्थता (Mediation)",
+    "• मध्यस्थ केवल सुविधा प्रदान करता है, निर्णय नहीं करता।",
+    "• परिणाम पक्षकारों पर निर्भर।",
+    "• पक्षकारों को स्वयं समाधान तक पहुँचने में मदद।",
+    "### वार्ता (Negotiation)",
+    "• पक्षकारों के बीच प्रत्यक्ष चर्चा।",
+    "• किसी तीसरे पक्ष का हस्तक्षेप नहीं।",
+    "• गैर-बाध्यकारी।",
+    "## ADR के लाभ",
+    "• समय और धन की बचत।",
+    "• परिणाम पर पक्षकारों का अधिक नियंत्रण।",
+    "• गोपनीयता सुनिश्चित।",
+    "• परंपरागत वाद-विवाद से अधिक लचीला।",
+    "• कम प्रतिकूल; सहयोगात्मक समाधान को बढ़ावा।",
+    "## ADR की सीमाएँ",
+    "• जागरूकता और पहुँच की कमी।",
+    "• सभी विवादों पर लागू नहीं (जैसे, आपराधिक मामले)।",
+    "• कुछ मामलों में अमल में कमी।",
+    "• पक्षपात और निष्पक्षता की समस्या।",
+    "• विशेषज्ञता की कमी से विश्वसनीयता घटती है।",
+    "• सांस्कृतिक अवरोध।",
+    "## आगे का रास्ता",
+    "• ADR पर जागरूकता और शिक्षा को प्रोत्साहन।",
+    "• विशेष ADR केंद्रों की स्थापना।",
+    "• ऑनलाइन ADR मंचों को प्रोत्साहन।",
+    "• ADR उपयोग पर प्रोत्साहन देना।",
+    "• ADR निर्णयों और समझौतों की लागू करने योग्य कानूनी रूपरेखा विकसित करना।"
+  ],
+  "tables": [
+    {
+      "title": "Types of ADR Mechanisms",
+      "titleHindi": "ADR तंत्र के प्रकार",
+      "columns": ["Type", "Features", "Binding"],
+      "columnsHindi": ["प्रकार", "विशेषताएँ", "बाध्यकारी"],
+      "rows": [
+        ["Arbitration", "Third-party arbitrator decides dispute; award binding; minimal judicial intervention", "Binding"],
+        ["Conciliation", "Conciliator facilitates settlement; less formal; parties may accept/reject", "Non-binding"],
+        ["Mediation", "Mediator helps parties reach agreement; does not decide dispute", "Non-binding"],
+        ["Negotiation", "Direct talks between parties; no third-party", "Non-binding"]
+      ],
+      "rowsHindi": [
+        ["मध्यस्थता (Arbitration)", "तीसरे पक्ष द्वारा निर्णय; पंच निर्णय बाध्यकारी; न्यूनतम न्यायिक हस्तक्षेप", "बाध्यकारी"],
+        ["सुलह (Conciliation)", "सुलहकर्ता द्वारा सुविधा; कम औपचारिक; पक्षकार मान सकते हैं या ठुकरा सकते हैं", "गैर-बाध्यकारी"],
+        ["मध्यस्थता (Mediation)", "मध्यस्थ पक्षकारों को समझौते तक पहुँचने में मदद करता है; निर्णय नहीं करता", "गैर-बाध्यकारी"],
+        ["वार्ता (Negotiation)", "प्रत्यक्ष चर्चा; कोई तीसरा पक्ष नहीं", "गैर-बाध्यकारी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Arbitration and Conciliation Act, 1996 is the main ADR law in India.",
+    "Arbitration award is binding, conciliation/mediation/negotiation are non-binding.",
+    "2021 Amendment allows stay of arbitral award on grounds of fraud.",
+    "Commercial Courts Act, 2015 promotes speedy settlement of commercial disputes."
+  ],
+  "prelimsTipsHindi": [
+    "भारत में ADR का मुख्य कानून मध्यस्थता और सुलह अधिनियम, 1996 है।",
+    "Arbitration का निर्णय बाध्यकारी, जबकि Conciliation/Mediation/Negotiation गैर-बाध्यकारी।",
+    "2021 संशोधन ने धोखाधड़ी के आधार पर पंच निर्णय पर रोक की अनुमति दी।",
+    "वाणिज्यिक न्यायालय अधिनियम, 2015 वाणिज्यिक विवादों का त्वरित निपटारा करता है।"
+  ],
+  "mainsPoints": [
+    "ADR provides speedy, cost-effective, and confidential resolution of disputes outside courts.",
+    "India’s legal framework evolved from Arbitration Act, 1940 to Arbitration & Conciliation Act, 1996 and later amendments.",
+    "ADR mechanisms vary in binding nature: Arbitration binding, others non-binding.",
+    "ADR has advantages (efficiency, privacy, flexibility) but also limitations (awareness, enforceability, neutrality).",
+    "Way forward: promote ADR awareness, establish ADR centres, strengthen legal enforceability."
+  ],
+  "mainsPointsHindi": [
+    "ADR न्यायालयों से बाहर विवादों का तेज, किफायती और गोपनीय समाधान प्रदान करता है।",
+    "भारत का कानूनी ढांचा 1940 के मध्यस्थता अधिनियम से 1996 के मध्यस्थता और सुलह अधिनियम और बाद के संशोधनों तक विकसित हुआ।",
+    "ADR तंत्र बाध्यकारी और गैर-बाध्यकारी स्वरूप में भिन्न होते हैं।",
+    "ADR के लाभ (कुशलता, गोपनीयता, लचीलापन) हैं, लेकिन सीमाएँ भी (जागरूकता, अमल, निष्पक्षता)।",
+    "आगे का रास्ता: ADR पर जागरूकता बढ़ाना, ADR केंद्र स्थापित करना, कानूनी लागू करने की क्षमता को मजबूत करना।"
+  ]
+},
+{
+  "heading": "Lok Adalats",
+  "headingHindi": "लोक अदालतें",
+  "highlight": "Lok Adalats are a form of Alternate Dispute Resolution (ADR) introduced through the Legal Services Authorities Act, 1987, in pursuance of Article 39A to ensure equal justice and free legal aid. They provide speedy, cost-effective, and voluntary resolution of disputes, with binding and final settlements.",
+  "highlightHindi": "लोक अदालतें वैकल्पिक विवाद समाधान (ADR) का एक रूप हैं, जिन्हें अनुच्छेद 39A के तहत समान न्याय और निःशुल्क विधिक सहायता सुनिश्चित करने के लिए 1987 के विधिक सेवा प्राधिकरण अधिनियम द्वारा शुरू किया गया। ये त्वरित, सस्ती और स्वैच्छिक विवाद समाधान प्रदान करती हैं और इनका निपटारा बाध्यकारी और अंतिम होता है।",
+  "details": [
+    "## Key Features of Lok Adalats",
+    "• Voluntary participation by parties.",
+    "• Conciliatory approach, informal proceedings.",
+    "• Speedy resolution – disputes resolved within hours or a day.",
+    "• Cost-effective – no court fees or lawyer fees.",
+    "• Settlements are binding and final.",
+    "• Wide jurisdiction: civil, criminal (compoundable), and family disputes.",
+    "• Cannot deal with non-compoundable offences.",
+    "## Legal Services Authorities Act, 1987",
+    "• Implemented in pursuance of Article 39A (equal justice, free legal aid).",
+    "• Legal services authorities at multiple levels:",
+    "  – National Legal Services Authority (NALSA).",
+    "  – State Legal Services Authorities.",
+    "  – District Legal Services Authorities.",
+    "  – Taluk Legal Services Committees.",
+    "  – Supreme Court Legal Services Committee.",
+    "  – High Court Legal Services Committees.",
+    "## Eligible Persons for Free Legal Services",
+    "• Women and children.",
+    "• Scheduled Castes and Scheduled Tribes members.",
+    "• Industrial workers.",
+    "• Victims of disasters (flood, drought, earthquake, industrial disaster, violence).",
+    "• Disabled persons.",
+    "• Victims of trafficking or beggary.",
+    "• Persons with annual income below ₹1 lakh (₹1.25 lakh for SC Legal Services Committee).",
+    "## Constitution and Composition of Lok Adalats",
+    "• Constituted by legal services authorities at different levels.",
+    "• Composition: Judicial officer (Chairman) + lawyer + social worker as members.",
+    "## Jurisdiction of Lok Adalats",
+    "• Any case pending before a court.",
+    "• Any dispute at pre-litigation stage.",
+    "## Permanent Lok Adalats",
+    "• Introduced by 2002 amendment to Legal Services Act, 1987.",
+    "• Compulsory pre-litigation conciliation mechanism.",
+    "• Matters: Public utility services (transport, postal, telegraph, etc.).",
+    "• Composition: Ex-district judge or higher (Chairman) + 2 members with experience in public services.",
+    "• Pecuniary jurisdiction: up to ₹10 lakhs.",
+    "• Cannot handle non-compoundable offences.",
+    "• If settlement fails, PLA can decide dispute on merits.",
+    "• Decision is final and binding."
+  ],
+  "detailsHindi": [
+    "## लोक अदालतों की मुख्य विशेषताएँ",
+    "• पक्षकारों की स्वैच्छिक भागीदारी।",
+    "• सुलहकारी दृष्टिकोण, अनौपचारिक प्रक्रिया।",
+    "• त्वरित समाधान – विवाद कुछ घंटों या एक दिन में निपट सकते हैं।",
+    "• किफायती – कोई अदालत शुल्क या वकील शुल्क नहीं।",
+    "• निपटारा बाध्यकारी और अंतिम।",
+    "• व्यापक अधिकारिता: दीवानी, आपराधिक (समझौतायोग्य) और पारिवारिक विवाद।",
+    "• असमझौतायोग्य अपराधों पर अधिकार नहीं।",
+    "## विधिक सेवा प्राधिकरण अधिनियम, 1987",
+    "• अनुच्छेद 39A (समान न्याय और निःशुल्क विधिक सहायता) के तहत लागू।",
+    "• बहुस्तरीय विधिक सेवा प्राधिकरण:",
+    "  – राष्ट्रीय विधिक सेवा प्राधिकरण (NALSA)।",
+    "  – राज्य विधिक सेवा प्राधिकरण।",
+    "  – जिला विधिक सेवा प्राधिकरण।",
+    "  – तालुक विधिक सेवा समिति।",
+    "  – सर्वोच्च न्यायालय विधिक सेवा समिति।",
+    "  – उच्च न्यायालय विधिक सेवा समिति।",
+    "## निःशुल्क विधिक सहायता पाने के पात्र व्यक्ति",
+    "• महिलाएँ और बच्चे।",
+    "• अनुसूचित जाति और अनुसूचित जनजाति के सदस्य।",
+    "• औद्योगिक श्रमिक।",
+    "• आपदाओं (बाढ़, सूखा, भूकंप, औद्योगिक आपदा, हिंसा) के पीड़ित।",
+    "• विकलांग व्यक्ति।",
+    "• तस्करी या भीख माँगने के शिकार व्यक्ति।",
+    "• वार्षिक आय ₹1 लाख से कम (SC समिति में सीमा ₹1.25 लाख)।",
+    "## लोक अदालतों का गठन और संरचना",
+    "• विभिन्न स्तरों पर विधिक सेवा प्राधिकरण द्वारा गठन।",
+    "• संरचना: न्यायिक अधिकारी (अध्यक्ष) + वकील + सामाजिक कार्यकर्ता।",
+    "## लोक अदालतों का अधिकार क्षेत्र",
+    "• किसी भी न्यायालय में लंबित मामले।",
+    "• किसी भी विवाद का पूर्व-विवाद चरण।",
+    "## स्थायी लोक अदालतें",
+    "• 2002 संशोधन द्वारा विधिक सेवा अधिनियम, 1987 में जोड़ी गईं।",
+    "• अनिवार्य पूर्व-विवाद सुलह तंत्र।",
+    "• विषय: लोक उपयोगिता सेवाएँ (परिवहन, डाक, तार आदि)।",
+    "• संरचना: पूर्व जिला न्यायाधीश या उच्च (अध्यक्ष) + लोक सेवाओं में अनुभव वाले 2 सदस्य।",
+    "• आर्थिक अधिकारिता: ₹10 लाख तक।",
+    "• असमझौतायोग्य अपराधों पर कोई अधिकार नहीं।",
+    "• समझौता विफल होने पर विवाद का मेरिट पर निपटारा।",
+    "• निर्णय अंतिम और बाध्यकारी।"
+  ],
+  "tables": [
+    {
+      "title": "Lok Adalats and Permanent Lok Adalats",
+      "titleHindi": "लोक अदालतें और स्थायी लोक अदालतें",
+      "columns": ["Feature", "Lok Adalat", "Permanent Lok Adalat"],
+      "columnsHindi": ["विशेषता", "लोक अदालत", "स्थायी लोक अदालत"],
+      "rows": [
+        ["Legal Basis", "Legal Services Authorities Act, 1987", "Amendment to the 1987 Act in 2002"],
+        ["Jurisdiction", "Civil, criminal (compoundable), family disputes", "Public utility services; up to ₹10 lakhs"],
+        ["Composition", "Judicial officer + lawyer + social worker", "Ex-district judge (Chairman) + 2 members"],
+        ["Process", "Voluntary, conciliatory, binding settlement", "Compulsory pre-litigation conciliation; decision on merits if no settlement"],
+        ["Binding Nature", "Final and binding", "Final and binding"]
+      ],
+      "rowsHindi": [
+        ["कानूनी आधार", "विधिक सेवा प्राधिकरण अधिनियम, 1987", "2002 का संशोधन (1987 अधिनियम)"],
+        ["अधिकार क्षेत्र", "दीवानी, आपराधिक (समझौतायोग्य), पारिवारिक विवाद", "लोक उपयोगिता सेवाएँ; ₹10 लाख तक"],
+        ["संरचना", "न्यायिक अधिकारी + वकील + सामाजिक कार्यकर्ता", "पूर्व जिला न्यायाधीश (अध्यक्ष) + 2 सदस्य"],
+        ["प्रक्रिया", "स्वैच्छिक, सुलहकारी, बाध्यकारी निपटारा", "अनिवार्य पूर्व-विवाद सुलह; असफल होने पर मेरिट पर निर्णय"],
+        ["बाध्यता", "अंतिम और बाध्यकारी", "अंतिम और बाध्यकारी"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Legal Services Authorities Act, 1987 introduced Lok Adalats under Article 39A.",
+    "Decisions of Lok Adalats are binding and final.",
+    "Lok Adalats cannot handle non-compoundable offences.",
+    "Permanent Lok Adalats (2002) handle public utility service disputes up to ₹10 lakhs."
+  ],
+  "prelimsTipsHindi": [
+    "विधिक सेवा प्राधिकरण अधिनियम, 1987 ने अनुच्छेद 39A के तहत लोक अदालतें शुरू कीं।",
+    "लोक अदालतों के निर्णय अंतिम और बाध्यकारी होते हैं।",
+    "लोक अदालतें असमझौतायोग्य अपराधों का निपटारा नहीं कर सकतीं।",
+    "स्थायी लोक अदालतें (2002) लोक उपयोगिता सेवाओं के विवादों का ₹10 लाख तक निपटारा करती हैं।"
+  ],
+  "mainsPoints": [
+    "Lok Adalats are part of ADR mechanisms ensuring access to justice and free legal aid.",
+    "They ensure quick, cost-effective, and amicable dispute resolution.",
+    "Permanent Lok Adalats focus on public utility services with binding decisions.",
+    "They reduce burden on regular courts and promote legal empowerment.",
+    "Limitations: restricted jurisdiction and inability to handle non-compoundable offences."
+  ],
+  "mainsPointsHindi": [
+    "लोक अदालतें ADR तंत्र का हिस्सा हैं जो न्याय तक पहुँच और निःशुल्क विधिक सहायता सुनिश्चित करती हैं।",
+    "ये त्वरित, सस्ती और सौहार्दपूर्ण विवाद समाधान सुनिश्चित करती हैं।",
+    "स्थायी लोक अदालतें लोक उपयोगिता सेवाओं पर ध्यान देती हैं और बाध्यकारी निर्णय देती हैं।",
+    "ये नियमित न्यायालयों का बोझ कम करती हैं और विधिक सशक्तिकरण को बढ़ावा देती हैं।",
+    "सीमाएँ: सीमित अधिकारिता और असमझौतायोग्य अपराधों का निपटारा नहीं कर सकतीं।"
+  ]
+},
+{
+  "heading": "Family Courts",
+  "headingHindi": "परिवार न्यायालय",
+  "highlight": "Family Courts, established under the Family Courts Act, 1984, aim to provide a specialized forum for family disputes. They emphasize reconciliation, informal proceedings, and inexpensive remedies, with only one right of appeal to the High Court.",
+  "highlightHindi": "परिवार न्यायालय, परिवार न्यायालय अधिनियम 1984 के तहत स्थापित किए गए, परिवारिक विवादों के लिए एक विशेष मंच प्रदान करते हैं। इनका मुख्य उद्देश्य सुलह, अनौपचारिक कार्यवाही और सस्ता उपाय सुनिश्चित करना है। इनसे केवल एक अपील उच्च न्यायालय में की जा सकती है।",
+  "details": [
+    "## Establishment",
+    "• Established under the Family Courts Act, 1984.",
+    "• Set up by State Governments in consultation with the High Court.",
+    "## Objectives",
+    "• Promote conciliation in family disputes.",
+    "• Provide inexpensive and accessible remedies.",
+    "• Ensure flexibility and informality in proceedings.",
+    "## Reasons for Establishment",
+    "• Specialized courts for sensitive family matters.",
+    "• Enhance efficiency through counselling support.",
+    "## Key Features",
+    "• Mandatory Family Court in every city with population above 1 million.",
+    "• Reconciliation prioritized; informal atmosphere maintained.",
+    "• Only one right of appeal, which lies to the High Court.",
+    "• Social welfare agencies, counsellors, etc., can be associated with the court.",
+    "• Simplified rules of evidence and procedure for proceedings."
+  ],
+  "detailsHindi": [
+    "## स्थापना",
+    "• परिवार न्यायालय अधिनियम, 1984 के तहत स्थापित।",
+    "• राज्य सरकारों द्वारा उच्च न्यायालय से परामर्श लेकर स्थापित।",
+    "## उद्देश्य",
+    "• परिवारिक विवादों में सुलह को बढ़ावा देना।",
+    "• सस्ता और सुलभ उपाय प्रदान करना।",
+    "• कार्यवाही में लचीलापन और अनौपचारिकता सुनिश्चित करना।",
+    "## स्थापना के कारण",
+    "• संवेदनशील मामलों के लिए विशेष परिवार न्यायालय।",
+    "• परामर्श समर्थन से दक्षता बढ़ाना।",
+    "## मुख्य विशेषताएँ",
+    "• 10 लाख से अधिक जनसंख्या वाले प्रत्येक शहर में परिवार न्यायालय अनिवार्य।",
+    "• सुलह को प्राथमिकता; अनौपचारिक वातावरण बनाए रखना।",
+    "• केवल एक अपील का अधिकार, जो उच्च न्यायालय में होता है।",
+    "• सामाजिक कल्याण एजेंसियों, परामर्शदाताओं आदि को न्यायालय से जोड़ा जा सकता है।",
+    "• साक्ष्य और प्रक्रिया के नियम सरल किए गए।"
+  ],
+  "tables": [
+    {
+      "title": "Family Courts – At a Glance",
+      "titleHindi": "परिवार न्यायालय – एक नजर में",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Legal Basis", "Family Courts Act, 1984"],
+        ["Establishment", "By State Governments with HC consultation"],
+        ["Objective", "Conciliation, inexpensive remedy, informal procedure"],
+        ["Mandatory", "One Family Court in cities with population > 1 million"],
+        ["Appeal", "Only one appeal lies to the High Court"],
+        ["Support", "Counsellors, social welfare agencies associated"]
+      ],
+      "rowsHindi": [
+        ["कानूनी आधार", "परिवार न्यायालय अधिनियम, 1984"],
+        ["स्थापना", "राज्य सरकारें + उच्च न्यायालय परामर्श"],
+        ["उद्देश्य", "सुलह, सस्ता उपाय, अनौपचारिक प्रक्रिया"],
+        ["अनिवार्यता", "10 लाख से अधिक जनसंख्या वाले शहरों में एक परिवार न्यायालय"],
+        ["अपील", "केवल एक अपील उच्च न्यायालय में"],
+        ["सहयोग", "परामर्शदाता, सामाजिक कल्याण एजेंसियों का सहयोग"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Family Courts established under Family Courts Act, 1984.",
+    "Mandatory in cities with population above 1 million.",
+    "Only one appeal lies to the High Court.",
+    "Emphasizes reconciliation and simplified procedures."
+  ],
+  "prelimsTipsHindi": [
+    "परिवार न्यायालय अधिनियम, 1984 के तहत स्थापित।",
+    "10 लाख से अधिक जनसंख्या वाले शहरों में अनिवार्य।",
+    "केवल एक अपील उच्च न्यायालय में।",
+    "सुलह और सरल प्रक्रियाओं पर जोर।"
+  ],
+  "mainsPoints": [
+    "Family Courts provide specialized mechanisms for resolving sensitive family disputes.",
+    "They reduce burden on regular courts by emphasizing conciliation and informal procedures.",
+    "They ensure inexpensive and accessible remedies with simplified evidentiary rules.",
+    "Appeals are restricted to the High Court to ensure speedy justice."
+  ],
+  "mainsPointsHindi": [
+    "परिवार न्यायालय संवेदनशील परिवारिक विवादों को हल करने के लिए विशेष तंत्र प्रदान करते हैं।",
+    "ये सुलह और अनौपचारिक प्रक्रियाओं पर जोर देकर नियमित न्यायालयों का बोझ कम करते हैं।",
+    "ये सस्ते और सुलभ उपाय सुनिश्चित करते हैं, साथ ही साक्ष्य नियमों को सरल करते हैं।",
+    "अपील केवल उच्च न्यायालय में सीमित है जिससे त्वरित न्याय सुनिश्चित हो सके।"
+  ]
+},
+{
+  "heading": "Gram Nyayalayas",
+  "headingHindi": "ग्राम न्यायालय",
+  "highlight": "Gram Nyayalayas, established under the Gram Nyayalayas Act, 2008 in pursuance of Article 39A, provide affordable justice at the grassroots level. They handle both civil and criminal matters, follow simplified procedures, and encourage conciliation. Appeals lie to Sessions Courts (criminal) and District Courts (civil).",
+  "highlightHindi": "ग्राम न्यायालय, ग्राम न्यायालय अधिनियम 2008 के तहत अनुच्छेद 39A के अनुपालन में स्थापित किए गए, जमीनी स्तर पर सस्ता न्याय उपलब्ध कराते हैं। ये दीवानी और आपराधिक दोनों मामलों की सुनवाई करते हैं, सरल प्रक्रियाएँ अपनाते हैं और सुलह को बढ़ावा देते हैं। अपीलें आपराधिक मामलों में सत्र न्यायालय और दीवानी मामलों में जिला न्यायालय में जाती हैं।",
+  "details": [
+    "## Establishment",
+    "• Set up under the Gram Nyayalayas Act, 2008.",
+    "• In pursuance of Article 39A: free legal aid to weaker sections.",
+    "• Established for every intermediate-level Panchayat, or group of contiguous Panchayats where no intermediate level exists.",
+    "## Composition",
+    "• Presided by a Nyayadhikari with powers equivalent to Judicial Magistrate of First Class.",
+    "• Appointment made by State Government in consultation with High Court.",
+    "## Procedure",
+    "• Summary procedure for criminal trials.",
+    "• Special simplified procedures for civil matters.",
+    "• Guided by principles of natural justice.",
+    "• Promote conciliation – use of conciliators encouraged.",
+    "## Jurisdiction",
+    "• Handles both civil and criminal cases.",
+    "## Appeals",
+    "• Appeals in criminal cases lie to the Court of Session.",
+    "• Appeals in civil cases lie to the District Court."
+  ],
+  "detailsHindi": [
+    "## स्थापना",
+    "• ग्राम न्यायालय अधिनियम, 2008 के तहत स्थापित।",
+    "• अनुच्छेद 39A के अनुपालन में: गरीब और कमजोर वर्गों को निःशुल्क विधिक सहायता।",
+    "• प्रत्येक पंचायत (मध्यवर्ती स्तर) या ऐसे राज्यों में जहां मध्यवर्ती पंचायत स्तर नहीं है, वहाँ समीपवर्ती पंचायतों के समूह के लिए स्थापित।",
+    "## संरचना",
+    "• न्यायाधीश (न्यायाधिकरी) की अध्यक्षता में, प्रथम श्रेणी के न्यायिक मजिस्ट्रेट के समान शक्तियाँ।",
+    "• नियुक्ति राज्य सरकार द्वारा उच्च न्यायालय से परामर्श के बाद।",
+    "## प्रक्रिया",
+    "• आपराधिक मामलों में संक्षिप्त प्रक्रिया।",
+    "• दीवानी मामलों में विशेष और सरल प्रक्रियाएँ।",
+    "• प्राकृतिक न्याय के सिद्धांतों पर आधारित।",
+    "• सुलह को बढ़ावा – सुलहकर्ताओं का उपयोग।",
+    "## अधिकारिता",
+    "• दीवानी और आपराधिक दोनों मामलों की सुनवाई।",
+    "## अपील",
+    "• आपराधिक मामलों में अपील सत्र न्यायालय में।",
+    "• दीवानी मामलों में अपील जिला न्यायालय में।"
+  ],
+  "tables": [
+    {
+      "title": "Gram Nyayalayas – At a Glance",
+      "titleHindi": "ग्राम न्यायालय – एक नजर में",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Legal Basis", "Gram Nyayalayas Act, 2008 (Article 39A)"],
+        ["Establishment", "For each intermediate Panchayat or group of Panchayats"],
+        ["Composition", "Presided by Nyayadhikari (equivalent to Judicial Magistrate First Class)"],
+        ["Appointment", "By State Govt. in consultation with High Court"],
+        ["Procedure", "Summary in criminal cases; simplified in civil; based on natural justice"],
+        ["Conciliation", "Use of conciliators to promote settlement"],
+        ["Jurisdiction", "Civil and criminal matters"],
+        ["Appeals", "Criminal → Sessions Court; Civil → District Court"]
+      ],
+      "rowsHindi": [
+        ["कानूनी आधार", "ग्राम न्यायालय अधिनियम, 2008 (अनुच्छेद 39A)"],
+        ["स्थापना", "प्रत्येक मध्यवर्ती पंचायत या समीपवर्ती पंचायतों का समूह"],
+        ["संरचना", "न्यायाधिकरी की अध्यक्षता (प्रथम श्रेणी न्यायिक मजिस्ट्रेट के समान शक्तियाँ)"],
+        ["नियुक्ति", "राज्य सरकार + उच्च न्यायालय से परामर्श"],
+        ["प्रक्रिया", "आपराधिक मामलों में संक्षिप्त; दीवानी मामलों में सरल; प्राकृतिक न्याय पर आधारित"],
+        ["सुलह", "सुलहकर्ताओं के माध्यम से समाधान को बढ़ावा"],
+        ["अधिकारिता", "दीवानी और आपराधिक मामले"],
+        ["अपील", "आपराधिक → सत्र न्यायालय; दीवानी → जिला न्यायालय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Gram Nyayalayas Act, 2008 establishes them under Article 39A.",
+    "Headed by a Nyayadhikari with powers of Judicial Magistrate First Class.",
+    "Jurisdiction: both civil and criminal cases.",
+    "Appeals – Criminal: Sessions Court; Civil: District Court."
+  ],
+  "prelimsTipsHindi": [
+    "ग्राम न्यायालय अधिनियम, 2008 अनुच्छेद 39A के तहत स्थापित।",
+    "न्यायाधिकरी प्रथम श्रेणी न्यायिक मजिस्ट्रेट की शक्तियों के साथ अध्यक्षता करते हैं।",
+    "अधिकारिता: दीवानी और आपराधिक मामले।",
+    "अपील – आपराधिक: सत्र न्यायालय; दीवानी: जिला न्यायालय।"
+  ],
+  "mainsPoints": [
+    "Gram Nyayalayas aim to deliver accessible justice at the village level.",
+    "They ensure quick, inexpensive, and simplified justice in line with Article 39A.",
+    "They encourage conciliation through conciliators to reduce adversarial litigation.",
+    "Their jurisdiction covers both civil and criminal matters, reducing the burden on higher courts.",
+    "Appeals lie to Sessions Courts (criminal) and District Courts (civil), maintaining judicial hierarchy."
+  ],
+  "mainsPointsHindi": [
+    "ग्राम न्यायालय गाँव स्तर पर सुलभ न्याय प्रदान करने का उद्देश्य रखते हैं।",
+    "ये अनुच्छेद 39A के अनुरूप तेज, सस्ता और सरल न्याय सुनिश्चित करते हैं।",
+    "ये सुलहकर्ताओं के माध्यम से विवादों के समाधान को बढ़ावा देते हैं ताकि मुकदमेबाजी कम हो।",
+    "इनका अधिकार क्षेत्र दीवानी और आपराधिक दोनों मामलों तक फैला है, जिससे उच्च न्यायालयों का बोझ कम होता है।",
+    "अपील आपराधिक मामलों में सत्र न्यायालय और दीवानी मामलों में जिला न्यायालय में जाती है।"
+  ]
+},
+{
+  "heading": "Tribunals in India",
+  "headingHindi": "भारत में न्यायाधिकरण",
+  "highlight": "Tribunals were added to the Constitution by the 42nd Amendment Act, 1976 under Part XIV-A. Articles 323A and 323B empower Parliament to set up tribunals for administrative and other matters. They provide speedy, specialized, and accessible justice while reducing the burden on regular courts.",
+  "highlightHindi": "न्यायाधिकरणों को 42वें संविधान संशोधन अधिनियम 1976 द्वारा संविधान में भाग XIV-A के अंतर्गत जोड़ा गया। अनुच्छेद 323A और 323B संसद को प्रशासनिक और अन्य मामलों के लिए न्यायाधिकरण स्थापित करने की शक्ति देते हैं। ये तेज, विशेषज्ञ और सुलभ न्याय प्रदान करते हैं तथा नियमित न्यायालयों का बोझ कम करते हैं।",
+  "details": [
+    "## Constitutional Basis",
+    "• Not part of the original Constitution.",
+    "• Added by the 42nd Constitutional Amendment Act, 1976 under Part XIV-A.",
+    "• Article 323A: Administrative tribunals.",
+    "• Article 323B: Tribunals for other matters (e.g., taxation, environment, industry).",
+    "## Need for Tribunals",
+    "• Overburdened Judiciary – reduce case load of regular courts.",
+    "• Specialisation – subject experts for specific areas (e.g., NGT for environment).",
+    "• Accessibility – informal and citizen-friendly forums.",
+    "• Speedy Justice – faster disposal of cases.",
+    "• Administrative Accountability – add checks and balances in governance.",
+    "## How Tribunals Differ from Traditional Courts",
+    "• Courts: part of traditional justice system; Tribunals: created by statute with judicial powers.",
+    "• Courts: bound by rules of procedure and evidence; Tribunals: guided by principles of natural justice.",
+    "• Courts: general jurisdiction (civil, criminal, revenue, etc.); Tribunals: limited jurisdiction over specific matters.",
+    "• Courts: judges trained in law; Tribunals: adjudicators may or may not be trained in law."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक आधार",
+    "• मूल संविधान का हिस्सा नहीं।",
+    "• 42वें संविधान संशोधन अधिनियम, 1976 द्वारा भाग XIV-A में जोड़ा गया।",
+    "• अनुच्छेद 323A: प्रशासनिक न्यायाधिकरण।",
+    "• अनुच्छेद 323B: अन्य विषयों के लिए न्यायाधिकरण (जैसे कर, पर्यावरण, उद्योग)।",
+    "## न्यायाधिकरणों की आवश्यकता",
+    "• न्यायालयों का बोझ कम करना।",
+    "• विशेषज्ञता – विशेष क्षेत्रों के विशेषज्ञ (जैसे पर्यावरण के लिए NGT)।",
+    "• सुलभता – अनौपचारिक और नागरिक अनुकूल मंच।",
+    "• त्वरित न्याय।",
+    "• प्रशासनिक जवाबदेही – शासन में अतिरिक्त नियंत्रण और संतुलन।",
+    "## न्यायाधिकरण बनाम परंपरागत न्यायालय",
+    "• न्यायालय: परंपरागत न्याय प्रणाली का हिस्सा; न्यायाधिकरण: क़ानून द्वारा स्थापित विशेष निकाय।",
+    "• न्यायालय: प्रक्रिया और साक्ष्य नियमों से बंधे; न्यायाधिकरण: प्राकृतिक न्याय के सिद्धांतों से निर्देशित।",
+    "• न्यायालय: सामान्य अधिकारिता (दीवानी, आपराधिक, राजस्व आदि); न्यायाधिकरण: सीमित अधिकारिता।",
+    "• न्यायालय: विधि प्रशिक्षित न्यायाधीश; न्यायाधिकरण: सदस्य विधि प्रशिक्षित हो भी सकते हैं और नहीं भी।"
+  ],
+  "tables": [
+    {
+      "title": "Courts vs Tribunals",
+      "titleHindi": "न्यायालय बनाम न्यायाधिकरण",
+      "columns": ["Aspect", "Courts", "Tribunals"],
+      "columnsHindi": ["पहलू", "न्यायालय", "न्यायाधिकरण"],
+      "rows": [
+        ["Legal Basis", "Part of traditional judiciary", "Created by statute (42nd Amendment, Part XIV-A)"],
+        ["Rules", "Bound by procedure & evidence laws", "Guided by principles of natural justice"],
+        ["Jurisdiction", "General – civil, criminal, revenue, etc.", "Limited – specific matters only"],
+        ["Expertise", "Judges trained in law", "Members may or may not be trained in law"],
+        ["Purpose", "General justice delivery", "Specialised, speedy, and accessible justice"]
+      ],
+      "rowsHindi": [
+        ["कानूनी आधार", "पारंपरिक न्यायपालिका का हिस्सा", "क़ानून द्वारा स्थापित (42वां संशोधन, भाग XIV-A)"],
+        ["नियम", "प्रक्रिया और साक्ष्य नियमों से बंधे", "प्राकृतिक न्याय के सिद्धांतों से संचालित"],
+        ["अधिकारिता", "सामान्य – दीवानी, आपराधिक, राजस्व आदि", "सीमित – विशेष विषयों तक"],
+        ["विशेषज्ञता", "विधि प्रशिक्षित न्यायाधीश", "सदस्य विधि प्रशिक्षित हो सकते हैं या नहीं"],
+        ["उद्देश्य", "सामान्य न्याय वितरण", "विशेषज्ञ, त्वरित और सुलभ न्याय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Tribunals were added by the 42nd Amendment Act, 1976.",
+    "Article 323A – Administrative Tribunals; Article 323B – Other Tribunals.",
+    "Tribunals are guided by principles of natural justice, not bound by strict rules of evidence.",
+    "National Green Tribunal (NGT) is a key example."
+  ],
+  "prelimsTipsHindi": [
+    "न्यायाधिकरण 42वें संविधान संशोधन अधिनियम, 1976 द्वारा जोड़े गए।",
+    "अनुच्छेद 323A – प्रशासनिक न्यायाधिकरण; अनुच्छेद 323B – अन्य न्यायाधिकरण।",
+    "न्यायाधिकरण प्राकृतिक न्याय के सिद्धांतों से संचालित होते हैं, साक्ष्य नियमों से नहीं।",
+    "राष्ट्रीय हरित अधिकरण (NGT) एक प्रमुख उदाहरण है।"
+  ],
+  "mainsPoints": [
+    "Tribunals reduce burden on judiciary by handling specialised matters.",
+    "They provide speedy and expert justice in areas like environment, taxation, and administration.",
+    "Tribunals differ from courts as they are guided by natural justice and not bound by strict rules.",
+    "Criticism: sometimes lack independence, members not always trained in law.",
+    "Tribunals are essential to modern governance as part of judicial reforms."
+  ],
+  "mainsPointsHindi": [
+    "न्यायाधिकरण विशेष मामलों की सुनवाई कर न्यायपालिका का बोझ कम करते हैं।",
+    "ये पर्यावरण, कराधान और प्रशासन जैसे क्षेत्रों में त्वरित और विशेषज्ञ न्याय प्रदान करते हैं।",
+    "न्यायाधिकरण न्यायालयों से अलग हैं क्योंकि ये प्राकृतिक न्याय पर आधारित होते हैं।",
+    "आलोचना: स्वतंत्रता की कमी और सदस्यों का विधि प्रशिक्षित न होना।",
+    "न्यायाधिकरण न्यायिक सुधारों का एक महत्वपूर्ण हिस्सा हैं।"
+  ]
+},
+{
+  "heading": "Administrative Tribunals",
+  "headingHindi": "प्रशासनिक न्यायाधिकरण",
+  "highlight": "Administrative Tribunals, established under the Administrative Tribunals Act, 1985 as per Article 323A, deal exclusively with service matters of public servants. The Central Administrative Tribunal (CAT) was set up in 1985, followed by State Administrative Tribunals (SATs) and Joint Administrative Tribunals (JATs). They provide speedy, specialized justice in service-related disputes.",
+  "highlightHindi": "प्रशासनिक न्यायाधिकरण, अनुच्छेद 323A के अनुसार 1985 के प्रशासनिक न्यायाधिकरण अधिनियम के तहत स्थापित किए गए, सार्वजनिक सेवकों के सेवा संबंधी मामलों की सुनवाई करते हैं। 1985 में केंद्रीय प्रशासनिक न्यायाधिकरण (CAT) की स्थापना की गई, इसके बाद राज्य प्रशासनिक न्यायाधिकरण (SAT) और संयुक्त प्रशासनिक न्यायाधिकरण (JAT) बने। ये सेवा-संबंधी विवादों में त्वरित और विशेषज्ञ न्याय प्रदान करते हैं।",
+  "details": [
+    "## Constitutional Basis & Law",
+    "• Established under Article 323A by Parliamentary law – Administrative Tribunals Act, 1985.",
+    "• Central Government can establish Central and State Administrative Tribunals.",
+    "• Objective: deal exclusively with service matters under Centre, States, local bodies, public corporations, and other public authorities.",
+    "## Central Administrative Tribunal (CAT)",
+    "• Established in 1985 under provisions of Article 323A.",
+    "• Composition: Multi-member body; currently 69 members (34 Judicial + 35 Administrative).",
+    "• Jurisdiction: Service matters of employees covered by the Act.",
+    "  – Excludes defence forces personnel, SC officers/staff, and Parliament secretarial staff.",
+    "• Appointment: Recommended by a selection committee chaired by a sitting SC judge (nominated by CJI).",
+    "  – Final approval by Appointments Committee of the Cabinet (ACC).",
+    "• Tenure: Members – 5 years or up to age 62 (whichever earlier); Chairman – up to 65 years.",
+    "• Guided by principles of natural justice.",
+    "• Appeals: Against CAT orders lie before High Courts; SC cannot be approached directly.",
+    "## State Administrative Tribunals (SAT)",
+    "• Original jurisdiction in recruitment and service matters of state public servants.",
+    "• Chairman and members appointed by President after consultation with Governor.",
+    "## Joint Administrative Tribunals (JAT)",
+    "• Established for two or more states under the Administrative Tribunals Act, 1985.",
+    "• Chairman and members appointed by President after consultation with Governors of concerned states."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक आधार और कानून",
+    "• अनुच्छेद 323A के तहत संसद द्वारा – प्रशासनिक न्यायाधिकरण अधिनियम, 1985।",
+    "• केंद्र सरकार केंद्रीय और राज्य प्रशासनिक न्यायाधिकरण स्थापित कर सकती है।",
+    "• उद्देश्य: केंद्र, राज्य, स्थानीय निकाय, सार्वजनिक निगम और अन्य सार्वजनिक प्राधिकरणों के सेवा मामलों का निपटारा।",
+    "## केंद्रीय प्रशासनिक न्यायाधिकरण (CAT)",
+    "• 1985 में अनुच्छेद 323A के प्रावधानों के तहत स्थापित।",
+    "• संरचना: बहु-सदस्यीय निकाय; वर्तमान में 69 सदस्य (34 न्यायिक + 35 प्रशासनिक)।",
+    "• अधिकारिता: कर्मचारियों के सेवा संबंधी मामले।",
+    "  – अपवाद: रक्षा बलों के सदस्य, सुप्रीम कोर्ट के अधिकारी/कर्मचारी और संसद सचिवालय स्टाफ।",
+    "• नियुक्ति: चयन समिति की अनुशंसा पर, जिसकी अध्यक्षता सुप्रीम कोर्ट का एक न्यायाधीश (CJI द्वारा नामित) करता है।",
+    "  – अंतिम स्वीकृति मंत्रिमंडल की नियुक्ति समिति (ACC) द्वारा।",
+    "• कार्यकाल: सदस्य – 5 वर्ष या 62 वर्ष की आयु तक (जो पहले हो); अध्यक्ष – 65 वर्ष तक।",
+    "• प्राकृतिक न्याय के सिद्धांतों द्वारा निर्देशित।",
+    "• अपील: CAT के आदेशों के विरुद्ध उच्च न्यायालय में अपील; सीधे SC में नहीं।",
+    "## राज्य प्रशासनिक न्यायाधिकरण (SAT)",
+    "• राज्य सार्वजनिक सेवकों की भर्ती और सेवा मामलों में मौलिक अधिकारिता।",
+    "• अध्यक्ष और सदस्य राष्ट्रपति द्वारा राज्यपाल से परामर्श के बाद नियुक्त।",
+    "## संयुक्त प्रशासनिक न्यायाधिकरण (JAT)",
+    "• दो या अधिक राज्यों के लिए प्रशासनिक न्यायाधिकरण अधिनियम, 1985 के तहत स्थापित।",
+    "• अध्यक्ष और सदस्य राष्ट्रपति द्वारा संबंधित राज्यों के राज्यपालों से परामर्श के बाद नियुक्त।"
+  ],
+  "tables": [
+    {
+      "title": "Types of Administrative Tribunals",
+      "titleHindi": "प्रशासनिक न्यायाधिकरणों के प्रकार",
+      "columns": ["Tribunal", "Jurisdiction", "Appointment"],
+      "columnsHindi": ["न्यायाधिकरण", "अधिकारिता", "नियुक्ति"],
+      "rows": [
+        ["Central Administrative Tribunal (CAT)", "Service matters of central govt. employees (excludes defence, SC, Parliament staff)", "Selection Committee + ACC approval"],
+        ["State Administrative Tribunal (SAT)", "Service matters of state govt. employees", "President after Governor’s consultation"],
+        ["Joint Administrative Tribunal (JAT)", "Service matters of two or more states", "President after consultation with Governors"]
+      ],
+      "rowsHindi": [
+        ["केंद्रीय प्रशासनिक न्यायाधिकरण (CAT)", "केंद्रीय सरकार कर्मचारियों के सेवा मामले (रक्षा, SC, संसद स्टाफ अपवाद)", "चयन समिति + ACC की स्वीकृति"],
+        ["राज्य प्रशासनिक न्यायाधिकरण (SAT)", "राज्य सरकार कर्मचारियों के सेवा मामले", "राष्ट्रपति द्वारा राज्यपाल से परामर्श के बाद"],
+        ["संयुक्त प्रशासनिक न्यायाधिकरण (JAT)", "दो या अधिक राज्यों के सेवा मामले", "राष्ट्रपति द्वारा संबंधित राज्यपालों से परामर्श के बाद"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Administrative Tribunals established under Administrative Tribunals Act, 1985.",
+    "CAT established in 1985 under Article 323A.",
+    "CAT excludes defence forces, SC staff, Parliament secretariat.",
+    "Appeals from CAT go to High Courts, not directly to SC.",
+    "Members: tenure 5 years or 62 years (Chairman 65 years)."
+  ],
+  "prelimsTipsHindi": [
+    "प्रशासनिक न्यायाधिकरण अधिनियम, 1985 के तहत स्थापित।",
+    "CAT की स्थापना 1985 में अनुच्छेद 323A के तहत।",
+    "CAT रक्षा बल, SC स्टाफ, संसद सचिवालय पर लागू नहीं।",
+    "CAT से अपीलें उच्च न्यायालय में जाती हैं, सीधे SC में नहीं।",
+    "सदस्य: कार्यकाल 5 वर्ष या 62 वर्ष (अध्यक्ष 65 वर्ष)।"
+  ],
+  "mainsPoints": [
+    "Administrative Tribunals provide speedy and specialized adjudication in service matters.",
+    "They reduce the burden of service-related litigation on regular courts.",
+    "CAT is the largest tribunal in India with nationwide jurisdiction on central service matters.",
+    "Appeals from CAT go to High Courts, enhancing judicial oversight.",
+    "SATs and JATs extend tribunalisation of service matters at the state level."
+  ],
+  "mainsPointsHindi": [
+    "प्रशासनिक न्यायाधिकरण सेवा मामलों में त्वरित और विशेषज्ञ निर्णय प्रदान करते हैं।",
+    "ये नियमित न्यायालयों पर सेवा-संबंधी मुकदमों का बोझ कम करते हैं।",
+    "CAT भारत का सबसे बड़ा न्यायाधिकरण है जो केंद्रीय सेवा मामलों पर राष्ट्रव्यापी अधिकारिता रखता है।",
+    "CAT से अपीलें उच्च न्यायालय में जाती हैं, जिससे न्यायिक पर्यवेक्षण सुनिश्चित होता है।",
+    "SAT और JAT राज्य स्तर पर सेवा मामलों के लिए न्यायाधिकरण प्रणाली का विस्तार करते हैं।"
+  ]
+},
+{
+  "heading": "Tribunals for Other Matters (Article 323B)",
+  "headingHindi": "अन्य विषयों के लिए न्यायाधिकरण (अनुच्छेद 323B)",
+  "highlight": "Article 323B empowers Parliament and State Legislatures to establish tribunals for specific matters like taxation, foreign exchange, elections, labour disputes, and land reforms. These tribunals provide specialized forums for quick resolution of disputes beyond service matters under Article 323A.",
+  "highlightHindi": "अनुच्छेद 323B संसद और राज्य विधानसभाओं को कर, विदेशी मुद्रा, चुनाव, श्रम विवाद और भूमि सुधार जैसे विशेष मामलों के लिए न्यायाधिकरण स्थापित करने की शक्ति देता है। ये न्यायाधिकरण सेवा मामलों (अनुच्छेद 323A) से परे विवादों के त्वरित समाधान हेतु विशेष मंच प्रदान करते हैं।",
+  "details": [
+    "## Matters under Article 323B(2)",
+    "• Levy, assessment, collection and enforcement of any tax.",
+    "• Foreign exchange, import and export across customs frontiers.",
+    "• Industrial and labour disputes.",
+    "• Land reforms.",
+    "• Ceiling on urban property.",
+    "• Elections to Parliament or State Legislature.",
+    "• Production, procurement, supply and distribution of foodstuffs.",
+    "## Comparison between Article 323A and Article 323B",
+    "### Article 323A",
+    "• Establishment of tribunals for public service matters only.",
+    "• Tribunals can be established only by Parliament.",
+    "• Only one tribunal for Centre and one for each state (or for 2+ states). No hierarchy of tribunals.",
+    "### Article 323B",
+    "• Establishment of tribunals for various other specified matters.",
+    "• Tribunals can be established by both Parliament and State Legislatures.",
+    "• A hierarchy of tribunals may be established."
+  ],
+  "detailsHindi": [
+    "## अनुच्छेद 323B(2) के अंतर्गत विषय",
+    "• किसी कर का अधिरोपण, मूल्यांकन, संग्रह और प्रवर्तन।",
+    "• विदेशी मुद्रा, आयात और निर्यात (सीमा शुल्क क्षेत्र)।",
+    "• औद्योगिक और श्रम विवाद।",
+    "• भूमि सुधार।",
+    "• शहरी संपत्ति पर सीमा।",
+    "• संसद या राज्य विधानमंडल के चुनाव।",
+    "• खाद्यान्न का उत्पादन, क्रय, आपूर्ति और वितरण।",
+    "## अनुच्छेद 323A और 323B की तुलना",
+    "### अनुच्छेद 323A",
+    "• केवल सार्वजनिक सेवा मामलों के लिए न्यायाधिकरण।",
+    "• केवल संसद न्यायाधिकरण स्थापित कर सकती है।",
+    "• केवल केंद्र के लिए एक और प्रत्येक राज्य (या 2+ राज्यों) के लिए एक न्यायाधिकरण। कोई श्रेणीक्रम नहीं।",
+    "### अनुच्छेद 323B",
+    "• अन्य विशिष्ट मामलों के लिए न्यायाधिकरण।",
+    "• संसद और राज्य विधानसभाएँ दोनों न्यायाधिकरण स्थापित कर सकती हैं।",
+    "• न्यायाधिकरणों का श्रेणीक्रम स्थापित किया जा सकता है।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison: Article 323A vs Article 323B",
+      "titleHindi": "तुलना: अनुच्छेद 323A बनाम अनुच्छेद 323B",
+      "columns": ["Aspect", "Article 323A", "Article 323B"],
+      "columnsHindi": ["पहलू", "अनुच्छेद 323A", "अनुच्छेद 323B"],
+      "rows": [
+        ["Scope", "Public service matters only", "Other matters: taxation, elections, labour disputes, land reforms, etc."],
+        ["Law-making Power", "Only by Parliament", "By both Parliament and State Legislatures"],
+        ["Tribunal Structure", "Only one per Centre and one per State (or 2+ States); no hierarchy", "Hierarchy of tribunals possible"],
+        ["Example", "Central Administrative Tribunal (CAT)", "Labour Tribunals, Tax Tribunals, Election Tribunals"]
+      ],
+      "rowsHindi": [
+        ["क्षेत्र", "केवल सार्वजनिक सेवा मामले", "अन्य मामले: कर, चुनाव, श्रम विवाद, भूमि सुधार आदि"],
+        ["विधायी शक्ति", "केवल संसद द्वारा", "संसद और राज्य विधानसभाएँ दोनों"],
+        ["न्यायाधिकरण संरचना", "केंद्र और प्रत्येक राज्य (या 2+ राज्यों) के लिए केवल एक; कोई श्रेणीक्रम नहीं", "न्यायाधिकरणों का श्रेणीक्रम संभव"],
+        ["उदाहरण", "केंद्रीय प्रशासनिक न्यायाधिकरण (CAT)", "श्रम न्यायाधिकरण, कर न्यायाधिकरण, चुनाव न्यायाधिकरण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 323A – only for service matters; Article 323B – covers taxation, elections, land reforms, labour disputes, etc.",
+    "323A tribunals can be created only by Parliament, while 323B allows both Parliament and State Legislatures.",
+    "CAT (1985) is under Article 323A; Labour and Tax Tribunals are under Article 323B."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 323A – केवल सेवा मामले; अनुच्छेद 323B – कर, चुनाव, भूमि सुधार, श्रम विवाद आदि।",
+    "323A न्यायाधिकरण केवल संसद बना सकती है, जबकि 323B संसद और राज्य दोनों।",
+    "CAT (1985) अनुच्छेद 323A के अंतर्गत; श्रम और कर न्यायाधिकरण अनुच्छेद 323B के अंतर्गत।"
+  ],
+  "mainsPoints": [
+    "Tribunals under Article 323B expand tribunalisation to non-service matters like taxation, elections, and labour disputes.",
+    "These tribunals decentralize justice and make specialized adjudication possible.",
+    "323A tribunals are narrower in scope (only service matters), while 323B tribunals cover a broader range of issues.",
+    "The dual law-making power under 323B (Parliament and States) reflects India’s federal structure."
+  ],
+  "mainsPointsHindi": [
+    "अनुच्छेद 323B के तहत न्यायाधिकरण सेवा मामलों से परे कर, चुनाव और श्रम विवाद जैसे विषयों को कवर करते हैं।",
+    "ये न्यायाधिकरण न्याय को विकेंद्रीकृत करते हैं और विशेषीकृत न्याय प्रदान करते हैं।",
+    "323A न्यायाधिकरण का दायरा सीमित है (केवल सेवा मामले), जबकि 323B न्यायाधिकरण व्यापक विषयों को कवर करते हैं।",
+    "323B में संसद और राज्यों दोनों को शक्ति देना भारत की संघीय संरचना को दर्शाता है।"
+  ]
+},
+{
+  "heading": "Important Tribunals in India",
+  "headingHindi": "भारत में प्रमुख न्यायाधिकरण",
+  "highlight": "India has established a number of tribunals under Articles 323A and 323B for specialized adjudication. They provide speedy and expert justice in fields like environment, taxation, elections, and administration, reducing the burden on regular courts.",
+  "highlightHindi": "भारत ने अनुच्छेद 323A और 323B के तहत कई न्यायाधिकरण स्थापित किए हैं। ये पर्यावरण, कराधान, चुनाव और प्रशासन जैसे क्षेत्रों में त्वरित और विशेषज्ञ न्याय प्रदान करते हैं तथा नियमित न्यायालयों का बोझ कम करते हैं।",
+  "tables": [
+    {
+      "title": "Key Tribunals in India",
+      "titleHindi": "भारत में प्रमुख न्यायाधिकरण",
+      "columns": ["Tribunal", "Year", "Basis", "Jurisdiction"],
+      "columnsHindi": ["न्यायाधिकरण", "वर्ष", "आधार", "अधिकारिता"],
+      "rows": [
+        ["Central Administrative Tribunal (CAT)", "1985", "Article 323A, Administrative Tribunals Act 1985", "Service matters of central government employees"],
+        ["State Administrative Tribunals (SAT)", "1985 onwards", "Article 323A", "Service matters of state government employees"],
+        ["Joint Administrative Tribunal (JAT)", "1985 onwards", "Article 323A", "Service matters of two or more states"],
+        ["National Green Tribunal (NGT)", "2010", "Article 323B, NGT Act 2010", "Environmental cases, protection and conservation of environment"],
+        ["Income Tax Appellate Tribunal (ITAT)", "1941 (pre-constitutional, continued)", "Article 323B", "Income tax disputes and appeals"],
+        ["Securities Appellate Tribunal (SAT)", "1992", "Article 323B, SEBI Act", "Disputes related to securities and stock market regulations"],
+        ["Armed Forces Tribunal (AFT)", "2007", "Article 323B, AFT Act", "Service matters and appeals related to armed forces"],
+        ["Election Tribunals", "Varied", "Article 323B", "Disputes related to elections to Parliament and State Legislatures"],
+        ["Debt Recovery Tribunals (DRT)", "1993", "Article 323B, RDB Act", "Recovery of debts due to banks and financial institutions"]
+      ],
+      "rowsHindi": [
+        ["केंद्रीय प्रशासनिक न्यायाधिकरण (CAT)", "1985", "अनुच्छेद 323A, प्रशासनिक न्यायाधिकरण अधिनियम 1985", "केंद्रीय सरकारी कर्मचारियों के सेवा मामले"],
+        ["राज्य प्रशासनिक न्यायाधिकरण (SAT)", "1985 से", "अनुच्छेद 323A", "राज्य सरकारी कर्मचारियों के सेवा मामले"],
+        ["संयुक्त प्रशासनिक न्यायाधिकरण (JAT)", "1985 से", "अनुच्छेद 323A", "दो या अधिक राज्यों के सेवा मामले"],
+        ["राष्ट्रीय हरित अधिकरण (NGT)", "2010", "अनुच्छेद 323B, NGT अधिनियम 2010", "पर्यावरण मामलों की सुनवाई"],
+        ["आयकर अपीलीय न्यायाधिकरण (ITAT)", "1941", "अनुच्छेद 323B", "आयकर विवाद और अपीलें"],
+        ["प्रतिभूति अपीलीय न्यायाधिकरण (SAT)", "1992", "अनुच्छेद 323B, सेबी अधिनियम", "प्रतिभूति और शेयर बाज़ार से संबंधित विवाद"],
+        ["सशस्त्र बल न्यायाधिकरण (AFT)", "2007", "अनुच्छेद 323B, AFT अधिनियम", "सशस्त्र बलों से संबंधित सेवा मामले और अपीलें"],
+        ["चुनाव न्यायाधिकरण", "विभिन्न", "अनुच्छेद 323B", "संसद और राज्य विधानमंडल के चुनावों से संबंधित विवाद"],
+        ["ऋण वसूली न्यायाधिकरण (DRT)", "1993", "अनुच्छेद 323B, RDB अधिनियम", "बैंकों और वित्तीय संस्थानों से संबंधित ऋण वसूली"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Tribunals under Article 323A – only service matters (e.g., CAT, SAT, JAT).",
+    "Tribunals under Article 323B – taxation, elections, environment, debt recovery, armed forces, etc.",
+    "NGT was established in 2010 under the NGT Act.",
+    "Appeals from CAT go to High Courts, but appeals from some other tribunals may lie to SC."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 323A के अंतर्गत न्यायाधिकरण – केवल सेवा मामले (जैसे CAT, SAT, JAT)।",
+    "अनुच्छेद 323B के अंतर्गत न्यायाधिकरण – कराधान, चुनाव, पर्यावरण, ऋण वसूली, सशस्त्र बल आदि।",
+    "NGT की स्थापना 2010 में NGT अधिनियम के तहत हुई।",
+    "CAT से अपीलें उच्च न्यायालय में जाती हैं, जबकि अन्य न्यायाधिकरणों से अपीलें सीधे SC में भी जा सकती हैं।"
+  ],
+  "mainsPoints": [
+    "Tribunals form an essential part of India's quasi-judicial system.",
+    "Article 323A tribunals are limited to service matters, while 323B covers wider areas.",
+    "They provide specialised, speedy justice but sometimes face criticism over independence and lack of trained judicial members.",
+    "NGT, AFT, ITAT, and DRT are examples of 323B tribunals catering to specialized domains.",
+    "Tribunals reduce burden on judiciary but must balance efficiency with judicial oversight."
+  ],
+  "mainsPointsHindi": [
+    "न्यायाधिकरण भारत की अर्ध-न्यायिक प्रणाली का महत्वपूर्ण हिस्सा हैं।",
+    "अनुच्छेद 323A के न्यायाधिकरण केवल सेवा मामलों तक सीमित हैं, जबकि 323B व्यापक क्षेत्रों को कवर करता है।",
+    "ये त्वरित और विशेषज्ञ न्याय प्रदान करते हैं लेकिन स्वतंत्रता और न्यायिक सदस्यों की कमी को लेकर आलोचना भी होती है।",
+    "NGT, AFT, ITAT और DRT अनुच्छेद 323B के अंतर्गत प्रमुख उदाहरण हैं।",
+    "न्यायाधिकरण न्यायपालिका का बोझ कम करते हैं लेकिन दक्षता और न्यायिक पर्यवेक्षण में संतुलन जरूरी है।"
+  ]
+},
+],
+"Chapter 17: Local Government": [
+  {
+  "heading": "Panchayati Raj Institutions – Evolution",
+  "headingHindi": "पंचायती राज संस्थाएँ – विकास",
+  "highlight": "Panchayati Raj has its roots in ancient village assemblies (e.g., Chola dynasty’s Uttaramerur inscriptions). The system weakened under British rule but saw revival efforts through reforms like Lord Ripon’s resolution (1882) and later constitutional developments. These steps laid the foundation for grassroots democracy in India.",
+  "highlightHindi": "पंचायती राज की जड़ें प्राचीन ग्राम सभाओं में हैं (जैसे चोल वंश के उत्तरमेरुर अभिलेख)। ब्रिटिश शासन के दौरान यह प्रणाली कमजोर हो गई लेकिन लॉर्ड रिपन के 1882 के प्रस्ताव जैसे सुधारों और आगे के संवैधानिक विकासों ने इसे पुनर्जीवित किया। इन कदमों ने भारत में जमीनी स्तर पर लोकतंत्र की नींव रखी।",
+  "details": [
+    "## Ancient Roots",
+    "• Uttaramerur inscriptions provide insights into the functioning of village assemblies during the Chola dynasty.",
+    "## Decline under Colonial Rule",
+    "• Local self-governance crumbled due to British interference in the second half of the 18th century.",
+    "## Major Colonial-Era Events",
+    "• 1882 – Lord Ripon’s Resolution: considered the Magna Carta of local self-government; emphasized devolution of powers to local bodies.",
+    "• 1907 – Royal Commission on Decentralisation: stressed connecting people to local works for effective decentralisation.",
+    "• 1917 – INC Resolution: demanded steps for election of local bodies.",
+    "• 1919 – Montagu-Chelmsford Reforms: local government made a 'transferred subject', giving provinces responsibility for it."
+  ],
+  "detailsHindi": [
+    "## प्राचीन जड़ें",
+    "• उत्तरमेरुर अभिलेख चोल वंश के दौरान ग्राम सभाओं के कामकाज की झलक देते हैं।",
+    "## औपनिवेशिक शासन में पतन",
+    "• 18वीं शताब्दी के उत्तरार्द्ध में ब्रिटिश हस्तक्षेप से स्थानीय स्वशासन की व्यवस्था बिखर गई।",
+    "## औपनिवेशिक काल की प्रमुख घटनाएँ",
+    "• 1882 – लॉर्ड रिपन का प्रस्ताव: स्थानीय स्वशासन का 'मैग्ना कार्टा' कहा जाता है; स्थानीय निकायों को शक्तियों के हस्तांतरण पर जोर।",
+    "• 1907 – विकेंद्रीकरण आयोग: प्रभावी विकेंद्रीकरण के लिए लोगों को स्थानीय कार्यों से जोड़ने की सिफारिश।",
+    "• 1917 – कांग्रेस प्रस्ताव: स्थानीय निकायों के चुनाव की मांग।",
+    "• 1919 – मोंटेग-चेम्सफोर्ड सुधार: स्थानीय सरकार को 'हस्तांतरित विषय' बनाया गया, प्रांतों को इसकी जिम्मेदारी दी गई।"
+  ],
+  "tables": [
+    {
+      "title": "Key Milestones in Evolution of Panchayati Raj",
+      "titleHindi": "पंचायती राज के विकास में प्रमुख पड़ाव",
+      "columns": ["Year/Event", "Significance"],
+      "columnsHindi": ["वर्ष/घटना", "महत्व"],
+      "rows": [
+        ["Chola Dynasty – Uttaramerur Inscriptions", "Evidence of organised village assemblies"],
+        ["1882 – Lord Ripon’s Resolution", "First step towards local self-government; decentralisation"],
+        ["1907 – Royal Commission on Decentralisation", "Linked people with local works for effective governance"],
+        ["1917 – INC Resolution", "Demanded elected local bodies"],
+        ["1919 – Montagu-Chelmsford Reforms", "Local government made a 'transferred subject' under provincial responsibility"]
+      ],
+      "rowsHindi": [
+        ["चोल वंश – उत्तरमेरुर अभिलेख", "संगठित ग्राम सभाओं का प्रमाण"],
+        ["1882 – लॉर्ड रिपन का प्रस्ताव", "स्थानीय स्वशासन की ओर पहला कदम; विकेंद्रीकरण"],
+        ["1907 – विकेंद्रीकरण आयोग", "लोगों को स्थानीय कार्यों से जोड़ने पर जोर"],
+        ["1917 – कांग्रेस प्रस्ताव", "निर्वाचित स्थानीय निकायों की मांग"],
+        ["1919 – मोंटेग-चेम्सफोर्ड सुधार", "स्थानीय सरकार को 'हस्तांतरित विषय' बनाया गया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Uttaramerur inscriptions – evidence of village assemblies in Chola dynasty.",
+    "1882 – Lord Ripon’s Resolution = Magna Carta of local self-government.",
+    "Montagu-Chelmsford Reforms (1919) made local government a transferred subject."
+  ],
+  "prelimsTipsHindi": [
+    "उत्तरमेरुर अभिलेख – चोल वंश में ग्राम सभाओं का प्रमाण।",
+    "1882 – लॉर्ड रिपन का प्रस्ताव = स्थानीय स्वशासन का मैग्ना कार्टा।",
+    "मोंटेग-चेम्सफोर्ड सुधार (1919) ने स्थानीय सरकार को हस्तांतरित विषय बनाया।"
+  ],
+  "mainsPoints": [
+    "Ancient village assemblies laid the foundation of decentralisation in India.",
+    "British policies disrupted traditional self-governance but also introduced reforms.",
+    "Lord Ripon’s 1882 resolution is a landmark in modern local self-government.",
+    "INC and subsequent reforms pushed for democratic local bodies.",
+    "The colonial evolution of local bodies paved the way for constitutional status post-independence."
+  ],
+  "mainsPointsHindi": [
+    "प्राचीन ग्राम सभाओं ने भारत में विकेंद्रीकरण की नींव रखी।",
+    "ब्रिटिश नीतियों ने पारंपरिक स्वशासन को बाधित किया लेकिन सुधार भी लाए।",
+    "1882 का लॉर्ड रिपन प्रस्ताव आधुनिक स्थानीय स्वशासन में मील का पत्थर है।",
+    "कांग्रेस और आगे के सुधारों ने लोकतांत्रिक स्थानीय निकायों की मांग को बढ़ाया।",
+    "औपनिवेशिक काल का विकास स्वतंत्रता के बाद संवैधानिक दर्जे की नींव बना।"
+  ]
+},
+{
+  "heading": "Committees on Local Self-Government",
+  "headingHindi": "स्थानीय स्वशासन पर समितियाँ",
+  "highlight": "Several committees from 1957 to 1990s shaped the Panchayati Raj system in India, recommending constitutional recognition, tier-structure, elections, powers, finances, and reservation. These laid the foundation for the 73rd Constitutional Amendment Act, 1992.",
+  "highlightHindi": "1957 से 1990 के दशक तक कई समितियों ने भारत में पंचायती राज प्रणाली को आकार दिया। इन्होंने संवैधानिक मान्यता, स्तरीय ढांचा, चुनाव, शक्तियाँ, वित्त और आरक्षण की सिफारिश की। इनसे 1992 के 73वें संविधान संशोधन अधिनियम की नींव रखी गई।",
+  "details": [
+    "## Balwant Rai Mehta Committee (1957)",
+    "• Recommended a three-tier Panchayati Raj system:",
+    "  – Gram Panchayat (village level)",
+    "  – Panchayat Samiti (block level)",
+    "  – Zila Parishad (district level)",
+    "• Direct elections at village level; indirect elections for higher tiers.",
+    "• Devolution of power and resources to ensure smooth functioning.",
+    "• Rajasthan first state to adopt Panchayati Raj; Andhra Pradesh second.",
+    "## Ashok Mehta Committee",
+    "• Recommended constitutional recognition to Panchayati Raj.",
+    "• Suggested two-tier system:",
+    "  – Zilla Panchayat (district level)",
+    "  – Mandal Panchayats (group of villages).",
+    "• Tenure: 4 years (instead of 5).",
+    "• Political party participation in elections.",
+    "• Taxation powers to Panchayats.",
+    "• Regular social audits and Nyaya Panchayats.",
+    "• Reservation for SCs and STs in proportion to population.",
+    "• New Ministry of Panchayati Raj in State Council of Ministers.",
+    "## G.V.K. Rao Committee",
+    "• Criticised excessive bureaucratisation (“grass without roots”).",
+    "• Zilla Parishad should be the principal body for development at district level.",
+    "• Recommended District Development Commissioner.",
+    "• Regular elections and devolution of powers and resources.",
+    "## L.M. Singhvi Committee",
+    "• Recommended constitutional status to local bodies.",
+    "• Regular elections.",
+    "• Nyaya Panchayats for mediation and dispute resolution.",
+    "• Tribunal for Panchayats to handle disputes regarding functioning.",
+    "• Devolution of resources.",
+    "## P.K. Thungan Committee",
+    "• Recommended constitutional status to PRIs.",
+    "• Three-tier system.",
+    "• Zilla Parishad as chief planning unit at district level.",
+    "• Tenure: 5 years fixed.",
+    "• Planning & Coordination Committee at state level chaired by Planning Minister.",
+    "• Reservation: SCs, STs in proportion to population + reservation for women.",
+    "• CEO of Zilla Parishad: District Collector.",
+    "• State Finance Commission in every state."
+  ],
+  "detailsHindi": [
+    "## बलवंत राय मेहता समिति (1957)",
+    "• त्रिस्तरीय पंचायती राज प्रणाली की सिफारिश:",
+    "  – ग्राम पंचायत (ग्राम स्तर)",
+    "  – पंचायत समिति (खंड स्तर)",
+    "  – जिला परिषद (जिला स्तर)",
+    "• ग्राम स्तर पर प्रत्यक्ष चुनाव, उच्च स्तरों पर अप्रत्यक्ष चुनाव।",
+    "• शक्तियों और संसाधनों का विकेंद्रीकरण।",
+    "• राजस्थान – प्रथम राज्य, आंध्र प्रदेश – दूसरा राज्य।",
+    "## अशोक मेहता समिति",
+    "• पंचायती राज को संवैधानिक मान्यता की सिफारिश।",
+    "• द्विस्तरीय प्रणाली:",
+    "  – जिला पंचायत (जिला स्तर)",
+    "  – मंडल पंचायत (ग्राम समूह)।",
+    "• कार्यकाल: 4 वर्ष।",
+    "• चुनावों में राजनीतिक दलों की भागीदारी।",
+    "• पंचायतों को कराधान शक्तियाँ।",
+    "• नियमित सामाजिक लेखा-परीक्षा और न्याय पंचायत।",
+    "• SCs और STs को जनसंख्या के अनुपात में आरक्षण।",
+    "• राज्य मंत्रिपरिषद में पंचायती राज मंत्रालय।",
+    "## जी.वी.के. राव समिति",
+    "• अत्यधिक नौकरशाही की आलोचना (“जड़ों के बिना घास”).",
+    "• जिला परिषद – जिला स्तर पर विकास का प्रमुख निकाय।",
+    "• जिला विकास आयुक्त की सिफारिश।",
+    "• नियमित चुनाव और शक्तियों-संसाधनों का विकेंद्रीकरण।",
+    "## लक्ष्मी मल्ल सिंघवी समिति",
+    "• स्थानीय निकायों को संवैधानिक दर्जा देने की सिफारिश।",
+    "• नियमित चुनाव।",
+    "• विवाद समाधान हेतु न्याय पंचायत।",
+    "• पंचायतों के कामकाज से जुड़े मामलों के लिए अधिकरण।",
+    "• संसाधनों का विकेंद्रीकरण।",
+    "## पी.के. थुंगन समिति",
+    "• पंचायती राज संस्थाओं को संवैधानिक दर्जा।",
+    "• त्रिस्तरीय प्रणाली।",
+    "• जिला परिषद – जिला स्तर पर मुख्य योजना इकाई।",
+    "• कार्यकाल: 5 वर्ष।",
+    "• योजना एवं समन्वय समिति – राज्य स्तर पर योजना मंत्री की अध्यक्षता में।",
+    "• आरक्षण: SCs, STs को जनसंख्या के अनुपात में + महिलाओं के लिए आरक्षण।",
+    "• जिला परिषद का CEO – जिला कलेक्टर।",
+    "• प्रत्येक राज्य में राज्य वित्त आयोग।"
+  ],
+  "tables": [
+    {
+      "title": "Key Committees on Panchayati Raj",
+      "titleHindi": "पंचायती राज पर प्रमुख समितियाँ",
+      "columns": ["Committee", "Year", "Key Recommendations"],
+      "columnsHindi": ["समिति", "वर्ष", "मुख्य सिफारिशें"],
+      "rows": [
+        ["Balwant Rai Mehta", "1957", "3-tier system; Gram Panchayat, Panchayat Samiti, Zila Parishad; direct + indirect elections; devolution of powers/resources"],
+        ["Ashok Mehta", "1978", "2-tier system (Zilla Panchayat + Mandal Panchayat); 4-year tenure; political parties in elections; reservation for SC/ST; social audits"],
+        ["G.V.K. Rao", "1985", "Zilla Parishad main development body; District Development Commissioner; regular elections"],
+        ["L.M. Singhvi", "1986", "Constitutional status; Nyaya Panchayats; Panchayat Tribunal; devolution of resources"],
+        ["P.K. Thungan", "1989", "3-tier system; Zilla Parishad as planning unit; 5-year tenure; SC/ST & women reservation; State Finance Commission"]
+      ],
+      "rowsHindi": [
+        ["बलवंत राय मेहता", "1957", "त्रिस्तरीय प्रणाली; ग्राम पंचायत, पंचायत समिति, जिला परिषद; प्रत्यक्ष+अप्रत्यक्ष चुनाव; शक्तियों-संसाधनों का विकेंद्रीकरण"],
+        ["अशोक मेहता", "1978", "द्विस्तरीय प्रणाली (जिला पंचायत+मंडल पंचायत); 4 वर्ष कार्यकाल; चुनावों में राजनीतिक दल; SC/ST आरक्षण; सामाजिक लेखा-परीक्षा"],
+        ["जी.वी.के. राव", "1985", "जिला परिषद – विकास का मुख्य निकाय; जिला विकास आयुक्त; नियमित चुनाव"],
+        ["लक्ष्मी मल्ल सिंघवी", "1986", "संवैधानिक दर्जा; न्याय पंचायत; पंचायत अधिकरण; संसाधनों का विकेंद्रीकरण"],
+        ["पी.के. थुंगन", "1989", "त्रिस्तरीय प्रणाली; जिला परिषद – योजना इकाई; 5 वर्ष कार्यकाल; SC/ST + महिलाओं का आरक्षण; राज्य वित्त आयोग"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Balwant Rai Mehta (1957) – 3-tier system; Rajasthan 1st state to adopt Panchayati Raj.",
+    "Ashok Mehta (1978) – 2-tier system; Zilla Panchayat & Mandal Panchayat.",
+    "G.V.K. Rao (1985) – Zilla Parishad as main development body.",
+    "L.M. Singhvi (1986) – Constitutional status; Nyaya Panchayats.",
+    "P.K. Thungan (1989) – 3-tier system; women reservation; State Finance Commission."
+  ],
+  "prelimsTipsHindi": [
+    "बलवंत राय मेहता (1957) – त्रिस्तरीय प्रणाली; राजस्थान – प्रथम राज्य।",
+    "अशोक मेहता (1978) – द्विस्तरीय प्रणाली; जिला पंचायत व मंडल पंचायत।",
+    "जी.वी.के. राव (1985) – जिला परिषद मुख्य विकास निकाय।",
+    "लक्ष्मी मल्ल सिंघवी (1986) – संवैधानिक दर्जा; न्याय पंचायत।",
+    "पी.के. थुंगन (1989) – त्रिस्तरीय प्रणाली; महिलाओं का आरक्षण; राज्य वित्त आयोग।"
+  ],
+  "mainsPoints": [
+    "Balwant Rai Mehta introduced 3-tier Panchayati Raj, considered the foundation of modern PRIs.",
+    "Ashok Mehta proposed constitutional recognition and 2-tier system with Mandal Panchayats.",
+    "G.V.K. Rao highlighted over-bureaucratisation, stressing Zilla Parishad as development body.",
+    "L.M. Singhvi pushed for constitutional status and Nyaya Panchayats.",
+    "P.K. Thungan’s recommendations (3-tier system, women reservation, State Finance Commission) strongly influenced the 73rd Constitutional Amendment Act."
+  ],
+  "mainsPointsHindi": [
+    "बलवंत राय मेहता ने त्रिस्तरीय पंचायती राज की सिफारिश की, इसे आधुनिक PRI की नींव माना जाता है।",
+    "अशोक मेहता ने संवैधानिक मान्यता और द्विस्तरीय प्रणाली (मंडल पंचायत) का प्रस्ताव दिया।",
+    "जी.वी.के. राव ने अति-नौकरशाही पर आलोचना की और जिला परिषद को विकास निकाय माना।",
+    "लक्ष्मी मल्ल सिंघवी ने संवैधानिक दर्जा और न्याय पंचायत पर बल दिया।",
+    "पी.के. थुंगन की सिफारिशें (त्रिस्तरीय प्रणाली, महिलाओं का आरक्षण, राज्य वित्त आयोग) 73वें संशोधन अधिनियम पर निर्णायक रूप से प्रभावी रहीं।"
+  ]
+},
+{
+  "heading": "Constitutionalisation of Panchayati Raj",
+  "headingHindi": "पंचायती राज का संवैधीकरण",
+  "highlight": "The constitutionalisation of Panchayati Raj was first attempted through the 64th Amendment Bill (1989) under Rajiv Gandhi, but it failed in Rajya Sabha. Later, the Narasimha Rao Government passed the Bill as the 73rd Constitutional Amendment Act, 1992, which came into force on 24th April 1993, giving Panchayati Raj constitutional status.",
+  "highlightHindi": "पंचायती राज का संवैधीकरण पहली बार 1989 में राजीव गांधी सरकार के 64वें संशोधन विधेयक से प्रयास किया गया, लेकिन यह राज्यसभा में विफल रहा। इसके बाद नरसिंह राव सरकार ने विधेयक पारित किया और 1992 का 73वाँ संविधान संशोधन अधिनियम बना, जो 24 अप्रैल 1993 को लागू हुआ और पंचायती राज को संवैधानिक दर्जा मिला।",
+  "details": [
+    "## Rajiv Gandhi Government (1989)",
+    "• Introduced the 64th Constitutional Amendment Bill.",
+    "• Aimed at giving constitutional status to Panchayati Raj Institutions (PRIs).",
+    "• Bill was passed in Lok Sabha but failed in Rajya Sabha.",
+    "## Narasimha Rao Government (1992)",
+    "• Reintroduced the idea with modifications.",
+    "• Bill passed by both Houses of Parliament.",
+    "• Became the 73rd Constitutional Amendment Act, 1992.",
+    "• Came into effect on 24th April 1993.",
+    "• Gave constitutional recognition and framework to Panchayati Raj Institutions across India."
+  ],
+  "detailsHindi": [
+    "## राजीव गांधी सरकार (1989)",
+    "• 64वाँ संविधान संशोधन विधेयक प्रस्तुत किया।",
+    "• उद्देश्य: पंचायती राज संस्थाओं को संवैधानिक दर्जा देना।",
+    "• लोकसभा में पारित हुआ लेकिन राज्यसभा में असफल रहा।",
+    "## नरसिंह राव सरकार (1992)",
+    "• संशोधनों के साथ विचार पुनः प्रस्तुत किया।",
+    "• विधेयक संसद के दोनों सदनों से पारित हुआ।",
+    "• 73वाँ संविधान संशोधन अधिनियम, 1992 बना।",
+    "• 24 अप्रैल 1993 को लागू हुआ।",
+    "• पंचायती राज संस्थाओं को पूरे भारत में संवैधानिक मान्यता और ढांचा प्रदान किया।"
+  ],
+  "tables": [
+    {
+      "title": "Steps Towards Constitutionalisation of Panchayati Raj",
+      "titleHindi": "पंचायती राज के संवैधीकरण की दिशा में कदम",
+      "columns": ["Year", "Government", "Amendment Bill", "Outcome"],
+      "columnsHindi": ["वर्ष", "सरकार", "संशोधन विधेयक", "परिणाम"],
+      "rows": [
+        ["1989", "Rajiv Gandhi Government", "64th Constitutional Amendment Bill", "Passed in Lok Sabha but failed in Rajya Sabha"],
+        ["1992", "Narasimha Rao Government", "73rd Constitutional Amendment Act", "Passed and came into force on 24th April 1993"]
+      ],
+      "rowsHindi": [
+        ["1989", "राजीव गांधी सरकार", "64वाँ संविधान संशोधन विधेयक", "लोकसभा में पारित पर राज्यसभा में असफल"],
+        ["1992", "नरसिंह राव सरकार", "73वाँ संविधान संशोधन अधिनियम", "पारित और 24 अप्रैल 1993 से लागू"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "64th Amendment Bill (1989) – Rajiv Gandhi; failed in Rajya Sabha.",
+    "73rd Amendment Act (1992) – Narasimha Rao; gave constitutional status to Panchayati Raj.",
+    "Came into effect on 24th April 1993 (celebrated as National Panchayati Raj Day)."
+  ],
+  "prelimsTipsHindi": [
+    "64वाँ संशोधन विधेयक (1989) – राजीव गांधी; राज्यसभा में विफल।",
+    "73वाँ संशोधन अधिनियम (1992) – नरसिंह राव; पंचायती राज को संवैधानिक दर्जा।",
+    "24 अप्रैल 1993 से लागू (राष्ट्रीय पंचायती राज दिवस के रूप में मनाया जाता है)।"
+  ],
+  "mainsPoints": [
+    "Rajiv Gandhi’s 64th Amendment Bill was the first attempt to constitutionalise Panchayati Raj but failed politically.",
+    "Narasimha Rao’s 73rd Amendment Act gave Panchayati Raj a permanent place in the Constitution.",
+    "The Act provided a uniform framework for PRIs across India.",
+    "24th April is observed as National Panchayati Raj Day to mark this milestone."
+  ],
+  "mainsPointsHindi": [
+    "राजीव गांधी का 64वाँ संशोधन पंचायती राज को संवैधानिक दर्जा देने का पहला प्रयास था, लेकिन असफल रहा।",
+    "नरसिंह राव का 73वाँ संशोधन अधिनियम पंचायती राज को संविधान में स्थायी स्थान देता है।",
+    "इस अधिनियम ने पूरे भारत में PRI के लिए एक समान ढांचा प्रदान किया।",
+    "24 अप्रैल को राष्ट्रीय पंचायती राज दिवस के रूप में मनाया जाता है।"
+  ]
+},
+{
+  "heading": "Committees on Local Self-Government",
+  "headingHindi": "स्थानीय स्वशासन पर समितियाँ",
+  "highlight": "Several committees from 1957 to 1990s shaped the Panchayati Raj system in India, recommending constitutional recognition, tier-structure, elections, powers, finances, and reservation. These laid the foundation for the 73rd Constitutional Amendment Act, 1992.",
+  "highlightHindi": "1957 से 1990 के दशक तक कई समितियों ने भारत में पंचायती राज प्रणाली को आकार दिया। इन्होंने संवैधानिक मान्यता, स्तरीय ढांचा, चुनाव, शक्तियाँ, वित्त और आरक्षण की सिफारिश की। इनसे 1992 के 73वें संविधान संशोधन अधिनियम की नींव रखी गई।",
+  "details": [
+    "## Balwant Rai Mehta Committee (1957)",
+    "• Recommended a three-tier Panchayati Raj system:",
+    "  – Gram Panchayat (village level)",
+    "  – Panchayat Samiti (block level)",
+    "  – Zila Parishad (district level)",
+    "• Direct elections at village level; indirect elections for higher tiers.",
+    "• Devolution of power and resources to ensure smooth functioning.",
+    "• Rajasthan first state to adopt Panchayati Raj; Andhra Pradesh second.",
+    "## Ashok Mehta Committee",
+    "• Recommended constitutional recognition to Panchayati Raj.",
+    "• Suggested two-tier system:",
+    "  – Zilla Panchayat (district level)",
+    "  – Mandal Panchayats (group of villages).",
+    "• Tenure: 4 years (instead of 5).",
+    "• Political party participation in elections.",
+    "• Taxation powers to Panchayats.",
+    "• Regular social audits and Nyaya Panchayats.",
+    "• Reservation for SCs and STs in proportion to population.",
+    "• New Ministry of Panchayati Raj in State Council of Ministers.",
+    "## G.V.K. Rao Committee",
+    "• Criticised excessive bureaucratisation (“grass without roots”).",
+    "• Zilla Parishad should be the principal body for development at district level.",
+    "• Recommended District Development Commissioner.",
+    "• Regular elections and devolution of powers and resources.",
+    "## L.M. Singhvi Committee",
+    "• Recommended constitutional status to local bodies.",
+    "• Regular elections.",
+    "• Nyaya Panchayats for mediation and dispute resolution.",
+    "• Tribunal for Panchayats to handle disputes regarding functioning.",
+    "• Devolution of resources.",
+    "## P.K. Thungan Committee",
+    "• Recommended constitutional status to PRIs.",
+    "• Three-tier system.",
+    "• Zilla Parishad as chief planning unit at district level.",
+    "• Tenure: 5 years fixed.",
+    "• Planning & Coordination Committee at state level chaired by Planning Minister.",
+    "• Reservation: SCs, STs in proportion to population + reservation for women.",
+    "• CEO of Zilla Parishad: District Collector.",
+    "• State Finance Commission in every state."
+  ],
+  "detailsHindi": [
+    "## बलवंत राय मेहता समिति (1957)",
+    "• त्रिस्तरीय पंचायती राज प्रणाली की सिफारिश:",
+    "  – ग्राम पंचायत (ग्राम स्तर)",
+    "  – पंचायत समिति (खंड स्तर)",
+    "  – जिला परिषद (जिला स्तर)",
+    "• ग्राम स्तर पर प्रत्यक्ष चुनाव, उच्च स्तरों पर अप्रत्यक्ष चुनाव।",
+    "• शक्तियों और संसाधनों का विकेंद्रीकरण।",
+    "• राजस्थान – प्रथम राज्य, आंध्र प्रदेश – दूसरा राज्य।",
+    "## अशोक मेहता समिति",
+    "• पंचायती राज को संवैधानिक मान्यता की सिफारिश।",
+    "• द्विस्तरीय प्रणाली:",
+    "  – जिला पंचायत (जिला स्तर)",
+    "  – मंडल पंचायत (ग्राम समूह)।",
+    "• कार्यकाल: 4 वर्ष।",
+    "• चुनावों में राजनीतिक दलों की भागीदारी।",
+    "• पंचायतों को कराधान शक्तियाँ।",
+    "• नियमित सामाजिक लेखा-परीक्षा और न्याय पंचायत।",
+    "• SCs और STs को जनसंख्या के अनुपात में आरक्षण।",
+    "• राज्य मंत्रिपरिषद में पंचायती राज मंत्रालय।",
+    "## जी.वी.के. राव समिति",
+    "• अत्यधिक नौकरशाही की आलोचना (“जड़ों के बिना घास”).",
+    "• जिला परिषद – जिला स्तर पर विकास का प्रमुख निकाय।",
+    "• जिला विकास आयुक्त की सिफारिश।",
+    "• नियमित चुनाव और शक्तियों-संसाधनों का विकेंद्रीकरण।",
+    "## लक्ष्मी मल्ल सिंघवी समिति",
+    "• स्थानीय निकायों को संवैधानिक दर्जा देने की सिफारिश।",
+    "• नियमित चुनाव।",
+    "• विवाद समाधान हेतु न्याय पंचायत।",
+    "• पंचायतों के कामकाज से जुड़े मामलों के लिए अधिकरण।",
+    "• संसाधनों का विकेंद्रीकरण।",
+    "## पी.के. थुंगन समिति",
+    "• पंचायती राज संस्थाओं को संवैधानिक दर्जा।",
+    "• त्रिस्तरीय प्रणाली।",
+    "• जिला परिषद – जिला स्तर पर मुख्य योजना इकाई।",
+    "• कार्यकाल: 5 वर्ष।",
+    "• योजना एवं समन्वय समिति – राज्य स्तर पर योजना मंत्री की अध्यक्षता में।",
+    "• आरक्षण: SCs, STs को जनसंख्या के अनुपात में + महिलाओं के लिए आरक्षण।",
+    "• जिला परिषद का CEO – जिला कलेक्टर।",
+    "• प्रत्येक राज्य में राज्य वित्त आयोग।"
+  ],
+  "tables": [
+    {
+      "title": "Key Committees on Panchayati Raj",
+      "titleHindi": "पंचायती राज पर प्रमुख समितियाँ",
+      "columns": ["Committee", "Year", "Key Recommendations"],
+      "columnsHindi": ["समिति", "वर्ष", "मुख्य सिफारिशें"],
+      "rows": [
+        ["Balwant Rai Mehta", "1957", "3-tier system; Gram Panchayat, Panchayat Samiti, Zila Parishad; direct + indirect elections; devolution of powers/resources"],
+        ["Ashok Mehta", "1978", "2-tier system (Zilla Panchayat + Mandal Panchayat); 4-year tenure; political parties in elections; reservation for SC/ST; social audits"],
+        ["G.V.K. Rao", "1985", "Zilla Parishad main development body; District Development Commissioner; regular elections"],
+        ["L.M. Singhvi", "1986", "Constitutional status; Nyaya Panchayats; Panchayat Tribunal; devolution of resources"],
+        ["P.K. Thungan", "1989", "3-tier system; Zilla Parishad as planning unit; 5-year tenure; SC/ST & women reservation; State Finance Commission"]
+      ],
+      "rowsHindi": [
+        ["बलवंत राय मेहता", "1957", "त्रिस्तरीय प्रणाली; ग्राम पंचायत, पंचायत समिति, जिला परिषद; प्रत्यक्ष+अप्रत्यक्ष चुनाव; शक्तियों-संसाधनों का विकेंद्रीकरण"],
+        ["अशोक मेहता", "1978", "द्विस्तरीय प्रणाली (जिला पंचायत+मंडल पंचायत); 4 वर्ष कार्यकाल; चुनावों में राजनीतिक दल; SC/ST आरक्षण; सामाजिक लेखा-परीक्षा"],
+        ["जी.वी.के. राव", "1985", "जिला परिषद – विकास का मुख्य निकाय; जिला विकास आयुक्त; नियमित चुनाव"],
+        ["लक्ष्मी मल्ल सिंघवी", "1986", "संवैधानिक दर्जा; न्याय पंचायत; पंचायत अधिकरण; संसाधनों का विकेंद्रीकरण"],
+        ["पी.के. थुंगन", "1989", "त्रिस्तरीय प्रणाली; जिला परिषद – योजना इकाई; 5 वर्ष कार्यकाल; SC/ST + महिलाओं का आरक्षण; राज्य वित्त आयोग"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Balwant Rai Mehta (1957) – 3-tier system; Rajasthan 1st state to adopt Panchayati Raj.",
+    "Ashok Mehta (1978) – 2-tier system; Zilla Panchayat & Mandal Panchayat.",
+    "G.V.K. Rao (1985) – Zilla Parishad as main development body.",
+    "L.M. Singhvi (1986) – Constitutional status; Nyaya Panchayats.",
+    "P.K. Thungan (1989) – 3-tier system; women reservation; State Finance Commission."
+  ],
+  "prelimsTipsHindi": [
+    "बलवंत राय मेहता (1957) – त्रिस्तरीय प्रणाली; राजस्थान – प्रथम राज्य।",
+    "अशोक मेहता (1978) – द्विस्तरीय प्रणाली; जिला पंचायत व मंडल पंचायत।",
+    "जी.वी.के. राव (1985) – जिला परिषद मुख्य विकास निकाय।",
+    "लक्ष्मी मल्ल सिंघवी (1986) – संवैधानिक दर्जा; न्याय पंचायत।",
+    "पी.के. थुंगन (1989) – त्रिस्तरीय प्रणाली; महिलाओं का आरक्षण; राज्य वित्त आयोग।"
+  ],
+  "mainsPoints": [
+    "Balwant Rai Mehta introduced 3-tier Panchayati Raj, considered the foundation of modern PRIs.",
+    "Ashok Mehta proposed constitutional recognition and 2-tier system with Mandal Panchayats.",
+    "G.V.K. Rao highlighted over-bureaucratisation, stressing Zilla Parishad as development body.",
+    "L.M. Singhvi pushed for constitutional status and Nyaya Panchayats.",
+    "P.K. Thungan’s recommendations (3-tier system, women reservation, State Finance Commission) strongly influenced the 73rd Constitutional Amendment Act."
+  ],
+  "mainsPointsHindi": [
+    "बलवंत राय मेहता ने त्रिस्तरीय पंचायती राज की सिफारिश की, इसे आधुनिक PRI की नींव माना जाता है।",
+    "अशोक मेहता ने संवैधानिक मान्यता और द्विस्तरीय प्रणाली (मंडल पंचायत) का प्रस्ताव दिया।",
+    "जी.वी.के. राव ने अति-नौकरशाही पर आलोचना की और जिला परिषद को विकास निकाय माना।",
+    "लक्ष्मी मल्ल सिंघवी ने संवैधानिक दर्जा और न्याय पंचायत पर बल दिया।",
+    "पी.के. थुंगन की सिफारिशें (त्रिस्तरीय प्रणाली, महिलाओं का आरक्षण, राज्य वित्त आयोग) 73वें संशोधन अधिनियम पर निर्णायक रूप से प्रभावी रहीं।"
+  ]
+},
+{
+  "heading": "Zila Parishad: Structure, Tenure, Reservation & Disqualification",
+  "headingHindi": "जिला परिषद: संरचना, कार्यकाल, आरक्षण और अयोग्यता",
+  "highlight": "Zila Parishad is the apex body of the Panchayati Raj system at the district level, playing an advisory and supervisory role. Panchayats have a tenure of 5 years, with provisions for reservation for SCs, STs, and women, and clear disqualification rules for members.",
+  "highlightHindi": "जिला परिषद पंचायती राज प्रणाली की जिला स्तर की सर्वोच्च संस्था है, जो परामर्श और पर्यवेक्षण की भूमिका निभाती है। पंचायतों का कार्यकाल 5 वर्ष होता है, जिसमें SC, ST और महिलाओं के लिए आरक्षण प्रावधान हैं, साथ ही सदस्यों के लिए अयोग्यता के स्पष्ट नियम हैं।",
+  "details": [
+    "## Zila Parishad – Composition & Functions",
+    "• Advisory and supervisory role at district level.",
+    "• Composition:",
+    "  – Members directly elected.",
+    "  – Chairperson/President elected indirectly.",
+    "  – MLAs and MPs can be included as members.",
+    "• Functions:",
+    "  – Advises government on developmental activities.",
+    "  – Suggests ways for implementing agencies to execute policies.",
+    "## Tenure of Panchayats",
+    "• 5 years from the date of first meeting.",
+    "• Can be dissolved before completion of term.",
+    "• Fresh elections within 6 months of dissolution.",
+    "• New Panchayat serves only remainder of original term.",
+    "## Reservation of Seats for SCs & STs",
+    "• Reservation in proportion to population.",
+    "• Allotment of reserved seats on rotational basis.",
+    "• One-third of SC/ST reserved seats further reserved for women.",
+    "## Reservation of Seats for Women",
+    "• One-third seats in Panchayats reserved for women.",
+    "• Reservation applies also to chairperson posts (by state legislation).",
+    "• One-third chairperson posts reserved for women on rotational basis.",
+    "## Disqualification",
+    "• A person disqualified from contesting State Legislature elections is also disqualified from Panchayat elections.",
+    "• Minimum age to contest Panchayat elections: 21 years."
+  ],
+  "detailsHindi": [
+    "## जिला परिषद – संरचना और कार्य",
+    "• जिला स्तर पर परामर्श और पर्यवेक्षण की भूमिका।",
+    "• संरचना:",
+    "  – सदस्य प्रत्यक्ष चुनाव द्वारा चुने जाते हैं।",
+    "  – अध्यक्ष/अध्यक्ष का चुनाव अप्रत्यक्ष होता है।",
+    "  – विधायक और सांसद भी सदस्य हो सकते हैं।",
+    "• कार्य:",
+    "  – विकास संबंधी गतिविधियों पर सरकार को परामर्श।",
+    "  – नीतियों के क्रियान्वयन हेतु एजेंसियों को सुझाव।",
+    "## पंचायतों का कार्यकाल",
+    "• प्रथम बैठक की तिथि से 5 वर्ष।",
+    "• कार्यकाल समाप्त होने से पहले विघटन संभव।",
+    "• विघटन की तिथि से 6 माह के भीतर नए चुनाव।",
+    "• नई पंचायत केवल शेष कार्यकाल पूरा करेगी।",
+    "## SC और ST के लिए आरक्षण",
+    "• जनसंख्या के अनुपात में आरक्षण।",
+    "• आरक्षित सीटों का आबंटन घूर्णन पद्धति से।",
+    "• SC/ST के आरक्षित सीटों में से एक-तिहाई महिलाओं के लिए आरक्षित।",
+    "## महिलाओं के लिए आरक्षण",
+    "• पंचायतों में एक-तिहाई सीटें महिलाओं के लिए आरक्षित।",
+    "• अध्यक्ष पदों में भी आरक्षण (राज्य कानून द्वारा)।",
+    "• एक-तिहाई अध्यक्ष पद महिलाओं के लिए घूर्णन के आधार पर आरक्षित।",
+    "## अयोग्यता",
+    "• यदि कोई व्यक्ति राज्य विधानसभा चुनाव लड़ने के लिए अयोग्य है, तो वह पंचायत चुनाव के लिए भी अयोग्य।",
+    "• पंचायत चुनाव लड़ने की न्यूनतम आयु: 21 वर्ष।"
+  ],
+  "tables": [
+    {
+      "title": "Zila Parishad – Key Aspects",
+      "titleHindi": "जिला परिषद – प्रमुख पहलू",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Role", "Advisory and supervisory body at district level"],
+        ["Composition", "Directly elected members; indirectly elected chairperson; includes MLAs/MPs"],
+        ["Tenure", "5 years; fresh elections within 6 months if dissolved"],
+        ["Reservation (SC/ST)", "In proportion to population; rotational basis; 1/3 reserved for women"],
+        ["Reservation (Women)", "1/3 seats and chairperson posts reserved; rotational basis"],
+        ["Disqualification", "Same as for State Legislature; minimum age 21 years"]
+      ],
+      "rowsHindi": [
+        ["भूमिका", "जिला स्तर पर परामर्श और पर्यवेक्षण निकाय"],
+        ["संरचना", "प्रत्यक्ष निर्वाचित सदस्य; अप्रत्यक्ष रूप से निर्वाचित अध्यक्ष; विधायक/सांसद शामिल"],
+        ["कार्यकाल", "5 वर्ष; विघटन होने पर 6 माह में चुनाव"],
+        ["आरक्षण (SC/ST)", "जनसंख्या के अनुपात में; घूर्णन आधार पर; 1/3 महिलाएँ"],
+        ["आरक्षण (महिला)", "1/3 सीटें और अध्यक्ष पद आरक्षित; घूर्णन आधार पर"],
+        ["अयोग्यता", "राज्य विधानसभा जैसी; न्यूनतम आयु 21 वर्ष"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Tenure of Panchayats: 5 years; fresh elections within 6 months of dissolution.",
+    "Reservation: SC/ST in proportion to population; 1/3 reserved for women.",
+    "Disqualification: Same as State Legislature; minimum age = 21 years."
+  ],
+  "prelimsTipsHindi": [
+    "पंचायतों का कार्यकाल: 5 वर्ष; विघटन पर 6 माह में चुनाव।",
+    "आरक्षण: SC/ST जनसंख्या के अनुपात में; 1/3 महिलाएँ।",
+    "अयोग्यता: राज्य विधानसभा जैसी; न्यूनतम आयु = 21 वर्ष।"
+  ],
+  "mainsPoints": [
+    "Zila Parishad is the apex body of Panchayati Raj with advisory and supervisory functions.",
+    "Panchayat tenure is fixed at 5 years, but dissolution may lead to early elections.",
+    "Reservation ensures representation of SCs, STs, and women in Panchayats.",
+    "Disqualification rules align with State Legislature norms to maintain uniformity.",
+    "These provisions strengthen inclusivity and accountability in grassroots democracy."
+  ],
+  "mainsPointsHindi": [
+    "जिला परिषद पंचायती राज की सर्वोच्च संस्था है जो परामर्श और पर्यवेक्षण करती है।",
+    "पंचायत का कार्यकाल 5 वर्ष है, लेकिन विघटन पर समय से पहले चुनाव हो सकते हैं।",
+    "आरक्षण से SC, ST और महिलाओं की प्रतिनिधित्व सुनिश्चित होता है।",
+    "अयोग्यता के नियम राज्य विधानसभा जैसे ही हैं, जिससे एकरूपता बनी रहती है।",
+    "ये प्रावधान जमीनी स्तर पर लोकतंत्र में समावेशिता और जवाबदेही को मजबूत करते हैं।"
+  ]
+},
+{
+  "heading": "73rd Amendment Act: State Election Commission, Powers, Finances & Exceptions",
+  "headingHindi": "73वां संशोधन अधिनियम: राज्य निर्वाचन आयोग, शक्तियाँ, वित्त और अपवाद",
+  "highlight": "The 73rd Constitutional Amendment established State Election Commissions (SECs) to conduct Panchayat elections, entrusted Panchayats with 29 functions under the Eleventh Schedule, provided financial devolution, and specified exceptions for certain states and tribal areas. It strengthened grassroots democracy while respecting local diversities.",
+  "highlightHindi": "73वें संविधान संशोधन ने पंचायत चुनावों के लिए राज्य निर्वाचन आयोग (SEC) स्थापित किए, ग्यारहवीं अनुसूची में 29 कार्य पंचायतों को सौंपे, वित्तीय विकेंद्रीकरण सुनिश्चित किया और कुछ राज्यों व जनजातीय क्षेत्रों को अपवाद में रखा। इसने स्थानीय विविधताओं का सम्मान करते हुए जमीनी लोकतंत्र को सशक्त बनाया।",
+  "details": [
+    "## State Election Commission (SEC)",
+    "• Panchayat election matters handled by state legislature.",
+    "• SEC conducts and manages Panchayat elections.",
+    "• State Election Commissioner appointed by Governor.",
+    "• Removal: same grounds as removal of High Court judge.",
+    "## Powers and Functions of Panchayats (Eleventh Schedule – 29 Functions)",
+    "1. Agriculture, including agricultural extension.",
+    "2. Land reforms, land consolidation, soil conservation.",
+    "3. Minor irrigation, water management, watershed development.",
+    "4. Animal husbandry, dairying, poultry.",
+    "5. Fisheries.",
+    "6. Social forestry and farm forestry.",
+    "7. Minor forest produce.",
+    "8. Small-scale industries, including food processing.",
+    "9. Khadi, village and cottage industries.",
+    "10. Rural housing.",
+    "11. Drinking water.",
+    "12. Fuel and fodder.",
+    "13. Roads, bridges, waterways, communication.",
+    "14. Rural electrification and distribution of electricity.",
+    "15. Non-conventional energy sources.",
+    "16. Poverty alleviation programmes.",
+    "17. Primary and secondary education.",
+    "18. Technical training and vocational education.",
+    "19. Adult and non-formal education.",
+    "20. Libraries.",
+    "21. Cultural activities.",
+    "22. Markets and fairs.",
+    "23. Health and sanitation, hospitals, PHCs, dispensaries.",
+    "24. Family welfare.",
+    "25. Women and child development.",
+    "26. Social welfare, including disabled and mentally challenged.",
+    "27. Welfare of weaker sections, especially SCs and STs.",
+    "28. Public distribution system.",
+    "29. Maintenance of community assets.",
+    "## Finances",
+    "• State legislatures can delegate tax collection powers to Panchayats.",
+    "• Can allocate state taxes to Panchayats.",
+    "• Provide grants-in-aid.",
+    "• Establish Panchayat funds.",
+    "## Audit of Accounts",
+    "• Panchayat accounts and audit regulated by State Legislature.",
+    "## Application to Union Territories",
+    "• President may apply Panchayati Raj Act to UTs with exceptions/modifications.",
+    "## Exempted States and Areas",
+    "• Not applicable in Nagaland, Meghalaya, Mizoram.",
+    "• Excludes Scheduled Areas under PESA, 1996.",
+    "• Excludes tribal areas with Autonomous District Councils in Assam, Meghalaya, Mizoram, Tripura.",
+    "• Excludes Manipur hill areas with District Council.",
+    "• Excludes Darjeeling district (Darjeeling Gorkha Hill Council).",
+    "• Parliament extended Part IX to Scheduled Areas via PESA, 1996.",
+    "## Bar to Court Interference",
+    "• Constituency delimitation laws not challengeable in courts.",
+    "• Election disputes resolved through state legislature procedures."
+  ],
+  "detailsHindi": [
+    "## राज्य निर्वाचन आयोग (SEC)",
+    "• पंचायत चुनावों का प्रबंधन राज्य विधानमंडल द्वारा।",
+    "• SEC पंचायत चुनावों का संचालन और प्रबंधन करता है।",
+    "• राज्य निर्वाचन आयुक्त की नियुक्ति राज्यपाल द्वारा।",
+    "• हटाना: उच्च न्यायालय न्यायाधीश की तरह ही आधार।",
+    "## पंचायतों की शक्तियाँ और कार्य (ग्यारहवीं अनुसूची – 29 कार्य)",
+    "1. कृषि और कृषि विस्तार।",
+    "2. भूमि सुधार, भूमि समेकन, मृदा संरक्षण।",
+    "3. लघु सिंचाई, जल प्रबंधन, जलागम विकास।",
+    "4. पशुपालन, डेयरी, पोल्ट्री।",
+    "5. मत्स्य पालन।",
+    "6. सामाजिक व कृषि वानिकी।",
+    "7. लघु वन उपज।",
+    "8. लघु उद्योग, खाद्य प्रसंस्करण सहित।",
+    "9. खादी, ग्राम और कुटीर उद्योग।",
+    "10. ग्रामीण आवास।",
+    "11. पेयजल।",
+    "12. ईंधन और चारा।",
+    "13. सड़कें, पुल, जलमार्ग और संचार।",
+    "14. ग्रामीण विद्युतीकरण व बिजली वितरण।",
+    "15. गैर-पारंपरिक ऊर्जा स्रोत।",
+    "16. गरीबी उन्मूलन कार्यक्रम।",
+    "17. प्राथमिक और माध्यमिक शिक्षा।",
+    "18. तकनीकी प्रशिक्षण और व्यावसायिक शिक्षा।",
+    "19. वयस्क और अनौपचारिक शिक्षा।",
+    "20. पुस्तकालय।",
+    "21. सांस्कृतिक गतिविधियाँ।",
+    "22. बाजार और मेले।",
+    "23. स्वास्थ्य और स्वच्छता, अस्पताल, प्राथमिक स्वास्थ्य केंद्र।",
+    "24. परिवार कल्याण।",
+    "25. महिला एवं बाल विकास।",
+    "26. सामाजिक कल्याण, विकलांग और मानसिक रोगियों सहित।",
+    "27. कमजोर वर्गों का कल्याण, विशेषकर SC/ST।",
+    "28. सार्वजनिक वितरण प्रणाली।",
+    "29. सामुदायिक संपत्तियों का रखरखाव।",
+    "## वित्त",
+    "• राज्य विधानमंडल पंचायतों को कर वसूली सौंप सकता है।",
+    "• राज्य करों का आवंटन पंचायतों को।",
+    "• अनुदान-इन-एड प्रदान।",
+    "• पंचायत निधि की स्थापना।",
+    "## लेखा परीक्षा",
+    "• पंचायतों के खातों और लेखा परीक्षा का नियमन राज्य विधानमंडल द्वारा।",
+    "## केंद्र शासित प्रदेशों पर लागू",
+    "• राष्ट्रपति अपवादों/संशोधनों के साथ पंचायत अधिनियम लागू कर सकते हैं।",
+    "## अपवाद राज्य और क्षेत्र",
+    "• नगालैंड, मेघालय, मिजोरम पर लागू नहीं।",
+    "• PESA, 1996 के तहत अनुसूचित क्षेत्रों पर लागू नहीं।",
+    "• असम, मेघालय, मिजोरम, त्रिपुरा के स्वायत्त जिला परिषद वाले क्षेत्र।",
+    "• मणिपुर की पहाड़ी क्षेत्रों के जिला परिषद।",
+    "• दार्जिलिंग जिला (दार्जिलिंग गोरखा हिल काउंसिल)।",
+    "• संसद ने PESA, 1996 द्वारा अनुसूचित क्षेत्रों तक भाग IX लागू किया।",
+    "## न्यायालयों का हस्तक्षेप वर्जित",
+    "• निर्वाचन क्षेत्रों की सीमांकन से संबंधित कानून अदालतों में चुनौती योग्य नहीं।",
+    "• चुनाव विवादों का समाधान राज्य विधानमंडल की प्रक्रिया द्वारा।"
+  ],
+  "tables": [
+    {
+      "title": "Key Features of 73rd Amendment (SEC, Powers, Finances, Exceptions)",
+      "titleHindi": "73वें संशोधन की मुख्य विशेषताएँ (SEC, शक्तियाँ, वित्त, अपवाद)",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["State Election Commission", "Conducts Panchayat elections; Commissioner appointed by Governor; removal like HC judge"],
+        ["Eleventh Schedule", "29 subjects from agriculture, irrigation, industries, education, health, PDS, etc."],
+        ["Finances", "Panchayats empowered to collect taxes, grants-in-aid, and state allocations"],
+        ["Audit", "Accounts and audit regulated by State Legislature"],
+        ["Union Territories", "President may apply Panchayati Raj Act with modifications"],
+        ["Exceptions", "Not applicable in Nagaland, Meghalaya, Mizoram, Scheduled Areas under PESA, tribal autonomous councils"],
+        ["Bar on Courts", "No judicial interference in constituency delimitation or election disputes"]
+      ],
+      "rowsHindi": [
+        ["राज्य निर्वाचन आयोग", "पंचायत चुनाव कराता है; आयुक्त राज्यपाल नियुक्त करते हैं; हटाना HC न्यायाधीश जैसा"],
+        ["ग्यारहवीं अनुसूची", "29 विषय – कृषि, सिंचाई, उद्योग, शिक्षा, स्वास्थ्य, पीडीएस आदि"],
+        ["वित्त", "पंचायतों को कर वसूली, अनुदान और राज्य कर आवंटन की शक्ति"],
+        ["लेखा परीक्षा", "खाते और लेखा परीक्षा राज्य विधानमंडल द्वारा विनियमित"],
+        ["केंद्र शासित प्रदेश", "राष्ट्रपति अपवाद/संशोधन के साथ लागू कर सकते हैं"],
+        ["अपवाद", "नगालैंड, मेघालय, मिजोरम, PESA के अनुसूचित क्षेत्र, स्वायत्त जिला परिषद क्षेत्र"],
+        ["न्यायालय प्रतिबंध", "निर्वाचन क्षेत्रों का सीमांकन और चुनाव विवाद अदालतों में चुनौती योग्य नहीं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "State Election Commissioner appointed by Governor; removal like HC judge.",
+    "Eleventh Schedule lists 29 subjects for Panchayats.",
+    "Nagaland, Meghalaya, Mizoram, Scheduled Areas under PESA exempted.",
+    "Elections: Courts cannot interfere in delimitation or election disputes."
+  ],
+  "prelimsTipsHindi": [
+    "राज्य निर्वाचन आयुक्त की नियुक्ति राज्यपाल करते हैं; हटाना HC न्यायाधीश जैसा।",
+    "ग्यारहवीं अनुसूची में पंचायतों के लिए 29 विषय।",
+    "नगालैंड, मेघालय, मिजोरम, PESA अनुसूचित क्षेत्र अपवाद।",
+    "चुनाव: अदालतें सीमांकन और चुनाव विवादों में हस्तक्षेप नहीं कर सकतीं।"
+  ],
+  "mainsPoints": [
+    "State Election Commissions ensure independence of Panchayat elections.",
+    "Eleventh Schedule entrusts 29 subjects to Panchayats, promoting decentralisation.",
+    "Financial provisions empower states to devolve funds and taxation powers to Panchayats.",
+    "Exemptions respect tribal autonomy and special constitutional arrangements.",
+    "Bar on judicial interference in Panchayat elections maintains democratic process integrity."
+  ],
+  "mainsPointsHindi": [
+    "राज्य निर्वाचन आयोग पंचायत चुनावों की स्वतंत्रता सुनिश्चित करते हैं।",
+    "ग्यारहवीं अनुसूची पंचायतों को 29 विषय सौंपती है, विकेंद्रीकरण को बढ़ावा देती है।",
+    "वित्तीय प्रावधान राज्यों को पंचायतों को निधि और कराधान शक्तियाँ सौंपने में सक्षम बनाते हैं।",
+    "अपवाद जनजातीय स्वायत्तता और विशेष संवैधानिक व्यवस्थाओं का सम्मान करते हैं।",
+    "पंचायत चुनावों में न्यायिक हस्तक्षेप का निषेध लोकतांत्रिक प्रक्रिया की अखंडता बनाए रखता है।"
+  ]
+},
+{
+  "heading": "State Finance Commission & Panchayat Provisions",
+  "headingHindi": "राज्य वित्त आयोग और पंचायत प्रावधान",
+  "highlight": "The 73rd Constitutional Amendment mandated the establishment of State Finance Commissions (SFCs) every 5 years to strengthen Panchayat finances. It also laid down mandatory provisions (like Gram Sabha, elections, reservations, tenure) and voluntary provisions (like powers of Gram Sabha, representation, financial powers) for states.",
+  "highlightHindi": "73वें संविधान संशोधन ने प्रत्येक 5 वर्ष में राज्य वित्त आयोग (SFC) की स्थापना अनिवार्य की ताकि पंचायतों की वित्तीय स्थिति मजबूत हो। इसमें राज्यों के लिए अनिवार्य प्रावधान (जैसे ग्राम सभा, चुनाव, आरक्षण, कार्यकाल) और वैकल्पिक प्रावधान (जैसे ग्राम सभा की शक्तियाँ, प्रतिनिधित्व, वित्तीय शक्तियाँ) भी निर्धारित किए।",
+  "details": [
+    "## State Finance Commission (SFC)",
+    "• Constituted by Governor every 5 years.",
+    "• Submits recommendations to Governor on:",
+    "  – Distribution of net proceeds between State and Panchayats.",
+    "  – Allocation of funds among Panchayats.",
+    "  – Tax assignment to Panchayats.",
+    "  – Principles governing grants to Panchayats.",
+    "  – Measures to improve Panchayat finances.",
+    "  – Any other matters referred by State Finance Commission.",
+    "• State Legislature decides composition, qualifications, etc. of SFC.",
+    "• Governor places SFC recommendations before State Legislature.",
+    "• Central Finance Commission suggests ways to supplement state resources.",
+    "## Mandatory Provisions",
+    "• Gram Sabha in each village/group of villages.",
+    "• 3-tier Panchayat system (village, intermediate, district levels).",
+    "• Direct elections for all Panchayat seats (village, intermediate, district).",
+    "• Indirect elections for chairpersons at intermediate and district levels.",
+    "• Voting rights to all elected Panchayat members and chairpersons.",
+    "• Reservation for SCs/STs in proportion to population at all levels.",
+    "• One-third reservation for women at all levels and chairperson posts.",
+    "• Fixed tenure of 5 years; elections within 6 months if dissolved early.",
+    "• Minimum age to contest Panchayat elections: 21 years.",
+    "• State Election Commission to conduct Panchayat elections.",
+    "• State Finance Commission every 5 years to review Panchayat finances.",
+    "## Voluntary Provisions",
+    "• Empowering Gram Sabha with specific powers and functions.",
+    "• Deciding mode of election for chairperson of village Panchayat.",
+    "• Reservation for Backward Classes at any level.",
+    "• Representation of intermediate Panchayat chairpersons in Zila Parishad.",
+    "• Representation of MPs and MLAs in Panchayats of their constituencies.",
+    "• Conferment of powers on Panchayats regarding 29 subjects of Eleventh Schedule.",
+    "• Panchayats empowered to levy, collect, appropriate taxes, duties, tolls, fees.",
+    "• Grants-in-aid from Consolidated Fund of State.",
+    "• Establishing Panchayat funds to credit and manage all receipts.",
+    "• Devolution of powers and responsibilities to Panchayats for planning and implementing schemes for economic development and social justice."
+  ],
+  "detailsHindi": [
+    "## राज्य वित्त आयोग (SFC)",
+    "• प्रत्येक 5 वर्ष में राज्यपाल द्वारा गठित।",
+    "• राज्यपाल को सिफारिशें प्रस्तुत करता है:",
+    "  – राज्य और पंचायतों के बीच करों का बँटवारा।",
+    "  – पंचायतों के बीच निधि आवंटन।",
+    "  – पंचायतों को कर सौंपना।",
+    "  – पंचायतों को अनुदान देने के सिद्धांत।",
+    "  – पंचायतों की वित्तीय स्थिति सुधारने के उपाय।",
+    "  – अन्य विषय जो राज्य वित्त आयोग द्वारा संदर्भित हों।",
+    "• संरचना, योग्यता आदि राज्य विधानमंडल द्वारा तय।",
+    "• राज्यपाल सिफारिशें विधानमंडल में प्रस्तुत करता है।",
+    "• केंद्रीय वित्त आयोग राज्यों के संसाधन बढ़ाने के उपाय सुझाता है।",
+    "## अनिवार्य प्रावधान",
+    "• प्रत्येक गाँव/ग्राम समूह में ग्राम सभा।",
+    "• त्रिस्तरीय पंचायत प्रणाली (ग्राम, मध्यवर्ती, जिला)।",
+    "• पंचायत सीटों पर प्रत्यक्ष चुनाव (ग्राम, मध्यवर्ती, जिला)।",
+    "• मध्यवर्ती व जिला स्तर पर अध्यक्ष का अप्रत्यक्ष चुनाव।",
+    "• सभी निर्वाचित सदस्यों व अध्यक्षों को मतदान अधिकार।",
+    "• SC/ST के लिए जनसंख्या के अनुपात में आरक्षण।",
+    "• सभी स्तरों पर व अध्यक्ष पदों में एक-तिहाई महिला आरक्षण।",
+    "• 5 वर्ष का कार्यकाल; समय पूर्व भंग होने पर 6 माह में चुनाव।",
+    "• पंचायत चुनाव लड़ने की न्यूनतम आयु: 21 वर्ष।",
+    "• पंचायत चुनावों के लिए राज्य निर्वाचन आयोग।",
+    "• पंचायत वित्त की समीक्षा हेतु हर 5 वर्ष में SFC।",
+    "## वैकल्पिक प्रावधान",
+    "• ग्राम सभा को विशिष्ट शक्तियाँ देना।",
+    "• ग्राम पंचायत अध्यक्ष के चुनाव की विधि तय करना।",
+    "• पिछड़े वर्गों को आरक्षण देना।",
+    "• जिला परिषद में मध्यवर्ती पंचायत अध्यक्षों को प्रतिनिधित्व।",
+    "• सांसदों व विधायकों को पंचायतों में प्रतिनिधित्व।",
+    "• ग्यारहवीं अनुसूची के 29 विषयों पर पंचायतों को शक्तियाँ देना।",
+    "• पंचायतों को कर, शुल्क, टोल वसूलने और प्रयोग करने की शक्ति।",
+    "• राज्य की संचित निधि से पंचायतों को अनुदान देना।",
+    "• पंचायत निधियों की स्थापना और प्रबंधन।",
+    "• पंचायतों को आर्थिक विकास और सामाजिक न्याय हेतु योजनाओं की तैयारी व क्रियान्वयन का अधिकार।"
+  ],
+  "tables": [
+    {
+      "title": "Mandatory vs Voluntary Provisions (73rd Amendment)",
+      "titleHindi": "अनिवार्य बनाम वैकल्पिक प्रावधान (73वां संशोधन)",
+      "columns": ["Category", "Provisions"],
+      "columnsHindi": ["श्रेणी", "प्रावधान"],
+      "rows": [
+        ["Mandatory", "Gram Sabha, 3-tier system, direct elections, reservation for SC/ST and women, 5-year tenure, 21 years age to contest, SEC & SFC mandatory"],
+        ["Voluntary", "Backward class reservation, MPs/MLAs representation, Gram Sabha powers, Panchayat taxation powers, Panchayat funds, 29 subjects devolution"]
+      ],
+      "rowsHindi": [
+        ["अनिवार्य", "ग्राम सभा, त्रिस्तरीय प्रणाली, प्रत्यक्ष चुनाव, SC/ST व महिलाओं का आरक्षण, 5 वर्ष कार्यकाल, 21 वर्ष न्यूनतम आयु, SEC व SFC अनिवार्य"],
+        ["वैकल्पिक", "पिछड़े वर्गों का आरक्षण, सांसद/विधायक प्रतिनिधित्व, ग्राम सभा शक्तियाँ, पंचायत कराधान शक्तियाँ, पंचायत निधि, 29 विषयों का विकेंद्रीकरण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "SFC is constituted every 5 years by Governor; reviews Panchayat finances.",
+    "Mandatory: Gram Sabha, 3-tier system, SC/ST + 1/3rd women reservation, 5-year tenure, SEC, SFC.",
+    "Voluntary: Backward class reservation, MPs/MLAs representation, Panchayat funds, taxation powers."
+  ],
+  "prelimsTipsHindi": [
+    "SFC हर 5 वर्ष में राज्यपाल द्वारा गठित; पंचायत वित्त की समीक्षा।",
+    "अनिवार्य: ग्राम सभा, त्रिस्तरीय प्रणाली, SC/ST + 1/3 महिला आरक्षण, 5 वर्ष कार्यकाल, SEC, SFC।",
+    "वैकल्पिक: पिछड़ा वर्ग आरक्षण, सांसद/विधायक प्रतिनिधित्व, पंचायत निधि, कराधान शक्तियाँ।"
+  ],
+  "mainsPoints": [
+    "State Finance Commissions play key role in financial decentralisation.",
+    "Mandatory provisions ensure uniform framework across states.",
+    "Voluntary provisions allow flexibility to adapt Panchayati Raj to local conditions.",
+    "One-third reservation for women is a major step for political empowerment.",
+    "73rd Amendment balances central guidelines with state-level autonomy."
+  ],
+  "mainsPointsHindi": [
+    "राज्य वित्त आयोग वित्तीय विकेंद्रीकरण में प्रमुख भूमिका निभाते हैं।",
+    "अनिवार्य प्रावधान राज्यों में समान ढांचा सुनिश्चित करते हैं।",
+    "वैकल्पिक प्रावधान स्थानीय परिस्थितियों के अनुसार पंचायत व्यवस्था को लचीला बनाते हैं।",
+    "महिलाओं के लिए एक-तिहाई आरक्षण राजनीतिक सशक्तिकरण का बड़ा कदम है।",
+    "73वां संशोधन केंद्रीय दिशा-निर्देशों और राज्यीय स्वायत्तता का संतुलन करता है।"
+  ]
+},
+{
+  "heading": "Panchayat Provisions (Extension to Scheduled Areas) Act, 1996 (PESA)",
+  "headingHindi": "पंचायत प्रावधान (अनुसूचित क्षेत्रों में विस्तार) अधिनियम, 1996 (PESA)",
+  "highlight": "The PESA Act, 1996 extends the 73rd Constitutional Amendment to Scheduled Areas under the 5th Schedule. It empowers tribal Gram Sabhas for self-rule, protects traditions, ensures representation, and prevents higher-level Panchayats from overreach. However, implementation has been partial and inconsistent across states.",
+  "highlightHindi": "PESA अधिनियम, 1996, 5वीं अनुसूची के अंतर्गत अनुसूचित क्षेत्रों में 73वें संविधान संशोधन का विस्तार करता है। यह आदिवासी ग्राम सभाओं को स्वशासन के लिए सशक्त बनाता है, परंपराओं की रक्षा करता है, प्रतिनिधित्व सुनिश्चित करता है और उच्च स्तरीय पंचायतों के अतिक्रमण को रोकता है। लेकिन इसका कार्यान्वयन कई राज्यों में अधूरा और असंगत रहा है।",
+  "details": [
+    "## Constitutional Basis",
+    "• Article 243M: Parliament to extend Panchayat provisions to Scheduled and Tribal Areas.",
+    "• Enacted as PESA Act, 1996 based on Article 243M and Bhuria Committee suggestions.",
+    "• Applies to Scheduled Areas under the 5th Schedule.",
+    "• States covered: Himachal Pradesh, Rajasthan, Gujarat, Madhya Pradesh, Jharkhand, Chhattisgarh, Odisha, Maharashtra, Andhra Pradesh, Telangana.",
+    "## Objectives of PESA Act",
+    "• Extend 73rd Amendment to Scheduled Areas.",
+    "• Ensure tribal self-rule and participatory democracy.",
+    "• Preserve tribal customs and traditions.",
+    "• Empower Panchayats with tribal-specific powers.",
+    "• Prevent overreach by higher-level Panchayats.",
+    "## Key Features",
+    "• State laws must align Panchayat framework with tribal customs.",
+    "• Gram Sabha: includes all members in Panchayat electoral roll.",
+    "• Gram Sabha safeguards traditions and resolves disputes.",
+    "• Panchayats need Gram Sabha approval for fund usage.",
+    "• Reservation: At least 50% seats reserved for STs; all chairperson posts reserved for STs.",
+    "• State can nominate ST members if not adequately represented (max 1/10th of members).",
+    "• Gram Sabha consulted for land acquisition.",
+    "• Gram Sabha recommendation mandatory for mining licences.",
+    "• Panchayats manage small water bodies.",
+    "• Devolution of powers to ensure Panchayats act as self-government bodies.",
+    "• District-level Panchayats follow 6th Schedule pattern.",
+    "## Limitations of PESA",
+    "• Poor implementation in states like Jharkhand.",
+    "• Lack of inter-ministerial coordination.",
+    "• Limited scope: applies only to 5th Schedule areas.",
+    "• Ambiguity in definitions: minor forest produce, minerals, water bodies.",
+    "• Conflicts due to unclear distribution of powers between governance levels.",
+    "• Insufficient financial resources for effective functioning."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक आधार",
+    "• अनुच्छेद 243M: संसद को पंचायत प्रावधानों का अनुसूचित और जनजातीय क्षेत्रों में विस्तार करने का अधिकार।",
+    "• अनुच्छेद 243M और भूरिया समिति की सिफारिशों पर आधारित – 1996 में PESA अधिनियम लागू।",
+    "• 5वीं अनुसूची के अंतर्गत अनुसूचित क्षेत्रों पर लागू।",
+    "• राज्य: हिमाचल प्रदेश, राजस्थान, गुजरात, मध्य प्रदेश, झारखंड, छत्तीसगढ़, ओडिशा, महाराष्ट्र, आंध्र प्रदेश, तेलंगाना।",
+    "## PESA अधिनियम के उद्देश्य",
+    "• 73वें संशोधन का अनुसूचित क्षेत्रों में विस्तार।",
+    "• आदिवासी स्वशासन और सहभागी लोकतंत्र सुनिश्चित करना।",
+    "• आदिवासी रीति-रिवाजों और परंपराओं का संरक्षण।",
+    "• पंचायतों को आदिवासी-विशेष शक्तियाँ देना।",
+    "• उच्च स्तर की पंचायतों के अतिक्रमण को रोकना।",
+    "## मुख्य विशेषताएँ",
+    "• राज्य कानून – पंचायत ढांचा आदिवासी परंपराओं के अनुरूप।",
+    "• ग्राम सभा: पंचायत निर्वाचन सूची के सभी सदस्य।",
+    "• ग्राम सभा परंपराओं की रक्षा करती है और विवाद सुलझाती है।",
+    "• पंचायतों को निधियों के उपयोग हेतु ग्राम सभा की स्वीकृति आवश्यक।",
+    "• आरक्षण: STs के लिए कम से कम 50% सीटें आरक्षित; सभी अध्यक्ष पद STs के लिए आरक्षित।",
+    "• प्रतिनिधित्व न होने पर राज्य सरकार ST सदस्यों को नामित कर सकती है (अधिकतम 1/10 सदस्य)।",
+    "• भूमि अधिग्रहण हेतु ग्राम सभा से परामर्श अनिवार्य।",
+    "• खनन लाइसेंस हेतु ग्राम सभा की अनुशंसा अनिवार्य।",
+    "• पंचायतें छोटे जल स्रोतों का प्रबंधन करती हैं।",
+    "• पंचायतों को स्वशासन संस्था के रूप में कार्य करने हेतु शक्तियों का विकेंद्रीकरण।",
+    "• जिला स्तर की पंचायतें 6वीं अनुसूची के ढाँचे का पालन करती हैं।",
+    "## PESA की सीमाएँ",
+    "• झारखंड जैसे राज्यों में कमजोर कार्यान्वयन।",
+    "• मंत्रालयों के बीच समन्वय की कमी।",
+    "• सीमित दायरा: केवल 5वीं अनुसूची क्षेत्रों पर लागू।",
+    "• परिभाषाओं में अस्पष्टता: लघु वन उत्पाद, लघु खनिज, लघु जल स्रोत।",
+    "• शक्तियों के बँटवारे की अस्पष्टता से टकराव।",
+    "• पर्याप्त वित्तीय संसाधनों की कमी।"
+  ],
+  "tables": [
+    {
+      "title": "PESA Act 1996 – Key Aspects",
+      "titleHindi": "PESA अधिनियम 1996 – प्रमुख पहलू",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Constitutional Basis", "Article 243M; extends 73rd Amendment to Scheduled Areas"],
+        ["Coverage", "10 States under 5th Schedule"],
+        ["Gram Sabha", "Central institution; approves funds, safeguards customs, consulted on land & mining"],
+        ["Reservation", "≥50% seats for STs; all chairperson seats reserved for STs"],
+        ["Special Powers", "Manage minor water bodies; follow tribal traditions"],
+        ["Limitations", "Poor implementation, ambiguity in definitions, lack of finances, limited scope"]
+      ],
+      "rowsHindi": [
+        ["संवैधानिक आधार", "अनुच्छेद 243M; 73वें संशोधन का अनुसूचित क्षेत्रों में विस्तार"],
+        ["परिधि", "5वीं अनुसूची के अंतर्गत 10 राज्य"],
+        ["ग्राम सभा", "मुख्य संस्था; निधि स्वीकृति, परंपराओं की रक्षा, भूमि व खनन पर परामर्श"],
+        ["आरक्षण", "≥50% सीटें STs हेतु; सभी अध्यक्ष पद STs हेतु आरक्षित"],
+        ["विशेष शक्तियाँ", "लघु जल स्रोतों का प्रबंधन; आदिवासी परंपराओं का पालन"],
+        ["सीमाएँ", "कमजोर कार्यान्वयन, परिभाषाओं में अस्पष्टता, वित्त की कमी, सीमित दायरा"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "PESA Act, 1996 extends 73rd Amendment to 5th Schedule Scheduled Areas.",
+    "Based on Article 243M and Bhuria Committee recommendations.",
+    "At least 50% of Panchayat seats reserved for STs; all chairpersons STs.",
+    "Gram Sabha approval mandatory for land acquisition and mining licences."
+  ],
+  "prelimsTipsHindi": [
+    "PESA अधिनियम, 1996 ने 73वें संशोधन का 5वीं अनुसूची क्षेत्रों में विस्तार किया।",
+    "अनुच्छेद 243M और भूरिया समिति की सिफारिशों पर आधारित।",
+    "कम से कम 50% पंचायत सीटें STs हेतु आरक्षित; सभी अध्यक्ष STs।",
+    "भूमि अधिग्रहण और खनन लाइसेंस हेतु ग्राम सभा की स्वीकृति अनिवार्य।"
+  ],
+  "mainsPoints": [
+    "PESA Act empowers tribal self-rule through Gram Sabhas.",
+    "Ensures preservation of tribal customs while extending Panchayati Raj.",
+    "Provides high ST reservation to secure representation.",
+    "Implementation challenges include lack of clarity, finances, and coordination.",
+    "PESA is crucial for inclusive governance in Scheduled Areas but remains underutilised."
+  ],
+  "mainsPointsHindi": [
+    "PESA अधिनियम ग्राम सभाओं के माध्यम से आदिवासी स्वशासन को सशक्त बनाता है।",
+    "आदिवासी परंपराओं को संरक्षित रखते हुए पंचायती राज का विस्तार करता है।",
+    "STs के लिए उच्च आरक्षण देकर प्रतिनिधित्व सुनिश्चित करता है।",
+    "कार्यान्वयन में अस्पष्टता, वित्तीय कमी और समन्वय का अभाव प्रमुख चुनौतियाँ हैं।",
+    "अनुसूचित क्षेत्रों में समावेशी शासन के लिए PESA महत्त्वपूर्ण है लेकिन कम उपयोगी साबित हुआ है।"
+  ]
+},
+{
+  "heading": "Evaluation of Working of Panchayati Raj Institutions (PRIs)",
+  "headingHindi": "पंचायती राज संस्थाओं (PRI) के कार्य का मूल्यांकन",
+  "highlight": "PRIs have empowered local communities and improved rural governance, but issues like weak Gram Sabhas, lack of financial autonomy, proxy sarpanch practices, and poor devolution remain. Strengthening transparency, financial devolution, decentralised planning, and women’s capacity building are crucial for revitalisation.",
+  "highlightHindi": "PRI ने स्थानीय समुदायों को सशक्त बनाया और ग्रामीण शासन में सुधार किया है, लेकिन कमजोर ग्राम सभाओं, वित्तीय स्वायत्तता की कमी, सरपंच पति प्रथा और विषयों के अपर्याप्त विकेंद्रीकरण जैसी समस्याएँ बनी हुई हैं। पारदर्शिता, वित्तीय विकेंद्रीकरण, विकेन्द्रीकृत योजना और महिलाओं की क्षमता निर्माण PRI को सशक्त बनाने के लिए आवश्यक हैं।",
+  "details": [
+    "## Significance of PRIs",
+    "• Empowerment of local communities.",
+    "• Effective implementation of government schemes.",
+    "• Strengthening grassroots democracy.",
+    "• Women's empowerment.",
+    "• Development of rural areas.",
+    "• Reducing corruption through accountability at local level.",
+    "## Challenges Faced by PRIs",
+    "### Gram Sabha Issues:",
+    "• Irregular meetings, lack of transparency.",
+    "• Low participation and weak agenda.",
+    "• Exclusion of vulnerable groups.",
+    "### Financial Devolution Problems:",
+    "• Lack of own revenue sources; high dependency on state/centre.",
+    "• Irregular fund transfer (e.g., sarpanch resignations in Telangana due to delays).",
+    "• Irregular constitution of State Finance Commissions.",
+    "### Other Challenges:",
+    "• Power tussles among local actors.",
+    "• Proxy sarpanch (sarpanch pati) issue reducing women's autonomy.",
+    "• Lack of devolution of 29 subjects and functions.",
+    "• Inadequate support staff (secretaries, engineers, computer operators).",
+    "## Solutions to Revitalise PRIs",
+    "• Vibrant Gram Sabhas: Hold 6–12 meetings annually; link with services like health checkups.",
+    "   – Case Study: Dadera Gram Panchayat (UP) – planned water conservation and rainwater harvesting.",
+    "• Strengthen Financial Devolution: Monitor timely release of funds (P. Venugopal Committee).",
+    "   – Example: Budhanoor (Kerala) focused on generating OSR.",
+    "• Decentralised Planning: Gram Panchayat Development Plans (GPDP).",
+    "   – Example: Ibrahimpur (Telangana) – model village with innovations like ‘any time water machines’.",
+    "• Localising Sustainable Development Goals (SDGs).",
+    "• Capacity building of women leaders.",
+    "• Incentivising Panchayats: awards, ISO certifications (Kumbala, Kerala).",
+    "• Enhancing transparency & accountability: citizen charters, online audits, social audits.",
+    "• Building Resilience: focus on renewable energy, climate adaptation.",
+    "   – Case Study: Odhathurai Gram Panchayat (Tamil Nadu) earns ₹19 lakh annually via wind energy sale."
+  ],
+  "detailsHindi": [
+    "## PRI का महत्व",
+    "• स्थानीय समुदायों का सशक्तिकरण।",
+    "• सरकारी योजनाओं का प्रभावी कार्यान्वयन।",
+    "• जमीनी स्तर पर लोकतंत्र को मजबूत करना।",
+    "• महिलाओं का सशक्तिकरण।",
+    "• ग्रामीण क्षेत्रों का विकास।",
+    "• भ्रष्टाचार में कमी।",
+    "## PRI की चुनौतियाँ",
+    "### ग्राम सभा से संबंधित समस्याएँ:",
+    "• अनियमित बैठकें और पारदर्शिता की कमी।",
+    "• कम भागीदारी और ठोस एजेंडा का अभाव।",
+    "• कमजोर वर्गों की आवाज़ न होना।",
+    "### वित्तीय विकेंद्रीकरण की समस्याएँ:",
+    "• स्व-राजस्व स्रोतों (OSR) की कमी, राज्य/केंद्र पर निर्भरता।",
+    "• निधियों के विलंबित हस्तांतरण (जैसे तेलंगाना में सरपंचों का इस्तीफा)।",
+    "• राज्य वित्त आयोग का अनियमित गठन।",
+    "### अन्य समस्याएँ:",
+    "• स्थानीय स्तर पर शक्ति संघर्ष।",
+    "• सरपंच पति प्रथा – महिलाओं की स्वतंत्रता कम होती है।",
+    "• 29 विषयों और कार्यों का अपर्याप्त विकेंद्रीकरण।",
+    "• आवश्यक सहायक स्टाफ की कमी।",
+    "## PRI को पुनर्जीवित करने के उपाय",
+    "• ग्राम सभाओं को सक्रिय बनाना: 6–12 बैठकें वार्षिक; स्वास्थ्य सेवाओं जैसी सुविधाओं से जोड़ना।",
+    "   – केस स्टडी: ददेरा ग्राम पंचायत (UP) – जल संरक्षण व वर्षा जल संचयन की योजना।",
+    "• वित्तीय विकेंद्रीकरण को सुदृढ़ करना: निधियों की निगरानी (पी. वेंगोपल समिति)।",
+    "   – उदाहरण: बुढ़नूर (केरल) – स्व-राजस्व स्रोतों पर ध्यान।",
+    "• विकेन्द्रीकृत योजना: ग्राम पंचायत विकास योजना (GPDP)।",
+    "   – उदाहरण: इब्राहिमपुर (तेलंगाना) – सतत विकास हेतु आदर्श गाँव।",
+    "• सतत विकास लक्ष्यों (SDGs) का स्थानीयकरण।",
+    "• महिला नेताओं का क्षमता निर्माण।",
+    "• पंचायतों को प्रोत्साहित करना: पुरस्कार, ISO प्रमाणन (कुंबला, केरल)।",
+    "• पारदर्शिता और जवाबदेही: नागरिक चार्टर, ऑनलाइन ऑडिट, सामाजिक ऑडिट।",
+    "• लचीलापन विकसित करना: नवीकरणीय ऊर्जा और जलवायु अनुकूलन।",
+    "   – केस स्टडी: ओधथुरई ग्राम पंचायत (TN) – पवन ऊर्जा से ₹19 लाख वार्षिक आय।"
+  ],
+  "tables": [
+    {
+      "title": "Significance, Challenges & Solutions of PRIs",
+      "titleHindi": "PRI का महत्व, चुनौतियाँ और समाधान",
+      "columns": ["Aspect", "Key Points"],
+      "columnsHindi": ["पहलू", "मुख्य बिंदु"],
+      "rows": [
+        ["Significance", "Local empowerment, grassroots democracy, rural development, women’s empowerment"],
+        ["Challenges", "Weak Gram Sabhas, financial dependence, proxy sarpanch, poor devolution, staff shortage"],
+        ["Solutions", "Vibrant Gram Sabhas, financial monitoring, GPDP, SDG localisation, women’s capacity building, transparency tools, resilience through innovations"]
+      ],
+      "rowsHindi": [
+        ["महत्व", "स्थानीय सशक्तिकरण, लोकतंत्र, ग्रामीण विकास, महिला सशक्तिकरण"],
+        ["चुनौतियाँ", "कमज़ोर ग्राम सभा, वित्तीय निर्भरता, सरपंच पति, विषयों का अपर्याप्त विकेंद्रीकरण, स्टाफ की कमी"],
+        ["समाधान", "सक्रिय ग्राम सभा, वित्तीय निगरानी, GPDP, SDG स्थानीयकरण, महिलाओं का सशक्तिकरण, पारदर्शिता, नवाचार से लचीलापन"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "PRI tenure: 5 years; Gram Sabha is foundation of participatory democracy.",
+    "P. Venugopal Committee recommended monitoring release of funds.",
+    "Case Studies: Ibrahimpur (Telangana), Budhanoor (Kerala), Odhathurai (TN).",
+    "Proxy sarpanch (sarpanch pati) is a key challenge to women’s empowerment."
+  ],
+  "prelimsTipsHindi": [
+    "PRI कार्यकाल: 5 वर्ष; ग्राम सभा सहभागी लोकतंत्र की नींव।",
+    "पी. वेंगोपल समिति – निधियों की निगरानी की सिफारिश।",
+    "केस स्टडी: इब्राहिमपुर (तेलंगाना), बुढ़नूर (केरल), ओधथुरई (TN)।",
+    "सरपंच पति प्रथा – महिलाओं के सशक्तिकरण में बाधा।"
+  ],
+  "mainsPoints": [
+    "PRIs strengthened grassroots democracy and local governance post 73rd Amendment.",
+    "However, weak Gram Sabhas, lack of financial autonomy, and proxy leadership hinder their effectiveness.",
+    "Case studies (Ibrahimpur, Budhanoor, Odhathurai) show potential of empowered PRIs.",
+    "Capacity building, financial devolution, and transparency reforms are key for revitalisation.",
+    "PRIs must align with SDGs to ensure inclusive and sustainable rural development."
+  ],
+  "mainsPointsHindi": [
+    "73वें संशोधन के बाद PRI ने स्थानीय शासन और जमीनी लोकतंत्र को मजबूत किया।",
+    "कमज़ोर ग्राम सभा, वित्तीय स्वायत्तता की कमी और प्रॉक्सी नेतृत्व इसकी प्रभावशीलता में बाधा हैं।",
+    "केस स्टडी (इब्राहिमपुर, बुढ़नूर, ओधथुरई) सशक्त PRI की क्षमता दिखाते हैं।",
+    "क्षमता निर्माण, वित्तीय विकेंद्रीकरण और पारदर्शिता सुधार PRI को पुनर्जीवित करने की कुंजी हैं।",
+    "सतत और समावेशी ग्रामीण विकास हेतु PRI को SDGs से जोड़ना आवश्यक है।"
+  ]
+},
+{
+  "heading": "Urban Local Bodies (ULBs)",
+  "headingHindi": "शहरी स्थानीय निकाय (ULBs)",
+  "highlight": "Urban local bodies are the institutions of self-governance in urban areas. Their evolution began in colonial India with municipal corporations in Madras (1687), Bombay (1872), and Calcutta (1876). The 74th Constitutional Amendment Act, 1992, provided constitutional status to municipalities, added Part IX-A, and included the 12th Schedule with 18 subjects.",
+  "highlightHindi": "शहरी स्थानीय निकाय शहरी क्षेत्रों में स्वशासन की संस्थाएँ हैं। इनका विकास औपनिवेशिक काल में मद्रास (1687), बंबई (1872) और कलकत्ता (1876) में नगर निगमों से हुआ। 1992 के 74वें संविधान संशोधन अधिनियम ने नगरपालिकाओं को संवैधानिक दर्जा दिया, भाग IX-A जोड़ा और 12वीं अनुसूची में 18 विषय शामिल किए।",
+  "details": [
+    "## Evolution of Municipal Bodies",
+    "• First Municipal Corporation: Madras (1687), followed by Bombay (1872) and Calcutta (1876).",
+    "• Lord Mayo’s Resolution (1870): decentralisation in local bodies.",
+    "• Lord Rippon’s Resolution (1882): considered the Magna Carta of local self-government in India.",
+    "• Royal Commission on Decentralisation: emphasised connecting people with local works.",
+    "• Government of India Act, 1919: dyarchy provision gave local government more importance.",
+    "• Urban local self-government placed under the State List.",
+    "## 74th Constitutional Amendment Act, 1992",
+    "• Added Part IX-A: Articles 243P–243ZG.",
+    "• Introduced the 12th Schedule with 18 functional items under municipalities.",
+    "## Types of Municipalities",
+    "• Nagar Panchayat: transitional areas (rural → urban).",
+    "• Municipal Council: smaller urban areas.",
+    "• Municipal Corporation: larger urban areas.",
+    "## Composition of Urban Local Bodies",
+    "• Members directly elected by the people of wards.",
+    "• State legislature decides:",
+    "   – Mode of election of chairpersons.",
+    "   – Representation of expertise and special interests.",
+    "   – Inclusion of MPs/MLAs in municipalities.",
+    "## Ward Committees and Other Committees",
+    "• Ward Committees mandatory in municipalities with population > 3 lakh.",
+    "• State legislature decides composition and functioning of committees.",
+    "## Reservation of Seats",
+    "• Reservation for SCs/STs in proportion to their population.",
+    "• One-third reservation of seats for women (including chairpersons).",
+    "• State legislature decides criteria for chairperson reservation.",
+    "## Important Fact",
+    "• 15th President of India, Smt. Droupadi Murmu, is the first tribal President of India."
+  ],
+  "detailsHindi": [
+    "## नगर निकायों का विकास",
+    "• प्रथम नगर निगम: मद्रास (1687), इसके बाद बंबई (1872) और कलकत्ता (1876)।",
+    "• लॉर्ड मेयो का प्रस्ताव (1870): स्थानीय निकायों में विकेंद्रीकरण।",
+    "• लॉर्ड रिपन का प्रस्ताव (1882): भारत में स्थानीय स्वशासन का मैग्ना कार्टा।",
+    "• विकेंद्रीकरण पर शाही आयोग: लोगों को स्थानीय कार्यों से जोड़ने पर बल।",
+    "• भारत सरकार अधिनियम, 1919: द्वैध शासन में स्थानीय सरकार का महत्व बढ़ा।",
+    "• शहरी स्थानीय स्वशासन को राज्य सूची में रखा गया।",
+    "## 74वाँ संविधान संशोधन अधिनियम, 1992",
+    "• भाग IX-A जोड़ा गया: अनुच्छेद 243P–243ZG।",
+    "• नगरपालिकाओं के अधीन 12वीं अनुसूची में 18 कार्यात्मक विषय।",
+    "## नगरपालिकाओं के प्रकार",
+    "• नगर पंचायत: संक्रमण क्षेत्र (ग्राम्य से शहरी)।",
+    "• नगरपालिका परिषद: छोटे शहरी क्षेत्र।",
+    "• नगर निगम: बड़े शहरी क्षेत्र।",
+    "## शहरी स्थानीय निकायों की संरचना",
+    "• वार्डों के सदस्यों द्वारा प्रत्यक्ष चुनाव।",
+    "• राज्य विधानमंडल तय करता है:",
+    "   – अध्यक्षों के चुनाव की विधि।",
+    "   – विशेषज्ञता और विशेष हितों का प्रतिनिधित्व।",
+    "   – नगरपालिकाओं में सांसद/विधायक की भागीदारी।",
+    "## वार्ड समितियाँ और अन्य समितियाँ",
+    "• 3 लाख से अधिक जनसंख्या वाली नगरपालिकाओं में वार्ड समितियाँ अनिवार्य।",
+    "• राज्य विधानमंडल इनके गठन और कार्य तय करता है।",
+    "## सीटों का आरक्षण",
+    "• SCs/STs के लिए उनकी जनसंख्या के अनुपात में आरक्षण।",
+    "• महिलाओं के लिए एक-तिहाई आरक्षण (अध्यक्ष पद सहित)।",
+    "• अध्यक्ष पद के आरक्षण की प्रक्रिया राज्य विधानमंडल तय करता है।",
+    "## महत्वपूर्ण तथ्य",
+    "• भारत की 15वीं राष्ट्रपति, श्रीमती द्रौपदी मुर्मू, भारत की पहली आदिवासी राष्ट्रपति हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Types of Urban Local Bodies",
+      "titleHindi": "शहरी स्थानीय निकायों के प्रकार",
+      "columns": ["Type", "Area Covered"],
+      "columnsHindi": ["प्रकार", "आवृत क्षेत्र"],
+      "rows": [
+        ["Nagar Panchayat", "Transitional area (rural to urban)"],
+        ["Municipal Council", "Smaller urban area"],
+        ["Municipal Corporation", "Larger urban area"]
+      ],
+      "rowsHindi": [
+        ["नगर पंचायत", "संक्रमण क्षेत्र (ग्राम्य से शहरी)"],
+        ["नगरपालिका परिषद", "छोटा शहरी क्षेत्र"],
+        ["नगर निगम", "बड़ा शहरी क्षेत्र"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "First municipal corporation: Madras (1687); later Bombay (1872), Calcutta (1876).",
+    "Lord Rippon’s Resolution (1882) called Magna Carta of local self-government.",
+    "74th Amendment: Part IX-A, 12th Schedule (18 subjects).",
+    "Types: Nagar Panchayat (transitional), Municipality (small), Corporation (large).",
+    "Ward Committees mandatory in cities with >3 lakh population."
+  ],
+  "prelimsTipsHindi": [
+    "प्रथम नगर निगम: मद्रास (1687); बाद में बंबई (1872), कलकत्ता (1876)।",
+    "लॉर्ड रिपन का प्रस्ताव (1882) – स्थानीय स्वशासन का मैग्ना कार्टा।",
+    "74वाँ संशोधन: भाग IX-A, 12वीं अनुसूची (18 विषय)।",
+    "प्रकार: नगर पंचायत (संक्रमण), नगरपालिका (छोटी), निगम (बड़ी)।",
+    "3 लाख से अधिक जनसंख्या वाले नगरों में वार्ड समितियाँ अनिवार्य।"
+  ],
+  "mainsPoints": [
+    "Urban local bodies trace their roots to colonial municipalities (Madras, Bombay, Calcutta).",
+    "Lord Rippon’s resolution laid the foundation of modern local self-government.",
+    "The 74th Amendment constitutionalised municipalities and gave them 18 subjects (12th Schedule).",
+    "Directly elected ward members ensure democratic participation.",
+    "Reservation for SC/ST and women strengthens inclusivity in ULBs."
+  ],
+  "mainsPointsHindi": [
+    "शहरी स्थानीय निकायों की शुरुआत औपनिवेशिक नगरपालिकाओं (मद्रास, बंबई, कलकत्ता) से हुई।",
+    "लॉर्ड रिपन का प्रस्ताव आधुनिक स्थानीय स्वशासन की नींव माना जाता है।",
+    "74वें संशोधन ने नगरपालिकाओं को संवैधानिक दर्जा और 12वीं अनुसूची में 18 विषय दिए।",
+    "वार्ड स्तर पर प्रत्यक्ष चुनाव लोकतांत्रिक भागीदारी सुनिश्चित करते हैं।",
+    "SC/ST और महिलाओं के लिए आरक्षण ULBs को समावेशी बनाता है।"
+  ]
+},
+{
+  "heading": "Urban Local Bodies: Duration, Elections & Finances",
+  "headingHindi": "शहरी स्थानीय निकाय: अवधि, चुनाव और वित्त",
+  "highlight": "Municipalities have a 5-year term with provisions for dissolution and reconstitution. Elections are overseen by the State Election Commission, and finances are regulated through state legislature, grants, and State Finance Commissions.",
+  "highlightHindi": "नगरपालिकाओं का कार्यकाल 5 वर्ष होता है, जिसे भंग करके पुनर्गठन किया जा सकता है। चुनावों का संचालन राज्य निर्वाचन आयोग करता है, और वित्तीय प्रावधान राज्य विधानमंडल, अनुदान और राज्य वित्त आयोग द्वारा नियंत्रित किए जाते हैं।",
+  "details": [
+    "## Duration of Municipalities",
+    "• Term: 5 years from first meeting.",
+    "• Dissolution possible before term ends.",
+    "• Fresh elections within 6 months of dissolution.",
+    "• Reconstituted municipality serves remainder of original term.",
+    "## Qualification and Disqualification",
+    "• Qualification: Indian citizen, minimum age 21 years.",
+    "• Disqualification:",
+    "   – As per state election laws.",
+    "   – As per state legislature laws.",
+    "• Authority to decide disqualification: determined by state legislature.",
+    "## State Election Commission (SEC)",
+    "• Oversees electoral rolls and conducts municipal elections.",
+    "• State legislature regulates municipal election matters.",
+    "• State Election Commissioner appointed by Governor.",
+    "## Powers and Functions",
+    "• Preparation of plans for economic development and social justice.",
+    "• Implementation of schemes for economic and social development.",
+    "## Finances of Municipalities",
+    "• State legislature may:",
+    "   – Authorise municipalities to levy and collect taxes.",
+    "   – Transfer state-collected taxes to municipalities.",
+    "   – Provide grants-in-aid from Consolidated Fund of State.",
+    "• Finance Commission:",
+    "   – Reviews municipal finances every 5 years.",
+    "   – Recommends distribution of funds, tax assignment, grants-in-aid, and measures for financial improvement.",
+    "   – Governor places recommendations before State legislature.",
+    "## Audit of Accounts",
+    "• Audit provisions governed by state legislature.",
+    "## Application to Union Territories",
+    "• President may apply provisions of the Act to Union Territories."
+  ],
+  "detailsHindi": [
+    "## नगरपालिकाओं की अवधि",
+    "• कार्यकाल: प्रथम बैठक से 5 वर्ष।",
+    "• कार्यकाल समाप्त होने से पहले भी भंग किया जा सकता है।",
+    "• भंग होने पर 6 माह के भीतर नए चुनाव।",
+    "• पुनर्गठित नगरपालिका शेष कार्यकाल पूरा करेगी।",
+    "## योग्यता और अयोग्यता",
+    "• योग्यता: भारतीय नागरिक, न्यूनतम आयु 21 वर्ष।",
+    "• अयोग्यता:",
+    "   – राज्य निर्वाचन कानूनों के अनुसार।",
+    "   – राज्य विधानमंडल के कानूनों के अनुसार।",
+    "• अयोग्यता पर निर्णय: राज्य विधानमंडल द्वारा निर्धारित प्राधिकरण।",
+    "## राज्य निर्वाचन आयोग (SEC)",
+    "• निर्वाचन सूची तैयार करना और नगरपालिकाओं के चुनाव कराना।",
+    "• नगरपालिकाओं के चुनाव मामलों को राज्य विधानमंडल नियंत्रित करता है।",
+    "• राज्य निर्वाचन आयुक्त की नियुक्ति राज्यपाल द्वारा।",
+    "## शक्तियाँ और कार्य",
+    "• आर्थिक विकास और सामाजिक न्याय के लिए योजनाओं का निर्माण।",
+    "• इन योजनाओं का क्रियान्वयन।",
+    "## नगरपालिकाओं के वित्त",
+    "• राज्य विधानमंडल:",
+    "   – नगरपालिकाओं को कर लगाने और संग्रह करने का अधिकार दे सकता है।",
+    "   – राज्य द्वारा संग्रहित करों का हस्तांतरण कर सकता है।",
+    "   – राज्य की संचित निधि से अनुदान प्रदान कर सकता है।",
+    "• वित्त आयोग:",
+    "   – हर 5 साल में नगरपालिकाओं की वित्तीय स्थिति की समीक्षा।",
+    "   – वित्त वितरण, कर आवंटन, अनुदान और सुधारात्मक उपायों पर सिफारिश।",
+    "   – राज्यपाल सिफारिशें विधानमंडल के समक्ष प्रस्तुत करते हैं।",
+    "## खातों का लेखा-परीक्षण",
+    "• राज्य विधानमंडल द्वारा प्रावधान तय।",
+    "## केंद्र शासित प्रदेशों पर लागू",
+    "• राष्ट्रपति अधिनियम की प्रावधानों को केंद्र शासित प्रदेशों पर लागू कर सकते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Key Aspects of Municipalities",
+      "titleHindi": "नगरपालिकाओं के मुख्य पहलू",
+      "columns": ["Aspect", "Provision"],
+      "columnsHindi": ["पहलू", "प्रावधान"],
+      "rows": [
+        ["Duration", "5 years; fresh elections within 6 months if dissolved"],
+        ["Qualification", "Indian citizen, minimum 21 years"],
+        ["Elections", "Conducted by State Election Commission"],
+        ["Functions", "Economic development, social justice planning and schemes"],
+        ["Finance", "Taxes, transfers, grants-in-aid; reviewed by State Finance Commission"],
+        ["Audit", "Regulated by State legislature"],
+        ["UT Application", "President may extend provisions to Union Territories"]
+      ],
+      "rowsHindi": [
+        ["अवधि", "5 वर्ष; भंग होने पर 6 माह में नए चुनाव"],
+        ["योग्यता", "भारतीय नागरिक, न्यूनतम 21 वर्ष"],
+        ["चुनाव", "राज्य निर्वाचन आयोग द्वारा आयोजित"],
+        ["कार्य", "आर्थिक विकास, सामाजिक न्याय की योजनाएँ व क्रियान्वयन"],
+        ["वित्त", "कर, हस्तांतरण, अनुदान; राज्य वित्त आयोग द्वारा समीक्षा"],
+        ["लेखा-परीक्षण", "राज्य विधानमंडल द्वारा नियंत्रित"],
+        ["केंद्र शासित प्रदेश", "राष्ट्रपति प्रावधानों को लागू कर सकते हैं"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Municipality term = 5 years; re-election within 6 months if dissolved.",
+    "Minimum age for contesting municipal elections = 21 years.",
+    "State Election Commission conducts and regulates municipal elections.",
+    "State Finance Commission reviews finances every 5 years.",
+    "President can extend provisions to UTs."
+  ],
+  "prelimsTipsHindi": [
+    "नगरपालिका का कार्यकाल = 5 वर्ष; भंग होने पर 6 माह में चुनाव।",
+    "नगरपालिका चुनाव लड़ने की न्यूनतम आयु = 21 वर्ष।",
+    "नगरपालिका चुनाव राज्य निर्वाचन आयोग कराता है।",
+    "राज्य वित्त आयोग हर 5 वर्ष में समीक्षा करता है।",
+    "राष्ट्रपति प्रावधानों को केंद्र शासित प्रदेशों पर लागू कर सकते हैं।"
+  ],
+  "mainsPoints": [
+    "Municipalities have a fixed 5-year term ensuring stability of local governance.",
+    "State Election Commissions ensure free and fair municipal elections.",
+    "Municipalities play a key role in preparing development plans and schemes for urban areas.",
+    "Finance Commissions strengthen fiscal autonomy of municipalities by periodic review.",
+    "Application of provisions to UTs ensures uniformity of urban governance across India."
+  ],
+  "mainsPointsHindi": [
+    "नगरपालिकाओं का 5 वर्षीय कार्यकाल स्थानीय शासन की स्थिरता सुनिश्चित करता है।",
+    "राज्य निर्वाचन आयोग नगरपालिकाओं में स्वतंत्र और निष्पक्ष चुनाव कराते हैं।",
+    "नगरपालिकाएँ शहरी क्षेत्रों के विकास हेतु योजनाएँ और कार्यक्रम तैयार करती हैं।",
+    "वित्त आयोग नगरपालिकाओं की वित्तीय स्वायत्तता को मजबूत करता है।",
+    "केंद्र शासित प्रदेशों पर प्रावधानों का लागू होना शहरी शासन में एकरूपता लाता है।"
+  ]
+},
+{
+  "heading": "Urban Local Bodies: Exempted Areas, Planning Committees & 12th Schedule",
+  "headingHindi": "शहरी स्थानीय निकाय: अपवर्जित क्षेत्र, नियोजन समितियाँ और 12वीं अनुसूची",
+  "highlight": "Certain areas are exempted from the 74th Amendment, such as Scheduled/Tribal Areas and Darjeeling Gorkha Hill Council. Urban planning is carried out by District Planning Committees (DPCs) and Metropolitan Planning Committees (MPCs). The 12th Schedule lists 18 functional subjects under municipalities.",
+  "highlightHindi": "74वें संशोधन से कुछ क्षेत्र अपवर्जित हैं, जैसे अनुसूचित/जनजातीय क्षेत्र और दार्जिलिंग गोरखा हिल काउंसिल। शहरी नियोजन की ज़िम्मेदारी जिला नियोजन समिति (DPC) और महानगरीय नियोजन समिति (MPC) पर है। 12वीं अनुसूची में नगरपालिकाओं के अधीन 18 कार्यात्मक विषय शामिल हैं।",
+  "details": [
+    "## Exempted Areas",
+    "• Scheduled areas and tribal areas in states.",
+    "• Darjeeling Gorkha Hill Council in West Bengal.",
+    "## District Planning Committee (DPC)",
+    "• Consolidates plans prepared by Panchayats and Municipalities.",
+    "• Prepares draft development plan for district.",
+    "• State legislature decides:",
+    "   – Composition of DPC.",
+    "   – Election of members.",
+    "   – Election of chairpersons.",
+    "• Composition: 4/5th elected by members of district panchayats and municipalities, in proportion to rural-urban population.",
+    "## Metropolitan Planning Committee (MPC)",
+    "• Required in every metropolitan area.",
+    "• State legislature decides:",
+    "   – Composition of MPC.",
+    "   – Election of members and chairpersons.",
+    "• Includes representatives of Union, State, and relevant organisations.",
+    "• 2/3rd elected by members of municipalities and chairpersons of panchayats.",
+    "• Coordinates and prepares development plans for metropolitan area.",
+    "## Bar to Interference by Courts",
+    "• Constituency delimitation not challengeable in courts.",
+    "• Election disputes decided only through state legislature procedures.",
+    "## Twelfth Schedule (18 Functions of Municipalities)",
+    "1. Urban planning including town planning.",
+    "2. Regulation of land use and construction of buildings.",
+    "3. Planning for economic and social development.",
+    "4. Roads and bridges.",
+    "5. Water supply for domestic, industrial, and commercial purposes.",
+    "6. Public health, sanitation, conservancy, and solid waste management.",
+    "7. Fire services.",
+    "8. Urban forestry, protection of the environment, promotion of ecological aspects.",
+    "9. Safeguarding interests of weaker sections, including handicapped/mentally challenged.",
+    "10. Slum improvement and upgradation.",
+    "11. Urban poverty alleviation.",
+    "12. Provision of urban amenities (parks, gardens, playgrounds).",
+    "13. Promotion of cultural, educational, aesthetic aspects.",
+    "14. Burials, cremation grounds, electric crematoriums.",
+    "15. Cattle ponds, prevention of cruelty to animals.",
+    "16. Vital statistics (registration of births and deaths).",
+    "17. Public amenities: street lighting, parking lots, bus stops, conveniences.",
+    "18. Regulation of slaughterhouses and tanneries."
+  ],
+  "detailsHindi": [
+    "## अपवर्जित क्षेत्र",
+    "• राज्यों के अनुसूचित और जनजातीय क्षेत्र।",
+    "• पश्चिम बंगाल का दार्जिलिंग गोरखा हिल काउंसिल।",
+    "## जिला नियोजन समिति (DPC)",
+    "• पंचायतों और नगरपालिकाओं की योजनाओं का समेकन करती है।",
+    "• जिले के लिए प्रारूप विकास योजना तैयार करती है।",
+    "• राज्य विधानमंडल तय करता है:",
+    "   – DPC की संरचना।",
+    "   – सदस्यों का चुनाव।",
+    "   – अध्यक्ष का चुनाव।",
+    "• संरचना: 4/5 सदस्य – जिला पंचायतों और नगरपालिकाओं के निर्वाचित सदस्य (ग्रामीण-शहरी अनुपात में)।",
+    "## महानगरीय नियोजन समिति (MPC)",
+    "• प्रत्येक महानगरीय क्षेत्र में आवश्यक।",
+    "• राज्य विधानमंडल तय करता है:",
+    "   – MPC की संरचना।",
+    "   – सदस्यों और अध्यक्षों का चुनाव।",
+    "• इसमें केंद्र, राज्य और संबंधित संगठनों के प्रतिनिधि शामिल।",
+    "• 2/3 सदस्य – नगरपालिकाओं के निर्वाचित सदस्य और पंचायत अध्यक्ष।",
+    "• महानगरीय क्षेत्र के लिए योजनाओं का समन्वय और तैयारी।",
+    "## न्यायालयों के हस्तक्षेप पर रोक",
+    "• निर्वाचन क्षेत्र सीमांकन अदालतों में चुनौती योग्य नहीं।",
+    "• चुनाव विवाद केवल राज्य विधानमंडल की प्रक्रिया से तय।",
+    "## बारहवीं अनुसूची (नगरपालिकाओं के 18 कार्य)",
+    "1. शहरी योजना और नगर नियोजन।",
+    "2. भूमि उपयोग और भवन निर्माण का नियमन।",
+    "3. आर्थिक और सामाजिक विकास की योजना।",
+    "4. सड़कें और पुल।",
+    "5. घरेलू, औद्योगिक और व्यावसायिक जल आपूर्ति।",
+    "6. सार्वजनिक स्वास्थ्य, स्वच्छता और ठोस अपशिष्ट प्रबंधन।",
+    "7. अग्निशमन सेवाएँ।",
+    "8. शहरी वानिकी, पर्यावरण संरक्षण, पारिस्थितिक पहल।",
+    "9. कमजोर वर्गों के हितों की रक्षा (विकलांग, मानसिक रूप से असक्षम)।",
+    "10. स्लम सुधार और उन्नयन।",
+    "11. शहरी गरीबी उन्मूलन।",
+    "12. शहरी सुविधाएँ (उद्यान, पार्क, खेल का मैदान)।",
+    "13. सांस्कृतिक, शैक्षिक, सौंदर्यगत पहल।",
+    "14. अंतिम संस्कार स्थल और विद्युत शवदाह गृह।",
+    "15. गौशालाएँ और पशु क्रूरता की रोकथाम।",
+    "16. महत्वपूर्ण आँकड़े (जन्म और मृत्यु पंजीकरण)।",
+    "17. सार्वजनिक सुविधाएँ (स्ट्रीट लाइट, पार्किंग, बस स्टॉप, शौचालय)।",
+    "18. वधशालाओं और चमड़ा कारखानों का नियमन।"
+  ],
+  "tables": [
+    {
+      "title": "Planning Committees under 74th Amendment",
+      "titleHindi": "74वें संशोधन के अंतर्गत नियोजन समितियाँ",
+      "columns": ["Committee", "Composition", "Role"],
+      "columnsHindi": ["समिति", "संरचना", "भूमिका"],
+      "rows": [
+        ["District Planning Committee (DPC)", "4/5 elected by panchayats & municipalities (proportional to rural-urban population)", "Consolidates local plans & drafts district development plan"],
+        ["Metropolitan Planning Committee (MPC)", "2/3 elected by municipalities & panchayats; includes Union, State & organisational reps", "Prepares & coordinates development plans for metropolitan areas"]
+      ],
+      "rowsHindi": [
+        ["जिला नियोजन समिति (DPC)", "4/5 सदस्य – पंचायतों और नगरपालिकाओं से निर्वाचित (ग्रामीण-शहरी अनुपात)", "स्थानीय योजनाओं का समेकन और जिला विकास योजना तैयार करना"],
+        ["महानगरीय नियोजन समिति (MPC)", "2/3 सदस्य – नगरपालिकाओं और पंचायतों से निर्वाचित; केंद्र, राज्य और संगठन प्रतिनिधि शामिल", "महानगरीय क्षेत्रों की विकास योजनाओं का निर्माण और समन्वय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Exempted: Scheduled/tribal areas and Darjeeling Gorkha Hill Council.",
+    "DPC: 4/5 elected members; consolidates panchayat + municipal plans.",
+    "MPC: 2/3 elected; includes central & state representatives.",
+    "12th Schedule: 18 functions of municipalities (e.g. urban planning, slum improvement, poverty alleviation).",
+    "Court cannot interfere in delimitation or municipal election matters."
+  ],
+  "prelimsTipsHindi": [
+    "अपवर्जित: अनुसूचित/जनजातीय क्षेत्र और दार्जिलिंग गोरखा हिल काउंसिल।",
+    "DPC: 4/5 निर्वाचित सदस्य; पंचायत+नगरपालिका योजनाओं का समेकन।",
+    "MPC: 2/3 निर्वाचित; केंद्र और राज्य प्रतिनिधियों सहित।",
+    "12वीं अनुसूची: नगरपालिकाओं के 18 कार्य (जैसे शहरी योजना, स्लम सुधार, गरीबी उन्मूलन)।",
+    "सीमांकन या नगरपालिका चुनाव मामलों में न्यायालय हस्तक्षेप नहीं कर सकता।"
+  ],
+  "mainsPoints": [
+    "The 74th Amendment excluded tribal and hill council areas, respecting regional autonomy.",
+    "DPCs and MPCs integrate rural and urban planning for district/metropolitan areas.",
+    "The 12th Schedule empowers municipalities with 18 key functions, expanding their role in governance.",
+    "Judicial interference in delimitation/election matters is barred to protect democratic functioning.",
+    "Implementation challenges persist due to uneven devolution of powers to municipalities."
+  ],
+  "mainsPointsHindi": [
+    "74वें संशोधन ने जनजातीय और हिल काउंसिल क्षेत्रों को अपवर्जित किया, क्षेत्रीय स्वायत्तता का सम्मान किया।",
+    "DPC और MPC ग्रामीण-शहरी योजनाओं का एकीकरण करते हैं।",
+    "12वीं अनुसूची ने नगरपालिकाओं को 18 प्रमुख कार्य देकर शासन में उनकी भूमिका बढ़ाई।",
+    "सीमांकन/चुनाव मामलों में न्यायिक हस्तक्षेप पर रोक लगाकर लोकतांत्रिक कार्यप्रणाली सुरक्षित की गई।",
+    "नगरपालिकाओं को शक्तियों का असमान विकेंद्रीकरण क्रियान्वयन में चुनौतियाँ पैदा करता है।"
+  ]
+},
+{
+  "heading": "Types of Urban Governments: Municipal Corporations & Elected Mayors",
+  "headingHindi": "शहरी सरकारों के प्रकार: नगर निगम और निर्वाचित महापौर",
+  "highlight": "Municipal Corporations administer large cities and are more powerful and financially autonomous than other urban local bodies. They consist of a council (headed by a Mayor), standing committees, and a commissioner. The debate on directly elected Mayors focuses on accountability, decentralisation, and efficiency, but faces challenges such as power clashes and high costs.",
+  "highlightHindi": "नगर निगम बड़े शहरों के प्रशासन के लिए बनाए जाते हैं और अन्य शहरी निकायों की तुलना में अधिक शक्तिशाली और वित्तीय रूप से स्वायत्त होते हैं। इनमें परिषद (महापौर के नेतृत्व में), स्थायी समितियाँ और एक आयुक्त शामिल होते हैं। सीधे निर्वाचित महापौर पर बहस जवाबदेही, विकेंद्रीकरण और दक्षता पर केंद्रित है, लेकिन इसमें शक्ति संघर्ष और अधिक खर्च जैसी चुनौतियाँ हैं।",
+  "details": [
+    "## Municipal Corporation",
+    "• Formed for administration of big cities.",
+    "• Before independence: only 3 (Bombay, Madras, Calcutta).",
+    "• Established by State Legislature Acts; in UTs by Parliament.",
+    "### Composition",
+    "• **Council**: deliberative & legislative body; councillors directly elected; includes nominated experts.",
+    "• Headed by **Mayor**, assisted by Deputy Mayor; tenure usually 1 year (renewable).",
+    "• **Standing Committees**: oversee education, health, finance, public works, taxation, etc.",
+    "• **Commissioner**: executive authority, usually IAS officer, appointed by state government; implements council decisions.",
+    "• Municipal corporations have wider powers, greater autonomy, broader functions than other ULBs.",
+    "## Directly Elected Mayor",
+    "• Considered the 'first citizen' of the city.",
+    "• Election method and tenure vary across cities.",
+    "### Need for Elected Mayors",
+    "• Weak and short-term mayors limit reforms.",
+    "• Growing urbanisation demands empowered leadership.",
+    "• Frequent clashes between councillors and bureaucracy.",
+    "### Advantages",
+    "• Stability and empowerment: mayor directly accountable to citizens.",
+    "• Represents the whole city, not just a ward.",
+    "• Fixed tenure ensures policy continuity.",
+    "• Aligns with 74th Amendment’s spirit of decentralisation.",
+    "• Better suited for tackling complex urban issues.",
+    "### Challenges",
+    "• Risk of authoritarianism.",
+    "• Costly elections.",
+    "• Power clashes between mayor and members.",
+    "• Overlapping jurisdiction with commissioner.",
+    "• Fixed tenure may reduce accountability.",
+    "## 2nd ARC Recommendations",
+    "• Mayor should be directly elected for accountability.",
+    "• Mayor should be Chief Executive with real executive powers.",
+    "• Council to handle budget, policy, and oversight.",
+    "• Mayor can appoint a cabinet for executive functions.",
+    "## Way Forward",
+    "• Mayor should be executive head to avoid conflicts with commissioner.",
+    "• Directly elected mayor should remain a political choice, not constitutional mandate.",
+    "• Governance models should match local context, needs, and strengths."
+  ],
+  "detailsHindi": [
+    "## नगर निगम",
+    "• बड़े शहरों के प्रशासन के लिए गठित।",
+    "• स्वतंत्रता से पहले: केवल 3 नगर निगम (बॉम्बे, मद्रास, कलकत्ता)।",
+    "• राज्य विधानमंडल अधिनियमों द्वारा स्थापित; केंद्र शासित प्रदेशों में संसद द्वारा।",
+    "### संरचना",
+    "• **परिषद**: विचार-विमर्श और विधायी निकाय; पार्षद सीधे निर्वाचित; विशेषज्ञ नामित भी हो सकते हैं।",
+    "• नेतृत्व: **महापौर** (सहायक: उपमहापौर); कार्यकाल सामान्यतः 1 वर्ष (पुनर्नवीनीकरण योग्य)।",
+    "• **स्थायी समितियाँ**: शिक्षा, स्वास्थ्य, वित्त, लोक निर्माण, कराधान आदि देखती हैं।",
+    "• **आयुक्त**: कार्यकारी प्राधिकारी, प्रायः आईएएस अधिकारी; राज्य सरकार द्वारा नियुक्त; परिषद के निर्णय लागू करता है।",
+    "• नगर निगमों के पास अन्य निकायों की तुलना में अधिक शक्तियाँ और वित्तीय स्वायत्तता होती है।",
+    "## प्रत्यक्ष निर्वाचित महापौर",
+    "• शहर का 'प्रथम नागरिक'।",
+    "• चुनाव और कार्यकाल शहर-शहर अलग।",
+    "### निर्वाचित महापौर की आवश्यकता",
+    "• कमजोर और अल्पकालीन महापौर सुधारों में बाधा।",
+    "• शहरीकरण के कारण सशक्त नेतृत्व की आवश्यकता।",
+    "• पार्षदों और नौकरशाही में टकराव।",
+    "### फायदे",
+    "• स्थिरता और सशक्तिकरण: महापौर सीधे जनता को जवाबदेह।",
+    "• पूरे शहर का प्रतिनिधित्व करता है, केवल वार्ड का नहीं।",
+    "• निश्चित कार्यकाल नीतिगत निरंतरता देता है।",
+    "• 74वें संशोधन की विकेंद्रीकरण भावना के अनुरूप।",
+    "• जटिल शहरी मुद्दों से निपटने में सक्षम।",
+    "### चुनौतियाँ",
+    "• सत्तावादी रुख का खतरा।",
+    "• महंगे चुनाव।",
+    "• महापौर और पार्षदों में शक्ति संघर्ष।",
+    "• आयुक्त और महापौर के बीच शक्तियों का ओवरलैप।",
+    "• निश्चित कार्यकाल जवाबदेही को कम कर सकता है।",
+    "## द्वितीय प्रशासनिक सुधार आयोग की सिफारिशें",
+    "• महापौर को जवाबदेही के लिए सीधे चुना जाए।",
+    "• महापौर को मुख्य कार्यकारी बनाया जाए।",
+    "• परिषद केवल बजट, नीति और निगरानी पर केंद्रित हो।",
+    "• महापौर को कार्यकारी कार्यों के लिए मंत्रिमंडल नियुक्त करने का अधिकार हो।",
+    "## आगे का रास्ता",
+    "• महापौर कार्यकारी प्रमुख होना चाहिए ताकि आयुक्त के साथ टकराव न हो।",
+    "• प्रत्यक्ष निर्वाचित महापौर राजनीतिक विकल्प होना चाहिए, संवैधानिक बाध्यता नहीं।",
+    "• शासन मॉडल स्थानीय आवश्यकताओं और क्षमताओं के अनुरूप होना चाहिए।"
+  ],
+  "tables": [
+    {
+      "title": "Municipal Corporation: Structure & Leadership",
+      "titleHindi": "नगर निगम: संरचना और नेतृत्व",
+      "columns": ["Component", "Role"],
+      "columnsHindi": ["घटक", "भूमिका"],
+      "rows": [
+        ["Council", "Legislative wing; elected councillors; headed by Mayor"],
+        ["Standing Committees", "Oversee sectors like health, finance, education, public works"],
+        ["Commissioner", "Executive head; implements decisions; appointed by State Govt"],
+        ["Mayor", "Political head; usually 1-year term; leadership role"]
+      ],
+      "rowsHindi": [
+        ["परिषद", "विधायी निकाय; निर्वाचित पार्षद; महापौर के नेतृत्व में"],
+        ["स्थायी समितियाँ", "स्वास्थ्य, वित्त, शिक्षा, लोक निर्माण आदि क्षेत्रों का संचालन"],
+        ["आयुक्त", "कार्यकारी प्रमुख; निर्णय लागू करता है; राज्य सरकार द्वारा नियुक्त"],
+        ["महापौर", "राजनीतिक प्रमुख; सामान्यतः 1 वर्ष का कार्यकाल; नेतृत्व भूमिका"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "First municipal corporations: Bombay, Madras, Calcutta (pre-independence).",
+    "Mayor is ceremonial head; Commissioner is executive authority.",
+    "Standing Committees handle specialised subjects.",
+    "Directly elected Mayors – debated for accountability and decentralisation.",
+    "2nd ARC recommended direct election of empowered Mayors."
+  ],
+  "prelimsTipsHindi": [
+    "प्रथम नगर निगम: बॉम्बे, मद्रास, कलकत्ता (स्वतंत्रता से पहले)।",
+    "महापौर – औपचारिक प्रमुख; आयुक्त – कार्यकारी प्रमुख।",
+    "स्थायी समितियाँ विशिष्ट विषयों को संभालती हैं।",
+    "प्रत्यक्ष निर्वाचित महापौर – जवाबदेही और विकेंद्रीकरण हेतु बहस।",
+    "द्वितीय प्रशासनिक सुधार आयोग – सशक्त महापौर के प्रत्यक्ष चुनाव की सिफारिश।"
+  ],
+  "mainsPoints": [
+    "Municipal Corporations are crucial for governing large cities with wider powers and autonomy.",
+    "The Mayor is often a ceremonial head, while the Commissioner holds executive powers.",
+    "Debate continues on directly elected Mayors to strengthen accountability and leadership.",
+    "2nd ARC proposed Mayors with executive powers to avoid conflicts with Commissioners.",
+    "Elected Mayors can improve stability, but risk power clashes and higher election costs."
+  ],
+  "mainsPointsHindi": [
+    "नगर निगम बड़े शहरों के शासन के लिए महत्वपूर्ण हैं, इनके पास अधिक शक्तियाँ और स्वायत्तता होती है।",
+    "महापौर अक्सर औपचारिक प्रमुख होता है जबकि कार्यकारी शक्तियाँ आयुक्त के पास होती हैं।",
+    "जवाबदेही और नेतृत्व को मजबूत करने के लिए प्रत्यक्ष निर्वाचित महापौर पर बहस जारी है।",
+    "द्वितीय प्रशासनिक सुधार आयोग ने आयुक्त के साथ टकराव से बचने हेतु कार्यकारी शक्तियों वाला महापौर सुझाया।",
+    "निर्वाचित महापौर स्थिरता ला सकता है, लेकिन शक्ति संघर्ष और चुनाव लागत बढ़ा सकता है।"
+  ]
+},
+{
+  "heading": "Types of Urban Governments: Municipality, Notified Area Committee, Town Area Committee & Cantonment Boards",
+  "headingHindi": "शहरी सरकारों के प्रकार: नगरपालिका, अधिसूचित क्षेत्र समिति, नगर क्षेत्र समिति और छावनी परिषद",
+  "highlight": "Urban local governments include Municipalities, Notified Area Committees, Town Area Committees, and Cantonment Boards. While municipalities are elected statutory bodies, others like notified committees and cantonment boards are partly or fully nominated. Cantonment Boards function under the Defence Ministry, whereas municipalities fall under state legislation.",
+  "highlightHindi": "शहरी स्थानीय सरकारों में नगरपालिकाएँ, अधिसूचित क्षेत्र समितियाँ, नगर क्षेत्र समितियाँ और छावनी परिषद शामिल हैं। नगरपालिकाएँ निर्वाचित सांविधिक निकाय होती हैं, जबकि अन्य जैसे अधिसूचित समितियाँ और छावनी परिषद आंशिक या पूर्णतः नामित होती हैं। छावनी परिषद रक्षा मंत्रालय के अधीन कार्य करती हैं, जबकि नगरपालिकाएँ राज्य विधान के अंतर्गत आती हैं।",
+  "details": [
+    "## Municipality",
+    "• Statutory body for urban governance.",
+    "### Composition",
+    "• **Council**: deliberative and legislative wing; councillors directly elected.",
+    "• **President/Chairman**: elected by council; executive head; assisted by Vice-President.",
+    "• **Standing Committees**: handle sectors like education, health, public works.",
+    "• **Chief Executive Officer**: day-to-day administration; appointed by state government.",
+    "## Notified Area Committee",
+    "• Established by state government gazette notification.",
+    "• For fast-developing towns (industrialisation) or areas important but not ready for municipality.",
+    "• Entirely nominated body (including Chairman).",
+    "• Powers similar to municipality; functions under state municipal act.",
+    "## Town Area Committee",
+    "• Created by state legislature.",
+    "• Semi-municipal authority for small towns.",
+    "• May be elected, nominated, or mixed composition.",
+    "## Cantonment Board",
+    "• Manages civilian areas in cantonments.",
+    "• Set up by Central Government; functions under Defence Ministry.",
+    "• Composition: partly elected, partly nominated.",
+    "  – Station Commander (Military Officer) = ex-officio President.",
+    "  – Vice-President elected for 5 years.",
+    "  – President appoints Executive Officer.",
+    "### Types",
+    "• 64 Cantonments (2022); 4 categories based on civil population.",
+    "  – Category I: >50,000",
+    "  – Category II: 10,000–50,000",
+    "  – Category III: 2,500–10,000",
+    "  – Category IV: <2,500",
+    "### Example Composition (Category I)",
+    "• Station Commander (President), Executive Engineer, Health Officer, 1st-class Magistrate, 3 nominated Military Officers, 8 elected civilian members, Chief Executive Officer.",
+    "• Functions: similar to municipalities – obligatory & discretionary duties.",
+    "## Important Fact",
+    "• At Union level, urban local government matters are handled by:",
+    "  – Ministry of Housing & Urban Affairs",
+    "  – Ministry of Defence (Cantonment Boards)",
+    "  – Ministry of Home Affairs (UTs)."
+  ],
+  "detailsHindi": [
+    "## नगरपालिका",
+    "• शहरी प्रशासन का सांविधिक निकाय।",
+    "### संरचना",
+    "• **परिषद**: विचार-विमर्श और विधायी निकाय; पार्षद सीधे निर्वाचित।",
+    "• **अध्यक्ष/चेयरमैन**: परिषद द्वारा चुना जाता है; कार्यकारी प्रमुख; उपाध्यक्ष द्वारा सहायता।",
+    "• **स्थायी समितियाँ**: शिक्षा, स्वास्थ्य, लोक निर्माण आदि देखती हैं।",
+    "• **मुख्य कार्यकारी अधिकारी**: दैनिक प्रशासन; राज्य सरकार द्वारा नियुक्त।",
+    "## अधिसूचित क्षेत्र समिति",
+    "• राज्य सरकार के राजपत्र अधिसूचना द्वारा स्थापित।",
+    "• तीव्र गति से विकसित हो रहे नगर (औद्योगीकरण) या महत्वपूर्ण क्षेत्र जो नगरपालिका के लिए तैयार नहीं।",
+    "• पूरी तरह से नामित निकाय (अध्यक्ष सहित)।",
+    "• शक्तियाँ नगरपालिका जैसी; राज्य नगरपालिका अधिनियम के अंतर्गत।",
+    "## नगर क्षेत्र समिति",
+    "• राज्य विधानमंडल द्वारा स्थापित।",
+    "• छोटे नगरों के लिए अर्ध-नगरपालिका प्राधिकरण।",
+    "• निर्वाचित या नामित या मिश्रित संरचना।",
+    "## छावनी परिषद",
+    "• छावनी क्षेत्रों में नागरिक आबादी का प्रशासन।",
+    "• केंद्र सरकार द्वारा स्थापित; रक्षा मंत्रालय के अधीन कार्य करती है।",
+    "• संरचना: आंशिक रूप से निर्वाचित, आंशिक रूप से नामित।",
+    "  – स्टेशन कमांडर (सैन्य अधिकारी) = पदेन अध्यक्ष।",
+    "  – उपाध्यक्ष 5 वर्षों के लिए निर्वाचित।",
+    "  – अध्यक्ष कार्यकारी अधिकारी नियुक्त करता है।",
+    "### प्रकार",
+    "• 2022 तक 64 छावनियाँ; 4 श्रेणियाँ नागरिक आबादी के आधार पर।",
+    "  – श्रेणी I: >50,000",
+    "  – श्रेणी II: 10,000–50,000",
+    "  – श्रेणी III: 2,500–10,000",
+    "  – श्रेणी IV: <2,500",
+    "### उदाहरण संरचना (श्रेणी I)",
+    "• स्टेशन कमांडर (अध्यक्ष), कार्यकारी अभियंता, स्वास्थ्य अधिकारी, प्रथम श्रेणी मजिस्ट्रेट, 3 नामित सैन्य अधिकारी, 8 निर्वाचित नागरिक सदस्य, मुख्य कार्यकारी अधिकारी।",
+    "• कार्य: नगरपालिका जैसे – अनिवार्य और विवेकाधीन कर्तव्य।",
+    "## महत्वपूर्ण तथ्य",
+    "• संघ स्तर पर शहरी स्थानीय निकायों से जुड़े मामले तीन मंत्रालय देखते हैं:",
+    "  – आवास एवं शहरी कार्य मंत्रालय",
+    "  – रक्षा मंत्रालय (छावनी परिषदें)",
+    "  – गृह मंत्रालय (केंद्र शासित प्रदेश)।"
+  ],
+  "tables": [
+    {
+      "title": "Types of Urban Local Governments",
+      "titleHindi": "शहरी स्थानीय सरकारों के प्रकार",
+      "columns": ["Type", "Established by", "Composition", "Key Features"],
+      "columnsHindi": ["प्रकार", "किसके द्वारा स्थापित", "संरचना", "मुख्य विशेषताएँ"],
+      "rows": [
+        ["Municipality", "State Legislature", "Council (directly elected), Chairman, CEO", "Statutory body; executive powers with Chairman & CEO"],
+        ["Notified Area Committee", "State Govt Gazette", "Fully nominated", "For fast-developing towns; powers like municipality"],
+        ["Town Area Committee", "State Legislature", "Elected or nominated", "Semi-municipal authority for small towns"],
+        ["Cantonment Board", "Central Govt", "Partly elected + nominated; President = Station Commander", "Under Defence Ministry; 64 boards; 4 categories by population"]
+      ],
+      "rowsHindi": [
+        ["नगरपालिका", "राज्य विधानमंडल", "परिषद (प्रत्यक्ष निर्वाचित), अध्यक्ष, मुख्य कार्यकारी अधिकारी", "सांविधिक निकाय; कार्यकारी शक्तियाँ अध्यक्ष व सीईओ के पास"],
+        ["अधिसूचित क्षेत्र समिति", "राज्य सरकार का राजपत्र", "पूर्णतः नामित", "तेजी से विकसित नगरों के लिए; शक्तियाँ नगरपालिका जैसी"],
+        ["नगर क्षेत्र समिति", "राज्य विधानमंडल", "निर्वाचित या नामित", "छोटे नगरों के लिए अर्ध-नगरपालिका निकाय"],
+        ["छावनी परिषद", "केंद्र सरकार", "आंशिक रूप से निर्वाचित + नामित; अध्यक्ष = स्टेशन कमांडर", "रक्षा मंत्रालय के अधीन; 64 परिषदें; 4 श्रेणियाँ जनसंख्या अनुसार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Municipalities are statutory bodies under state laws.",
+    "Notified Area Committees – fully nominated, for industrialising towns.",
+    "Town Area Committees – semi-municipal, smaller towns.",
+    "Cantonment Boards – under Defence Ministry, partly elected; 64 boards in India.",
+    "Category I cantonment = population above 50,000."
+  ],
+  "prelimsTipsHindi": [
+    "नगरपालिकाएँ – राज्य कानूनों के तहत सांविधिक निकाय।",
+    "अधिसूचित क्षेत्र समिति – पूर्णतः नामित, औद्योगिक नगरों के लिए।",
+    "नगर क्षेत्र समिति – अर्ध-नगरपालिका, छोटे नगरों के लिए।",
+    "छावनी परिषद – रक्षा मंत्रालय के अधीन, आंशिक रूप से निर्वाचित; भारत में 64।",
+    "श्रेणी I छावनी = जनसंख्या 50,000 से अधिक।"
+  ],
+  "mainsPoints": [
+    "Municipalities ensure grassroots urban governance through elected councils and CEOs.",
+    "Notified Area Committees help manage towns in transition due to industrialisation.",
+    "Town Area Committees handle small-town affairs with limited powers.",
+    "Cantonment Boards provide civilian administration in defence areas, highlighting civil-military coordination.",
+    "Different urban bodies show India’s flexibility in local governance for varied urban contexts."
+  ],
+  "mainsPointsHindi": [
+    "नगरपालिकाएँ निर्वाचित परिषद और सीईओ के माध्यम से शहरी शासन सुनिश्चित करती हैं।",
+    "अधिसूचित क्षेत्र समितियाँ औद्योगिकीकरण के कारण संक्रमण में नगरों को संभालती हैं।",
+    "नगर क्षेत्र समितियाँ छोटे नगरों के मामलों को सीमित शक्तियों के साथ संभालती हैं।",
+    "छावनी परिषद रक्षा क्षेत्रों में नागरिक प्रशासन प्रदान करती हैं, नागरिक-सैन्य समन्वय को रेखांकित करती हैं।",
+    "विभिन्न शहरी निकाय भारत की विविध शहरी परिस्थितियों के लिए लचीले स्थानीय शासन को दर्शाते हैं।"
+  ]
+},
+{
+  "heading": "Other Types of Urban Local Governments: Township, Port Trusts & Special Purpose Agencies",
+  "headingHindi": "अन्य शहरी स्थानीय सरकारें: टाउनशिप, पोर्ट ट्रस्ट और विशेष प्रयोजन एजेंसियाँ",
+  "highlight": "Beyond municipalities and corporations, India also has non-traditional urban local bodies such as Townships, Port Trusts, and Special Purpose Agencies. These institutions provide civic amenities and manage specific urban functions, often outside the purview of elected municipal bodies.",
+  "highlightHindi": "नगरपालिकाओं और निगमों के अलावा, भारत में टाउनशिप, पोर्ट ट्रस्ट और विशेष प्रयोजन एजेंसियों जैसी गैर-पारंपरिक शहरी स्थानीय संस्थाएँ भी हैं। ये संस्थाएँ नागरिक सुविधाएँ प्रदान करती हैं और विशेष शहरी कार्यों का प्रबंधन करती हैं, अक्सर निर्वाचित नगर निकायों के दायरे से बाहर।",
+  "details": [
+    "## Township",
+    "• Set up by public enterprises to provide amenities for staff and employees.",
+    "• Entirely non-elected body; members appointed by enterprise.",
+    "• Functions as a civic provider for industrial or corporate townships.",
+    "## Port Trust",
+    "• Established in port areas like Mumbai, Chennai, Kolkata etc.",
+    "• Created by an Act of Parliament.",
+    "• Composition: elected + nominated members.",
+    "• Functions: management and protection of ports; provision of civic amenities for people in port vicinity.",
+    "## Special Purpose Agencies",
+    "• Function-based, not area-based bodies.",
+    "• Created by state legislatures via statutory acts.",
+    "• Autonomous in nature.",
+    "• Examples: Housing Boards, Pollution Control Boards, Urban Development Authorities.",
+    "• Functions: focus on specialised areas such as housing, pollution control, industrial area development, etc."
+  ],
+  "detailsHindi": [
+    "## टाउनशिप",
+    "• सार्वजनिक उपक्रमों द्वारा अपने कर्मचारियों और स्टाफ को सुविधाएँ देने हेतु स्थापित।",
+    "• पूरी तरह से गैर-निर्वाचित निकाय; सदस्य उपक्रम द्वारा नियुक्त।",
+    "• औद्योगिक या कॉर्पोरेट टाउनशिप में नागरिक सेवाएँ प्रदान करता है।",
+    "## पोर्ट ट्रस्ट",
+    "• मुंबई, चेन्नई, कोलकाता आदि बंदरगाह क्षेत्रों में स्थापित।",
+    "• संसद के अधिनियम द्वारा निर्मित।",
+    "• संरचना: निर्वाचित और नामित सदस्य।",
+    "• कार्य: बंदरगाहों का प्रबंधन और संरक्षण; बंदरगाह क्षेत्र के लोगों को नागरिक सुविधाएँ प्रदान करना।",
+    "## विशेष प्रयोजन एजेंसियाँ",
+    "• कार्य-आधारित निकाय, क्षेत्र-आधारित नहीं।",
+    "• राज्य विधानमंडल द्वारा सांविधिक अधिनियमों से स्थापित।",
+    "• स्वायत्त प्रकृति।",
+    "• उदाहरण: हाउसिंग बोर्ड, प्रदूषण नियंत्रण बोर्ड, शहरी विकास प्राधिकरण।",
+    "• कार्य: आवास, प्रदूषण नियंत्रण, औद्योगिक क्षेत्र विकास जैसे विशिष्ट क्षेत्रों पर ध्यान केंद्रित।"
+  ],
+  "tables": [
+    {
+      "title": "Other Urban Local Bodies",
+      "titleHindi": "अन्य शहरी स्थानीय निकाय",
+      "columns": ["Type", "Established by", "Composition", "Functions"],
+      "columnsHindi": ["प्रकार", "किसके द्वारा स्थापित", "संरचना", "कार्य"],
+      "rows": [
+        ["Township", "Public Enterprises", "Fully nominated; enterprise-appointed members", "Provide amenities for staff; civic administration of township"],
+        ["Port Trust", "Act of Parliament", "Elected + nominated members", "Manage and protect ports; civic amenities near ports"],
+        ["Special Purpose Agencies", "Acts of State Legislature", "Autonomous statutory bodies", "Function-specific tasks (e.g., housing, pollution control, urban development)"]
+      ],
+      "rowsHindi": [
+        ["टाउनशिप", "सार्वजनिक उपक्रम", "पूरी तरह नामित; उपक्रम द्वारा नियुक्त सदस्य", "कर्मचारियों के लिए सुविधाएँ; टाउनशिप का प्रशासन"],
+        ["पोर्ट ट्रस्ट", "संसद का अधिनियम", "निर्वाचित + नामित सदस्य", "बंदरगाह प्रबंधन और संरक्षण; बंदरगाह क्षेत्र में नागरिक सुविधाएँ"],
+        ["विशेष प्रयोजन एजेंसियाँ", "राज्य विधानमंडल के अधिनियम", "स्वायत्त सांविधिक निकाय", "विशिष्ट कार्य (जैसे आवास, प्रदूषण नियंत्रण, शहरी विकास)"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Townships are non-elected, created by public enterprises.",
+    "Port Trusts – set up by Parliament; mix of elected and nominated members.",
+    "Special Purpose Agencies – statutory, function-based bodies (e.g., Housing Boards, Pollution Control Boards)."
+  ],
+  "prelimsTipsHindi": [
+    "टाउनशिप – गैर-निर्वाचित, सार्वजनिक उपक्रमों द्वारा बनाई गई।",
+    "पोर्ट ट्रस्ट – संसद द्वारा स्थापित; निर्वाचित और नामित सदस्य।",
+    "विशेष प्रयोजन एजेंसियाँ – सांविधिक, कार्य-आधारित निकाय (जैसे हाउसिंग बोर्ड, प्रदूषण नियंत्रण बोर्ड)।"
+  ],
+  "mainsPoints": [
+    "Townships highlight role of public enterprises in civic governance for workers.",
+    "Port Trusts combine economic management of ports with local civic responsibilities.",
+    "Special Purpose Agencies show function-based governance, filling gaps in municipal capacity.",
+    "These non-traditional bodies complement municipalities and corporations in urban governance."
+  ],
+  "mainsPointsHindi": [
+    "टाउनशिप कर्मचारियों के लिए नागरिक शासन में सार्वजनिक उपक्रमों की भूमिका दर्शाती है।",
+    "पोर्ट ट्रस्ट बंदरगाहों के आर्थिक प्रबंधन और स्थानीय नागरिक जिम्मेदारियों को जोड़ते हैं।",
+    "विशेष प्रयोजन एजेंसियाँ कार्य-आधारित शासन दर्शाती हैं और नगरपालिका की क्षमता की कमी को पूरा करती हैं।",
+    "ये गैर-पारंपरिक निकाय शहरी शासन में नगरपालिकाओं और निगमों को पूरक बनाते हैं।"
+  ]
+},
+{
+  "heading": "Municipal Personnel and Revenue",
+  "headingHindi": "नगरपालिका कार्मिक और राजस्व",
+  "highlight": "Urban local bodies manage their administration through personnel systems (separate, unified, or integrated) and generate revenue mainly from taxes, non-tax sources, grants, devolution, and loans.",
+  "highlightHindi": "शहरी स्थानीय निकाय अपने प्रशासन का प्रबंधन कार्मिक प्रणालियों (अलग, एकीकृत या राज्य-नियंत्रित) के माध्यम से करते हैं और मुख्य रूप से कर, गैर-कर स्रोतों, अनुदान, वित्त आयोग की सिफारिशों और ऋणों से राजस्व प्राप्त करते हैं।",
+  "details": [
+    "## Municipal Personnel",
+    "• Separate System: Local bodies have their own personnel, non-transferable.",
+    "• Unified System: State government controls urban personnel, transferable across bodies.",
+    "• Integrated System: Municipal staff are part of state service, transferable within state cadre.",
+    "## Municipal Revenue – Five Broad Sources",
+    "### 1. Tax Revenue (Article 243X)",
+    "• Property Tax (most important source).",
+    "• Entertainment Tax.",
+    "• Taxes on Advertisements.",
+    "• Professional Tax.",
+    "• Water Tax.",
+    "• Tax on Animals.",
+    "• Lighting Tax.",
+    "• Pilgrim Tax.",
+    "• Market Tax.",
+    "• Toll on Bridges.",
+    "### 2. Non-Tax Revenue",
+    "• Rent on municipal properties.",
+    "• Fees and fines.",
+    "• Royalty, profits, and dividends.",
+    "• Interest income.",
+    "• User charges (e.g., water, sanitation, sewerage).",
+    "### 3. Grants",
+    "• Development scheme funds from Centre and State.",
+    "• Transfers from Consolidated Fund of the State (Article 243X(c)).",
+    "### 4. Devolution",
+    "• Based on recommendations of State Finance Commissions (Article 243Y).",
+    "### 5. Loans",
+    "• Borrowings from state governments or financial institutions."
+  ],
+  "detailsHindi": [
+    "## नगरपालिका कार्मिक",
+    "• अलग प्रणाली: स्थानीय निकायों के अपने कर्मचारी, स्थानांतरण योग्य नहीं।",
+    "• एकीकृत प्रणाली: राज्य सरकार शहरी कर्मचारियों को नियंत्रित करती है, स्थानांतरण योग्य।",
+    "• मिश्रित प्रणाली: नगरपालिका कर्मचारी राज्य सेवा का हिस्सा होते हैं, राज्य कैडर में स्थानांतरित किए जा सकते हैं।",
+    "## नगरपालिका राजस्व – पाँच प्रमुख स्रोत",
+    "### 1. कर राजस्व (अनुच्छेद 243X)",
+    "• संपत्ति कर (सबसे महत्वपूर्ण स्रोत)।",
+    "• मनोरंजन कर।",
+    "• विज्ञापनों पर कर।",
+    "• व्यवसाय कर।",
+    "• जल कर।",
+    "• पशु कर।",
+    "• प्रकाश कर।",
+    "• यात्री कर।",
+    "• बाज़ार कर।",
+    "• पुलों पर टोल।",
+    "### 2. गैर-कर राजस्व",
+    "• नगरपालिका संपत्तियों का किराया।",
+    "• शुल्क और जुर्माने।",
+    "• रॉयल्टी, लाभांश और मुनाफ़ा।",
+    "• ब्याज आय।",
+    "• उपयोगकर्ता शुल्क (जैसे पानी, स्वच्छता, सीवरेज)।",
+    "### 3. अनुदान",
+    "• केंद्र और राज्य से विकास योजनाओं के लिए धन।",
+    "• राज्य की संचित निधि से हस्तांतरण (अनुच्छेद 243X (c)).",
+    "### 4. वित्तीय विकेंद्रीकरण",
+    "• राज्य वित्त आयोग की सिफारिशों के आधार पर (अनुच्छेद 243Y)।",
+    "### 5. ऋण",
+    "• राज्य सरकारों या वित्तीय संस्थाओं से उधार।"
+  ],
+  "tables": [
+    {
+      "title": "Municipal Personnel Systems",
+      "titleHindi": "नगरपालिका कार्मिक प्रणालियाँ",
+      "columns": ["System", "Description"],
+      "columnsHindi": ["प्रणाली", "विवरण"],
+      "rows": [
+        ["Separate", "Local body manages own personnel; non-transferable."],
+        ["Unified", "State government manages personnel; transferable."],
+        ["Integrated", "Municipal staff part of state service; transferable within state."]
+      ],
+      "rowsHindi": [
+        ["अलग", "स्थानीय निकाय अपने कर्मचारियों का प्रबंधन करता है; स्थानांतरण योग्य नहीं।"],
+        ["एकीकृत", "राज्य सरकार कर्मचारी प्रबंधित करती है; स्थानांतरण योग्य।"],
+        ["मिश्रित", "नगरपालिका कर्मचारी राज्य सेवा का हिस्सा; राज्य के भीतर स्थानांतरण योग्य।"]
+      ]
+    },
+    {
+      "title": "Sources of Municipal Revenue",
+      "titleHindi": "नगरपालिका राजस्व के स्रोत",
+      "columns": ["Source", "Examples"],
+      "columnsHindi": ["स्रोत", "उदाहरण"],
+      "rows": [
+        ["Tax Revenue", "Property tax, entertainment tax, professional tax, tolls."],
+        ["Non-Tax Revenue", "Rent, fees, fines, royalties, user charges."],
+        ["Grants", "Funds from Centre and State, Consolidated Fund transfers."],
+        ["Devolution", "As per State Finance Commission recommendations."],
+        ["Loans", "Borrowings from states or financial institutions."]
+      ],
+      "rowsHindi": [
+        ["कर राजस्व", "संपत्ति कर, मनोरंजन कर, व्यवसाय कर, टोल।"],
+        ["गैर-कर राजस्व", "किराया, शुल्क, जुर्माना, रॉयल्टी, उपयोगकर्ता शुल्क।"],
+        ["अनुदान", "केंद्र और राज्य से धन, संचित निधि से हस्तांतरण।"],
+        ["वित्तीय विकेंद्रीकरण", "राज्य वित्त आयोग की सिफारिशों पर।"],
+        ["ऋण", "राज्य या वित्तीय संस्थाओं से उधार।"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Property tax is the most important source of municipal revenue.",
+    "Article 243X – State legislatures may authorize municipalities to levy taxes.",
+    "Article 243Y – State Finance Commission reviews finances every 5 years.",
+    "Municipal personnel systems: Separate, Unified, Integrated."
+  ],
+  "prelimsTipsHindi": [
+    "संपत्ति कर नगरपालिका राजस्व का सबसे महत्वपूर्ण स्रोत है।",
+    "अनुच्छेद 243X – राज्य विधानमंडल नगरपालिकाओं को कर लगाने का अधिकार दे सकता है।",
+    "अनुच्छेद 243Y – राज्य वित्त आयोग हर 5 साल में समीक्षा करता है।",
+    "नगरपालिका कार्मिक प्रणालियाँ: अलग, एकीकृत, मिश्रित।"
+  ],
+  "mainsPoints": [
+    "Municipal personnel systems affect efficiency and accountability of local governance.",
+    "Revenue sources are diversified but property tax remains the backbone.",
+    "Dependence on state and central grants reduces financial autonomy.",
+    "Strengthening State Finance Commissions is key for effective devolution.",
+    "Loans and user charges are potential but underutilized revenue sources."
+  ],
+  "mainsPointsHindi": [
+    "नगरपालिका कार्मिक प्रणालियाँ स्थानीय शासन की दक्षता और जवाबदेही को प्रभावित करती हैं।",
+    "राजस्व स्रोत विविध हैं लेकिन संपत्ति कर मुख्य आधार है।",
+    "राज्य और केंद्र के अनुदानों पर निर्भरता वित्तीय स्वायत्तता को कम करती है।",
+    "प्रभावी वित्तीय विकेंद्रीकरण के लिए राज्य वित्त आयोगों को सशक्त करना आवश्यक है।",
+    "ऋण और उपयोगकर्ता शुल्क संभावित लेकिन कम उपयोग किए गए स्रोत हैं।"
+  ]
+},
+{
+  "heading": "Central Council of Local Government",
+  "headingHindi": "केंद्रीय स्थानीय सरकार परिषद",
+  "highlight": "The Central Council of Local Government, established under Article 263 in 1954, functions as an advisory body focusing on urban local governance. It facilitates cooperation between Centre and States and recommends policies, legislation, and financial assistance.",
+  "highlightHindi": "केंद्रीय स्थानीय सरकार परिषद, अनुच्छेद 263 के तहत 1954 में स्थापित की गई थी। यह एक परामर्शी निकाय है जो शहरी स्थानीय शासन पर केंद्रित है। यह केंद्र और राज्यों के बीच सहयोग को बढ़ावा देती है तथा नीतियों, कानून और वित्तीय सहायता की सिफारिश करती है।",
+  "details": [
+    "## Establishment",
+    "• Constituted under Article 263 by President’s order in 1954.",
+    "• Since 1958, it deals only with urban local governments.",
+    "## Composition",
+    "• Union Minister for Urban Development (Chairman).",
+    "• State Ministers for Local Self-Government.",
+    "• Advisory body without binding powers.",
+    "## Functions",
+    "• Consider and recommend policy matters.",
+    "• Propose legislation related to local governments.",
+    "• Examine cooperation possibilities between Centre and States.",
+    "• Draw up common programmes of action.",
+    "• Recommend Central financial assistance.",
+    "• Review work of local bodies funded by the Centre."
+  ],
+  "detailsHindi": [
+    "## स्थापना",
+    "• अनुच्छेद 263 के तहत राष्ट्रपति के आदेश द्वारा 1954 में स्थापित।",
+    "• 1958 से केवल शहरी स्थानीय सरकारों से संबंधित।",
+    "## संरचना",
+    "• शहरी विकास मंत्री (अध्यक्ष)।",
+    "• राज्यों के स्थानीय स्वशासन मंत्री।",
+    "• केवल परामर्शी निकाय, बाध्यकारी शक्तियाँ नहीं।",
+    "## कार्य",
+    "• नीति मामलों पर विचार और सिफारिशें।",
+    "• स्थानीय सरकारों से संबंधित कानूनों के प्रस्ताव।",
+    "• केंद्र और राज्यों के बीच सहयोग की संभावनाओं की जांच।",
+    "• साझा कार्य कार्यक्रम तैयार करना।",
+    "• केंद्रीय वित्तीय सहायता की सिफारिश।",
+    "• केंद्र द्वारा वित्तपोषित स्थानीय निकायों के कार्यों की समीक्षा।"
+  ],
+  "tables": [
+    {
+      "title": "Central Council of Local Government – At a Glance",
+      "titleHindi": "केंद्रीय स्थानीय सरकार परिषद – संक्षेप में",
+      "columns": ["Aspect", "Details"],
+      "columnsHindi": ["पहलू", "विवरण"],
+      "rows": [
+        ["Constitutional Basis", "Article 263"],
+        ["Year of Establishment", "1954 (by President’s order)"],
+        ["Chairman", "Union Minister for Urban Development"],
+        ["Members", "State Ministers for Local Self-Government"],
+        ["Nature", "Advisory body"],
+        ["Focus", "Urban local governments (since 1958)"]
+      ],
+      "rowsHindi": [
+        ["संवैधानिक आधार", "अनुच्छेद 263"],
+        ["स्थापना वर्ष", "1954 (राष्ट्रपति के आदेश से)"],
+        ["अध्यक्ष", "शहरी विकास मंत्री"],
+        ["सदस्य", "राज्यों के स्थानीय स्वशासन मंत्री"],
+        ["स्वरूप", "परामर्शी निकाय"],
+        ["केन्द्रबिंदु", "शहरी स्थानीय सरकारें (1958 से)"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Established under Article 263 in 1954.",
+    "Advisory body headed by Union Minister for Urban Development.",
+    "Since 1958, focuses only on urban local governments.",
+    "Key role: recommends policies, legislation, and financial assistance."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 263 के तहत 1954 में स्थापित।",
+    "शहरी विकास मंत्री की अध्यक्षता।",
+    "1958 से केवल शहरी स्थानीय सरकारों पर केंद्रित।",
+    "मुख्य भूमिका: नीतियों, कानूनों और वित्तीय सहायता की सिफारिश।"
+  ],
+  "mainsPoints": [
+    "Central Council serves as a bridge between Centre and States for urban local governance.",
+    "Acts as an advisory forum rather than an executive authority.",
+    "Plays key role in recommending financial support to local bodies.",
+    "Helps in reviewing effectiveness of centrally funded local projects.",
+    "Though advisory, it influences policy evolution in urban governance."
+  ],
+  "mainsPointsHindi": [
+    "केंद्रीय परिषद शहरी स्थानीय शासन में केंद्र और राज्यों के बीच सेतु का कार्य करती है।",
+    "यह कार्यकारी प्राधिकरण न होकर परामर्शी मंच है।",
+    "स्थानीय निकायों को वित्तीय सहायता की सिफारिश में महत्वपूर्ण भूमिका।",
+    "केंद्र से वित्तपोषित स्थानीय परियोजनाओं की प्रभावशीलता की समीक्षा करती है।",
+    "यद्यपि परामर्शी है, लेकिन शहरी शासन में नीतिगत विकास को प्रभावित करती है।"
+  ]
+},
+{
+  "heading": "Urban Governance: Issues, Challenges and Solutions",
+  "headingHindi": "शहरी शासन: मुद्दे, चुनौतियाँ और समाधान",
+  "highlight": "Urban governance is vital for improving quality of life, promoting inclusiveness, economic growth, and sustainable urban development. However, issues such as lack of finances, poor devolution, corruption, and weak leadership persist. Solutions lie in autonomy, institutional strengthening, PPPs, capacity building, and second-generation reforms.",
+  "highlightHindi": "शहरी शासन जीवन की गुणवत्ता सुधारने, समावेशिता बढ़ाने, आर्थिक विकास और सतत शहरी विकास के लिए महत्वपूर्ण है। लेकिन वित्तीय कमी, शक्तियों का अपर्याप्त विकेंद्रीकरण, भ्रष्टाचार और कमजोर नेतृत्व जैसी समस्याएँ बनी हुई हैं। समाधान स्वायत्तता, संस्थागत सुदृढ़ीकरण, PPPs, क्षमता निर्माण और दूसरी पीढ़ी के सुधारों में निहित हैं।",
+  "details": [
+    "## Importance of Urban Governance",
+    "• Improves quality of life through access to water, sanitation, electricity, healthcare.",
+    "• Promotes inclusiveness and equal opportunities.",
+    "• Drives economic development.",
+    "• Enables decentralised decision-making.",
+    "• Ensures environmental sustainability by reducing waste and pollution.",
+    "• Strengthens democracy through local participation.",
+    "• Supports infrastructure development.",
+    "## Issues in Urban Governance",
+    "• Acute scarcity of finance for municipalities.",
+    "• Ad hoc recommendations by State Finance Commissions.",
+    "• Devolution of power still incomplete.",
+    "• Irregular elections undermine decentralisation.",
+    "• Poor governance and lack of management capacity.",
+    "• Rampant corruption.",
+    "• Urban planning dominated by state governments, marginalising municipalities.",
+    "• Politicisation of ULBs.",
+    "• Low levels of people’s participation.",
+    "## Challenges",
+    "• Heavy dependency on state/central transfers.",
+    "• Weak encouragement from state governments.",
+    "• Ineffective leadership at local level.",
+    "• Lack of proper monitoring and accountability mechanisms.",
+    "• Absence of comprehensive urban development policy.",
+    "## Solutions and Way Forward",
+    "• Grant more autonomy to ULBs.",
+    "• Strengthen institutional capacity of urban local bodies.",
+    "• Performance-based fund transfers.",
+    "• Conduct regular and timely elections.",
+    "• Promote Public-Private Partnerships (PPPs).",
+    "• Invest in capacity building and leadership training.",
+    "• Implement second-generation urban reforms: better regulation, innovative financing, PPP models, and climate change initiatives."
+  ],
+  "detailsHindi": [
+    "## शहरी शासन का महत्व",
+    "• जल, स्वच्छता, बिजली, स्वास्थ्य सेवा जैसी बुनियादी सुविधाओं से जीवन की गुणवत्ता में सुधार।",
+    "• समावेशिता और समान अवसरों को बढ़ावा।",
+    "• आर्थिक विकास को प्रोत्साहन।",
+    "• विकेंद्रीकृत निर्णय लेने की सुविधा।",
+    "• संसाधनों का कुशल उपयोग और प्रदूषण कम करके पर्यावरणीय स्थिरता।",
+    "• स्थानीय भागीदारी के माध्यम से लोकतंत्र को सुदृढ़ बनाना।",
+    "• बुनियादी ढांचे का विकास।",
+    "## शहरी शासन की समस्याएँ",
+    "• नगरपालिकाओं के लिए वित्त की गंभीर कमी।",
+    "• राज्य वित्त आयोगों की अनुशंसाएँ असंगत।",
+    "• शक्तियों का पर्याप्त विकेंद्रीकरण नहीं।",
+    "• अनियमित चुनाव विकेंद्रीकरण को कमजोर करते हैं।",
+    "• खराब शासन और प्रबंधन क्षमता की कमी।",
+    "• व्यापक भ्रष्टाचार।",
+    "• शहरी नियोजन में राज्य सरकार का प्रभुत्व, नगरपालिकाओं की भूमिका सीमित।",
+    "• शहरी निकायों का राजनीतिकरण।",
+    "• जनता की कम भागीदारी।",
+    "## चुनौतियाँ",
+    "• राज्य/केंद्र से मिलने वाले अनुदानों पर भारी निर्भरता।",
+    "• राज्य सरकारों का कमजोर प्रोत्साहन।",
+    "• स्थानीय स्तर पर अप्रभावी नेतृत्व।",
+    "• निगरानी और जवाबदेही प्रणाली का अभाव।",
+    "• समग्र शहरी विकास नीति का अभाव।",
+    "## समाधान और आगे की राह",
+    "• नगर निकायों को अधिक स्वायत्तता प्रदान करना।",
+    "• शहरी स्थानीय निकायों की संस्थागत क्षमता को मजबूत करना।",
+    "• प्रदर्शन आधारित निधि हस्तांतरण।",
+    "• नियमित और समय पर चुनाव।",
+    "• पब्लिक-प्राइवेट पार्टनरशिप (PPP) को बढ़ावा।",
+    "• क्षमता निर्माण और नेतृत्व प्रशिक्षण में निवेश।",
+    "• दूसरी पीढ़ी के शहरी सुधार: बेहतर विनियमन, नवीन वित्तीय मॉडल, PPP, और जलवायु परिवर्तन पहल।"
+  ],
+  "tables": [
+    {
+      "title": "Urban Governance – Issues vs Solutions",
+      "titleHindi": "शहरी शासन – समस्याएँ बनाम समाधान",
+      "columns": ["Issues/Challenges", "Solutions"],
+      "columnsHindi": ["समस्याएँ/चुनौतियाँ", "समाधान"],
+      "rows": [
+        ["Scarcity of finance", "Performance-based transfers, innovative financing, PPPs"],
+        ["Weak devolution of power", "Grant more autonomy to ULBs"],
+        ["Irregular elections", "Ensure regular elections"],
+        ["Poor governance & corruption", "Capacity building, transparency mechanisms"],
+        ["Urban planning controlled by states", "Strengthen municipal role in planning"],
+        ["Low participation", "Promote inclusiveness and community involvement"]
+      ],
+      "rowsHindi": [
+        ["वित्त की कमी", "प्रदर्शन आधारित हस्तांतरण, नवीन वित्तपोषण, PPPs"],
+        ["शक्तियों का कमजोर विकेंद्रीकरण", "ULBs को अधिक स्वायत्तता देना"],
+        ["अनियमित चुनाव", "नियमित चुनाव सुनिश्चित करना"],
+        ["खराब शासन और भ्रष्टाचार", "क्षमता निर्माण, पारदर्शिता तंत्र"],
+        ["शहरी नियोजन में राज्य का नियंत्रण", "नगरपालिकाओं की भूमिका को मजबूत करना"],
+        ["कम भागीदारी", "समावेशिता और सामुदायिक भागीदारी को बढ़ावा देना"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "74th Amendment – added Part IXA and 12th Schedule for Urban Local Bodies.",
+    "Major issue: lack of finances and incomplete devolution of powers.",
+    "State Finance Commissions review ULB finances every 5 years.",
+    "Second-generation urban reforms include PPPs, innovative financing, climate initiatives."
+  ],
+  "prelimsTipsHindi": [
+    "74वां संशोधन – भाग IXA और 12वीं अनुसूची जोड़ी गई (शहरी निकायों के लिए)।",
+    "मुख्य समस्या: वित्त की कमी और शक्तियों का अधूरा विकेंद्रीकरण।",
+    "राज्य वित्त आयोग हर 5 साल में ULB वित्त की समीक्षा करते हैं।",
+    "दूसरी पीढ़ी के शहरी सुधारों में PPP, नवीन वित्तपोषण, जलवायु पहल शामिल।"
+  ],
+  "mainsPoints": [
+    "Urban governance is crucial for sustainable cities and inclusive growth.",
+    "Key issues: finances, weak devolution, irregular elections, poor governance, corruption.",
+    "State dominance in planning limits municipal role.",
+    "Solutions: autonomy, institutional strengthening, PPPs, transparency, second-generation reforms.",
+    "Strong urban governance will determine India’s ability to handle rapid urbanisation."
+  ],
+  "mainsPointsHindi": [
+    "शहरी शासन सतत शहरों और समावेशी विकास के लिए महत्वपूर्ण है।",
+    "मुख्य समस्याएँ: वित्त, कमजोर विकेंद्रीकरण, अनियमित चुनाव, खराब शासन, भ्रष्टाचार।",
+    "नियोजन में राज्य का प्रभुत्व नगरपालिकाओं की भूमिका को सीमित करता है।",
+    "समाधान: स्वायत्तता, संस्थागत सुदृढ़ीकरण, PPP, पारदर्शिता, दूसरी पीढ़ी के सुधार।",
+    "मजबूत शहरी शासन भारत की तीव्र शहरीकरण को संभालने की क्षमता निर्धारित करेगा।"
+  ]
+},
+],
+"Chapter 18: UTs + Scheduled and Tribal Areas": [
+  {
+  "heading": "Union Territories: Introduction & Evolution",
+  "headingHindi": "केंद्र शासित प्रदेश: परिचय और विकास",
+  "highlight": "Union Territories (UTs) were introduced by the 7th Constitutional Amendment Act, 1956 and are directly administered by the Central Government. Originally Part C and Part D states, they evolved from British-era scheduled districts and Chief Commissioners' provinces. Currently, India has 8 UTs, including Delhi, Puducherry, Jammu & Kashmir, and Ladakh.",
+  "highlightHindi": "केंद्र शासित प्रदेश (UTs) को 1956 के 7वें संविधान संशोधन अधिनियम द्वारा स्थापित किया गया और ये सीधे केंद्र सरकार द्वारा शासित होते हैं। ये मूल रूप से ब्रिटिश कालीन अनुसूचित जिलों और मुख्य आयुक्त प्रांतों से विकसित हुए। वर्तमान में भारत में 8 UTs हैं, जिनमें दिल्ली, पुडुचेरी, जम्मू-कश्मीर और लद्दाख शामिल हैं।",
+  "details": [
+    "## Introduction",
+    "• No mention of Union Territories in the original Constitution.",
+    "• UTs are directly controlled by the Central Government.",
+    "• Established by the 7th Constitutional Amendment Act (1956) and the States Reorganisation Act (1956).",
+    "• Article 1 of the Constitution classifies the territory of India into:",
+    "  1. Territories of the states",
+    "  2. Union Territories",
+    "  3. Territories acquired by the Government of India.",
+    "## Evolution of Union Territories",
+    "• During British rule: UTs were known as Scheduled Districts.",
+    "• Later became Chief Commissioners’ Provinces.",
+    "• After independence: Part C and Part D states in the Constitution.",
+    "• In 1956: Converted into Union Territories through the 7th Amendment Act and States Reorganisation Act.",
+    "• Some UTs were later elevated to full statehood.",
+    "• Jammu & Kashmir was reorganised into a UT on 31st October 2019.",
+    "## Present Union Territories (8)",
+    "1. Andaman and Nicobar Islands",
+    "2. Chandigarh",
+    "3. Dadra & Nagar Haveli and Daman & Diu (merged into one UT by Merger of UTs Act, 2019)",
+    "4. National Capital Territory (NCT) of Delhi",
+    "5. Jammu and Kashmir",
+    "6. Lakshadweep",
+    "7. Puducherry",
+    "8. Ladakh"
+  ],
+  "detailsHindi": [
+    "## परिचय",
+    "• मूल संविधान में केंद्र शासित प्रदेशों (UTs) का उल्लेख नहीं था।",
+    "• UTs सीधे केंद्र सरकार द्वारा नियंत्रित होते हैं।",
+    "• 1956 के 7वें संविधान संशोधन अधिनियम और राज्यों के पुनर्गठन अधिनियम द्वारा स्थापित।",
+    "• अनुच्छेद 1 भारत के क्षेत्र को 3 भागों में वर्गीकृत करता है:",
+    "  1. राज्यों के क्षेत्र",
+    "  2. केंद्र शासित प्रदेश",
+    "  3. भारत सरकार द्वारा अधिगृहीत क्षेत्र।",
+    "## केंद्र शासित प्रदेशों का विकास",
+    "• ब्रिटिश काल में: इन्हें अनुसूचित जिले कहा जाता था।",
+    "• बाद में मुख्य आयुक्त प्रांत बने।",
+    "• स्वतंत्रता के बाद: संविधान में भाग C और भाग D राज्य बने।",
+    "• 1956 में: 7वें संशोधन अधिनियम और राज्यों के पुनर्गठन अधिनियम के तहत केंद्र शासित प्रदेश बना।",
+    "• कुछ UTs को बाद में पूर्ण राज्य का दर्जा मिला।",
+    "• 31 अक्टूबर 2019 को जम्मू और कश्मीर को केंद्र शासित प्रदेश बनाया गया।",
+    "## वर्तमान केंद्र शासित प्रदेश (8)",
+    "1. अंडमान और निकोबार द्वीप समूह",
+    "2. चंडीगढ़",
+    "3. दादरा और नगर हवेली तथा दमन और दीव (2019 में एकीकृत)",
+    "4. राष्ट्रीय राजधानी क्षेत्र (दिल्ली)",
+    "5. जम्मू और कश्मीर",
+    "6. लक्षद्वीप",
+    "7. पुडुचेरी",
+    "8. लद्दाख"
+  ],
+  "tables": [
+    {
+      "title": "Union Territories of India (as of 2023)",
+      "titleHindi": "भारत के केंद्र शासित प्रदेश (2023 तक)",
+      "columns": ["Union Territory", "Special Note"],
+      "columnsHindi": ["केंद्र शासित प्रदेश", "विशेष टिप्पणी"],
+      "rows": [
+        ["Andaman and Nicobar Islands", "First UT established in India"],
+        ["Chandigarh", "Serves as joint capital of Punjab and Haryana"],
+        ["Dadra & Nagar Haveli and Daman & Diu", "Merged into single UT in 2019"],
+        ["Delhi (NCT)", "Has special status with Legislative Assembly"],
+        ["Jammu and Kashmir", "Made UT in 2019 after Article 370 revocation"],
+        ["Lakshadweep", "Smallest UT by area and population"],
+        ["Puducherry", "Has legislative assembly with special powers"],
+        ["Ladakh", "Carved out of J&K in 2019"]
+      ],
+      "rowsHindi": [
+        ["अंडमान और निकोबार द्वीप समूह", "भारत का पहला UT"],
+        ["चंडीगढ़", "पंजाब और हरियाणा की संयुक्त राजधानी"],
+        ["दादरा और नगर हवेली तथा दमन और दीव", "2019 में एकीकृत"],
+        ["दिल्ली (NCT)", "विधानसभा वाला विशेष दर्जा प्राप्त UT"],
+        ["जम्मू और कश्मीर", "2019 में धारा 370 हटने के बाद UT बना"],
+        ["लक्षद्वीप", "क्षेत्रफल और जनसंख्या में सबसे छोटा UT"],
+        ["पुडुचेरी", "विशेष शक्तियों वाली विधानसभा"],
+        ["लद्दाख", "2019 में J&K से अलग किया गया"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Union Territories were created by 7th Amendment Act, 1956.",
+    "Originally Part C & D states evolved into UTs.",
+    "Currently India has 8 UTs (Delhi, Puducherry, J&K, Ladakh included).",
+    "Delhi & Puducherry have Legislative Assemblies, unlike most UTs."
+  ],
+  "prelimsTipsHindi": [
+    "UTs का गठन 7वें संशोधन अधिनियम, 1956 द्वारा हुआ।",
+    "मूल रूप से भाग C और D राज्यों से विकसित हुए।",
+    "भारत में वर्तमान में 8 UTs हैं (दिल्ली, पुडुचेरी, J&K, लद्दाख सहित)।",
+    "दिल्ली और पुडुचेरी के पास विधानसभाएँ हैं।"
+  ],
+  "mainsPoints": [
+    "Union Territories ensure direct central control for strategic, administrative, or cultural reasons.",
+    "They were created through the 1956 reforms, replacing Part C and D states.",
+    "Delhi, Puducherry, J&K, and Ladakh have special status or assemblies.",
+    "Their evolution reflects India’s need to balance local governance with national integration."
+  ],
+  "mainsPointsHindi": [
+    "केंद्र शासित प्रदेश रणनीतिक, प्रशासनिक या सांस्कृतिक कारणों से सीधे केंद्र के अधीन होते हैं।",
+    "1956 सुधारों से भाग C और D राज्यों को हटाकर UT बनाए गए।",
+    "दिल्ली, पुडुचेरी, J&K और लद्दाख का विशेष दर्जा है।",
+    "इनका विकास भारत में स्थानीय शासन और राष्ट्रीय एकीकरण के बीच संतुलन को दर्शाता है।"
+  ]
+},
+{
+  "heading": "Union Territories: Need & Comparison with States",
+  "headingHindi": "केंद्र शासित प्रदेश: आवश्यकता और राज्यों से तुलना",
+  "highlight": "Union Territories were formed for political efficiency, strategic importance, cultural preservation, and security reasons. Unlike states, they are directly administered by the Union Government, with only Delhi, Puducherry, and Jammu & Kashmir having legislatures.",
+  "highlightHindi": "केंद्र शासित प्रदेशों का गठन राजनीतिक दक्षता, सामरिक महत्व, सांस्कृतिक संरक्षण और सुरक्षा कारणों से किया गया। राज्यों के विपरीत, ये सीधे केंद्र सरकार द्वारा प्रशासित होते हैं, केवल दिल्ली, पुडुचेरी और जम्मू-कश्मीर में विधानसभाएँ हैं।",
+  "details": [
+    "## Need of Formation of Union Territories",
+    "• Political and Administrative efficiency: Example – Delhi and Chandigarh.",
+    "• Strategic Significance: Example – Andaman & Nicobar Islands, Lakshadweep.",
+    "• Protection of Indigenous Culture: Example – Dadra & Nagar Haveli, Daman & Diu.",
+    "• Small Population and Land Area: Example – Dadra & Nagar Haveli, Daman & Diu.",
+    "• Security Reasons: Example – Jammu & Kashmir, Ladakh.",
+    "## Difference Between Union Territories and States",
+    "### Definition",
+    "• States: Autonomous units within the Union of India, governed by constitutional provisions.",
+    "• UTs: Not autonomous, directly administered by Union Government.",
+    "### Administration",
+    "• States: Governor, State Legislature, CM and Council of Ministers.",
+    "• UTs: Central Government through Lieutenant Governors/Administrators.",
+    "  – Exception: Delhi, Puducherry, J&K have legislatures with CM + Council of Ministers along with Lt. Governor.",
+    "### Head of Government",
+    "• States: Chief Minister.",
+    "• UTs: Lt. Governor or Administrator (appointed by President).",
+    "  – CM exists only for UTs with legislatures.",
+    "### Mode of Selection",
+    "• States: CM elected via general elections.",
+    "• UTs: Lt. Governor/Administrator appointed by President.",
+    "### Constitutional Head",
+    "• States: Governor.",
+    "• UTs: Lt. Governor or Administrator.",
+    "### Relationship with Centre",
+    "• States: Federal relationship.",
+    "• UTs: Unitary relationship."
+  ],
+  "detailsHindi": [
+    "## केंद्र शासित प्रदेशों की आवश्यकता",
+    "• राजनीतिक और प्रशासनिक दक्षता: उदाहरण – दिल्ली और चंडीगढ़।",
+    "• सामरिक महत्व: उदाहरण – अंडमान व निकोबार द्वीप, लक्षद्वीप।",
+    "• स्वदेशी संस्कृति का संरक्षण: उदाहरण – दादरा नगर हवेली, दमन और दीव।",
+    "• छोटा क्षेत्रफल और जनसंख्या: उदाहरण – दादरा नगर हवेली, दमन और दीव।",
+    "• सुरक्षा कारण: उदाहरण – जम्मू-कश्मीर, लद्दाख।",
+    "## केंद्र शासित प्रदेश और राज्यों में अंतर",
+    "### परिभाषा",
+    "• राज्य: भारत संघ के भीतर स्वायत्त इकाइयाँ, संविधान प्रावधानों से शासित।",
+    "• UTs: स्वायत्त नहीं, सीधे केंद्र सरकार द्वारा शासित।",
+    "### प्रशासन",
+    "• राज्य: राज्यपाल, विधानसभा, मुख्यमंत्री और मंत्रिपरिषद।",
+    "• UTs: केंद्र सरकार के अधीन, उपराज्यपाल/प्रशासक द्वारा शासित।",
+    "  – अपवाद: दिल्ली, पुडुचेरी और जम्मू-कश्मीर में विधानसभाएँ हैं।",
+    "### सरकार का प्रमुख",
+    "• राज्य: मुख्यमंत्री।",
+    "• UTs: उपराज्यपाल/प्रशासक (राष्ट्रपति द्वारा नियुक्त)।",
+    "  – CM केवल उन्हीं UTs में जहां विधानसभा है।",
+    "### प्रमुख का चयन",
+    "• राज्य: मुख्यमंत्री आम चुनावों द्वारा चुने जाते हैं।",
+    "• UTs: उपराज्यपाल/प्रशासक राष्ट्रपति द्वारा नियुक्त।",
+    "### संवैधानिक प्रमुख",
+    "• राज्य: राज्यपाल।",
+    "• UTs: उपराज्यपाल/प्रशासक।",
+    "### केंद्र से संबंध",
+    "• राज्य: संघीय संबंध।",
+    "• UTs: एकात्मक संबंध।"
+  ],
+  "tables": [
+    {
+      "title": "Difference Between States and Union Territories",
+      "titleHindi": "राज्यों और केंद्र शासित प्रदेशों के बीच अंतर",
+      "columns": ["Aspect", "States", "Union Territories"],
+      "columnsHindi": ["पहलू", "राज्य", "केंद्र शासित प्रदेश"],
+      "rows": [
+        ["Definition", "Autonomous units within Union of India", "Directly administered by Union Government"],
+        ["Administration", "Governor, Legislature, CM & Council of Ministers", "Lt. Governor/Administrator; Some UTs have legislatures"],
+        ["Head of Government", "Chief Minister", "Lt. Governor/Administrator; CM in Delhi, Puducherry, J&K"],
+        ["Mode of Selection", "Elected via general elections", "Appointed by President"],
+        ["Constitutional Head", "Governor", "Lt. Governor/Administrator"],
+        ["Centre-State Relation", "Federal", "Unitary"]
+      ],
+      "rowsHindi": [
+        ["परिभाषा", "भारत संघ के भीतर स्वायत्त इकाइयाँ", "केंद्र सरकार द्वारा सीधे प्रशासित"],
+        ["प्रशासन", "राज्यपाल, विधानसभा, मुख्यमंत्री व मंत्रिपरिषद", "उपराज्यपाल/प्रशासक; कुछ UTs में विधानसभा"],
+        ["सरकार का प्रमुख", "मुख्यमंत्री", "उपराज्यपाल/प्रशासक; दिल्ली, पुडुचेरी, J&K में मुख्यमंत्री"],
+        ["प्रमुख का चयन", "आम चुनावों द्वारा", "राष्ट्रपति द्वारा नियुक्त"],
+        ["संवैधानिक प्रमुख", "राज्यपाल", "उपराज्यपाल/प्रशासक"],
+        ["केंद्र से संबंध", "संघीय", "एकात्मक"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "UTs created for political efficiency, strategic value, cultural protection, or security.",
+    "Delhi, Puducherry, J&K – only UTs with legislatures.",
+    "States have federal relationship, UTs have unitary relationship with Centre."
+  ],
+  "prelimsTipsHindi": [
+    "UTs का गठन प्रशासनिक दक्षता, सामरिक महत्व, सांस्कृतिक संरक्षण या सुरक्षा हेतु हुआ।",
+    "दिल्ली, पुडुचेरी, J&K – विधानसभाओं वाले UTs।",
+    "राज्यों का केंद्र से संघीय संबंध, UTs का एकात्मक।"
+  ],
+  "mainsPoints": [
+    "Formation of UTs addresses diverse needs: governance, strategy, culture, and security.",
+    "States enjoy federal autonomy while UTs reflect centralised unitary control.",
+    "Only 3 UTs have legislatures balancing local representation with Union control.",
+    "The distinction ensures administrative flexibility within Indian federalism."
+  ],
+  "mainsPointsHindi": [
+    "UTs का गठन शासन, रणनीति, संस्कृति और सुरक्षा जैसी विविध आवश्यकताओं को पूरा करता है।",
+    "राज्यों को संघीय स्वायत्तता प्राप्त है, जबकि UTs केंद्रित एकात्मक नियंत्रण को दर्शाते हैं।",
+    "केवल 3 UTs में विधानसभाएँ हैं जो स्थानीय प्रतिनिधित्व और केंद्र नियंत्रण का संतुलन बनाती हैं।",
+    "यह अंतर भारतीय संघवाद में प्रशासनिक लचीलापन सुनिश्चित करता है।"
+  ]
+},
+{
+  "heading": "Constitutional Provisions for Union Territories",
+  "headingHindi": "केंद्र शासित प्रदेशों से संबंधित संवैधानिक प्रावधान",
+  "highlight": "Articles 239–241 of the Constitution lay down the framework for administration, legislatures, ordinances, presidential powers, and High Courts in Union Territories.",
+  "highlightHindi": "संविधान के अनुच्छेद 239 से 241 तक केंद्र शासित प्रदेशों में प्रशासन, विधानमंडल, अध्यादेश, राष्ट्रपति की शक्तियाँ और उच्च न्यायालयों की व्यवस्था निर्धारित करते हैं।",
+  "tables": [
+    {
+      "title": "Articles Related to Union Territories",
+      "titleHindi": "केंद्र शासित प्रदेशों से संबंधित अनुच्छेद",
+      "columns": ["Article", "Subject Matter"],
+      "columnsHindi": ["अनुच्छेद", "विषय"],
+      "rows": [
+        ["239", "Administration of Union Territories"],
+        ["239A", "Creation of legislatures or council of ministers for UTs"],
+        ["239AA", "Special provisions for Delhi (NCT)"],
+        ["239AB", "Provision for failure of constitutional machinery in UTs"],
+        ["239B", "Administrator’s power to promulgate ordinances during recess"],
+        ["240", "President’s power to make regulations for certain UTs"],
+        ["241", "High Courts for Union Territories"]
+      ],
+      "rowsHindi": [
+        ["239", "केंद्र शासित प्रदेशों का प्रशासन"],
+        ["239A", "UTs के लिए विधानमंडल या मंत्रिपरिषद का गठन"],
+        ["239AA", "दिल्ली (राष्ट्रीय राजधानी क्षेत्र) के लिए विशेष प्रावधान"],
+        ["239AB", "UTs में संवैधानिक तंत्र की विफलता की स्थिति में प्रावधान"],
+        ["239B", "विधानसभा सत्रावकाश के दौरान अध्यादेश जारी करने की प्रशासक की शक्ति"],
+        ["240", "कुछ UTs के लिए राष्ट्रपति की विनियम बनाने की शक्ति"],
+        ["241", "केंद्र शासित प्रदेशों के लिए उच्च न्यायालय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 239 – General administration of Union Territories.",
+    "Article 239AA – Special provisions for Delhi (NCT).",
+    "Article 240 – President can make regulations for certain UTs.",
+    "Article 241 – High Courts for Union Territories."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 239 – केंद्र शासित प्रदेशों का सामान्य प्रशासन।",
+    "अनुच्छेद 239AA – दिल्ली (राष्ट्रीय राजधानी क्षेत्र) के लिए विशेष प्रावधान।",
+    "अनुच्छेद 240 – कुछ UTs के लिए राष्ट्रपति को विनियम बनाने की शक्ति।",
+    "अनुच्छेद 241 – केंद्र शासित प्रदेशों के लिए उच्च न्यायालय।"
+  ],
+  "mainsPoints": [
+    "Articles 239–241 ensure centralised control over UTs while allowing flexibility for legislatures in select UTs like Delhi and Puducherry.",
+    "Delhi (Article 239AA) is given special provisions due to its status as the national capital.",
+    "Article 240 empowers the President with direct law-making powers for UTs lacking legislatures.",
+    "Article 241 provides judicial access by establishing High Courts for UTs."
+  ],
+  "mainsPointsHindi": [
+    "अनुच्छेद 239–241 UTs पर केंद्रीकृत नियंत्रण सुनिश्चित करते हैं और कुछ UTs जैसे दिल्ली व पुडुचेरी में विधानमंडल की लचीलापन भी प्रदान करते हैं।",
+    "दिल्ली (अनुच्छेद 239AA) को राष्ट्रीय राजधानी होने के कारण विशेष प्रावधान दिए गए हैं।",
+    "अनुच्छेद 240 राष्ट्रपति को विधानमंडल विहीन UTs के लिए सीधे कानून बनाने की शक्ति देता है।",
+    "अनुच्छेद 241 UTs के लिए उच्च न्यायालय स्थापित कर न्यायिक पहुँच सुनिश्चित करता है।"
+  ]
+},
+{
+  "heading": "Administration of Union Territories",
+  "headingHindi": "केंद्र शासित प्रदेशों का प्रशासन",
+  "highlight": "Union Territories are administered by the President through appointed administrators. Some UTs have legislative assemblies, but Parliament retains overriding powers. High Court jurisdiction is either exclusive or shared with nearby states.",
+  "highlightHindi": "केंद्र शासित प्रदेशों का प्रशासन राष्ट्रपति द्वारा नियुक्त प्रशासकों के माध्यम से किया जाता है। कुछ UTs में विधानसभाएँ होती हैं, लेकिन संसद का वर्चस्व बना रहता है। उच्च न्यायालय का अधिकार क्षेत्र अलग-अलग या निकटवर्ती राज्यों के साथ साझा होता है।",
+  "details": [
+    "## Administration",
+    "• UTs are administered by the President through administrators (Lt. Governor/Administrator).",
+    "• Administrator is President’s agent; designations vary by UT.",
+    "• Sometimes, state Governors act as administrators.",
+    "## UTs with Legislative Assembly",
+    "• Parliament may establish legislatures for UTs.",
+    "• Puducherry: Assembly can legislate on State & Concurrent List.",
+    "• Delhi: Assembly can legislate on State (except police, land, public order) & Concurrent List.",
+    "• Jammu & Kashmir: Assembly can legislate on State (except police, public order) & Concurrent List.",
+    "## Parliament’s Jurisdiction",
+    "• Parliament can make laws for UTs on any subject from Union, State, or Concurrent Lists.",
+    "• UT legislatures do not restrict Parliament’s power.",
+    "## President’s Jurisdiction",
+    "• President regulates Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli, Daman & Diu, and Ladakh.",
+    "• In Puducherry: President legislates during suspension/dissolution of Assembly.",
+    "• President’s regulations are equal to Parliamentary laws, can amend/repeal them.",
+    "## High Courts for UTs",
+    "• Parliament may establish separate High Courts for UTs or extend jurisdiction of state High Courts.",
+    "• Delhi & Jammu & Kashmir have separate High Courts.",
+    "• Other UTs fall under nearby state High Courts."
+  ],
+  "detailsHindi": [
+    "## प्रशासन",
+    "• UTs का प्रशासन राष्ट्रपति द्वारा नियुक्त प्रशासकों (उपराज्यपाल/प्रशासक) के माध्यम से होता है।",
+    "• प्रशासक राष्ट्रपति के एजेंट होते हैं; पदनाम UT के अनुसार बदलते हैं।",
+    "• कभी-कभी राज्यपाल को UT का प्रशासक नियुक्त किया जाता है।",
+    "## विधानसभाओं वाले UTs",
+    "• संसद UTs के लिए विधानसभाएँ स्थापित कर सकती है।",
+    "• पुडुचेरी: राज्य और समवर्ती सूची पर कानून बना सकती है।",
+    "• दिल्ली: राज्य सूची (पुलिस, भूमि, सार्वजनिक व्यवस्था को छोड़कर) और समवर्ती सूची।",
+    "• जम्मू-कश्मीर: राज्य सूची (पुलिस, सार्वजनिक व्यवस्था को छोड़कर) और समवर्ती सूची।",
+    "## संसद का अधिकार क्षेत्र",
+    "• संसद UTs के लिए संघ, राज्य और समवर्ती सूची के किसी भी विषय पर कानून बना सकती है।",
+    "• UT विधानसभाएँ संसद की शक्ति को सीमित नहीं करतीं।",
+    "## राष्ट्रपति का अधिकार क्षेत्र",
+    "• राष्ट्रपति अंडमान-निकोबार, लक्षद्वीप, दादरा नगर हवेली, दमन-दीव और लद्दाख को नियंत्रित करते हैं।",
+    "• पुडुचेरी: विधानसभा निलंबित/विघटित होने पर राष्ट्रपति कानून बना सकते हैं।",
+    "• राष्ट्रपति के विनियम संसद के कानूनों के बराबर होते हैं और उन्हें संशोधित/निरस्त कर सकते हैं।",
+    "## UTs के लिए उच्च न्यायालय",
+    "• संसद UTs के लिए अलग उच्च न्यायालय बना सकती है या निकटवर्ती राज्यों के उच्च न्यायालय का अधिकार क्षेत्र बढ़ा सकती है।",
+    "• दिल्ली और जम्मू-कश्मीर के अलग उच्च न्यायालय हैं।",
+    "• अन्य UTs निकटवर्ती राज्यों के उच्च न्यायालयों के अधीन हैं।"
+  ],
+  "tables": [
+    {
+      "title": "High Court Jurisdiction over Union Territories",
+      "titleHindi": "केंद्र शासित प्रदेशों पर उच्च न्यायालय का अधिकार क्षेत्र",
+      "columns": ["Union Territory", "High Court"],
+      "columnsHindi": ["केंद्र शासित प्रदेश", "उच्च न्यायालय"],
+      "rows": [
+        ["Chandigarh", "Punjab & Haryana High Court"],
+        ["Ladakh", "Jammu & Kashmir High Court"],
+        ["Dadra & Nagar Haveli and Daman & Diu", "Bombay High Court"],
+        ["Puducherry", "Madras High Court"],
+        ["Andaman & Nicobar Islands", "Calcutta High Court"],
+        ["Lakshadweep", "Kerala High Court"],
+        ["Delhi", "Delhi High Court"],
+        ["Jammu & Kashmir", "Jammu & Kashmir High Court"]
+      ],
+      "rowsHindi": [
+        ["चंडीगढ़", "पंजाब एवं हरियाणा उच्च न्यायालय"],
+        ["लद्दाख", "जम्मू और कश्मीर उच्च न्यायालय"],
+        ["दादरा नगर हवेली और दमन दीव", "बॉम्बे उच्च न्यायालय"],
+        ["पुडुचेरी", "मद्रास उच्च न्यायालय"],
+        ["अंडमान एवं निकोबार द्वीप", "कलकत्ता उच्च न्यायालय"],
+        ["लक्षद्वीप", "केरल उच्च न्यायालय"],
+        ["दिल्ली", "दिल्ली उच्च न्यायालय"],
+        ["जम्मू और कश्मीर", "जम्मू और कश्मीर उच्च न्यायालय"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Delhi, Puducherry, J&K have legislative assemblies.",
+    "Parliament retains overriding power to legislate for UTs.",
+    "President can regulate UTs without legislatures.",
+    "Delhi & J&K have separate High Courts; other UTs fall under nearby state High Courts."
+  ],
+  "prelimsTipsHindi": [
+    "दिल्ली, पुडुचेरी और J&K में विधानसभाएँ हैं।",
+    "संसद के पास हमेशा UTs पर कानून बनाने की सर्वोच्च शक्ति रहती है।",
+    "बिना विधानसभा वाले UTs को राष्ट्रपति नियंत्रित करते हैं।",
+    "दिल्ली और J&K के अलग उच्च न्यायालय हैं; अन्य UTs नजदीकी राज्यों के उच्च न्यायालयों के अधीन।"
+  ],
+  "mainsPoints": [
+    "UTs are centrally administered but some enjoy partial state-like legislatures.",
+    "Despite legislatures, Parliament retains supremacy in law-making for UTs.",
+    "President’s regulations hold the force of Parliamentary law, especially in smaller UTs.",
+    "Judicial structure integrates most UTs with nearby states, except Delhi and J&K with their own High Courts."
+  ],
+  "mainsPointsHindi": [
+    "UTs का प्रशासन केंद्र द्वारा होता है, लेकिन कुछ में राज्य जैसी विधानसभाएँ हैं।",
+    "विधानसभाओं के बावजूद, UTs पर कानून बनाने में संसद की सर्वोच्चता बनी रहती है।",
+    "छोटे UTs में राष्ट्रपति के विनियम संसद के कानूनों के बराबर होते हैं।",
+    "न्यायिक संरचना में अधिकांश UTs निकटवर्ती राज्यों से जुड़ी हैं, केवल दिल्ली और J&K के अपने उच्च न्यायालय हैं।"
+  ]
+},
+{
+  "heading": "Constitutional Provisions for Delhi and J&K",
+  "headingHindi": "दिल्ली और जम्मू-कश्मीर के लिए संवैधानिक प्रावधान",
+  "highlight": "Delhi, under Article 239AA, functions as the National Capital Territory with its own legislature but limited powers excluding police, public order, and land. Jammu & Kashmir, after the abrogation of Article 370 in 2019, was reorganised into two UTs – J&K with legislature (except on police and public order) and Ladakh without legislature.",
+  "highlightHindi": "दिल्ली अनुच्छेद 239AA के तहत राष्ट्रीय राजधानी क्षेत्र है, जिसमें अपनी विधानसभा है लेकिन पुलिस, सार्वजनिक व्यवस्था और भूमि से संबंधित विषयों पर सीमित शक्तियाँ हैं। जम्मू-कश्मीर, अनुच्छेद 370 हटाए जाने (2019) के बाद, दो केंद्रशासित प्रदेशों में पुनर्गठित हुआ – जम्मू-कश्मीर (विधानसभा सहित, पुलिस और सार्वजनिक व्यवस्था को छोड़कर) और लद्दाख (बिना विधानसभा)।",
+  "details": [
+    "## Delhi (Article 239AA – 69th Amendment Act, 1991)",
+    "• Delhi designated as National Capital Territory.",
+    "• Administrator: Lieutenant Governor under Article 239.",
+    "### Key Constitutional Articles",
+    "• 239AA(1): Delhi known as NCT of Delhi.",
+    "• 239AA(2): Constitution of Legislative Assembly.",
+    "• 239AA(3): Powers of Legislative Assembly.",
+    "• 239AA(4): Council of Ministers.",
+    "• 239AA(5): Appointment of Chief Minister.",
+    "• 239AA(6): Collective responsibility of Council of Ministers to Assembly.",
+    "### Legislative Assembly of Delhi",
+    "• Strength: 70 members, directly elected.",
+    "• Elections: conducted by Election Commission of India.",
+    "• Powers: State List and Concurrent List, except Public order, Police, and Land.",
+    "### Council of Ministers",
+    "• Maximum strength: 10% of Assembly (CM + 6).",
+    "• CM appointed by President; other ministers on CM’s recommendation.",
+    "• Ministers hold office at President’s pleasure.",
+    "• Collective responsibility to Legislative Assembly.",
+    "• Lt. Governor may refer disputes to President.",
+    "## Comparison of Delhi and Puducherry",
+    "• Delhi – Article 239AA, governed by GNCTD Act, 1991.",
+    "• Puducherry – Article 239A, governed by Government of UTs Act, 1963.",
+    "• Delhi legislature excludes Police, Public order, Land; Puducherry legislature covers full State & Concurrent lists.",
+    "## Jammu & Kashmir",
+    "• Article 370 removed through J&K Reorganisation Act, 2019.",
+    "• J&K reorganised into two UTs: J&K (with legislature) and Ladakh (without legislature).",
+    "• Both administered by President via Lieutenant Governor.",
+    "• J&K Assembly: Powers on State List except Police and Public order.",
+    "• J&K & Ladakh share a common High Court."
+  ],
+  "detailsHindi": [
+    "## दिल्ली (अनुच्छेद 239AA – 69वां संशोधन अधिनियम, 1991)",
+    "• दिल्ली को राष्ट्रीय राजधानी क्षेत्र घोषित किया गया।",
+    "• प्रशासक: उपराज्यपाल (अनुच्छेद 239)।",
+    "### प्रमुख संवैधानिक अनुच्छेद",
+    "• 239AA(1): दिल्ली को NCT कहा जाएगा।",
+    "• 239AA(2): विधानसभा का गठन।",
+    "• 239AA(3): विधानसभा की शक्तियाँ।",
+    "• 239AA(4): मंत्रिपरिषद।",
+    "• 239AA(5): मुख्यमंत्री की नियुक्ति।",
+    "• 239AA(6): मंत्रिपरिषद की सामूहिक जिम्मेदारी।",
+    "### दिल्ली की विधानसभा",
+    "• शक्ति: 70 सदस्य, प्रत्यक्ष चुनाव।",
+    "• चुनाव: भारत निर्वाचन आयोग द्वारा।",
+    "• शक्तियाँ: राज्य सूची और समवर्ती सूची, अपवाद – पुलिस, सार्वजनिक व्यवस्था, भूमि।",
+    "### मंत्रिपरिषद",
+    "• अधिकतम शक्ति: विधानसभा का 10% (CM + 6)।",
+    "• मुख्यमंत्री राष्ट्रपति द्वारा नियुक्त; अन्य मंत्री CM की सिफारिश पर।",
+    "• मंत्री राष्ट्रपति की इच्छा पर पद धारण करते हैं।",
+    "• विधानसभा के प्रति सामूहिक जिम्मेदारी।",
+    "• उपराज्यपाल विवाद राष्ट्रपति को भेज सकते हैं।",
+    "## दिल्ली और पुडुचेरी की तुलना",
+    "• दिल्ली – अनुच्छेद 239AA, GNCTD अधिनियम, 1991 द्वारा शासित।",
+    "• पुडुचेरी – अनुच्छेद 239A, केंद्रशासित प्रदेश अधिनियम, 1963 द्वारा शासित।",
+    "• दिल्ली की विधानसभा – पुलिस, सार्वजनिक व्यवस्था, भूमि को छोड़कर।",
+    "• पुडुचेरी की विधानसभा – पूरी राज्य और समवर्ती सूची।",
+    "## जम्मू और कश्मीर",
+    "• अनुच्छेद 370 – जम्मू-कश्मीर पुनर्गठन अधिनियम, 2019 द्वारा हटाया गया।",
+    "• J&K – दो UTs में विभाजित: J&K (विधानसभा सहित) और लद्दाख (बिना विधानसभा)।",
+    "• दोनों का प्रशासन राष्ट्रपति + उपराज्यपाल द्वारा।",
+    "• J&K विधानसभा – राज्य सूची (पुलिस और सार्वजनिक व्यवस्था छोड़कर)।",
+    "• J&K और लद्दाख – साझा उच्च न्यायालय।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Delhi and Puducherry",
+      "titleHindi": "दिल्ली और पुडुचेरी की तुलना",
+      "columns": ["Aspect", "Delhi", "Puducherry"],
+      "columnsHindi": ["पहलू", "दिल्ली", "पुडुचेरी"],
+      "rows": [
+        ["Relevant Article", "239AA", "239A"],
+        ["Legislative Powers", "State List (except Police, Public order, Land) + Concurrent List", "Full State List + Concurrent List"],
+        ["Governing Act", "Government of NCT of Delhi Act, 1991", "Government of UTs Act, 1963"],
+        ["Administrator", "Lieutenant Governor", "Lieutenant Governor"],
+        ["Legislative Assembly", "70 elected members", "Varies as per Act provisions"]
+      ],
+      "rowsHindi": [
+        ["संबंधित अनुच्छेद", "239AA", "239A"],
+        ["विधान शक्ति", "राज्य सूची (पुलिस, सार्वजनिक व्यवस्था, भूमि को छोड़कर) + समवर्ती सूची", "पूरी राज्य सूची + समवर्ती सूची"],
+        ["शासन अधिनियम", "दिल्ली राष्ट्रीय राजधानी क्षेत्र सरकार अधिनियम, 1991", "केंद्रशासित प्रदेश अधिनियम, 1963"],
+        ["प्रशासक", "उपराज्यपाल", "उपराज्यपाल"],
+        ["विधानसभा", "70 निर्वाचित सदस्य", "अधिनियम प्रावधानों के अनुसार"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Delhi – Article 239AA; Puducherry – Article 239A.",
+    "Delhi excluded from police, land, and public order law-making.",
+    "J&K reorganised in 2019: J&K (with legislature) + Ladakh (without).",
+    "Delhi, J&K, and Puducherry are the only UTs with legislatures."
+  ],
+  "prelimsTipsHindi": [
+    "दिल्ली – अनुच्छेद 239AA; पुडुचेरी – अनुच्छेद 239A।",
+    "दिल्ली में पुलिस, भूमि और सार्वजनिक व्यवस्था पर कानून नहीं बना सकते।",
+    "जम्मू-कश्मीर 2019 में पुनर्गठित: J&K (विधानसभा सहित) + लद्दाख (बिना)।",
+    "दिल्ली, J&K और पुडुचेरी – केवल यही UTs विधानसभाओं वाले।"
+  ],
+  "mainsPoints": [
+    "Delhi functions under a special arrangement balancing Union and state features.",
+    "Puducherry enjoys broader legislative powers than Delhi.",
+    "J&K’s 2019 reorganisation reflects security and integration needs.",
+    "Parliament retains supremacy over all Union Territories."
+  ],
+  "mainsPointsHindi": [
+    "दिल्ली – संघ और राज्य विशेषताओं का संतुलन रखने वाली विशेष व्यवस्था।",
+    "पुडुचेरी के पास दिल्ली की तुलना में व्यापक विधान शक्तियाँ।",
+    "जम्मू-कश्मीर का 2019 पुनर्गठन सुरक्षा और एकीकरण की आवश्यकता को दर्शाता है।",
+    "सभी केंद्रशासित प्रदेशों पर संसद की सर्वोच्चता बनी रहती है।"
+  ]
+},
+{
+  "heading": "Issues and Reforms in Union Territories",
+  "headingHindi": "केंद्रशासित प्रदेशों में समस्याएँ और सुधार",
+  "highlight": "Union Territories face challenges like statehood demands, delayed elections, arbitrary nominations, and conflicts between administrators and elected governments. Reforms call for cooperative federalism, clear power-sharing, financial autonomy, and consensus-based appointments.",
+  "highlightHindi": "केंद्रशासित प्रदेशों में राज्य का दर्जा मांग, चुनावों में देरी, मनमाने नामांकन और प्रशासकों तथा निर्वाचित सरकारों के बीच टकराव जैसी चुनौतियाँ हैं। सुधारों में सहकारी संघवाद, स्पष्ट शक्तिविभाजन, वित्तीय स्वायत्तता और सहमति-आधारित नियुक्तियाँ शामिल हैं।",
+  "details": [
+    "## Issues Concerning Union Territories",
+    "• Demand for statehood in Delhi and Jammu & Kashmir.",
+    "• Delay in holding elections on time.",
+    "• Central government’s power to nominate 3 members in Puducherry.",
+    "  – Case: K. Lakshminarayanan vs Union of India (2019): no need for state government consultation.",
+    "• Arbitrary nominations: no qualification criteria for nominated members in Puducherry.",
+    "• Conflicting powers: Lieutenant Governor vs elected government.",
+    "• Overlapping functions: Administrator not bound by aid and advice of Council of Ministers.",
+    "## Reforms for Smooth Administration",
+    "• Practising cooperative federalism: Lt. Governors should avoid misusing discretionary powers.",
+    "• Adopt federal model like USA for power-sharing.",
+    "• Provide greater financial autonomy to UTs.",
+    "• Clear delimitation of powers to prevent conflicts.",
+    "• Appointment of administrators with broad consensus, consulting the Chief Minister.",
+    "## Advisory Committees in UTs",
+    "• Nodal ministry: Ministry of Home Affairs (MHA).",
+    "• Home Ministry’s Advisory Committee (HMAC): for all UTs without legislature.",
+    "• Administrator’s Advisory Committee (AAC): for individual UTs.",
+    "• Chairman: Union Home Minister (HMAC) or UT Administrator (AAC).",
+    "• Members: MPs, local body members, and others.",
+    "• Purpose: discuss social and economic development issues of UTs."
+  ],
+  "detailsHindi": [
+    "## केंद्रशासित प्रदेशों की समस्याएँ",
+    "• दिल्ली और जम्मू-कश्मीर में राज्य का दर्जा मांग।",
+    "• समय पर चुनाव न होना।",
+    "• पुडुचेरी में केंद्र सरकार द्वारा 3 सदस्यों का नामांकन।",
+    "  – मामला: के. लक्ष्मीनारायणन बनाम भारत संघ (2019): राज्य सरकार से परामर्श आवश्यक नहीं।",
+    "• मनमाना नामांकन: पुडुचेरी में नामित सदस्यों के लिए कोई योग्यता नहीं।",
+    "• शक्तियों का टकराव: उपराज्यपाल बनाम निर्वाचित सरकार।",
+    "• कार्यों का ओवरलैप: प्रशासक मंत्रिपरिषद की सलाह से बाध्य नहीं।",
+    "## सुधार",
+    "• सहकारी संघवाद का अभ्यास: उपराज्यपाल विवेकाधीन शक्तियों का दुरुपयोग न करें।",
+    "• USA की तरह शक्ति-साझाकरण का मॉडल अपनाना।",
+    "• UTs को अधिक वित्तीय स्वायत्तता देना।",
+    "• शक्तियों का स्पष्ट विभाजन, ताकि टकराव न हो।",
+    "• प्रशासकों की नियुक्ति सहमति से, मुख्यमंत्री से परामर्श के साथ।",
+    "## UTs में परामर्शी समितियाँ",
+    "• नोडल मंत्रालय: गृह मंत्रालय।",
+    "• गृह मंत्रालय परामर्श समिति (HMAC): बिना विधानसभा वाले सभी UTs के लिए।",
+    "• प्रशासक की परामर्श समिति (AAC): व्यक्तिगत UTs के लिए।",
+    "• अध्यक्ष: गृह मंत्री (HMAC) या UT का प्रशासक (AAC)।",
+    "• सदस्य: सांसद, स्थानीय निकायों के सदस्य और अन्य।",
+    "• उद्देश्य: UTs के सामाजिक और आर्थिक विकास पर चर्चा।"
+  ],
+  "tables": [
+    {
+      "title": "Key Issues and Reforms in UTs",
+      "titleHindi": "केंद्रशासित प्रदेशों में प्रमुख समस्याएँ और सुधार",
+      "columns": ["Issue", "Reform Suggested"],
+      "columnsHindi": ["समस्या", "सुझाया गया सुधार"],
+      "rows": [
+        ["Statehood demand (Delhi, J&K)", "Balance autonomy with national interest"],
+        ["Delayed elections", "Ensure timely polls by SEC/ECI"],
+        ["Arbitrary nominations (Puducherry)", "Set qualification norms; consult state govt"],
+        ["Conflicting powers (Lt. Governor vs Govt)", "Delimit powers clearly; follow cooperative federalism"],
+        ["Financial dependency", "Grant greater financial autonomy; performance-based funds"]
+      ],
+      "rowsHindi": [
+        ["राज्य का दर्जा मांग (दिल्ली, J&K)", "स्वायत्तता और राष्ट्रीय हित में संतुलन"],
+        ["चुनाव में देरी", "SEC/ECI द्वारा समय पर चुनाव सुनिश्चित करना"],
+        ["मनमाना नामांकन (पुडुचेरी)", "योग्यता मानक तय; राज्य सरकार से परामर्श"],
+        ["शक्तियों का टकराव (उपराज्यपाल बनाम सरकार)", "शक्तियों का स्पष्ट विभाजन; सहकारी संघवाद"],
+        ["वित्तीय निर्भरता", "अधिक वित्तीय स्वायत्तता; प्रदर्शन आधारित फंड"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "K. Lakshminarayanan vs Union of India (2019): No consultation needed for Puducherry nominations.",
+    "Only Delhi, J&K, and Puducherry have legislatures.",
+    "Lt. Governor not bound by aid & advice of Council of Ministers in UTs."
+  ],
+  "prelimsTipsHindi": [
+    "के. लक्ष्मीनारायणन बनाम भारत संघ (2019): पुडुचेरी नामांकन के लिए परामर्श आवश्यक नहीं।",
+    "केवल दिल्ली, J&K और पुडुचेरी में विधानसभा है।",
+    "UTs में उपराज्यपाल मंत्रिपरिषद की सलाह से बाध्य नहीं।"
+  ],
+  "mainsPoints": [
+    "UTs face friction between democratic aspirations (elected govt) and unitary control (administrators).",
+    "Statehood demands reflect the push for autonomy and democratic accountability.",
+    "Arbitrary nominations reduce trust in democratic representation.",
+    "Reforms must balance local autonomy with national security and administrative efficiency."
+  ],
+  "mainsPointsHindi": [
+    "UTs में लोकतांत्रिक आकांक्षाओं (निर्वाचित सरकार) और एकात्मक नियंत्रण (प्रशासक) के बीच टकराव।",
+    "राज्य का दर्जा मांग – स्वायत्तता और लोकतांत्रिक जवाबदेही की पुकार।",
+    "मनमाना नामांकन लोकतांत्रिक विश्वास को कमजोर करता है।",
+    "सुधार – स्थानीय स्वायत्तता और राष्ट्रीय सुरक्षा/प्रशासनिक दक्षता में संतुलन।"
+  ]
+},
+{
+  "heading": "Debate on Conferring Full Statehood to Delhi",
+  "headingHindi": "दिल्ली को पूर्ण राज्य का दर्जा देने पर बहस",
+  "highlight": "The debate on full statehood for Delhi stems from CM–Lt. Governor clashes, with proponents citing effective governance and autonomy, while opponents stress constitutional, security, and financial challenges. The Supreme Court (2018) clarified the LG’s role but held that NCT of Delhi cannot be granted full statehood under the present constitutional scheme.",
+  "highlightHindi": "दिल्ली को पूर्ण राज्य का दर्जा देने की बहस CM–उपराज्यपाल टकराव से उत्पन्न होती है। समर्थक प्रभावी शासन और स्वायत्तता का तर्क देते हैं, जबकि विरोधी संवैधानिक, सुरक्षा और वित्तीय चुनौतियों पर जोर देते हैं। सुप्रीम कोर्ट (2018) ने उपराज्यपाल की भूमिका स्पष्ट की, लेकिन कहा कि वर्तमान संवैधानिक व्यवस्था में दिल्ली को पूर्ण राज्य का दर्जा नहीं दिया जा सकता।",
+  "details": [
+    "## Background",
+    "• Despite the 69th Constitutional Amendment Act, 1992, Delhi’s Council of Ministers (COMs) require LG’s nod for certain functions.",
+    "• Key subjects like Police, Public Order, and Land excluded from Delhi government’s jurisdiction.",
+    "• Statehood debate intensified due to frequent clashes between CM and LG.",
+    "## Arguments in Favour of Statehood",
+    "• Effective management and implementation of welfare schemes.",
+    "• Police and exempted subjects would come under state government’s control.",
+    "• No need for multiple permissions from the central government for routine projects.",
+    "• Delhi requires its own cadre of officers due to population growth and diverse nature.",
+    "## Arguments Against Statehood",
+    "• States Reorganisation Committee: statehood would cause clashes between Centre and Delhi.",
+    "• Security of Parliament and central buildings would shift to state control.",
+    "• Delhi may lack resources and expertise to manage such functions.",
+    "• Financial burden: increased salaries and pensions for additional bodies.",
+    "## Supreme Court Ruling (Govt. of NCT of Delhi vs Union of India, 2018)",
+    "• LG bound by advice of Council of Ministers under Article 239AA(4).",
+    "• LG must be informed, but concurrence is not required.",
+    "• LG should refer disputes to the President only in exceptional cases.",
+    "• LG is a facilitator, not an adversary.",
+    "## Supreme Court Observation on Statehood",
+    "• NCT of Delhi cannot be granted statehood under the present constitutional scheme."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• 69वें संविधान संशोधन अधिनियम, 1992 के बाद भी दिल्ली की मंत्रिपरिषद (COMs) को कुछ कार्यों के लिए LG की स्वीकृति चाहिए।",
+    "• पुलिस, कानून-व्यवस्था और भूमि जैसे विषय दिल्ली सरकार के अधिकार क्षेत्र से बाहर।",
+    "• CM और LG के बीच टकराव के कारण राज्य का दर्जा बहस का मुद्दा।",
+    "## राज्य का दर्जा देने के पक्ष में तर्क",
+    "• कल्याणकारी योजनाओं का प्रभावी प्रबंधन।",
+    "• पुलिस और अन्य विषय राज्य सरकार के नियंत्रण में आ जाएंगे।",
+    "• केंद्र सरकार से बार-बार अनुमति लेने की आवश्यकता नहीं होगी।",
+    "• दिल्ली को अपनी जनसंख्या और विविधता के कारण अलग कैडर के अधिकारी चाहिए।",
+    "## राज्य का दर्जा देने के खिलाफ तर्क",
+    "• राज्यों के पुनर्गठन समिति: राज्य का दर्जा देने से केंद्र और दिल्ली के बीच टकराव।",
+    "• संसद और केंद्रीय भवनों की सुरक्षा राज्य सरकार के अधीन हो जाएगी।",
+    "• दिल्ली के पास संसाधन और विशेषज्ञता की कमी हो सकती है।",
+    "• अतिरिक्त निकायों के लिए वेतन और पेंशन से वित्तीय बोझ।",
+    "## सर्वोच्च न्यायालय का फैसला (दिल्ली सरकार बनाम भारत संघ, 2018)",
+    "• अनुच्छेद 239AA(4) के तहत LG मंत्रिपरिषद की सलाह से बाध्य।",
+    "• LG को सूचित करना आवश्यक, लेकिन सहमति जरूरी नहीं।",
+    "• LG को केवल विशेष मामलों में ही विवाद राष्ट्रपति को भेजना चाहिए।",
+    "• LG एक सुविधा प्रदाता हैं, विरोधी नहीं।",
+    "## राज्य का दर्जा पर सुप्रीम कोर्ट का अवलोकन",
+    "• वर्तमान संवैधानिक व्यवस्था में दिल्ली को राज्य का दर्जा नहीं दिया जा सकता।"
+  ],
+  "tables": [
+    {
+      "title": "Delhi Statehood Debate – Key Arguments",
+      "titleHindi": "दिल्ली राज्य का दर्जा बहस – मुख्य तर्क",
+      "columns": ["In Favour", "Against"],
+      "columnsHindi": ["पक्ष में", "विपक्ष में"],
+      "rows": [
+        ["Better welfare implementation", "Centre–Delhi clashes (SRC report)"],
+        ["Police and land under state govt.", "Security of Parliament at risk"],
+        ["No central permissions needed", "Lack of resources and expertise"],
+        ["Own cadre of officers needed", "Financial burden of salaries/pensions"]
+      ],
+      "rowsHindi": [
+        ["बेहतर कल्याणकारी योजनाओं का क्रियान्वयन", "केंद्र–दिल्ली टकराव (SRC रिपोर्ट)"],
+        ["पुलिस और भूमि राज्य सरकार के अधीन", "संसद की सुरक्षा पर खतरा"],
+        ["केंद्र से अनुमति लेने की आवश्यकता नहीं", "संसाधन और विशेषज्ञता की कमी"],
+        ["अलग कैडर के अधिकारी चाहिए", "वेतन/पेंशन से वित्तीय बोझ"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "69th Amendment Act, 1992 gave Delhi NCT status with legislature.",
+    "Govt of NCT of Delhi vs Union of India (2018): LG bound by Council’s advice.",
+    "Delhi cannot be granted full statehood under current constitutional scheme."
+  ],
+  "prelimsTipsHindi": [
+    "69वां संशोधन अधिनियम, 1992: दिल्ली को NCT का दर्जा।",
+    "दिल्ली सरकार बनाम भारत संघ (2018): LG मंत्रिपरिषद की सलाह से बाध्य।",
+    "वर्तमान संवैधानिक व्यवस्था में दिल्ली को राज्य का दर्जा नहीं।"
+  ],
+  "mainsPoints": [
+    "Statehood debate reflects tensions between central authority and local autonomy in Delhi.",
+    "Arguments in favour highlight governance efficiency, autonomy, and demographic needs.",
+    "Arguments against stress constitutional limits, national security, and financial strain.",
+    "Supreme Court (2018) clarified LG’s role but denied scope for full statehood under current scheme."
+  ],
+  "mainsPointsHindi": [
+    "राज्य का दर्जा बहस दिल्ली में केंद्रीय अधिकार और स्थानीय स्वायत्तता के बीच तनाव को दर्शाती है।",
+    "समर्थन में तर्क – बेहतर शासन, स्वायत्तता और जनसांख्यिकीय आवश्यकताएँ।",
+    "विरोध में तर्क – संवैधानिक सीमाएँ, राष्ट्रीय सुरक्षा और वित्तीय बोझ।",
+    "सुप्रीम कोर्ट (2018) ने LG की भूमिका स्पष्ट की लेकिन राज्य का दर्जा देने से इंकार किया।"
+  ]
+},
+{
+  "heading": "Scheduled Areas and Tribal Areas",
+  "headingHindi": "अनुसूचित क्षेत्र और जनजातीय क्षेत्र",
+  "highlight": "Scheduled Areas and Tribal Areas have special administrative provisions under Article 244 of Part X of the Constitution. The Fifth Schedule governs Scheduled Areas, while the Sixth Schedule covers Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram.",
+  "highlightHindi": "अनुसूचित क्षेत्र और जनजातीय क्षेत्र, संविधान के भाग X के अनुच्छेद 244 के अंतर्गत विशेष प्रशासनिक प्रावधान रखते हैं। पाँचवीं अनुसूची अनुसूचित क्षेत्रों पर लागू होती है, जबकि छठी अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम के जनजातीय क्षेत्रों पर लागू होती है।",
+  "details": [
+    "## Constitutional Provisions",
+    "• Article 244(1): Fifth Schedule applies to Scheduled & Tribal Areas, except in Assam, Meghalaya, Tripura, and Mizoram.",
+    "• Article 244(2): Sixth Schedule applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram.",
+    "• Article 244A: Provides for the formation of an autonomous state comprising certain tribal areas in Assam with a legislature or council of ministers.",
+    "• Article 339: Union has control over the administration of Scheduled Areas and the welfare of Scheduled Tribes.",
+    "## States having Scheduled Areas",
+    "1. Andhra Pradesh",
+    "2. Chhattisgarh",
+    "3. Gujarat",
+    "4. Himachal Pradesh",
+    "5. Jharkhand",
+    "6. Madhya Pradesh",
+    "7. Maharashtra",
+    "8. Odisha",
+    "9. Rajasthan",
+    "10. Telangana",
+    "## Scheduled Areas under Fifth Schedule",
+    "• Defined in Part C of the Fifth Schedule: 'such areas as the President may by order declare to be Scheduled Areas'.",
+    "### Criteria for Declaring Scheduled Areas (not specified in Constitution, but followed in practice):",
+    "• Predominance of tribal population.",
+    "• Compactness and reasonable size of the area.",
+    "• A viable administrative entity such as a district, block or taluk.",
+    "• Economic backwardness of the area."
+  ],
+  "detailsHindi": [
+    "## संवैधानिक प्रावधान",
+    "• अनुच्छेद 244(1): पाँचवीं अनुसूची अनुसूचित और जनजातीय क्षेत्रों पर लागू होती है, असम, मेघालय, त्रिपुरा और मिजोरम को छोड़कर।",
+    "• अनुच्छेद 244(2): छठी अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम के जनजातीय क्षेत्रों पर लागू होती है।",
+    "• अनुच्छेद 244A: असम के कुछ जनजातीय क्षेत्रों को मिलाकर एक स्वायत्त राज्य का गठन, जिसमें विधानमंडल या मंत्रिपरिषद या दोनों हो सकते हैं।",
+    "• अनुच्छेद 339: संघ को अनुसूचित क्षेत्रों के प्रशासन और अनुसूचित जनजातियों के कल्याण पर नियंत्रण।",
+    "## अनुसूचित क्षेत्र वाले राज्य",
+    "1. आंध्र प्रदेश",
+    "2. छत्तीसगढ़",
+    "3. गुजरात",
+    "4. हिमाचल प्रदेश",
+    "5. झारखंड",
+    "6. मध्य प्रदेश",
+    "7. महाराष्ट्र",
+    "8. ओडिशा",
+    "9. राजस्थान",
+    "10. तेलंगाना",
+    "## पाँचवीं अनुसूची के अंतर्गत अनुसूचित क्षेत्र",
+    "• परिभाषा: पाँचवीं अनुसूची के भाग C में – 'वे क्षेत्र जिन्हें राष्ट्रपति आदेश द्वारा अनुसूचित क्षेत्र घोषित करें'।",
+    "### अनुसूचित क्षेत्र घोषित करने के मानदंड (संविधान में निर्दिष्ट नहीं, पर व्यवहार में अपनाए जाते हैं):",
+    "• जनजातीय जनसंख्या की प्रधानता।",
+    "• क्षेत्र की सघनता और उचित आकार।",
+    "• प्रशासनिक इकाई के रूप में व्यवहार्यता – जिला, खंड या तालुक।",
+    "• क्षेत्र की आर्थिक पिछड़ापन।"
+  ],
+  "tables": [
+    {
+      "title": "Key Constitutional Articles on Scheduled & Tribal Areas",
+      "titleHindi": "अनुसूचित और जनजातीय क्षेत्रों पर प्रमुख संवैधानिक अनुच्छेद",
+      "columns": ["Article", "Subject Matter"],
+      "columnsHindi": ["अनुच्छेद", "विषय"],
+      "rows": [
+        ["Article 244", "Administration of Scheduled Areas and Tribal Areas"],
+        ["Article 244A", "Formation of autonomous state in Assam’s tribal areas"],
+        ["Article 339", "Union’s control over Scheduled Areas and welfare of STs"]
+      ],
+      "rowsHindi": [
+        ["अनुच्छेद 244", "अनुसूचित और जनजातीय क्षेत्रों का प्रशासन"],
+        ["अनुच्छेद 244A", "असम के जनजातीय क्षेत्रों में स्वायत्त राज्य का गठन"],
+        ["अनुच्छेद 339", "अनुसूचित क्षेत्रों और अनुसूचित जनजातियों के कल्याण पर संघ का नियंत्रण"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 244: Administration of Scheduled & Tribal Areas.",
+    "Fifth Schedule: Scheduled Areas (10 states).",
+    "Sixth Schedule: Tribal Areas in Assam, Meghalaya, Tripura, Mizoram.",
+    "Criteria for Scheduled Areas: tribal dominance, compact size, viable administration, economic backwardness."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 244: अनुसूचित और जनजातीय क्षेत्रों का प्रशासन।",
+    "पाँचवीं अनुसूची: अनुसूचित क्षेत्र (10 राज्य)।",
+    "छठी अनुसूची: असम, मेघालय, त्रिपुरा, मिजोरम के जनजातीय क्षेत्र।",
+    "अनुसूचित क्षेत्र घोषित करने के मानदंड: जनजातीय प्रधानता, सघनता, प्रशासनिक इकाई, आर्थिक पिछड़ापन।"
+  ],
+  "mainsPoints": [
+    "Scheduled Areas (Fifth Schedule) and Tribal Areas (Sixth Schedule) provide for differentiated governance for tribal-dominated regions.",
+    "The President has the power to declare areas as Scheduled Areas.",
+    "Special governance ensures preservation of tribal culture, customs, and socio-economic upliftment.",
+    "Union exercises supervisory control (Article 339) to ensure tribal welfare."
+  ],
+  "mainsPointsHindi": [
+    "अनुसूचित क्षेत्र (पाँचवीं अनुसूची) और जनजातीय क्षेत्र (छठी अनुसूची) जनजातीय बहुल क्षेत्रों के लिए विशेष प्रशासनिक व्यवस्था प्रदान करते हैं।",
+    "राष्ट्रपति को क्षेत्र को अनुसूचित क्षेत्र घोषित करने की शक्ति है।",
+    "विशेष शासन जनजातीय संस्कृति, परंपरा और सामाजिक-आर्थिक उन्नयन की रक्षा करता है।",
+    "संघ, अनुच्छेद 339 के तहत, जनजातीय कल्याण सुनिश्चित करने के लिए नियंत्रण रखता है।"
+  ]
+},
+{
+  "heading": "Special Provisions for Fifth Schedule Areas",
+  "headingHindi": "पाँचवीं अनुसूची क्षेत्रों के लिए विशेष प्रावधान",
+  "highlight": "The Fifth Schedule provides special provisions for administration and governance of Scheduled Areas to safeguard tribal interests. The President, Governors, and Tribes Advisory Council play key roles, ensuring self-governance, land protection, and welfare of Scheduled Tribes.",
+  "highlightHindi": "पाँचवीं अनुसूची अनुसूचित क्षेत्रों के प्रशासन और शासन के लिए विशेष प्रावधान प्रदान करती है ताकि जनजातीय हितों की रक्षा की जा सके। इसमें राष्ट्रपति, राज्यपाल और जनजातीय सलाहकार परिषद की प्रमुख भूमिका होती है।",
+  "details": [
+    "## Role of the President",
+    "• Declares Scheduled Areas in consultation with State Governor.",
+    "• Can alter boundaries of Scheduled Areas.",
+    "• Appoints Commission on Scheduled Areas (Article 339).",
+    "  – Must be constituted every 10 years.",
+    "  – First Commission: 1960, chaired by U.N. Dhebar.",
+    "  – Second Commission: 2002, chaired by Dileep Singh Bhuria.",
+    "## Role of Governors",
+    "• Submit annual reports on administration of Scheduled Areas to President.",
+    "• Union can issue directions to State administration regarding these areas.",
+    "• Power to modify or exempt application of any law of Parliament or State Legislature in Scheduled Areas.",
+    "• Can make regulations for peace and good governance in Scheduled Areas, including:",
+    "  – Restricting transfer of tribal land.",
+    "  – Regulating land allotment.",
+    "  – Controlling money-lending business.",
+    "• Such regulations amending/repealing laws require President’s assent.",
+    "## Tribes Advisory Council (TAC)",
+    "• Mandatory in states with Scheduled Areas.",
+    "• Composition: Up to 20 members, of which 3/4 must be ST representatives in the State Assembly.",
+    "• Function: Advises State Government on ST welfare matters.",
+    "• President may direct formation of TAC in states having ST population but no Scheduled Areas."
+  ],
+  "detailsHindi": [
+    "## राष्ट्रपति की भूमिका",
+    "• राज्यपाल से परामर्श कर अनुसूचित क्षेत्र घोषित करते हैं।",
+    "• अनुसूचित क्षेत्रों की सीमाएँ बदल सकते हैं।",
+    "• अनुसूचित क्षेत्रों पर आयोग नियुक्त करते हैं (अनुच्छेद 339)।",
+    "  – हर 10 वर्ष में अनिवार्य।",
+    "  – पहला आयोग: 1960 (यू.एन. देबर की अध्यक्षता में)।",
+    "  – दूसरा आयोग: 2002 (दिलीप सिंह भूरिया की अध्यक्षता में)।",
+    "## राज्यपाल की भूमिका",
+    "• अनुसूचित क्षेत्रों के प्रशासन पर वार्षिक रिपोर्ट राष्ट्रपति को भेजते हैं।",
+    "• केंद्र सरकार राज्य प्रशासन को निर्देश दे सकती है।",
+    "• संसद या राज्य विधानमंडल के किसी कानून को अनुसूचित क्षेत्रों में लागू करने से छूट या संशोधन कर सकते हैं।",
+    "• शांति और सुव्यवस्था के लिए विनियम बना सकते हैं, जैसे:",
+    "  – जनजातीय भूमि हस्तांतरण पर प्रतिबंध।",
+    "  – भूमि आवंटन का नियमन।",
+    "  – साहूकारी व्यवसाय का नियंत्रण।",
+    "• ऐसे विनियम जिन्हें कानून में संशोधन/निरस्त करना हो, राष्ट्रपति की स्वीकृति आवश्यक।",
+    "## जनजातीय सलाहकार परिषद (TAC)",
+    "• अनुसूचित क्षेत्रों वाले राज्यों में अनिवार्य।",
+    "• संरचना: अधिकतम 20 सदस्य, जिनमें से 3/4 राज्य विधानसभा के अनुसूचित जनजाति सदस्य।",
+    "• कार्य: राज्य सरकार को अनुसूचित जनजातियों के कल्याण पर सलाह देना।",
+    "• राष्ट्रपति उन राज्यों में TAC का गठन करा सकते हैं जहाँ अनुसूचित जनजातियाँ हैं लेकिन अनुसूचित क्षेत्र नहीं।"
+  ],
+  "tables": [
+    {
+      "title": "Key Provisions for Fifth Schedule Areas",
+      "titleHindi": "पाँचवीं अनुसूची क्षेत्रों के मुख्य प्रावधान",
+      "columns": ["Authority", "Power/Function"],
+      "columnsHindi": ["प्राधिकरण", "शक्ति/कार्य"],
+      "rows": [
+        ["President", "Declares/changes Scheduled Areas; appoints Commission (every 10 years)"],
+        ["Governor", "Annual reports; modifies/exempts laws; peace & governance regulations"],
+        ["TAC (Tribes Advisory Council)", "Advises State Govt. on tribal welfare; 3/4 members from ST MLAs"],
+        ["Union Govt.", "Can direct State administration in Scheduled Areas"]
+      ],
+      "rowsHindi": [
+        ["राष्ट्रपति", "अनुसूचित क्षेत्र घोषित/परिवर्तित करते हैं; हर 10 वर्ष में आयोग नियुक्त"],
+        ["राज्यपाल", "वार्षिक रिपोर्ट; कानूनों में संशोधन/छूट; शांति व शासन के विनियम"],
+        ["जनजातीय सलाहकार परिषद", "राज्य सरकार को ST कल्याण पर सलाह; 3/4 सदस्य ST विधायक"],
+        ["केंद्र सरकार", "अनुसूचित क्षेत्रों में राज्य प्रशासन को निर्देश दे सकती है"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Article 339 – President appoints Commission on Scheduled Areas every 10 years.",
+    "Tribes Advisory Council: 20 members max, 3/4 from ST MLAs.",
+    "Governor has power to restrict land transfer, regulate money-lending in Scheduled Areas."
+  ],
+  "prelimsTipsHindi": [
+    "अनुच्छेद 339 – राष्ट्रपति हर 10 वर्ष में अनुसूचित क्षेत्रों पर आयोग नियुक्त करते हैं।",
+    "जनजातीय सलाहकार परिषद: अधिकतम 20 सदस्य, 3/4 ST विधायक।",
+    "राज्यपाल – अनुसूचित क्षेत्रों में भूमि हस्तांतरण पर रोक और साहूकारी का नियमन कर सकते हैं।"
+  ],
+  "mainsPoints": [
+    "Fifth Schedule empowers President and Governors to safeguard tribal interests.",
+    "Tribes Advisory Council ensures ST representation in policymaking.",
+    "Governor’s regulatory powers protect land and economic interests of tribals.",
+    "Periodic Commissions (e.g., Dhebar, Bhuria) review and recommend improvements."
+  ],
+  "mainsPointsHindi": [
+    "पाँचवीं अनुसूची राष्ट्रपति और राज्यपाल को जनजातीय हितों की सुरक्षा का अधिकार देती है।",
+    "जनजातीय सलाहकार परिषद नीति-निर्माण में ST प्रतिनिधित्व सुनिश्चित करती है।",
+    "राज्यपाल के विनियामक अधिकार जनजातीय भूमि और आर्थिक हितों की रक्षा करते हैं।",
+    "नियतकालिक आयोग (जैसे देबर, भूरिया) समीक्षा और सुधार की सिफारिश करते हैं।"
+  ]
+},
+{
+  "heading": "Special Provisions for Sixth Schedule Areas",
+  "headingHindi": "छठी अनुसूची क्षेत्रों के लिए विशेष प्रावधान",
+  "highlight": "The Sixth Schedule provides special arrangements for tribal areas in Assam, Meghalaya, Tripura, and Mizoram to preserve distinct tribal culture and ensure self-governance through Autonomous District and Regional Councils.",
+  "highlightHindi": "छठी अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम के जनजातीय क्षेत्रों के लिए विशेष प्रावधान करती है ताकि उनकी विशिष्ट संस्कृति संरक्षित रहे और स्वशासन के लिए स्वायत्त जिला एवं क्षेत्रीय परिषदें स्थापित की जा सकें।",
+  "details": [
+    "## Background",
+    "• Tribes in Assam, Meghalaya, Tripura, Mizoram retained distinct identity, unlike other regions.",
+    "• Constitution grants autonomy to protect their traditions and ensure self-rule.",
+    "## Administrative Structure",
+    "• Tribal areas designated as **Autonomous Districts** and **Autonomous Regions**.",
+    "• Governor decides administrative units, alters boundaries, and divides districts.",
+    "• These areas remain under state executive authority, but enjoy legislative autonomy.",
+    "## Legislative Powers",
+    "• District Councils can make laws on land, forest management, agriculture, village administration, social customs, etc.",
+    "• Governor's approval required; money-lending/trading laws need explicit assent.",
+    "## Executive Powers",
+    "• Councils manage schools, dispensaries, markets, roads, waterways.",
+    "• Authority to prescribe language of primary education.",
+    "## Judicial Powers",
+    "• Village and District Council Courts handle tribal disputes.",
+    "• Exclusion of jurisdiction of regular courts, except High Courts and Supreme Court.",
+    "• Cannot try cases involving death penalty or imprisonment ≥ 5 years.",
+    "## Financial Powers",
+    "• Councils prepare budgets, collect revenue, levy taxes, and license mineral extraction.",
+    "## Composition of Councils",
+    "• District Council: 30 members (26 elected, 4 nominated by Governor).",
+    "• Tenure: 5 years (or earlier if dissolved).",
+    "• Regional Councils may also be set up within Autonomous Districts.",
+    "## Oversight",
+    "• President may appoint Commissions to review governance in Sixth Schedule areas."
+  ],
+  "detailsHindi": [
+    "## पृष्ठभूमि",
+    "• असम, मेघालय, त्रिपुरा और मिजोरम की जनजातियों ने अपनी विशिष्ट पहचान बनाए रखी।",
+    "• संविधान ने उनकी परंपराओं की रक्षा और स्वशासन के लिए विशेष प्रावधान दिए।",
+    "## प्रशासनिक ढांचा",
+    "• जनजातीय क्षेत्रों को **स्वायत्त जिले** और **स्वायत्त क्षेत्र** घोषित किया जाता है।",
+    "• राज्यपाल प्रशासनिक इकाइयों का निर्धारण, सीमाओं का परिवर्तन और जिलों का विभाजन कर सकते हैं।",
+    "• ये क्षेत्र राज्य की कार्यपालिका के अधीन रहते हैं लेकिन विधायी स्वायत्तता रखते हैं।",
+    "## विधायी शक्तियाँ",
+    "• जिला परिषद भूमि, वन प्रबंधन, कृषि, ग्राम प्रशासन, सामाजिक प्रथाओं आदि पर कानून बना सकती है।",
+    "• राज्यपाल की स्वीकृति आवश्यक; साहूकारी और व्यापार पर कानून हेतु विशेष स्वीकृति आवश्यक।",
+    "## कार्यपालिका शक्तियाँ",
+    "• परिषदें स्कूल, औषधालय, बाजार, सड़कें, जलमार्ग आदि का प्रबंधन करती हैं।",
+    "• प्राथमिक शिक्षा की भाषा निर्धारित करने का अधिकार।",
+    "## न्यायिक शक्तियाँ",
+    "• ग्राम और जिला परिषद न्यायालय जनजातीय विवादों का निपटारा करते हैं।",
+    "• नियमित अदालतों का अधिकार क्षेत्र सीमित (केवल उच्च न्यायालय और सर्वोच्च न्यायालय)।",
+    "• मृत्यु दंड या ≥ 5 वर्ष की सजा वाले मामलों पर अधिकार नहीं।",
+    "## वित्तीय शक्तियाँ",
+    "• परिषदें बजट तैयार करती हैं, राजस्व एकत्र करती हैं, कर लगाती हैं और खनिज उत्खनन के लाइसेंस देती हैं।",
+    "## परिषदों की संरचना",
+    "• जिला परिषद: 30 सदस्य (26 निर्वाचित, 4 राज्यपाल द्वारा नामित)।",
+    "• कार्यकाल: 5 वर्ष (या पहले, यदि भंग हो)।",
+    "• स्वायत्त जिलों के भीतर क्षेत्रीय परिषदें भी स्थापित की जा सकती हैं।",
+    "## पर्यवेक्षण",
+    "• राष्ट्रपति छठी अनुसूची क्षेत्रों के शासन की समीक्षा हेतु आयोग नियुक्त कर सकते हैं।"
+  ],
+  "tables": [
+    {
+      "title": "Tribal Areas under Sixth Schedule",
+      "titleHindi": "छठी अनुसूची के अंतर्गत जनजातीय क्षेत्र",
+      "columns": ["State", "Autonomous Areas"],
+      "columnsHindi": ["राज्य", "स्वायत्त क्षेत्र"],
+      "rows": [
+        ["Assam", "North Cachar Hills, Karbi Anglong, Bodoland Territorial Areas"],
+        ["Meghalaya", "Khasi Hills, Jaintia Hills, Garo Hills"],
+        ["Tripura", "Tripura Tribal Areas District"],
+        ["Mizoram", "Chakma District, Mara District, Lai District"]
+      ],
+      "rowsHindi": [
+        ["असम", "उत्तर कछार हिल्स, कार्बी आंगलोंग, बोडोलैंड प्रादेशिक क्षेत्र"],
+        ["मेघालय", "खासी हिल्स, जयंतिया हिल्स, गारो हिल्स"],
+        ["त्रिपुरा", "त्रिपुरा जनजातीय क्षेत्रीय जिला"],
+        ["मिजोरम", "चकमा जिला, मारा जिला, लाई जिला"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Sixth Schedule covers Assam, Meghalaya, Tripura, Mizoram.",
+    "District Council: 30 members (26 elected + 4 nominated).",
+    "Councils have legislative, executive, judicial, and financial powers with Governor’s oversight."
+  ],
+  "prelimsTipsHindi": [
+    "छठी अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम को कवर करती है।",
+    "जिला परिषद: 30 सदस्य (26 निर्वाचित + 4 राज्यपाल द्वारा नामित)।",
+    "परिषदों के पास विधायी, कार्यपालिका, न्यायिक और वित्तीय शक्तियाँ होती हैं, राज्यपाल की देखरेख में।"
+  ],
+  "mainsPoints": [
+    "Sixth Schedule ensures autonomy for north-eastern tribes through District and Regional Councils.",
+    "Councils combine legislative, executive, judicial, and financial powers with state oversight.",
+    "Governor plays pivotal role in approving and safeguarding tribal governance.",
+    "Distinct from Fifth Schedule: direct self-governance for tribal areas, not just protection."
+  ],
+  "mainsPointsHindi": [
+    "छठी अनुसूची उत्तर-पूर्व की जनजातियों को जिला और क्षेत्रीय परिषदों के माध्यम से स्वायत्तता प्रदान करती है।",
+    "परिषदों के पास विधायी, कार्यपालिका, न्यायिक और वित्तीय शक्तियाँ होती हैं।",
+    "राज्यपाल जनजातीय शासन की स्वीकृति और सुरक्षा में मुख्य भूमिका निभाते हैं।",
+    "पाँचवीं अनुसूची से अलग: यहाँ केवल संरक्षण नहीं बल्कि प्रत्यक्ष स्वशासन की व्यवस्था है।"
+  ]
+},
+{
+  "heading": "Differences between Fifth and Sixth Schedule",
+  "headingHindi": "पाँचवीं और छठी अनुसूची के बीच अंतर",
+  "highlight": "The Fifth Schedule applies to Scheduled Areas in most states and provides for Tribal Advisory Councils with limited powers, while the Sixth Schedule applies to certain northeastern states and establishes Autonomous District and Regional Councils with legislative, executive, and judicial powers.",
+  "highlightHindi": "पाँचवीं अनुसूची अधिकांश राज्यों के अनुसूचित क्षेत्रों पर लागू होती है और इसमें सीमित शक्तियों वाले जनजातीय सलाहकार परिषदों का प्रावधान है, जबकि छठी अनुसूची पूर्वोत्तर के कुछ राज्यों पर लागू होती है और इसमें व्यापक विधायी, कार्यपालिका और न्यायिक शक्तियों वाले स्वायत्त जिला और क्षेत्रीय परिषदों का प्रावधान है।",
+  "tables": [
+    {
+      "title": "Comparison of Fifth and Sixth Schedule",
+      "titleHindi": "पाँचवीं और छठी अनुसूची की तुलना",
+      "columns": ["Parameter", "Fifth Schedule", "Sixth Schedule"],
+      "columnsHindi": ["पैरामीटर", "पाँचवीं अनुसूची", "छठी अनुसूची"],
+      "rows": [
+        [
+          "Nature of Governing Body",
+          "Tribal Advisory Councils created by respective State Legislature.",
+          "District/Regional Councils created by the Constitution itself."
+        ],
+        [
+          "Powers",
+          "Tribal Advisory Councils have limited executive powers; State’s executive power extends to Scheduled Areas.",
+          "Councils have extensive legislative, executive, and judicial powers."
+        ],
+        [
+          "Financial Autonomy",
+          "No financial powers, cannot prepare budgets.",
+          "Councils can prepare budgets and manage finances."
+        ],
+        [
+          "Establishment",
+          "President declares/renounces Scheduled Areas in consultation with Governor.",
+          "Governor can create new Autonomous Districts/Regions or alter boundaries/names."
+        ],
+        [
+          "Range of Powers",
+          "Minimal, mostly decided by State Cabinet.",
+          "Long list of subjects with independent authority."
+        ],
+        [
+          "States Covered",
+          "Scheduled Areas and STs in all states except Assam, Meghalaya, Tripura, Mizoram.",
+          "Only Assam, Meghalaya, Tripura, Mizoram."
+        ]
+      ],
+      "rowsHindi": [
+        [
+          "शासन निकाय का स्वरूप",
+          "जनजातीय सलाहकार परिषदें संबंधित राज्य विधानमंडल द्वारा बनाई जाती हैं।",
+          "जिला/क्षेत्रीय परिषदें संविधान द्वारा बनाई जाती हैं।"
+        ],
+        [
+          "शक्तियाँ",
+          "जनजातीय परिषदों के पास सीमित कार्यपालिका शक्तियाँ; राज्य की कार्यपालिका शक्ति अनुसूचित क्षेत्रों तक विस्तारित।",
+          "परिषदों के पास व्यापक विधायी, कार्यपालिका और न्यायिक शक्तियाँ।"
+        ],
+        [
+          "वित्तीय स्वायत्तता",
+          "कोई वित्तीय शक्ति नहीं, बजट तैयार नहीं कर सकते।",
+          "परिषदें बजट तैयार कर सकती हैं और वित्त प्रबंधित कर सकती हैं।"
+        ],
+        [
+          "स्थापना",
+          "राष्ट्रपति, राज्यपाल से परामर्श कर अनुसूचित क्षेत्र घोषित/हटाते हैं।",
+          "राज्यपाल नए स्वायत्त जिले/क्षेत्र बना सकते हैं या सीमाएँ/नाम बदल सकते हैं।"
+        ],
+        [
+          "शक्तियों की सीमा",
+          "सीमित, मुख्यतः राज्य कैबिनेट द्वारा तय।",
+          "विस्तृत विषयों पर स्वतंत्र अधिकार।"
+        ],
+        [
+          "शामिल राज्य",
+          "सभी राज्यों में अनुसूचित क्षेत्र और अनुसूचित जनजाति, सिवाय असम, मेघालय, त्रिपुरा, मिजोरम।",
+          "केवल असम, मेघालय, त्रिपुरा और मिजोरम।"
+        ]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Fifth Schedule – applies to most states except NE; limited powers via Tribal Advisory Councils.",
+    "Sixth Schedule – applies only to Assam, Meghalaya, Tripura, Mizoram; provides legislative, executive, judicial powers.",
+    "President controls Fifth Schedule; Governor has wider powers under Sixth Schedule."
+  ],
+  "prelimsTipsHindi": [
+    "पाँचवीं अनुसूची – अधिकांश राज्यों पर लागू; सीमित शक्तियाँ (जनजातीय सलाहकार परिषदें)।",
+    "छठी अनुसूची – केवल असम, मेघालय, त्रिपुरा, मिजोरम पर लागू; व्यापक विधायी, कार्यपालिका और न्यायिक शक्तियाँ।",
+    "पाँचवीं अनुसूची पर राष्ट्रपति का नियंत्रण; छठी अनुसूची में राज्यपाल की बड़ी भूमिका।"
+  ],
+  "mainsPoints": [
+    "Fifth Schedule ensures protection of ST rights but limited autonomy; Sixth Schedule provides real self-governance.",
+    "Fifth Schedule relies on State and Union control; Sixth Schedule empowers local councils.",
+    "Financial powers mark a major difference: Sixth Schedule allows councils to prepare and manage budgets.",
+    "Distinct governance models reflect India’s asymmetric federalism and respect for tribal diversity."
+  ],
+  "mainsPointsHindi": [
+    "पाँचवीं अनुसूची ST अधिकारों की रक्षा करती है लेकिन सीमित स्वायत्तता देती है; छठी अनुसूची वास्तविक स्वशासन देती है।",
+    "पाँचवीं अनुसूची राज्य और केंद्र के नियंत्रण पर निर्भर है; छठी अनुसूची स्थानीय परिषदों को शक्ति देती है।",
+    "वित्तीय शक्तियाँ बड़ा अंतर हैं: छठी अनुसूची परिषदों को बजट तैयार और प्रबंधन का अधिकार देती है।",
+    "ये भिन्न शासन मॉडल भारत के विषम संघवाद और जनजातीय विविधता के सम्मान को दर्शाते हैं।"
+  ]
+},
+{
+  "heading": "Issues and Reforms: Fifth & Sixth Schedule Areas",
+  "headingHindi": "पांचवीं और छठी अनुसूची क्षेत्र: समस्याएँ और सुधार",
+  "highlight": "The Fifth Schedule areas suffer from limited coverage, weak self-governance, and powerless Tribes Advisory Councils. The Sixth Schedule areas face demographic issues, elite capture, and conflicts with state legislatures. Strengthening autonomy, empowering councils, decentralisation, and addressing new demands like Ladakh are key reforms.",
+  "highlightHindi": "पांचवीं अनुसूची क्षेत्रों में सीमित कवरेज, कमजोर स्वशासन और शक्तिहीन जनजातीय सलाहकार परिषदों की समस्या है। छठी अनुसूची क्षेत्रों में जनसांख्यिकीय असंतुलन, अभिजात वर्ग का प्रभुत्व और राज्य विधानसभाओं से टकराव की समस्या है। आत्मनिर्भरता को मजबूत करना, परिषदों को सशक्त बनाना, विकेंद्रीकरण और लद्दाख जैसी नई मांगों का समाधान प्रमुख सुधार हैं।",
+  "details": [
+    "## Issues Related to Fifth Schedule",
+    "• Lack of Coverage.",
+    "• Weak self-governance powers.",
+    "• Breach of laws leading to marginalisation, loss of autonomy, and land alienation.",
+    "• Tribes Advisory Councils (TACs) have no real legislative or financial powers.",
+    "## Way Forward for Fifth Schedule",
+    "• Expand coverage to include more tribal areas.",
+    "• Enhance self-governance powers for tribal communities.",
+    "• Strengthen TACs with legislative and executive authority.",
+    "• Enhance powers of Autonomous District Councils (ADCs).",
+    "## Issues Related to Sixth Schedule",
+    "• Demographic imbalance due to migration and insurgency (e.g., Chakma & Hajong exodus).",
+    "• Discrimination against non-tribal residents.",
+    "• Conflicts between District Councils and State Legislatures.",
+    "• Tribal elites concentrate power, common citizens sidelined.",
+    "• Lack of decentralisation and effective administration.",
+    "• Demand for Sixth Schedule status by new UTs like Ladakh.",
+    "## Way Forward for Sixth Schedule",
+    "• Implement accords like 2020 Brus Agreement for cooperative federalism.",
+    "• Assam-Meghalaya pact for boundary dispute resolution and holistic tribal development.",
+    "• Empower common citizens and check elite capture.",
+    "• Promote decentralisation of powers to local tribal councils.",
+    "• Evaluate new demands like Sixth Schedule status for Ladakh."
+  ],
+  "detailsHindi": [
+    "## पांचवीं अनुसूची से संबंधित समस्याएँ",
+    "• कवरेज की कमी।",
+    "• स्वशासन की कमजोर शक्तियाँ।",
+    "• कानूनों का उल्लंघन, जिसके कारण हाशियाकरण, स्वायत्तता और भूमि की हानि।",
+    "• जनजातीय सलाहकार परिषदों (TACs) के पास वास्तविक विधायी और वित्तीय शक्तियाँ नहीं।",
+    "## पांचवीं अनुसूची के लिए आगे का मार्ग",
+    "• अधिक जनजातीय क्षेत्रों को कवरेज में शामिल करना।",
+    "• जनजातीय समुदायों को अधिक स्वशासन की शक्ति प्रदान करना।",
+    "• TACs को विधायी और कार्यकारी शक्तियों से सशक्त बनाना।",
+    "• स्वायत्त जिला परिषदों (ADCs) की शक्तियों को बढ़ाना।",
+    "## छठी अनुसूची से संबंधित समस्याएँ",
+    "• प्रवास और उग्रवाद के कारण जनसांख्यिकीय असंतुलन (जैसे चकमा और हजोंग का पलायन)।",
+    "• गैर-जनजातीय निवासियों के प्रति भेदभाव।",
+    "• जिला परिषदों और राज्य विधानसभाओं के बीच टकराव।",
+    "• जनजातीय अभिजात वर्ग के हाथों में शक्ति का केंद्रीकरण, आम नागरिक उपेक्षित।",
+    "• विकेंद्रीकरण और प्रभावी प्रशासन की कमी।",
+    "• लद्दाख जैसे नए केंद्रशासित प्रदेशों द्वारा छठी अनुसूची की मांग।",
+    "## छठी अनुसूची के लिए आगे का मार्ग",
+    "• 2020 के ब्रू समझौते जैसे समझौतों को लागू करना।",
+    "• असम-मेघालय समझौते द्वारा सीमा विवाद समाधान और समग्र जनजातीय विकास।",
+    "• आम नागरिकों को सशक्त बनाना और अभिजात वर्ग के प्रभुत्व को रोकना।",
+    "• स्थानीय जनजातीय परिषदों को अधिक शक्ति देकर विकेंद्रीकरण को बढ़ावा देना।",
+    "• लद्दाख जैसी नई मांगों का मूल्यांकन करना।"
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Issues – Fifth vs Sixth Schedule",
+      "titleHindi": "समस्याओं की तुलना – पांचवीं बनाम छठी अनुसूची",
+      "columns": ["Aspect", "Fifth Schedule Issues", "Sixth Schedule Issues"],
+      "columnsHindi": ["पहलू", "पांचवीं अनुसूची समस्याएँ", "छठी अनुसूची समस्याएँ"],
+      "rows": [
+        ["Coverage", "Limited coverage of tribal areas", "Applies only to NE states"],
+        ["Self-Governance", "Weak powers, TACs ineffective", "Decentralisation absent despite ADCs"],
+        ["Democracy", "Marginalisation of tribal voices", "Elite capture, common tribals sidelined"],
+        ["Conflicts", "Governor & President control", "State legislatures vs ADCs conflict"],
+        ["New Demands", "Need expansion to other tribal belts", "Ladakh demanding 6th Schedule status"]
+      ],
+      "rowsHindi": [
+        ["कवरेज", "सीमित जनजातीय क्षेत्रों का कवरेज", "केवल पूर्वोत्तर राज्यों पर लागू"],
+        ["स्वशासन", "कमजोर शक्तियाँ, TACs अप्रभावी", "ADCs होने के बावजूद विकेंद्रीकरण अनुपस्थित"],
+        ["लोकतंत्र", "जनजातीय आवाज़ों का हाशियाकरण", "अभिजात वर्ग का प्रभुत्व, आम नागरिक उपेक्षित"],
+        ["टकराव", "राज्यपाल और राष्ट्रपति का नियंत्रण", "राज्य विधानसभाओं और ADCs के बीच संघर्ष"],
+        ["नई मांगें", "अन्य जनजातीय क्षेत्रों में विस्तार की आवश्यकता", "लद्दाख छठी अनुसूची की मांग कर रहा है"]
+      ]
+    }
+  ],
+  "prelimsTips": [
+    "Fifth Schedule – Applies to 10 states, President declares areas.",
+    "Sixth Schedule – Applies only to Assam, Meghalaya, Tripura, Mizoram.",
+    "Fifth Schedule – Tribes Advisory Councils; weak powers.",
+    "Sixth Schedule – Autonomous District Councils with legislative, executive, judicial powers.",
+    "Key commissions: Dhebar Commission (1960), Bhuria Commission (2002)."
+  ],
+  "prelimsTipsHindi": [
+    "पांचवीं अनुसूची – 10 राज्यों पर लागू, राष्ट्रपति क्षेत्र घोषित करते हैं।",
+    "छठी अनुसूची – केवल असम, मेघालय, त्रिपुरा, मिजोरम पर लागू।",
+    "पांचवीं अनुसूची – TACs; कमजोर शक्तियाँ।",
+    "छठी अनुसूची – ADCs के पास विधायी, कार्यकारी, न्यायिक शक्तियाँ।",
+    "प्रमुख आयोग: धेबर आयोग (1960), भूरिया आयोग (2002)।"
+  ],
+  "mainsPoints": [
+    "Fifth Schedule suffers from weak institutional mechanisms like TACs with no real powers.",
+    "Sixth Schedule provides ADCs with powers, but elite capture and conflicts limit effectiveness.",
+    "Both schedules face implementation challenges, lack of decentralisation, and demand for reforms.",
+    "Way forward lies in empowering councils, decentralisation, addressing new demands (like Ladakh), and promoting cooperative federalism."
+  ],
+  "mainsPointsHindi": [
+    "पांचवीं अनुसूची में TACs जैसी कमजोर संस्थागत व्यवस्थाएँ हैं।",
+    "छठी अनुसूची ADCs को शक्तियाँ देती है, लेकिन अभिजात वर्ग का प्रभुत्व और टकराव प्रभावशीलता को सीमित करता है।",
+    "दोनों अनुसूचियों में कार्यान्वयन की चुनौतियाँ, विकेंद्रीकरण की कमी और सुधार की आवश्यकता है।",
+    "आगे का रास्ता परिषदों को सशक्त बनाने, विकेंद्रीकरण, नई मांगों का समाधान (जैसे लद्दाख) और सहकारी संघवाद को बढ़ावा देने में है।"
+  ],
+  image: 'issue_of_5_6_schedule.png',
+},
 ]
 };
