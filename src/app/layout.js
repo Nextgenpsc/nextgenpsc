@@ -1,5 +1,8 @@
 import "./globals.css";
 import {Header} from "../components/Header";
+import { Toaster } from "@/components/ui/toaster";
+import { Toaster as Sonner } from "@/components/ui/sonner";
+import { ClientProviders } from "./ClientProviders";
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -30,6 +33,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
             <Header />
+      {/* client-only stuff goes here */}
+        <ClientProviders />
         {children}
         <script
           type="application/ld+json"

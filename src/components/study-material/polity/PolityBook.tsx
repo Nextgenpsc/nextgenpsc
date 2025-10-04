@@ -197,6 +197,10 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
         const updatedBookmarks = [...localBookmarks, content];
         localStorage.setItem(`${subjectId}-bookmarks`, JSON.stringify(updatedBookmarks));
         setNotes(updatedBookmarks);
+        toast({
+          title: "Bookmark saved",
+          description: "Added to your bookmarks successfully.",
+        })
       }
       return;
     }
@@ -275,6 +279,7 @@ const PolityBook = ({ chapters = defaultChapters, subjectId = "polity", subjectT
       setSelectedChapter(nextChapter);
       setCurrentTopicIndex(0);
       saveProgress(selectedChapter, null, true);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
 

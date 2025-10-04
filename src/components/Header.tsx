@@ -22,6 +22,7 @@ import {
   Target,
   Newspaper,
   MessageCircle,
+  Bookmark,
 } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import type { User as SupabaseUser, Session } from "@supabase/supabase-js";
@@ -164,6 +165,12 @@ export const Header = () => {
                     <Link href="/dashboard" className="cursor-pointer">
                       <UserIcon className="mr-2 h-4 w-4" />
                       Dashboard
+                    </Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link href="/bookmarks/current-affairs" className="cursor-pointer">
+                      <Bookmark className="mr-2 h-4 w-4" />
+                      Bookmarks
                     </Link>
                   </DropdownMenuItem>
                   <DropdownMenuItem onClick={handleSignOut} className="cursor-pointer">

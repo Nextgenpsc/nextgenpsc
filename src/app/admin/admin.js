@@ -1,10 +1,8 @@
-// app/admin/AdminClient.js
 "use client";
 
 import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { Plus, Edit, Trash2, Save, X } from "lucide-react";
-
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -25,19 +23,19 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-
 import { supabase } from "@/integrations/supabase/client";
 import { upscSubjects } from "@/data/upscSubjects";
 import { useToast } from "@/hooks/use-toast";
 import { CurrentAffairsNotifier } from "@/components/CurrentAffairsNotifier";
 import CustomEmailSender from "@/components/CustomEmailSender";
+import WeakSectionEmailPanel from "@/components/WeakSectionEmailPanel";
+import CurrentAffairsManager from "@/components/CurrentAffairsManager";
 
-// SSR-safe ReactQuill
+// Load ReactQuill client-side only (avoids SSR errors)
 const ReactQuill = dynamic(() => import("react-quill"), { ssr: false });
 import "react-quill/dist/quill.snow.css";
 
-export default function AdminClient() {
-  const [mounted, setMounted] = useState(false);
+export default function Admin() {
   const [testSeries, setTestSeries] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [selectedTestId, setSelectedTestId] = useState("");
@@ -72,14 +70,14 @@ export default function AdminClient() {
     question_order: 1,
   });
 
-  if (typeof window === "undefined") return null;
   useEffect(() => {
-    setMounted(true)
     fetchTestSeries();
   }, []);
 
   useEffect(() => {
-    if (selectedTestId) fetchQuestions(selectedTestId);
+    if (selectedTestId) {
+      fetchQuestions(selectedTestId);
+    }
   }, [selectedTestId]);
 
   const fetchTestSeries = async () => {
@@ -93,7 +91,11 @@ export default function AdminClient() {
       setTestSeries(data || []);
     } catch (error) {
       console.error("Error fetching test series:", error);
-      toast({ title: "Error", description: "Failed to fetch test series", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to fetch test series",
+        variant: "destructive",
+      });
     } finally {
       setLoading(false);
     }
@@ -111,7 +113,11 @@ export default function AdminClient() {
       setQuestions(data || []);
     } catch (error) {
       console.error("Error fetching questions:", error);
-      toast({ title: "Error", description: "Failed to fetch questions", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to fetch questions",
+        variant: "destructive",
+      });
     }
   };
 
@@ -125,7 +131,12 @@ export default function AdminClient() {
         max_score: newTest.max_score || 0,
       };
 
-      const { data, error } = await supabase.from("test_series").insert([testData]).select().single();
+      const { data, error } = await supabase
+        .from("test_series")
+        .insert([testData])
+        .select()
+        .single();
+
       if (error) throw error;
 
       setTestSeries([data, ...testSeries]);
@@ -142,16 +153,27 @@ export default function AdminClient() {
         is_active: true,
       });
       setIsAddingTest(false);
-      toast({ title: "Success", description: "Test series created successfully" });
+      toast({
+        title: "Success",
+        description: "Test series created successfully",
+      });
     } catch (error) {
       console.error("Error adding test:", error);
-      toast({ title: "Error", description: "Failed to create test series", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to create test series",
+        variant: "destructive",
+      });
     }
   };
 
   const handleAddQuestion = async () => {
     if (!selectedTestId) {
-      toast({ title: "Error", description: "Please select a test series first", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Please select a test series first",
+        variant: "destructive",
+      });
       return;
     }
 
@@ -171,7 +193,12 @@ export default function AdminClient() {
         question_order: questions.length + 1,
       };
 
-      const { data, error } = await supabase.from("test_questions").insert([questionData]).select().single();
+      const { data, error } = await supabase
+        .from("test_questions")
+        .insert([questionData])
+        .select()
+        .single();
+
       if (error) throw error;
 
       setQuestions([...questions, data]);
@@ -189,10 +216,17 @@ export default function AdminClient() {
 
       await updateTestQuestionCount(selectedTestId, questions.length + 1);
 
-      toast({ title: "Success", description: "Question added successfully" });
+      toast({
+        title: "Success",
+        description: "Question added successfully",
+      });
     } catch (error) {
       console.error("Error adding question:", error);
-      toast({ title: "Error", description: "Failed to add question", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to add question",
+        variant: "destructive",
+      });
     }
   };
 
@@ -200,13 +234,18 @@ export default function AdminClient() {
     try {
       const { error } = await supabase
         .from("test_series")
-        .update({ total_questions: count, max_score: count * 2 })
+        .update({
+          total_questions: count,
+          max_score: count * 2,
+        })
         .eq("id", testId);
 
       if (error) throw error;
 
       setTestSeries((prev) =>
-        prev.map((test) => (test.id === testId ? { ...test, total_questions: count, max_score: count * 2 } : test))
+        prev.map((test) =>
+          test.id === testId ? { ...test, total_questions: count, max_score: count * 2 } : test
+        )
       );
     } catch (error) {
       console.error("Error updating question count:", error);
@@ -216,6 +255,7 @@ export default function AdminClient() {
   const deleteTest = async (testId) => {
     try {
       const { error } = await supabase.from("test_series").delete().eq("id", testId);
+
       if (error) throw error;
 
       setTestSeries(testSeries.filter((test) => test.id !== testId));
@@ -224,25 +264,42 @@ export default function AdminClient() {
         setQuestions([]);
       }
 
-      toast({ title: "Success", description: "Test series deleted successfully" });
+      toast({
+        title: "Success",
+        description: "Test series deleted successfully",
+      });
     } catch (error) {
       console.error("Error deleting test:", error);
-      toast({ title: "Error", description: "Failed to delete test series", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to delete test series",
+        variant: "destructive",
+      });
     }
   };
 
   const deleteQuestion = async (questionId) => {
     try {
       const { error } = await supabase.from("test_questions").delete().eq("id", questionId);
+
       if (error) throw error;
 
       setQuestions(questions.filter((q) => q.id !== questionId));
-      if (selectedTestId) await updateTestQuestionCount(selectedTestId, questions.length - 1);
+      if (selectedTestId) {
+        await updateTestQuestionCount(selectedTestId, questions.length - 1);
+      }
 
-      toast({ title: "Success", description: "Question deleted successfully" });
+      toast({
+        title: "Success",
+        description: "Question deleted successfully",
+      });
     } catch (error) {
       console.error("Error deleting question:", error);
-      toast({ title: "Error", description: "Failed to delete question", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to delete question",
+        variant: "destructive",
+      });
     }
   };
 
@@ -266,12 +323,20 @@ export default function AdminClient() {
 
       if (error) throw error;
 
-      setTestSeries(testSeries.map((t) => (t.id === editingTest.id ? editingTest : t)));
+      setTestSeries((prev) => prev.map((t) => (t.id === editingTest.id ? editingTest : t)));
       setEditingTest(null);
-      toast({ title: "Success", description: "Test series updated successfully" });
+
+      toast({
+        title: "Success",
+        description: "Test series updated successfully",
+      });
     } catch (error) {
       console.error("Error updating test:", error);
-      toast({ title: "Error", description: "Failed to update test series", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to update test series",
+        variant: "destructive",
+      });
     }
   };
 
@@ -294,12 +359,20 @@ export default function AdminClient() {
 
       if (error) throw error;
 
-      setQuestions(questions.map((q) => (q.id === editingQuestion.id ? editingQuestion : q)));
+      setQuestions((prev) => prev.map((q) => (q.id === editingQuestion.id ? editingQuestion : q)));
       setEditingQuestion(null);
-      toast({ title: "Success", description: "Question updated successfully" });
+
+      toast({
+        title: "Success",
+        description: "Question updated successfully",
+      });
     } catch (error) {
       console.error("Error updating question:", error);
-      toast({ title: "Error", description: "Failed to update question", variant: "destructive" });
+      toast({
+        title: "Error",
+        description: "Failed to update question",
+        variant: "destructive",
+      });
     }
   };
 
@@ -315,346 +388,539 @@ export default function AdminClient() {
   }
 
   return (
-    <div className="min-h-screen bg-background pt-16">
-      <div className="container mx-auto px-4 py-8">
-        <div className="flex items-center justify-between mb-8">
-          <div>
-            <h1 className="text-3xl font-bold text-foreground">Admin Panel</h1>
-            <p className="text-muted-foreground">Manage test series and questions</p>
-          </div>
-        </div>
-
-        <Tabs defaultValue="tests" className="space-y-6">
-          <TabsList>
-            <TabsTrigger value="tests">Test Series</TabsTrigger>
-            <TabsTrigger value="questions">Questions</TabsTrigger>
-            <TabsTrigger value="notifications">Current Affairs</TabsTrigger>
-            <TabsTrigger value="custom-emails">Custom Emails</TabsTrigger>
-          </TabsList>
-
-          {/* TESTS TAB */}
-          <TabsContent value="tests">
-            <div className="space-y-6">
-              <div className="flex items-center justify-between">
-                <h2 className="text-2xl font-semibold">Test Series</h2>
-                <Dialog open={isAddingTest} onOpenChange={setIsAddingTest}>
-                  <DialogTrigger asChild>
-                    <Button>
-                      <Plus className="h-4 w-4 mr-2" />
-                      Add Test Series
-                    </Button>
-                  </DialogTrigger>
-                  <DialogContent className="max-w-2xl">
-                    <DialogHeader>
-                      <DialogTitle>Create New Test Series</DialogTitle>
-                    </DialogHeader>
-                    <div className="space-y-4">
-                      <div>
-                        <Label htmlFor="title">Title</Label>
-                        <Input
-                          id="title"
-                          value={newTest.title}
-                          onChange={(e) => setNewTest({ ...newTest, title: e.target.value })}
-                          placeholder="Enter test title"
-                        />
-                      </div>
-                      <div>
-                        <Label htmlFor="description">Description</Label>
-                        <Textarea
-                          id="description"
-                          value={newTest.description}
-                          onChange={(e) => setNewTest({ ...newTest, description: e.target.value })}
-                          placeholder="Enter test description"
-                        />
-                      </div>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
-                          <Label htmlFor="subject">Subject</Label>
-                          <Select
-                            value={newTest.subject_id}
-                            onValueChange={(value) => setNewTest({ ...newTest, subject_id: value })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue placeholder="Select subject" />
-                            </SelectTrigger>
-                            <SelectContent>
-                              {upscSubjects.map((subject) => (
-                                <SelectItem key={subject.id} value={subject.id}>
-                                  {subject.icon} {subject.name}
-                                </SelectItem>
-                              ))}
-                            </SelectContent>
-                          </Select>
-                        </div>
-                        <div>
-                          <Label htmlFor="test_type">Test Type</Label>
-                          <Select
-                            value={newTest.test_type}
-                            onValueChange={(value) => setNewTest({ ...newTest, test_type: value })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue />
-                            </SelectTrigger>
-                            <SelectContent>
-                              <SelectItem value="general">General</SelectItem>
-                              <SelectItem value="chapter">Chapter</SelectItem>
-                              <SelectItem value="full">Full Test</SelectItem>
-                            </SelectContent>
-                          </Select>
-                        </div>
-                      </div>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
-                          <Label htmlFor="duration">Duration (min)</Label>
-                          <Input
-                            id="duration"
-                            type="number"
-                            value={newTest.duration}
-                            onChange={(e) => setNewTest({ ...newTest, duration: parseInt(e.target.value || "0", 10) })}
-                          />
-                        </div>
-                        <div>
-                          <Label htmlFor="difficulty">Difficulty</Label>
-                          <Select
-                            value={newTest.difficulty}
-                            onValueChange={(value) => setNewTest({ ...newTest, difficulty: value })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue />
-                            </SelectTrigger>
-                            <SelectContent>
-                              <SelectItem value="Easy">Easy</SelectItem>
-                              <SelectItem value="Medium">Medium</SelectItem>
-                              <SelectItem value="Hard">Hard</SelectItem>
-                            </SelectContent>
-                          </Select>
-                        </div>
-                      </div>
-                      <div className="flex gap-2">
-                        <Button onClick={handleAddTest}>
-                          <Save className="h-4 w-4 mr-2" />
-                          Create Test
-                        </Button>
-                        <Button variant="outline" onClick={() => setIsAddingTest(false)}>
-                          <X className="h-4 w-4 mr-2" />
-                          Cancel
-                        </Button>
-                      </div>
-                    </div>
-                  </DialogContent>
-                </Dialog>
-              </div>
-
-              <div className="grid gap-4">
-                {testSeries.map((test) => (
-                  <Card key={test.id}>
-                    <CardHeader>
-                      <div className="flex items-start justify-between">
-                        <div>
-                          <CardTitle className="flex items-center gap-2">
-                            {test.title}
-                            <Badge variant={test.is_active ? "default" : "secondary"}>
-                              {test.is_active ? "Active" : "Inactive"}
-                            </Badge>
-                          </CardTitle>
-                          <CardDescription>{test.description}</CardDescription>
-                        </div>
-                        <div className="flex gap-2">
-                          <Button variant="outline" size="sm" onClick={() => setSelectedTestId(test.id)}>
-                            Manage Questions
-                          </Button>
-                          <Button variant="outline" size="sm" onClick={() => setEditingTest(test)}>
-                            <Edit className="h-4 w-4" />
-                          </Button>
-                          <AlertDialog>
-                            <AlertDialogTrigger asChild>
-                              <Button variant="destructive" size="sm">
-                                <Trash2 className="h-4 w-4" />
-                              </Button>
-                            </AlertDialogTrigger>
-                            <AlertDialogContent>
-                              <AlertDialogHeader>
-                                <AlertDialogTitle>Delete Test Series</AlertDialogTitle>
-                                <AlertDialogDescription>
-                                  Are you sure you want to delete "{test.title}"?
-                                </AlertDialogDescription>
-                              </AlertDialogHeader>
-                              <AlertDialogFooter>
-                                <AlertDialogCancel>Cancel</AlertDialogCancel>
-                                <AlertDialogAction onClick={() => deleteTest(test.id)}>Delete</AlertDialogAction>
-                              </AlertDialogFooter>
-                            </AlertDialogContent>
-                          </AlertDialog>
-                        </div>
-                      </div>
-                    </CardHeader>
-                    <CardContent>
-                      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
-                        <div>
-                          <span className="text-muted-foreground">Subject:</span>
-                          <div className="font-medium">
-                            {upscSubjects.find((s) => s.id === test.subject_id)?.name || "General"}
-                          </div>
-                        </div>
-                        <div>
-                          <span className="text-muted-foreground">Duration:</span>
-                          <div className="font-medium">{test.duration} min</div>
-                        </div>
-                        <div>
-                          <span className="text-muted-foreground">Questions:</span>
-                          <div className="font-medium">{test.total_questions}</div>
-                        </div>
-                        <div>
-                          <span className="text-muted-foreground">Max Score:</span>
-                          <div className="font-medium">{test.max_score}</div>
-                        </div>
-                      </div>
-                    </CardContent>
-                  </Card>
-                ))}
-              </div>
-
-              {/* Edit Test Drawer/Dialog */}
-              {editingTest && (
-                <Dialog open={!!editingTest} onOpenChange={() => setEditingTest(null)}>
-                  <DialogContent className="max-w-2xl">
-                    <DialogHeader>
-                      <DialogTitle>Edit Test Series</DialogTitle>
-                    </DialogHeader>
-                    <div className="space-y-4">
-                      <div>
-                        <Label>Title</Label>
-                        <Input
-                          value={editingTest.title || ""}
-                          onChange={(e) => setEditingTest({ ...editingTest, title: e.target.value })}
-                        />
-                      </div>
-                      <div>
-                        <Label>Description</Label>
-                        <Textarea
-                          value={editingTest.description || ""}
-                          onChange={(e) => setEditingTest({ ...editingTest, description: e.target.value })}
-                        />
-                      </div>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
-                          <Label>Subject</Label>
-                          <Select
-                            value={editingTest.subject_id || ""}
-                            onValueChange={(v) => setEditingTest({ ...editingTest, subject_id: v })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue placeholder="Select subject" />
-                            </SelectTrigger>
-                            <SelectContent>
-                              {upscSubjects.map((s) => (
-                                <SelectItem key={s.id} value={s.id}>
-                                  {s.icon} {s.name}
-                                </SelectItem>
-                              ))}
-                            </SelectContent>
-                          </Select>
-                        </div>
-                        <div>
-                          <Label>Difficulty</Label>
-                          <Select
-                            value={editingTest.difficulty || "Medium"}
-                            onValueChange={(v) => setEditingTest({ ...editingTest, difficulty: v })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue />
-                            </SelectTrigger>
-                            <SelectContent>
-                              <SelectItem value="Easy">Easy</SelectItem>
-                              <SelectItem value="Medium">Medium</SelectItem>
-                              <SelectItem value="Hard">Hard</SelectItem>
-                            </SelectContent>
-                          </Select>
-                        </div>
-                      </div>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
-                          <Label>Duration (min)</Label>
-                          <Input
-                            type="number"
-                            value={editingTest.duration || 0}
-                            onChange={(e) =>
-                              setEditingTest({ ...editingTest, duration: parseInt(e.target.value || "0", 10) })
-                            }
-                          />
-                        </div>
-                        <div>
-                          <Label>Test Type</Label>
-                          <Select
-                            value={editingTest.test_type || "general"}
-                            onValueChange={(v) => setEditingTest({ ...editingTest, test_type: v })}
-                          >
-                            <SelectTrigger>
-                              <SelectValue />
-                            </SelectTrigger>
-                            <SelectContent>
-                              <SelectItem value="general">General</SelectItem>
-                              <SelectItem value="chapter">Chapter</SelectItem>
-                              <SelectItem value="full">Full Test</SelectItem>
-                            </SelectContent>
-                          </Select>
-                        </div>
-                      </div>
-                      <div className="flex gap-2">
-                        <Button onClick={handleEditTest}>
-                          <Save className="h-4 w-4 mr-2" />
-                          Save Changes
-                        </Button>
-                        <Button variant="outline" onClick={() => setEditingTest(null)}>
-                          <X className="h-4 w-4 mr-2" />
-                          Cancel
-                        </Button>
-                      </div>
-                    </div>
-                  </DialogContent>
-                </Dialog>
-              )}
+    <>
+      <div className="min-h-screen bg-background pt-16">
+        <div className="container mx-auto px-4 py-8">
+          <div className="flex items-center justify-between mb-8">
+            <div>
+              <h1 className="text-3xl font-bold text-foreground">Admin Panel</h1>
+              <p className="text-muted-foreground">Manage test series and questions</p>
             </div>
-          </TabsContent>
+          </div>
 
-          {/* QUESTIONS TAB */}
-          <TabsContent value="questions">
-            <div className="space-y-6">
-              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-                <h2 className="text-2xl font-semibold">Questions</h2>
-                <div className="flex flex-col sm:flex-row gap-4">
-                  <Select value={selectedTestId} onValueChange={setSelectedTestId}>
-                    <SelectTrigger className="w-full sm:w-64">
-                      <SelectValue placeholder="Select test series" />
-                    </SelectTrigger>
-                    <SelectContent>
-                      {testSeries.map((test) => (
-                        <SelectItem key={test.id} value={test.id}>
-                          {test.title}
-                        </SelectItem>
-                      ))}
-                    </SelectContent>
-                  </Select>
-                  <Dialog open={isAddingQuestion} onOpenChange={setIsAddingQuestion}>
+          <Tabs defaultValue="tests" className="space-y-6">
+            <TabsList>
+              <TabsTrigger value="tests">Test Series</TabsTrigger>
+              <TabsTrigger value="questions">Questions</TabsTrigger>
+              <TabsTrigger value="notifications">Current Affairs Notifier</TabsTrigger>
+              <TabsTrigger value="weak-sections">Weak Sections</TabsTrigger>
+              <TabsTrigger value="custom-emails">Custom Emails</TabsTrigger>
+              <TabsTrigger value="current-affairs">Manage Current Affairs</TabsTrigger>
+            </TabsList>
+
+            {/* Test Series */}
+            <TabsContent value="tests">
+              <div className="space-y-6">
+                <div className="flex items-center justify-between">
+                  <h2 className="text-2xl font-semibold">Test Series</h2>
+                  <Dialog open={isAddingTest} onOpenChange={setIsAddingTest}>
                     <DialogTrigger asChild>
-                      <Button disabled={!selectedTestId}>
+                      <Button>
                         <Plus className="h-4 w-4 mr-2" />
-                        Add Question
+                        Add Test Series
                       </Button>
                     </DialogTrigger>
-                    <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+                    <DialogContent className="max-w-2xl">
                       <DialogHeader>
-                        <DialogTitle>Add New Question</DialogTitle>
+                        <DialogTitle>Create New Test Series</DialogTitle>
                       </DialogHeader>
+                      <div className="space-y-4">
+                        <div>
+                          <Label htmlFor="title">Title</Label>
+                          <Input
+                            id="title"
+                            value={newTest.title}
+                            onChange={(e) => setNewTest({ ...newTest, title: e.target.value })}
+                            placeholder="Enter test title"
+                          />
+                        </div>
+                        <div>
+                          <Label htmlFor="description">Description</Label>
+                          <Textarea
+                            id="description"
+                            value={newTest.description}
+                            onChange={(e) => setNewTest({ ...newTest, description: e.target.value })}
+                            placeholder="Enter test description"
+                          />
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                          <div>
+                            <Label htmlFor="subject">Subject</Label>
+                            <Select
+                              value={newTest.subject_id}
+                              onValueChange={(value) => setNewTest({ ...newTest, subject_id: value })}
+                            >
+                              <SelectTrigger>
+                                <SelectValue placeholder="Select subject" />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {upscSubjects.map((subject) => (
+                                  <SelectItem key={subject.id} value={subject.id}>
+                                    {subject.icon} {subject.name}
+                                  </SelectItem>
+                                ))}
+                              </SelectContent>
+                            </Select>
+                          </div>
+                          <div>
+                            <Label htmlFor="test_type">Test Type</Label>
+                            <Select
+                              value={newTest.test_type}
+                              onValueChange={(value) => setNewTest({ ...newTest, test_type: value })}
+                            >
+                              <SelectTrigger>
+                                <SelectValue />
+                              </SelectTrigger>
+                              <SelectContent>
+                                <SelectItem value="general">General</SelectItem>
+                                <SelectItem value="chapter">Chapter</SelectItem>
+                                <SelectItem value="full">Full Test</SelectItem>
+                              </SelectContent>
+                            </Select>
+                          </div>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                          <div>
+                            <Label htmlFor="duration">Duration (min)</Label>
+                            <Input
+                              id="duration"
+                              type="number"
+                              value={newTest.duration}
+                              onChange={(e) =>
+                                setNewTest({ ...newTest, duration: parseInt(e.target.value || "0", 10) })
+                              }
+                            />
+                          </div>
+                          <div>
+                            <Label htmlFor="difficulty">Difficulty</Label>
+                            <Select
+                              value={newTest.difficulty}
+                              onValueChange={(value) => setNewTest({ ...newTest, difficulty: value })}
+                            >
+                              <SelectTrigger>
+                                <SelectValue />
+                              </SelectTrigger>
+                              <SelectContent>
+                                <SelectItem value="Easy">Easy</SelectItem>
+                                <SelectItem value="Medium">Medium</SelectItem>
+                                <SelectItem value="Hard">Hard</SelectItem>
+                              </SelectContent>
+                            </Select>
+                          </div>
+                        </div>
+                        <div className="flex gap-2">
+                          <Button onClick={handleAddTest}>
+                            <Save className="h-4 w-4 mr-2" />
+                            Create Test
+                          </Button>
+                          <Button variant="outline" onClick={() => setIsAddingTest(false)}>
+                            <X className="h-4 w-4 mr-2" />
+                            Cancel
+                          </Button>
+                        </div>
+                      </div>
+                    </DialogContent>
+                  </Dialog>
+                </div>
+
+                <div className="grid gap-4">
+                  {testSeries.map((test) => (
+                    <Card key={test.id}>
+                      <CardHeader>
+                        <div className="flex items-start justify-between">
+                          <div>
+                            <CardTitle className="flex items-center gap-2">
+                              {test.title}
+                              <Badge variant={test.is_active ? "default" : "secondary"}>
+                                {test.is_active ? "Active" : "Inactive"}
+                              </Badge>
+                            </CardTitle>
+                            <CardDescription>{test.description}</CardDescription>
+                          </div>
+                          <div className="flex gap-2">
+                            <Button variant="outline" size="sm" onClick={() => setSelectedTestId(test.id)}>
+                              Manage Questions
+                            </Button>
+                            <Button variant="outline" size="sm" onClick={() => setEditingTest(test)}>
+                              <Edit className="h-4 w-4" />
+                            </Button>
+                            <AlertDialog>
+                              <AlertDialogTrigger asChild>
+                                <Button variant="destructive" size="sm">
+                                  <Trash2 className="h-4 w-4" />
+                                </Button>
+                              </AlertDialogTrigger>
+                              <AlertDialogContent>
+                                <AlertDialogHeader>
+                                  <AlertDialogTitle>Delete Test Series</AlertDialogTitle>
+                                  <AlertDialogDescription>
+                                    Are you sure you want to delete "{test.title}"?
+                                  </AlertDialogDescription>
+                                </AlertDialogHeader>
+                                <AlertDialogFooter>
+                                  <AlertDialogCancel>Cancel</AlertDialogCancel>
+                                  <AlertDialogAction onClick={() => deleteTest(test.id)}>
+                                    Delete
+                                  </AlertDialogAction>
+                                </AlertDialogFooter>
+                              </AlertDialogContent>
+                            </AlertDialog>
+                          </div>
+                        </div>
+                      </CardHeader>
+                      <CardContent>
+                        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                          <div>
+                            <span className="text-muted-foreground">Subject:</span>
+                            <div className="font-medium">
+                              {upscSubjects.find((s) => s.id === test.subject_id)?.name || "General"}
+                            </div>
+                          </div>
+                          <div>
+                            <span className="text-muted-foreground">Duration:</span>
+                            <div className="font-medium">{test.duration} min</div>
+                          </div>
+                          <div>
+                            <span className="text-muted-foreground">Questions:</span>
+                            <div className="font-medium">{test.total_questions}</div>
+                          </div>
+                          <div>
+                            <span className="text-muted-foreground">Max Score:</span>
+                            <div className="font-medium">{test.max_score}</div>
+                          </div>
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ))}
+                </div>
+              </div>
+            </TabsContent>
+
+            {/* Questions */}
+            <TabsContent value="questions">
+              <div className="space-y-6">
+                <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+                  <h2 className="text-2xl font-semibold">Questions</h2>
+                  <div className="flex flex-col sm:flex-row gap-4">
+                    <Select value={selectedTestId} onValueChange={setSelectedTestId}>
+                      <SelectTrigger className="w-full sm:w-64">
+                        <SelectValue placeholder="Select test series" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        {testSeries.map((test) => (
+                          <SelectItem key={test.id} value={test.id}>
+                            {test.title}
+                          </SelectItem>
+                        ))}
+                      </SelectContent>
+                    </Select>
+                    <Dialog open={isAddingQuestion} onOpenChange={setIsAddingQuestion}>
+                      <DialogTrigger asChild>
+                        <Button disabled={!selectedTestId}>
+                          <Plus className="h-4 w-4 mr-2" />
+                          Add Question
+                        </Button>
+                      </DialogTrigger>
+                      <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+                        <DialogHeader>
+                          <DialogTitle>Add New Question</DialogTitle>
+                        </DialogHeader>
+                        <div className="space-y-6">
+                          <div>
+                            <Label>Question Type</Label>
+                            <Select
+                              value={newQuestion.question_type}
+                              onValueChange={(value) => {
+                                const resetOptions = value === "true_false" ? ["True", "False"] : ["", "", "", ""];
+                                setNewQuestion({
+                                  ...newQuestion,
+                                  question_type: value,
+                                  options: resetOptions,
+                                  correct_answer: "",
+                                });
+                              }}
+                            >
+                              <SelectTrigger>
+                                <SelectValue />
+                              </SelectTrigger>
+                              <SelectContent>
+                                <SelectItem value="multiple_choice">Multiple Choice</SelectItem>
+                                <SelectItem value="true_false">True/False</SelectItem>
+                              </SelectContent>
+                            </Select>
+                          </div>
+
+                          <div>
+                            <Label>Question</Label>
+                            <div className="border rounded-md">
+                              <ReactQuill
+                                value={newQuestion.question_text}
+                                onChange={(value) => setNewQuestion({ ...newQuestion, question_text: value })}
+                                placeholder="Enter question text"
+                                modules={{
+                                  toolbar: [
+                                    [{ header: [1, 2, 3, false] }],
+                                    ["bold", "italic", "underline"],
+                                    [{ list: "ordered" }, { list: "bullet" }],
+                                    ["clean"],
+                                  ],
+                                }}
+                                style={{ minHeight: "120px" }}
+                              />
+                            </div>
+                          </div>
+
+                          {newQuestion.question_type === "multiple_choice" ? (
+                            <div>
+                              <Label>Options</Label>
+                              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                {(newQuestion.options || []).map((option, index) => (
+                                  <Input
+                                    key={index}
+                                    value={option}
+                                    onChange={(e) => {
+                                      const updatedOptions = [...(newQuestion.options || [])];
+                                      updatedOptions[index] = e.target.value;
+                                      setNewQuestion({ ...newQuestion, options: updatedOptions });
+                                    }}
+                                    placeholder={`Option ${String.fromCharCode(65 + index)}`}
+                                  />
+                                ))}
+                              </div>
+                            </div>
+                          ) : (
+                            <div>
+                              <Label>Options (True/False)</Label>
+                              <div className="grid grid-cols-2 gap-4">
+                                <div className="p-3 border rounded-md bg-muted/50 text-center">True</div>
+                                <div className="p-3 border rounded-md bg-muted/50 text-center">False</div>
+                              </div>
+                            </div>
+                          )}
+
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div>
+                              <Label>Correct Answer</Label>
+                              {newQuestion.question_type === "true_false" ? (
+                                <Select
+                                  value={newQuestion.correct_answer}
+                                  onValueChange={(value) =>
+                                    setNewQuestion({ ...newQuestion, correct_answer: value })
+                                  }
+                                >
+                                  <SelectTrigger>
+                                    <SelectValue placeholder="Select correct answer" />
+                                  </SelectTrigger>
+                                  <SelectContent>
+                                    <SelectItem value="True">True</SelectItem>
+                                    <SelectItem value="False">False</SelectItem>
+                                  </SelectContent>
+                                </Select>
+                              ) : (
+                                <Select
+                                  value={newQuestion.correct_answer}
+                                  onValueChange={(value) =>
+                                    setNewQuestion({ ...newQuestion, correct_answer: value })
+                                  }
+                                >
+                                  <SelectTrigger>
+                                    <SelectValue placeholder="Select correct answer" />
+                                  </SelectTrigger>
+                                  <SelectContent>
+                                    {(newQuestion.options || [])
+                                      .filter((opt) => opt && opt.trim())
+                                      .map((option, index) => (
+                                        <SelectItem key={index} value={option}>
+                                          {String.fromCharCode(65 + index)}. {option}
+                                        </SelectItem>
+                                      ))}
+                                  </SelectContent>
+                                </Select>
+                              )}
+                            </div>
+                            <div>
+                              <Label>Difficulty</Label>
+                              <Select
+                                value={newQuestion.difficulty}
+                                onValueChange={(value) => setNewQuestion({ ...newQuestion, difficulty: value })}
+                              >
+                                <SelectTrigger>
+                                  <SelectValue />
+                                </SelectTrigger>
+                                <SelectContent>
+                                  <SelectItem value="Easy">Easy</SelectItem>
+                                  <SelectItem value="Medium">Medium</SelectItem>
+                                  <SelectItem value="Hard">Hard</SelectItem>
+                                </SelectContent>
+                              </Select>
+                            </div>
+                          </div>
+
+                          <div>
+                            <Label>Topic (Optional)</Label>
+                            <Input
+                              value={newQuestion.topic || ""}
+                              onChange={(e) => setNewQuestion({ ...newQuestion, topic: e.target.value })}
+                              placeholder="Enter topic"
+                            />
+                          </div>
+
+                          <div>
+                            <Label>Explanation (Optional)</Label>
+                            <div className="border rounded-md">
+                              <ReactQuill
+                                value={newQuestion.explanation || ""}
+                                onChange={(value) => setNewQuestion({ ...newQuestion, explanation: value })}
+                                placeholder="Enter explanation for the answer"
+                                modules={{
+                                  toolbar: [
+                                    [{ header: [1, 2, 3, false] }],
+                                    ["bold", "italic", "underline"],
+                                    [{ list: "ordered" }, { list: "bullet" }],
+                                    ["clean"],
+                                  ],
+                                }}
+                                style={{ minHeight: "100px" }}
+                              />
+                            </div>
+                          </div>
+
+                          <div className="flex gap-2">
+                            <Button onClick={handleAddQuestion}>
+                              <Save className="h-4 w-4 mr-2" />
+                              Add Question
+                            </Button>
+                            <Button variant="outline" onClick={() => setIsAddingQuestion(false)}>
+                              <X className="h-4 w-4 mr-2" />
+                              Cancel
+                            </Button>
+                          </div>
+                        </div>
+                      </DialogContent>
+                    </Dialog>
+                  </div>
+                </div>
+
+                {selectedTestId && (
+                  <div className="space-y-4">
+                    <h3 className="text-lg font-semibold">
+                      Questions for: {testSeries.find((t) => t.id === selectedTestId)?.title}
+                    </h3>
+                    {questions.length === 0 ? (
+                      <Card className="p-8 text-center">
+                        <p className="text-muted-foreground">No questions added yet</p>
+                      </Card>
+                    ) : (
+                      <div className="space-y-4">
+                        {questions.map((question, index) => (
+                          <Card key={question.id}>
+                            <CardHeader>
+                              <div className="flex items-start justify-between">
+                                <CardTitle className="text-base">
+                                  <div className="flex items-center gap-2 mb-2">
+                                    <span>Q{index + 1}.</span>
+                                    <Badge variant="outline" className="text-xs">
+                                      {question.question_type === "true_false" ? "T/F" : "MCQ"}
+                                    </Badge>
+                                  </div>
+                                  <div
+                                    className="prose prose-sm max-w-none"
+                                    dangerouslySetInnerHTML={{ __html: question.question_text }}
+                                  />
+                                </CardTitle>
+                                <div className="flex gap-2">
+                                  <Button
+                                    variant="outline"
+                                    size="sm"
+                                    onClick={() => setEditingQuestion(question)}
+                                  >
+                                    <Edit className="h-4 w-4" />
+                                  </Button>
+                                  <AlertDialog>
+                                    <AlertDialogTrigger asChild>
+                                      <Button variant="destructive" size="sm">
+                                        <Trash2 className="h-4 w-4" />
+                                      </Button>
+                                    </AlertDialogTrigger>
+                                    <AlertDialogContent>
+                                      <AlertDialogHeader>
+                                        <AlertDialogTitle>Delete Question</AlertDialogTitle>
+                                        <AlertDialogDescription>
+                                          Are you sure you want to delete this question?
+                                        </AlertDialogDescription>
+                                      </AlertDialogHeader>
+                                      <AlertDialogFooter>
+                                        <AlertDialogCancel>Cancel</AlertDialogCancel>
+                                        <AlertDialogAction onClick={() => deleteQuestion(question.id)}>
+                                          Delete
+                                        </AlertDialogAction>
+                                      </AlertDialogFooter>
+                                    </AlertDialogContent>
+                                  </AlertDialog>
+                                </div>
+                              </div>
+                            </CardHeader>
+                            <CardContent>
+                              <div className="space-y-2">
+                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                                  {Array.isArray(question.options)
+                                    ? question.options.map((option, optIndex) => (
+                                        <div
+                                          key={optIndex}
+                                          className={`p-2 rounded border ${
+                                            option === question.correct_answer
+                                              ? "bg-green-50 border-green-200 text-green-800"
+                                              : "bg-gray-50 border-gray-200"
+                                          }`}
+                                        >
+                                          {String.fromCharCode(65 + optIndex)}. {option}
+                                        </div>
+                                      ))
+                                    : null}
+                                </div>
+                                {question.explanation && (
+                                  <div className="mt-3 p-3 bg-blue-50 border border-blue-200 rounded">
+                                    <strong>Explanation:</strong>
+                                    <div
+                                      className="prose prose-sm max-w-none mt-2"
+                                      dangerouslySetInnerHTML={{ __html: question.explanation }}
+                                    />
+                                  </div>
+                                )}
+                                <div className="flex gap-2 text-sm text-muted-foreground">
+                                  <Badge variant="outline">{question.difficulty}</Badge>
+                                  {question.topic && <Badge variant="outline">{question.topic}</Badge>}
+                                </div>
+                              </div>
+                            </CardContent>
+                          </Card>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {/* Edit Question Dialog */}
+                <Dialog open={!!editingQuestion} onOpenChange={() => setEditingQuestion(null)}>
+                  <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+                    <DialogHeader>
+                      <DialogTitle>Edit Question</DialogTitle>
+                    </DialogHeader>
+                    {editingQuestion && (
                       <div className="space-y-6">
                         <div>
                           <Label>Question Type</Label>
                           <Select
-                            value={newQuestion.question_type}
+                            value={editingQuestion.question_type || "multiple_choice"}
                             onValueChange={(value) => {
-                              const resetOptions = value === "true_false" ? ["True", "False"] : ["", "", "", ""];
-                              setNewQuestion({
-                                ...newQuestion,
+                              const resetOptions =
+                                value === "true_false"
+                                  ? ["True", "False"]
+                                  : Array.isArray(editingQuestion.options)
+                                  ? editingQuestion.options
+                                  : ["", "", "", ""];
+                              setEditingQuestion({
+                                ...editingQuestion,
                                 question_type: value,
                                 options: resetOptions,
                                 correct_answer: "",
@@ -674,10 +940,11 @@ export default function AdminClient() {
                         <div>
                           <Label>Question</Label>
                           <div className="border rounded-md">
-                            {mounted &&
-                              <ReactQuill
-                              value={newQuestion.question_text}
-                              onChange={(value) => setNewQuestion({ ...newQuestion, question_text: value })}
+                            <ReactQuill
+                              value={editingQuestion.question_text}
+                              onChange={(value) =>
+                                setEditingQuestion({ ...editingQuestion, question_text: value })
+                              }
                               placeholder="Enter question text"
                               modules={{
                                 toolbar: [
@@ -689,26 +956,31 @@ export default function AdminClient() {
                               }}
                               style={{ minHeight: "120px" }}
                             />
-                            }
                           </div>
                         </div>
 
-                        {newQuestion.question_type === "multiple_choice" ? (
+                        {(editingQuestion.question_type || "multiple_choice") === "multiple_choice" ? (
                           <div>
                             <Label>Options</Label>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                              {newQuestion.options?.map((option, index) => (
-                                <Input
-                                  key={index}
-                                  value={option}
-                                  onChange={(e) => {
-                                    const updated = [...(newQuestion.options || [])];
-                                    updated[index] = e.target.value;
-                                    setNewQuestion({ ...newQuestion, options: updated });
-                                  }}
-                                  placeholder={`Option ${String.fromCharCode(65 + index)}`}
-                                />
-                              ))}
+                              {(Array.isArray(editingQuestion.options) ? editingQuestion.options : []).map(
+                                (option, index) => (
+                                  <Input
+                                    key={index}
+                                    value={option}
+                                    onChange={(e) => {
+                                      const newOptions = [
+                                        ...(Array.isArray(editingQuestion.options)
+                                          ? editingQuestion.options
+                                          : []),
+                                      ];
+                                      newOptions[index] = e.target.value;
+                                      setEditingQuestion({ ...editingQuestion, options: newOptions });
+                                    }}
+                                    placeholder={`Option ${String.fromCharCode(65 + index)}`}
+                                  />
+                                )
+                              )}
                             </div>
                           </div>
                         ) : (
@@ -724,10 +996,12 @@ export default function AdminClient() {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                           <div>
                             <Label>Correct Answer</Label>
-                            {newQuestion.question_type === "true_false" ? (
+                            {(editingQuestion.question_type || "multiple_choice") === "true_false" ? (
                               <Select
-                                value={newQuestion.correct_answer}
-                                onValueChange={(value) => setNewQuestion({ ...newQuestion, correct_answer: value })}
+                                value={editingQuestion.correct_answer}
+                                onValueChange={(value) =>
+                                  setEditingQuestion({ ...editingQuestion, correct_answer: value })
+                                }
                               >
                                 <SelectTrigger>
                                   <SelectValue placeholder="Select correct answer" />
@@ -739,15 +1013,20 @@ export default function AdminClient() {
                               </Select>
                             ) : (
                               <Select
-                                value={newQuestion.correct_answer}
-                                onValueChange={(value) => setNewQuestion({ ...newQuestion, correct_answer: value })}
+                                value={editingQuestion.correct_answer}
+                                onValueChange={(value) =>
+                                  setEditingQuestion({ ...editingQuestion, correct_answer: value })
+                                }
                               >
                                 <SelectTrigger>
                                   <SelectValue placeholder="Select correct answer" />
                                 </SelectTrigger>
                                 <SelectContent>
-                                  {newQuestion.options
-                                    ?.filter((opt) => opt.trim())
+                                  {(Array.isArray(editingQuestion.options)
+                                    ? editingQuestion.options
+                                    : []
+                                  )
+                                    .filter((option) => option && option.trim() !== "")
                                     .map((option, index) => (
                                       <SelectItem key={index} value={option}>
                                         {String.fromCharCode(65 + index)}. {option}
@@ -760,8 +1039,10 @@ export default function AdminClient() {
                           <div>
                             <Label>Difficulty</Label>
                             <Select
-                              value={newQuestion.difficulty}
-                              onValueChange={(value) => setNewQuestion({ ...newQuestion, difficulty: value })}
+                              value={editingQuestion.difficulty}
+                              onValueChange={(value) =>
+                                setEditingQuestion({ ...editingQuestion, difficulty: value })
+                              }
                             >
                               <SelectTrigger>
                                 <SelectValue />
@@ -778,8 +1059,10 @@ export default function AdminClient() {
                         <div>
                           <Label>Topic (Optional)</Label>
                           <Input
-                            value={newQuestion.topic || ""}
-                            onChange={(e) => setNewQuestion({ ...newQuestion, topic: e.target.value })}
+                            value={editingQuestion.topic || ""}
+                            onChange={(e) =>
+                              setEditingQuestion({ ...editingQuestion, topic: e.target.value })
+                            }
                             placeholder="Enter topic"
                           />
                         </div>
@@ -787,10 +1070,11 @@ export default function AdminClient() {
                         <div>
                           <Label>Explanation (Optional)</Label>
                           <div className="border rounded-md">
-                            {mounted &&
-                             <ReactQuill
-                              value={newQuestion.explanation || ""}
-                              onChange={(value) => setNewQuestion({ ...newQuestion, explanation: value })}
+                            <ReactQuill
+                              value={editingQuestion.explanation || ""}
+                              onChange={(value) =>
+                                setEditingQuestion({ ...editingQuestion, explanation: value })
+                              }
                               placeholder="Enter explanation for the answer"
                               modules={{
                                 toolbar: [
@@ -802,331 +1086,68 @@ export default function AdminClient() {
                               }}
                               style={{ minHeight: "100px" }}
                             />
-                            }
                           </div>
                         </div>
 
                         <div className="flex gap-2">
-                          <Button onClick={handleAddQuestion}>
+                          <Button onClick={handleEditQuestion}>
                             <Save className="h-4 w-4 mr-2" />
-                            Add Question
+                            Save Changes
                           </Button>
-                          <Button variant="outline" onClick={() => setIsAddingQuestion(false)}>
+                          <Button variant="outline" onClick={() => setEditingQuestion(null)}>
                             <X className="h-4 w-4 mr-2" />
                             Cancel
                           </Button>
                         </div>
                       </div>
-                    </DialogContent>
-                  </Dialog>
+                    )}
+                  </DialogContent>
+                </Dialog>
+              </div>
+            </TabsContent>
+
+            {/* Current Affairs Notifier */}
+            <TabsContent value="notifications">
+              <div className="space-y-6">
+                <div>
+                  <h2 className="text-2xl font-semibold mb-4">Current Affairs Notifications</h2>
+                  <CurrentAffairsNotifier />
                 </div>
               </div>
+            </TabsContent>
 
-              {selectedTestId && (
-                <div className="space-y-4">
-                  <h3 className="text-lg font-semibold">
-                    Questions for: {testSeries.find((t) => t.id === selectedTestId)?.title}
-                  </h3>
-                  {questions.length === 0 ? (
-                    <Card className="p-8 text-center">
-                      <p className="text-muted-foreground">No questions added yet</p>
-                    </Card>
-                  ) : (
-                    <div className="space-y-4">
-                      {questions.map((question, index) => (
-                        <Card key={question.id}>
-                          <CardHeader>
-                            <div className="flex items-start justify-between">
-                              <CardTitle className="text-base">
-                                <div className="flex items-center gap-2 mb-2">
-                                  <span>Q{index + 1}.</span>
-                                  <Badge variant="outline" className="text-xs">
-                                    {question.question_type === "true_false" ? "T/F" : "MCQ"}
-                                  </Badge>
-                                </div>
-                                <div
-                                  className="prose prose-sm max-w-none"
-                                  dangerouslySetInnerHTML={{ __html: question.question_text }}
-                                />
-                              </CardTitle>
-                              <div className="flex gap-2">
-                                <Button variant="outline" size="sm" onClick={() => setEditingQuestion(question)}>
-                                  <Edit className="h-4 w-4" />
-                                </Button>
-                                <AlertDialog>
-                                  <AlertDialogTrigger asChild>
-                                    <Button variant="destructive" size="sm">
-                                      <Trash2 className="h-4 w-4" />
-                                    </Button>
-                                  </AlertDialogTrigger>
-                                  <AlertDialogContent>
-                                    <AlertDialogHeader>
-                                      <AlertDialogTitle>Delete Question</AlertDialogTitle>
-                                      <AlertDialogDescription>
-                                        Are you sure you want to delete this question?
-                                      </AlertDialogDescription>
-                                    </AlertDialogHeader>
-                                    <AlertDialogFooter>
-                                      <AlertDialogCancel>Cancel</AlertDialogCancel>
-                                      <AlertDialogAction onClick={() => deleteQuestion(question.id)}>
-                                        Delete
-                                      </AlertDialogAction>
-                                    </AlertDialogFooter>
-                                  </AlertDialogContent>
-                                </AlertDialog>
-                              </div>
-                            </div>
-                          </CardHeader>
-                          <CardContent>
-                            <div className="space-y-2">
-                              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                                {Array.isArray(question.options)
-                                  ? question.options.map((option, optIndex) => (
-                                      <div
-                                        key={optIndex}
-                                        className={`p-2 rounded border ${
-                                          option === question.correct_answer
-                                            ? "bg-green-50 border-green-200 text-green-800"
-                                            : "bg-gray-50 border-gray-200"
-                                        }`}
-                                      >
-                                        {String.fromCharCode(65 + optIndex)}. {option}
-                                      </div>
-                                    ))
-                                  : null}
-                              </div>
-                              {question.explanation && (
-                                <div className="mt-3 p-3 bg-blue-50 border border-blue-200 rounded">
-                                  <strong>Explanation:</strong>
-                                  <div
-                                    className="prose prose-sm max-w-none mt-2"
-                                    dangerouslySetInnerHTML={{ __html: question.explanation }}
-                                  />
-                                </div>
-                              )}
-                              <div className="flex gap-2 text-sm text-muted-foreground">
-                                <Badge variant="outline">{question.difficulty}</Badge>
-                                {question.topic && <Badge variant="outline">{question.topic}</Badge>}
-                              </div>
-                            </div>
-                          </CardContent>
-                        </Card>
-                      ))}
-                    </div>
-                  )}
+            {/* Weak Sections */}
+            <TabsContent value="weak-sections">
+              <div className="space-y-6">
+                <div>
+                  <h2 className="text-2xl font-semibold mb-4">Weak Section Reports</h2>
+                  <WeakSectionEmailPanel />
                 </div>
-              )}
-
-              {/* Edit Question Dialog */}
-              <Dialog open={!!editingQuestion} onOpenChange={() => setEditingQuestion(null)}>
-                <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
-                  <DialogHeader>
-                    <DialogTitle>Edit Question</DialogTitle>
-                  </DialogHeader>
-                  {editingQuestion && (
-                    <div className="space-y-6">
-                      <div>
-                        <Label>Question Type</Label>
-                        <Select
-                          value={editingQuestion.question_type || "multiple_choice"}
-                          onValueChange={(value) => {
-                            const resetOptions =
-                              value === "true_false" ? ["True", "False"] : editingQuestion.options || ["", "", "", ""];
-                            setEditingQuestion({
-                              ...editingQuestion,
-                              question_type: value,
-                              options: resetOptions,
-                              correct_answer: "",
-                            });
-                          }}
-                        >
-                          <SelectTrigger>
-                            <SelectValue />
-                          </SelectTrigger>
-                          <SelectContent>
-                            <SelectItem value="multiple_choice">Multiple Choice</SelectItem>
-                            <SelectItem value="true_false">True/False</SelectItem>
-                          </SelectContent>
-                        </Select>
-                      </div>
-
-                      <div>
-                        <Label>Question</Label>
-                        <div className="border rounded-md">
-                          {mounted && 
-                           <ReactQuill
-                            value={editingQuestion.question_text}
-                            onChange={(value) => setEditingQuestion({ ...editingQuestion, question_text: value })}
-                            placeholder="Enter question text"
-                            modules={{
-                              toolbar: [
-                                [{ header: [1, 2, 3, false] }],
-                                ["bold", "italic", "underline"],
-                                [{ list: "ordered" }, { list: "bullet" }],
-                                ["clean"],
-                              ],
-                            }}
-                            style={{ minHeight: "120px" }}
-                          />
-                          }
-                         
-                        </div>
-                      </div>
-
-                      {(editingQuestion.question_type || "multiple_choice") === "multiple_choice" ? (
-                        <div>
-                          <Label>Options</Label>
-                          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                            {(editingQuestion.options || ["", "", "", ""]).map((option, index) => (
-                              <Input
-                                key={index}
-                                value={option}
-                                onChange={(e) => {
-                                  const newOptions = [...(editingQuestion.options || ["", "", "", ""])];
-                                  newOptions[index] = e.target.value;
-                                  setEditingQuestion({ ...editingQuestion, options: newOptions });
-                                }}
-                                placeholder={`Option ${String.fromCharCode(65 + index)}`}
-                              />
-                            ))}
-                          </div>
-                        </div>
-                      ) : (
-                        <div>
-                          <Label>Options (True/False)</Label>
-                          <div className="grid grid-cols-2 gap-4">
-                            <div className="p-3 border rounded-md bg-muted/50 text-center">True</div>
-                            <div className="p-3 border rounded-md bg-muted/50 text-center">False</div>
-                          </div>
-                        </div>
-                      )}
-
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
-                          <Label>Correct Answer</Label>
-                          {(editingQuestion.question_type || "multiple_choice") === "true_false" ? (
-                            <Select
-                              value={editingQuestion.correct_answer}
-                              onValueChange={(value) => setEditingQuestion({ ...editingQuestion, correct_answer: value })}
-                            >
-                              <SelectTrigger>
-                                <SelectValue placeholder="Select correct answer" />
-                              </SelectTrigger>
-                              <SelectContent>
-                                <SelectItem value="True">True</SelectItem>
-                                <SelectItem value="False">False</SelectItem>
-                              </SelectContent>
-                            </Select>
-                          ) : (
-                            <Select
-                              value={editingQuestion.correct_answer}
-                              onValueChange={(value) => setEditingQuestion({ ...editingQuestion, correct_answer: value })}
-                            >
-                              <SelectTrigger>
-                                <SelectValue placeholder="Select correct answer" />
-                              </SelectTrigger>
-                              <SelectContent>
-                                {(editingQuestion.options || [])
-                                  .filter((o) => o && o.trim() !== "")
-                                  .map((option, index) => (
-                                    <SelectItem key={index} value={option}>
-                                      {String.fromCharCode(65 + index)}. {option}
-                                    </SelectItem>
-                                  ))}
-                              </SelectContent>
-                            </Select>
-                          )}
-                        </div>
-                        <div>
-                          <Label>Difficulty</Label>
-                          <Select
-                            value={editingQuestion.difficulty || "Medium"}
-                            onValueChange={(value) =>
-                              setEditingQuestion({ ...editingQuestion, difficulty: value })
-                            }
-                          >
-                            <SelectTrigger>
-                              <SelectValue />
-                            </SelectTrigger>
-                            <SelectContent>
-                              <SelectItem value="Easy">Easy</SelectItem>
-                              <SelectItem value="Medium">Medium</SelectItem>
-                              <SelectItem value="Hard">Hard</SelectItem>
-                            </SelectContent>
-                          </Select>
-                        </div>
-                      </div>
-
-                      <div>
-                        <Label>Topic (Optional)</Label>
-                        <Input
-                          value={editingQuestion.topic || ""}
-                          onChange={(e) => setEditingQuestion({ ...editingQuestion, topic: e.target.value })}
-                          placeholder="Enter topic"
-                        />
-                      </div>
-
-                      <div>
-                        <Label>Explanation (Optional)</Label>
-                        <div className="border rounded-md">
-                          {mounted && 
-                           <ReactQuill
-                            value={editingQuestion.explanation || ""}
-                            onChange={(value) => setEditingQuestion({ ...editingQuestion, explanation: value })}
-                            placeholder="Enter explanation for the answer"
-                            modules={{
-                              toolbar: [
-                                [{ header: [1, 2, 3, false] }],
-                                ["bold", "italic", "underline"],
-                                [{ list: "ordered" }, { list: "bullet" }],
-                                ["clean"],
-                              ],
-                            }}
-                            style={{ minHeight: "100px" }}
-                          />
-                          }
-                    
-                        </div>
-                      </div>
-
-                      <div className="flex gap-2">
-                        <Button onClick={handleEditQuestion}>
-                          <Save className="h-4 w-4 mr-2" />
-                          Save Changes
-                        </Button>
-                        <Button variant="outline" onClick={() => setEditingQuestion(null)}>
-                          <X className="h-4 w-4 mr-2" />
-                          Cancel
-                        </Button>
-                      </div>
-                    </div>
-                  )}
-                </DialogContent>
-              </Dialog>
-            </div>
-          </TabsContent>
-
-          {/* NOTIFICATIONS TAB */}
-          <TabsContent value="notifications">
-            <div className="space-y-6">
-              <div>
-                <h2 className="text-2xl font-semibold mb-4">Current Affairs Notifications</h2>
-                <CurrentAffairsNotifier />
               </div>
-            </div>
-          </TabsContent>
+            </TabsContent>
 
-          {/* CUSTOM EMAILS TAB */}
-          <TabsContent value="custom-emails">
-            <div className="space-y-6">
-              <div>
-                <h2 className="text-2xl font-semibold mb-4">Custom Email Campaign</h2>
-                <CustomEmailSender />
+            {/* Custom Emails */}
+            <TabsContent value="custom-emails">
+              <div className="space-y-6">
+                <div>
+                  <h2 className="text-2xl font-semibold mb-4">Custom Email Campaign</h2>
+                  <CustomEmailSender />
+                </div>
               </div>
-            </div>
-          </TabsContent>
-        </Tabs>
+            </TabsContent>
+
+            {/* Current Affairs Manager */}
+            <TabsContent value="current-affairs">
+              <div className="space-y-6">
+                <div>
+                  <h2 className="text-2xl font-semibold mb-4">Manage Current Affairs</h2>
+                  <CurrentAffairsManager />
+                </div>
+              </div>
+            </TabsContent>
+          </Tabs>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
